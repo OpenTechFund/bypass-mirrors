@@ -1,28 +1,17 @@
 {
+    "version": 1,
     "sites" : [
         {
             "main_domain" : "voadeewanews.com",
-            "last_block_report_date": "",
-            "countries_blocked": [
-                "Pakistan"
-            ],
             "available_mirrors" : [
-                "foo.bar.com",
-                "bar.baz.net"
-            ],
-            "onion_hidden_service" : "onion address here"
+                "dvoa1.global.ssl.fastly.net"
+            ]
         },
         {
             "main_domain" : "urduvoa.com",
-            "last_block_report_date": "",
-            "countries_blocked": [
-                "Pakistan"
-            ],
             "available_mirrors" : [
-                "foo.bar.com",
-                "bar.baz.net"
-            ],
-            "onion_hidden_service" : "onion address here"
+                "uvoa1.global.ssl.fastly.net"
+            ]
         }
     ]
 }
