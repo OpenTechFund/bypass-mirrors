@@ -54,6 +54,48 @@
             "available_mirrors" : [
                 "mart1.global.ssl.fastly.net"
             ]
+        },
+        {
+            "main_domain" : "voacantonese.com",
+            "available_mirrors" : [
+                "voacant1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain" : "voachinese.com",
+            "available_mirrors" : [
+                "voach1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain" : "voacantonese.com",
+            "available_mirrors" : [
+                "voacant1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain" : "voatiengviet.com",
+            "available_mirrors" : [
+                "voati1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain" : "amerikaninsesi.org",
+            "available_mirrors" : [
+                "amerk1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain" : "golos-ameriki.ru",
+            "available_mirrors" : [
+                "golos1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain" : "voatibetanenglish.com",
+            "available_mirrors" : [
+                "voatib1.global.ssl.fastly.net"
+            ]
         }
     ]
 }
