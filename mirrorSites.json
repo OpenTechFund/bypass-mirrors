@@ -96,6 +96,12 @@
             "available_mirrors" : [
                 "voatib1.global.ssl.fastly.net"
             ]
+        },
+        {
+            "main_domain" : "en.rfi.fr",
+            "available_mirrors" : [
+                "rfi1.global.ssl.fastly.net"
+            ]
         }
     ]
 }
