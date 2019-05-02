@@ -18,7 +18,8 @@
         {
             "main_domain": "voanews.com",
             "available_mirrors": [
-                "voan1.global.ssl.fastly.net"
+                "voan1.global.ssl.fastly.net",
+                "d3g0g1bncts1h.cloudfront.net"
             ]
         },
         {
