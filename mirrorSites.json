@@ -38,7 +38,8 @@
         {
             "main_domain": "alhurra.com",
             "available_mirrors": [
-                "alhurr1.global.ssl.fastly.net"
+                "alhurr1.global.ssl.fastly.net",
+                "dvb5m5133mjx2.cloudfront.net"
             ]
         },
         {
