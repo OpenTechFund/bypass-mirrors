@@ -137,6 +137,12 @@
             "available_mirrors": [
                 "d1i9o2xnbbjxka.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "www.zeriamerikes.com",
+            "available_mirrors": [
+                "d16zfnvyrkt8ha.cloudfront.net"
+            ]
         }
     ]
 }
