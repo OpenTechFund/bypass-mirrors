@@ -73,7 +73,8 @@
         {
             "main_domain": "voachinese.com",
             "available_mirrors": [
-                "voach1.global.ssl.fastly.net"
+                "voach1.global.ssl.fastly.net",
+                "dt0xlnfid8nkl.cloudfront.net"
             ]
         },
         {
