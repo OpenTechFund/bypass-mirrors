@@ -66,7 +66,8 @@
         {
             "main_domain": "voacantonese.com",
             "available_mirrors": [
-                "voacant1.global.ssl.fastly.net"
+                "voacant1.global.ssl.fastly.net",
+                "d2nrssbcvr15be.cloudfront.net"
             ]
         },
         {
@@ -78,7 +79,8 @@
         {
             "main_domain": "voacantonese.com",
             "available_mirrors": [
-                "voacant1.global.ssl.fastly.net"
+                "voacant1.global.ssl.fastly.net",
+                "d2nrssbcvr15be.cloudfront.net"
             ]
         },
         {
