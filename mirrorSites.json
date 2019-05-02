@@ -25,7 +25,8 @@
         {
             "main_domain": "rferl.org",
             "available_mirrors": [
-                "rferl1.global.ssl.fastly.net"
+                "rferl1.global.ssl.fastly.net",
+                "d2nhsvzhh6a8fa.cloudfront.net"
             ]
         },
         {
