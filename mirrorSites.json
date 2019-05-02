@@ -59,7 +59,8 @@
         {
             "main_domain": "radiotelevisionmarti.com",
             "available_mirrors": [
-                "mart1.global.ssl.fastly.net"
+                "mart1.global.ssl.fastly.net",
+                "d2sg4fdjdi994l.cloudfront.net"
             ]
         },
         {
