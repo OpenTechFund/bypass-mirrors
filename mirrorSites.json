@@ -45,7 +45,8 @@
         {
             "main_domain": "radiosawa.com",
             "available_mirrors": [
-                "rsawa1.global.ssl.fastly.net"
+                "rsawa1.global.ssl.fastly.net",
+                "d3qu9zle029wq1.cloudfront.net"
             ]
         },
         {
