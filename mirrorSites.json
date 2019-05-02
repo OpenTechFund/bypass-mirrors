@@ -119,6 +119,12 @@
             "available_mirrors": [
                 "d22lrcvl9lpljh.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "ba.voanews.com",
+            "available_mirrors": [
+                "d2597r2yuql1l3.cloudfront.net"
+            ]
         }
     ]
 }
