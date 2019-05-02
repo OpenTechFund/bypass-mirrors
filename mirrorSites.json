@@ -107,6 +107,12 @@
             "available_mirrors": [
                 "rfi1.global.ssl.fastly.net"
             ]
+        },
+        {
+            "main_domain": "glasamerike.net",
+            "available_mirrors": [
+                "d27p5syzkh3i8t.cloudfront.net"
+            ]
         }
     ]
 }
