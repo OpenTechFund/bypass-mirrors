@@ -94,7 +94,8 @@
         {
             "main_domain": "amerikaninsesi.org",
             "available_mirrors": [
-                "amerk1.global.ssl.fastly.net"
+                "amerk1.global.ssl.fastly.net",
+                "d3rt9c0a4lyhua.cloudfront.net"
             ]
         },
         {
