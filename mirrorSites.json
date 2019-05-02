@@ -1,105 +1,106 @@
 {
     "version": 1,
-    "sites" : [
+    "sites": [
         {
-            "main_domain" : "voadeewanews.com",
-            "available_mirrors" : [
-                "dvoa1.global.ssl.fastly.net"
+            "main_domain": "voadeewanews.com",
+            "available_mirrors": [
+                "dvoa1.global.ssl.fastly.net",
+                "d3anrqy0xi2p65.cloudfront.net"
             ]
         },
         {
-            "main_domain" : "urduvoa.com",
-            "available_mirrors" : [
+            "main_domain": "urduvoa.com",
+            "available_mirrors": [
                 "uvoa1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "voanews.com",
-            "available_mirrors" : [
+            "main_domain": "voanews.com",
+            "available_mirrors": [
                 "voan1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "rferl.org",
-            "available_mirrors" : [
+            "main_domain": "rferl.org",
+            "available_mirrors": [
                 "rferl1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "rfa.org",
-            "available_mirrors" : [
+            "main_domain": "rfa.org",
+            "available_mirrors": [
                 "rfa1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "alhurra.com",
-            "available_mirrors" : [
+            "main_domain": "alhurra.com",
+            "available_mirrors": [
                 "alhurr1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "radiosawa.com",
-            "available_mirrors" : [
+            "main_domain": "radiosawa.com",
+            "available_mirrors": [
                 "rsawa1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "opentech.fund",
-            "available_mirrors" : [
+            "main_domain": "opentech.fund",
+            "available_mirrors": [
                 "otf1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "radiotelevisionmarti.com",
-            "available_mirrors" : [
+            "main_domain": "radiotelevisionmarti.com",
+            "available_mirrors": [
                 "mart1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "voacantonese.com",
-            "available_mirrors" : [
+            "main_domain": "voacantonese.com",
+            "available_mirrors": [
                 "voacant1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "voachinese.com",
-            "available_mirrors" : [
+            "main_domain": "voachinese.com",
+            "available_mirrors": [
                 "voach1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "voacantonese.com",
-            "available_mirrors" : [
+            "main_domain": "voacantonese.com",
+            "available_mirrors": [
                 "voacant1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "voatiengviet.com",
-            "available_mirrors" : [
+            "main_domain": "voatiengviet.com",
+            "available_mirrors": [
                 "voati1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "amerikaninsesi.org",
-            "available_mirrors" : [
+            "main_domain": "amerikaninsesi.org",
+            "available_mirrors": [
                 "amerk1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "golos-ameriki.ru",
-            "available_mirrors" : [
+            "main_domain": "golos-ameriki.ru",
+            "available_mirrors": [
                 "golos1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "voatibetanenglish.com",
-            "available_mirrors" : [
+            "main_domain": "voatibetanenglish.com",
+            "available_mirrors": [
                 "voatib1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain" : "en.rfi.fr",
-            "available_mirrors" : [
+            "main_domain": "en.rfi.fr",
+            "available_mirrors": [
                 "rfi1.global.ssl.fastly.net"
             ]
         }
