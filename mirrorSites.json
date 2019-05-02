@@ -115,7 +115,8 @@
         {
             "main_domain": "en.rfi.fr",
             "available_mirrors": [
-                "rfi1.global.ssl.fastly.net"
+                "rfi1.global.ssl.fastly.net",
+                "d2hq2qymvj55pv.cloudfront.net"
             ]
         },
         {
