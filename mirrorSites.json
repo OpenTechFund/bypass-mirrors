@@ -11,7 +11,8 @@
         {
             "main_domain": "urduvoa.com",
             "available_mirrors": [
-                "uvoa1.global.ssl.fastly.net"
+                "uvoa1.global.ssl.fastly.net",
+                "d2ipxb4xuzc3f8.cloudfront.net"
             ]
         },
         {
