@@ -220,6 +220,12 @@
             "available_mirrors": [
                 "d314t9m83wo682.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "pashtovoa.com",
+            "available_mirrors": [
+                "d3g81wsezffiiv.cloudfront.net"
+            ]
         }
     ]
 }
