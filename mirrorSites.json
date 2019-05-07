@@ -190,6 +190,12 @@
             "available_mirrors": [
                 "d3j3u2oczbdci3.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voathai.com",
+            "available_mirrors": [
+                "d23gzxkfyganlr.cloudfront.net"
+            ]
         }
     ]
 }
