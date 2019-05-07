@@ -208,6 +208,12 @@
             "available_mirrors": [
                 "d2sorbcz6i6ph4.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voabangla.com",
+            "available_mirrors": [
+                "d1gjrk4rd09dyo.cloudfront.net"
+            ]
         }
     ]
 }
