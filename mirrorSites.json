@@ -184,6 +184,12 @@
             "available_mirrors": [
                 "d3en78yfqfzy3p.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "lao.voanews.com",
+            "available_mirrors": [
+                "d3j3u2oczbdci3.cloudfront.net"
+            ]
         }
     ]
 }
