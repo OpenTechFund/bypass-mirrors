@@ -202,6 +202,12 @@
             "available_mirrors": [
                 "d3k0r37v2a6skr.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "amerikaovozi.com",
+            "available_mirrors": [
+                "d2sorbcz6i6ph4.cloudfront.net"
+            ]
         }
     ]
 }
