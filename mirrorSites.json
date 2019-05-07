@@ -196,6 +196,12 @@
             "available_mirrors": [
                 "d23gzxkfyganlr.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voatibetan.com",
+            "available_mirrors": [
+                "d3k0r37v2a6skr.cloudfront.net"
+            ]
         }
     ]
 }
