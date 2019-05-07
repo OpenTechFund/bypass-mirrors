@@ -166,6 +166,12 @@
             "available_mirrors": [
                 "d3qduo44dg1dxf.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "khmer.voanews.com",
+            "available_mirrors": [
+                "d3gfy1yp11en0v.cloudfront.net"
+            ]
         }
     ]
 }
