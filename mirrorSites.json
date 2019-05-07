@@ -160,6 +160,12 @@
             "available_mirrors": [
                 "d11rrrn51uia9t.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voaindonesia.com",
+            "available_mirrors": [
+                "d3qduo44dg1dxf.cloudfront.net"
+            ]
         }
     ]
 }
