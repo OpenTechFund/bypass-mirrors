@@ -154,6 +154,12 @@
             "available_mirrors": [
                 "d16zfnvyrkt8ha.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "burmese.voanews.com",
+            "available_mirrors": [
+                "d11rrrn51uia9t.cloudfront.net"
+            ]
         }
     ]
 }
