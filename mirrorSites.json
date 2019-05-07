@@ -172,6 +172,12 @@
             "available_mirrors": [
                 "d3gfy1yp11en0v.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voacambodia.com",
+            "available_mirrors": [
+                "d2koenh5bw0hsw.cloudfront.net"
+            ]
         }
     ]
 }
