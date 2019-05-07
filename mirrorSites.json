@@ -178,6 +178,12 @@
             "available_mirrors": [
                 "d2koenh5bw0hsw.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voakorea.com",
+            "available_mirrors": [
+                "d3en78yfqfzy3p.cloudfront.net"
+            ]
         }
     ]
 }
