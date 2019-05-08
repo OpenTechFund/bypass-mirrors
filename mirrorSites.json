@@ -310,6 +310,12 @@
             "available_mirrors": [
                 "dqtqgv0z2fz2m.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "ir.voanews.com",
+            "available_mirrors": [
+                "d39c0v9ye2df3x.cloudfront.net"
+            ]
         }
     ]
 }
