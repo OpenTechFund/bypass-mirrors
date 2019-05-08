@@ -226,6 +226,12 @@
             "available_mirrors": [
                 "d3g81wsezffiiv.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voaafaanoromoo.com",
+            "available_mirrors": [
+                "d11fwl8go5phep.cloudfront.net"
+            ]
         }
     ]
 }
