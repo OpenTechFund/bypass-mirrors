@@ -262,6 +262,12 @@
             "available_mirrors": [
                 "d400ni5nx0y8r.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voalingala.com",
+            "available_mirrors": [
+                "d2ns88muhdwax6.cloudfront.net"
+            ]
         }
     ]
 }
