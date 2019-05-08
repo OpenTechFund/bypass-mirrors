@@ -238,6 +238,12 @@
             "available_mirrors": [
                 "d1nhm3ln3k1qcx.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voabambara.com",
+            "available_mirrors": [
+                "d1nlmc9xbxdp0m.cloudfront.net"
+            ]
         }
     ]
 }
