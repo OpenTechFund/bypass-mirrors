@@ -268,6 +268,12 @@
             "available_mirrors": [
                 "d2ns88muhdwax6.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voandebele.com",
+            "available_mirrors": [
+                "d1im2c0ulrj969.cloudfront.net"
+            ]
         }
     ]
 }
