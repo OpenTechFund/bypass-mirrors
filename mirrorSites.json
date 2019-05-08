@@ -286,6 +286,12 @@
             "available_mirrors": [
                 "d1ub4jr4kdbmn3.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voasomali.com",
+            "available_mirrors": [
+                "drvm4tx2f316x.cloudfront.net"
+            ]
         }
     ]
 }
