@@ -322,6 +322,12 @@
             "available_mirrors": [
                 "d3i93fguv3m4cg.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "dengeamerika.com",
+            "available_mirrors": [
+                "d39uw103xbzdem.cloudfront.net"
+            ]
         }
     ]
 }
