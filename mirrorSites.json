@@ -328,6 +328,12 @@
             "available_mirrors": [
                 "d39uw103xbzdem.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voanouvel.com",
+            "available_mirrors": [
+                "d2zck4jortm6fu.cloudfront.net"
+            ]
         }
     ]
 }
