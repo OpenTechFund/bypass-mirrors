@@ -334,6 +334,12 @@
             "available_mirrors": [
                 "d2zck4jortm6fu.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voanoticias.com",
+            "available_mirrors": [
+                "d10lan121hftkg.cloudfront.net"
+            ]
         }
     ]
 }
