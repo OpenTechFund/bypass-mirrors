@@ -298,6 +298,12 @@
             "available_mirrors": [
                 "d2uu9ucbnbit5g.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "tigrigna.voanews.com",
+            "available_mirrors": [
+                "d2xzp5nh044poy.cloudfront.net"
+            ]
         }
     ]
 }
