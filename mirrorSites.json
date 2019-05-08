@@ -244,6 +244,12 @@
             "available_mirrors": [
                 "d1nlmc9xbxdp0m.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voaafrique.com",
+            "available_mirrors": [
+                "d2x2wdnc5wqo5e.cloudfront.net"
+            ]
         }
     ]
 }
