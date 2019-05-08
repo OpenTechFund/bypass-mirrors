@@ -274,6 +274,12 @@
             "available_mirrors": [
                 "d1im2c0ulrj969.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voaportugues.com",
+            "available_mirrors": [
+                "d1lr1wd65rfqlo.cloudfront.net"
+            ]
         }
     ]
 }
