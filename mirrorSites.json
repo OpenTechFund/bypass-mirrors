@@ -280,6 +280,12 @@
             "available_mirrors": [
                 "d1lr1wd65rfqlo.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voashona.com",
+            "available_mirrors": [
+                "d1ub4jr4kdbmn3.cloudfront.net"
+            ]
         }
     ]
 }
