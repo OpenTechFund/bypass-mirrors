@@ -304,6 +304,12 @@
             "available_mirrors": [
                 "d2xzp5nh044poy.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voazimbabwe.com",
+            "available_mirrors": [
+                "dqtqgv0z2fz2m.cloudfront.net"
+            ]
         }
     ]
 }
