@@ -292,6 +292,12 @@
             "available_mirrors": [
                 "drvm4tx2f316x.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "voaswahili.com",
+            "available_mirrors": [
+                "d2uu9ucbnbit5g.cloudfront.net"
+            ]
         }
     ]
 }
