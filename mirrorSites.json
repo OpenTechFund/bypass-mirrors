@@ -232,6 +232,12 @@
             "available_mirrors": [
                 "d11fwl8go5phep.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "amharic.voanews.com",
+            "available_mirrors": [
+                "d1nhm3ln3k1qcx.cloudfront.net"
+            ]
         }
     ]
 }
