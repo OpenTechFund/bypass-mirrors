@@ -316,6 +316,12 @@
             "available_mirrors": [
                 "d39c0v9ye2df3x.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "dengiamerika.com",
+            "available_mirrors": [
+                "d3i93fguv3m4cg.cloudfront.net"
+            ]
         }
     ]
 }
