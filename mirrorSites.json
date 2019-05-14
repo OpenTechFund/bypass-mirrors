@@ -32,7 +32,8 @@
         {
             "main_domain": "rfa.org",
             "available_mirrors": [
-                "rfa1.global.ssl.fastly.net"
+                "rfa1.global.ssl.fastly.net",
+                "d3u78wqo4nxlzw.cloudfront.net"
             ]
         },
         {
