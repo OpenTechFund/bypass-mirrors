@@ -341,6 +341,12 @@
             "available_mirrors": [
                 "d10lan121hftkg.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "dw.com",
+            "available_mirrors": [
+                "d3bs3uc00sxstu.cloudfront.net"
+            ]
         }
     ]
 }
