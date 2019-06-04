@@ -149,7 +149,8 @@
         {
             "main_domain": "mk.voanews.com",
             "available_mirrors": [
-                "d1i9o2xnbbjxka.cloudfront.net"
+                "d1i9o2xnbbjxka.cloudfront.net",
+                "mkvoa1.global.ssl.fastly.net"
             ]
         },
         {
