@@ -268,7 +268,8 @@
         {
             "main_domain": "voaafrique.com",
             "available_mirrors": [
-                "d2x2wdnc5wqo5e.cloudfront.net"
+                "d2x2wdnc5wqo5e.cloudfront.net",
+                "voaafri1.global.ssl.fastly.net"
             ]
         },
         {
