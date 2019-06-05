@@ -351,6 +351,18 @@
             "available_mirrors": [
                 "d3bs3uc00sxstu.cloudfront.net"
             ]
+        },
+        {
+            "main_domain": "www.amerikayidzayn.com.com",
+            "available_mirrors": [
+                "kayid1.global.ssl.fastly.net"
+            ]
+        },
+        {
+            "main_domain": "www.amerikiskhma.com.com",
+            "available_mirrors": [
+                "kiskh1.global.ssl.fastly.net"
+            ]
         }
     ]
 }
