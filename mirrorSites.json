@@ -212,7 +212,8 @@
         {
             "main_domain": "voatibetan.com",
             "available_mirrors": [
-                "d3k0r37v2a6skr.cloudfront.net"
+                "d3k0r37v2a6skr.cloudfront.net",
+                "voatibet2.global.ssl.fastly.net"
             ]
         },
         {
