@@ -303,7 +303,8 @@
         {
             "main_domain": "voaportugues.com",
             "available_mirrors": [
-                "d1lr1wd65rfqlo.cloudfront.net"
+                "d1lr1wd65rfqlo.cloudfront.net",
+                "voaport3.global.ssl.fastly.net"
             ]
         },
         {
