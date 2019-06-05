@@ -240,7 +240,8 @@
         {
             "main_domain": "pashtovoa.com",
             "available_mirrors": [
-                "d3g81wsezffiiv.cloudfront.net"
+                "d3g81wsezffiiv.cloudfront.net",
+                "pashto1.global.ssl.fastly.net"
             ]
         },
         {
