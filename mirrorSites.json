@@ -254,7 +254,8 @@
         {
             "main_domain": "amharic.voanews.com",
             "available_mirrors": [
-                "d1nhm3ln3k1qcx.cloudfront.net"
+                "d1nhm3ln3k1qcx.cloudfront.net",
+                "amhar1.global.ssl.fastly.net"
             ]
         },
         {
