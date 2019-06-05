@@ -219,7 +219,8 @@
         {
             "main_domain": "amerikaovozi.com",
             "available_mirrors": [
-                "d2sorbcz6i6ph4.cloudfront.net"
+                "d2sorbcz6i6ph4.cloudfront.net",
+                "kaovo1.global.ssl.fastly.net"
             ]
         },
         {
