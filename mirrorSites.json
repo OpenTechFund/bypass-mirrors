@@ -177,7 +177,8 @@
         {
             "main_domain": "khmer.voanews.com",
             "available_mirrors": [
-                "d3gfy1yp11en0v.cloudfront.net"
+                "d3gfy1yp11en0v.cloudfront.net",
+                "khmer1.global.ssl.fastly.net"
             ]
         },
         {
