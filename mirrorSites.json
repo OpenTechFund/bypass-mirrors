@@ -289,7 +289,8 @@
         {
             "main_domain": "voalingala.com",
             "available_mirrors": [
-                "d2ns88muhdwax6.cloudfront.net"
+                "d2ns88muhdwax6.cloudfront.net",
+                "voaling1.global.ssl.fastly.net"
             ]
         },
         {
