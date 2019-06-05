@@ -247,7 +247,8 @@
         {
             "main_domain": "voaafaanoromoo.com",
             "available_mirrors": [
-                "d11fwl8go5phep.cloudfront.net"
+                "d11fwl8go5phep.cloudfront.net",
+                "voaafaa1.global.ssl.fastly.net"
             ]
         },
         {
