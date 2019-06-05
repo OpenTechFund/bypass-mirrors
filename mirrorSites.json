@@ -198,7 +198,8 @@
         {
             "main_domain": "lao.voanews.com",
             "available_mirrors": [
-                "d3j3u2oczbdci3.cloudfront.net"
+                "d3j3u2oczbdci3.cloudfront.net",
+                "voalao1.global.ssl.fastly.net"
             ]
         },
         {
