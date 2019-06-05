@@ -261,7 +261,8 @@
         {
             "main_domain": "voabambara.com",
             "available_mirrors": [
-                "d1nlmc9xbxdp0m.cloudfront.net"
+                "d1nlmc9xbxdp0m.cloudfront.net",
+                "voabam1.global.ssl.fastly.net"
             ]
         },
         {
