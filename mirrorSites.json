@@ -275,7 +275,8 @@
         {
             "main_domain": "voahausa.com",
             "available_mirrors": [
-                "dwuqnn9wvpfxx.cloudfront.net"
+                "dwuqnn9wvpfxx.cloudfront.net",
+                "voahau1.global.ssl.fastly.net"
             ]
         },
         {
