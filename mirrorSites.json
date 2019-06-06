@@ -377,13 +377,13 @@
             ]
         },
         {
-            "main_domain": "www.amerikayidzayn.com.com",
+            "main_domain": "www.amerikayidzayn.com",
             "available_mirrors": [
                 "kayid1.global.ssl.fastly.net"
             ]
         },
         {
-            "main_domain": "www.amerikiskhma.com.com",
+            "main_domain": "www.amerikiskhma.com",
             "available_mirrors": [
                 "kiskh1.global.ssl.fastly.net"
             ]
