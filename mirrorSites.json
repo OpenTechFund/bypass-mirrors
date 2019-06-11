@@ -389,6 +389,13 @@
             "available_mirrors": [
                 "kiskh1.global.ssl.fastly.net"
             ]
+        },
+        {
+            "main_domain": "learningenglish.voanews.com",
+            "available_mirrors": [
+                "d3p3ets9xecguv.cloudfront.net",
+                "learni1.azureedge.net"
+            ]
         }
     ]
 }
