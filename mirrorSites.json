@@ -138,7 +138,8 @@
             "main_domain": "ba.voanews.com",
             "available_mirrors": [
                 "d2597r2yuql1l3.cloudfront.net",
-                "bavoa1.global.ssl.fastly.net"
+                "bavoa1.global.ssl.fastly.net",
+                "bavoanews1.azureedge.net"
             ]
         },
         {
