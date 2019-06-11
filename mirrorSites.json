@@ -158,7 +158,8 @@
         {
             "main_domain": "www.zeriamerikes.com",
             "available_mirrors": [
-                "d16zfnvyrkt8ha.cloudfront.net"
+                "d16zfnvyrkt8ha.cloudfront.net",
+                "zeria1.azureedge.net"
             ]
         },
         {
