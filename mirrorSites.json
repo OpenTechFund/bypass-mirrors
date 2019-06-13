@@ -200,7 +200,8 @@
             "main_domain": "voakorea.com",
             "available_mirrors": [
                 "d3en78yfqfzy3p.cloudfront.net",
-                "voakor1.global.ssl.fastly.net"
+                "voakor1.global.ssl.fastly.net",
+                "voakorea1.azureedge.net"
             ]
         },
         {
