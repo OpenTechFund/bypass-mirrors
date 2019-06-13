@@ -108,7 +108,8 @@
             "main_domain": "voatibetanenglish.com",
             "available_mirrors": [
                 "voatib1.global.ssl.fastly.net",
-                "d1bgq2xjhyjaf2.cloudfront.net"
+                "d1bgq2xjhyjaf2.cloudfront.net",
+                "voatbeng1.azureedge.net"
             ]
         },
         {
