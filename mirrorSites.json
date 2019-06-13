@@ -216,7 +216,8 @@
             "main_domain": "voathai.com",
             "available_mirrors": [
                 "d23gzxkfyganlr.cloudfront.net",
-                "voathai1.global.ssl.fastly.net"
+                "voathai1.global.ssl.fastly.net",
+                "voathai1.azureedge.net"
             ]
         },
         {
