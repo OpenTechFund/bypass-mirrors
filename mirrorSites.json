@@ -173,7 +173,8 @@
             "main_domain": "burmese.voanews.com",
             "available_mirrors": [
                 "d11rrrn51uia9t.cloudfront.net",
-                "burme1.global.ssl.fastly.net"
+                "burme1.global.ssl.fastly.net",
+                "burmes1.azureedge.net"
             ]
         },
         {
