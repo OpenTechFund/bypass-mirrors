@@ -132,7 +132,8 @@
             "main_domain": "ukrainian.voanews.com",
             "available_mirrors": [
                 "d22lrcvl9lpljh.cloudfront.net",
-                "ukrai1.global.ssl.fastly.net"
+                "ukrai1.global.ssl.fastly.net",
+                "ukrain1.azureedge.net"
             ]
         },
         {
