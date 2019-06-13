@@ -395,7 +395,9 @@
         {
             "main_domain": "www.amerikiskhma.com",
             "available_mirrors": [
-                "kiskh1.global.ssl.fastly.net"
+                "kiskh1.global.ssl.fastly.net",
+                "dtc4drn3cv47c.cloudfront.net",
+                "kisk1.azureedge.net"
             ]
         },
         {
