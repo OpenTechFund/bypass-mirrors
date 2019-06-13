@@ -192,7 +192,8 @@
             "main_domain": "voacambodia.com",
             "available_mirrors": [
                 "d2koenh5bw0hsw.cloudfront.net",
-                "voacam1.global.ssl.fastly.net"
+                "voacam1.global.ssl.fastly.net",
+                "voacamb1.azureedge.net"
             ]
         },
         {
