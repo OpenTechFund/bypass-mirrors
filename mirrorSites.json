@@ -386,7 +386,9 @@
         {
             "main_domain": "www.amerikayidzayn.com",
             "available_mirrors": [
-                "kayid1.global.ssl.fastly.net"
+                "kayid1.global.ssl.fastly.net",
+                "d39u4wcgwn4kyv.cloudfront.net",
+                "kayid1.azureedge.net"
             ]
         },
         {
