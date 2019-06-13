@@ -124,7 +124,8 @@
         {
             "main_domain": "glasamerike.net",
             "available_mirrors": [
-                "d27p5syzkh3i8t.cloudfront.net"
+                "d27p5syzkh3i8t.cloudfront.net",
+                "glasa1.azureedge.net"
             ]
         },
         {
