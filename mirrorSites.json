@@ -176,7 +176,8 @@
             "main_domain": "voaindonesia.com",
             "available_mirrors": [
                 "d3qduo44dg1dxf.cloudfront.net",
-                "voaind1.global.ssl.fastly.net"
+                "voaind1.global.ssl.fastly.net",
+                "voaind1.azureedge.net"
             ]
         },
         {
