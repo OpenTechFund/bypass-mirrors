@@ -85,7 +85,8 @@
             "main_domain": "voatiengviet.com",
             "available_mirrors": [
                 "voati1.global.ssl.fastly.net",
-                "d14mwypgnul2rt.cloudfront.net"
+                "d14mwypgnul2rt.cloudfront.net",
+                "voatieng1.azureedge.net"
             ]
         },
         {
