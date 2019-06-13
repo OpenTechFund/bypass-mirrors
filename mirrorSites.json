@@ -105,7 +105,8 @@
             "main_domain": "golos-ameriki.ru",
             "available_mirrors": [
                 "golos1.global.ssl.fastly.net",
-                "d36uwzm4zjhq8y.cloudfront.net"
+                "d36uwzm4zjhq8y.cloudfront.net",
+                "golos1.azureedge.net"
             ]
         },
         {
