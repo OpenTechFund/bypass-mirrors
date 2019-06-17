@@ -431,6 +431,13 @@
                 "d3p3ets9xecguv.cloudfront.net",
                 "learni1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.amerikaninsesi.com",
+            "available_mirrors": [
+                "d1sxuww68nv5ka.cloudfront.net",
+                "amerikanc1.azureedge.net"
+            ]
         }
     ]
 }
