@@ -366,7 +366,8 @@
         {
             "main_domain": "voazimbabwe.com",
             "available_mirrors": [
-                "dqtqgv0z2fz2m.cloudfront.net"
+                "dqtqgv0z2fz2m.cloudfront.net",
+                "voazim2.azureedge.net"
             ]
         },
         {
