@@ -241,7 +241,8 @@
             "main_domain": "voabangla.com",
             "available_mirrors": [
                 "d1gjrk4rd09dyo.cloudfront.net",
-                "voabang1.global.ssl.fastly.net"
+                "voabang1.global.ssl.fastly.net",
+                "voabangla1.azureedge.net"
             ]
         },
         {
