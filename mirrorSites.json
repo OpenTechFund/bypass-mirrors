@@ -387,7 +387,8 @@
         {
             "main_domain": "dengeamerika.com",
             "available_mirrors": [
-                "d39uw103xbzdem.cloudfront.net"
+                "d39uw103xbzdem.cloudfront.net",
+                "dengea1.azureedge.net"
             ]
         },
         {
