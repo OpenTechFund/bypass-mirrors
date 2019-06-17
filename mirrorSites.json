@@ -394,7 +394,8 @@
         {
             "main_domain": "voanouvel.com",
             "available_mirrors": [
-                "d2zck4jortm6fu.cloudfront.net"
+                "d2zck4jortm6fu.cloudfront.net",
+                "voanou1.azureedge.net"
             ]
         },
         {
