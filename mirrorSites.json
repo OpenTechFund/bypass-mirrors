@@ -320,7 +320,8 @@
             "main_domain": "voandebele.com",
             "available_mirrors": [
                 "d1im2c0ulrj969.cloudfront.net",
-                "voande1.global.ssl.fastly.net"
+                "voande1.global.ssl.fastly.net",
+                "voande1.azureedge.net"
             ]
         },
         {
