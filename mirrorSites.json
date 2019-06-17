@@ -401,7 +401,8 @@
         {
             "main_domain": "voanoticias.com",
             "available_mirrors": [
-                "d10lan121hftkg.cloudfront.net"
+                "d10lan121hftkg.cloudfront.net",
+                "voanotici1.azureedge.net"
             ]
         },
         {
