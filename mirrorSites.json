@@ -249,7 +249,8 @@
             "main_domain": "darivoa.com",
             "available_mirrors": [
                 "d314t9m83wo682.cloudfront.net",
-                "dario1.global.ssl.fastly.net"
+                "dario1.global.ssl.fastly.net",
+                "dario1.azureedge.net"
             ]
         },
         {
