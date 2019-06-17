@@ -380,7 +380,8 @@
         {
             "main_domain": "dengiamerika.com",
             "available_mirrors": [
-                "d3i93fguv3m4cg.cloudfront.net"
+                "d3i93fguv3m4cg.cloudfront.net",
+                "dengia1.azureedge.net"
             ]
         },
         {
