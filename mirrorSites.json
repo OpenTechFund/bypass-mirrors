@@ -373,7 +373,8 @@
         {
             "main_domain": "ir.voanews.com",
             "available_mirrors": [
-                "d39c0v9ye2df3x.cloudfront.net"
+                "d39c0v9ye2df3x.cloudfront.net",
+                "irvoa1.azureedge.net"
             ]
         },
         {
