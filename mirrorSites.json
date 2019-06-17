@@ -344,7 +344,8 @@
             "main_domain": "voasomali.com",
             "available_mirrors": [
                 "drvm4tx2f316x.cloudfront.net",
-                "voasoma2.global.ssl.fastly.net"
+                "voasoma2.global.ssl.fastly.net",
+                "voasoma2.azureedge.net"
             ]
         },
         {
