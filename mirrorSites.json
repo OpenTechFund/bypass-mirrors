@@ -352,7 +352,8 @@
             "main_domain": "voaswahili.com",
             "available_mirrors": [
                 "d2uu9ucbnbit5g.cloudfront.net",
-                "voaswah1.global.ssl.fastly.net"
+                "voaswah1.global.ssl.fastly.net",
+                "voaswah1.azureedge.net"
             ]
         },
         {
