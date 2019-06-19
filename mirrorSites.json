@@ -729,6 +729,13 @@
                 "d3eavyd4ceklqc.cloudfront.net",
                 "gandhara1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.mashaalradio.com",
+            "available_mirrors": [
+                "d1hbgv1r2g372t.cloudfront.net",
+                "mashaalradio1.azureedge.net"
+            ]
         }
     ]
 }
