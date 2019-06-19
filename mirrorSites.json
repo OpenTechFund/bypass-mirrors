@@ -666,6 +666,13 @@
                 "dupohxa4h2tyy.cloudfront.net",
                 "rusazatyyk2.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.ozodi.org",
+            "available_mirrors": [
+                "d3dtjnkqwk27h9.cloudfront.net",
+                "ozodi1.azureedge.net"
+            ]
         }
     ]
 }
