@@ -456,6 +456,13 @@
                 "d2p1p2pf0rgubm.cloudfront.net",
                 "polygraph1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "pressroom.rferl.org",
+            "available_mirrors": [
+                "d35on3r4wwdtjm.cloudfront.net",
+                "pressr1.azureedge.net"
+            ]
         }
     ]
 }
