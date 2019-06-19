@@ -624,6 +624,13 @@
                 "dpa3si1v04rwd.cloudfront.net",
                 "radiotavis1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.ekhokavkaza.com",
+            "available_mirrors": [
+                "d3vt1li3uxancf.cloudfront.net",
+                "ekhokavkaza1.azureedge.net"
+            ]
         }
     ]
 }
