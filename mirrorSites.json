@@ -708,6 +708,13 @@
                 "d27ict1psc8jf8.cloudfront.net",
                 "rusozodlik1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "pa.azadiradio.com",
+            "available_mirrors": [
+                "dzmr266n1373m.cloudfront.net",
+                "paazadradio1.azureedge.net"
+            ]
         }
     ]
 }
