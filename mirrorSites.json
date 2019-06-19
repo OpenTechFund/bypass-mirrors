@@ -638,6 +638,13 @@
                 "d15rhpxl82e2j6.cloudfront.net",
                 "enradiofarda1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.azattyq.org",
+            "available_mirrors": [
+                "d2obt8q3k32oie.cloudfront.net",
+                "azattyq1.azureedge.net"
+            ]
         }
     ]
 }
