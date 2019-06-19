@@ -505,6 +505,13 @@
                 "d1lynpf6ndesae.cloudfront.net",
                 "rukry1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "moldova.europalibera.org",
+            "available_mirrors": [
+                "d1ugi0rai6uerj.cloudfront.net",
+                "moldov1.azureedge.net"
+            ]
         }
     ]
 }
