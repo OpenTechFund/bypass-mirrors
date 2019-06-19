@@ -582,6 +582,13 @@
                 "d1esqphj4q8g1s.cloudfront.net",
                 "idelreal1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.kavkazr.com",
+            "available_mirrors": [
+                "d1qc3w1114w6y9.cloudfront.net",
+                "kavkazr1.azureedge.net"
+            ]
         }
     ]
 }
