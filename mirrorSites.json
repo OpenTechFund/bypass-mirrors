@@ -617,6 +617,13 @@
                 "d6hnm3uzmmstw.cloudfront.net",
                 "azadliq1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.radiotavisupleba.ge",
+            "available_mirrors": [
+                "dpa3si1v04rwd.cloudfront.net",
+                "radiotavis1.azureedge.net"
+            ]
         }
     ]
 }
