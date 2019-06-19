@@ -540,6 +540,13 @@
                 "dk99i459aa9en.cloudfront.net",
                 "slobodn2.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.evropaelire.org",
+            "available_mirrors": [
+                "d2tti6r5yf3ebk.cloudfront.net",
+                "evropae1.azureedge.net"
+            ]
         }
     ]
 }
