@@ -596,6 +596,13 @@
                 "d1d9taxynonm87.cloudfront.net",
                 "radiomarsho1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.azatutyun.am",
+            "available_mirrors": [
+                "d3n8a0vrwm0b1b.cloudfront.net",
+                "azatut1.azureedge.net"
+            ]
         }
     ]
 }
