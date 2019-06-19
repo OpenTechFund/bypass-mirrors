@@ -449,6 +449,13 @@
                 "d1sxuww68nv5ka.cloudfront.net",
                 "amerikanc1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.polygraph.info",
+            "available_mirrors": [
+                "d2p1p2pf0rgubm.cloudfront.net",
+                "polygraph1.azureedge.net"
+            ]
         }
     ]
 }
