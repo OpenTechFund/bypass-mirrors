@@ -589,6 +589,13 @@
                 "d1qc3w1114w6y9.cloudfront.net",
                 "kavkazr1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.radiomarsho.com",
+            "available_mirrors": [
+                "d1d9taxynonm87.cloudfront.net",
+                "radiomarsho1.azureedge.net"
+            ]
         }
     ]
 }
