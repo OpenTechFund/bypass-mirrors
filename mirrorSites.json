@@ -610,6 +610,13 @@
                 "d2b76qttafjygo.cloudfront.net",
                 "rusazat1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.azadliq.org",
+            "available_mirrors": [
+                "d6hnm3uzmmstw.cloudfront.net",
+                "azadliq1.azureedge.net"
+            ]
         }
     ]
 }
