@@ -645,6 +645,12 @@
                 "d2obt8q3k32oie.cloudfront.net",
                 "azattyq1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "rus.azattyq.org",
+            "available_mirrors": [
+                "dqyf3b5tyrhay.cloudfront.net"
+            ]
         }
     ]
 }
