@@ -484,6 +484,13 @@
                 "d3pkp5ysrgnc2b.cloudfront.net",
                 "radiosv1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "ktat.krymr.com",
+            "available_mirrors": [
+                "dyhoiobzhmf6u.cloudfront.net",
+                "ktat1.azureedge.net"
+            ]
         }
     ]
 }
