@@ -554,6 +554,13 @@
                 "d1e6t2g7k08m8d.cloudfront.net",
                 "svoboda3.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.sibreal.org",
+            "available_mirrors": [
+                "dy10nebxja1k9.cloudfront.net",
+                "sibreal1.azureedge.net"
+            ]
         }
     ]
 }
