@@ -701,6 +701,13 @@
                 "dl018yoox1gz2.cloudfront.net",
                 "ozodlik1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "rus.ozodlik.org",
+            "available_mirrors": [
+                "d27ict1psc8jf8.cloudfront.net",
+                "rusozodlik1.azureedge.net"
+            ]
         }
     ]
 }
