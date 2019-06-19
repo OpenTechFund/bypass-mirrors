@@ -463,6 +463,13 @@
                 "d35on3r4wwdtjm.cloudfront.net",
                 "pressr1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.currenttime.tv",
+            "available_mirrors": [
+                "d3olbu2cl74039.cloudfront.net",
+                "currtv1.azureedge.net"
+            ]
         }
     ]
 }
