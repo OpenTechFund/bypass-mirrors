@@ -512,6 +512,13 @@
                 "d1ugi0rai6uerj.cloudfront.net",
                 "moldov1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "romania.europalibera.org",
+            "available_mirrors": [
+                "dnpzl4pgplpls.cloudfront.net",
+                "romani1.azureedge.net"
+            ]
         }
     ]
 }
