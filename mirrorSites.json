@@ -715,6 +715,13 @@
                 "dzmr266n1373m.cloudfront.net",
                 "paazadradio1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "da.azadiradio.com",
+            "available_mirrors": [
+                "d3l09yi3rfdr27.cloudfront.net",
+                "daazadiradio2.azureedge.net"
+            ]
         }
     ]
 }
