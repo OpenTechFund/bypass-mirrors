@@ -575,6 +575,13 @@
                 "d3p1ee4vyd5fte.cloudfront.net",
                 "azatliq1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.idelreal.org",
+            "available_mirrors": [
+                "d1esqphj4q8g1s.cloudfront.net",
+                "idelreal1.azureedge.net"
+            ]
         }
     ]
 }
