@@ -470,6 +470,13 @@
                 "d3olbu2cl74039.cloudfront.net",
                 "currtv1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.svaboda.org",
+            "available_mirrors": [
+                "d1no88f5ipkpvq.cloudfront.net",
+                "svabod1.azureedge.net"
+            ]
         }
     ]
 }
