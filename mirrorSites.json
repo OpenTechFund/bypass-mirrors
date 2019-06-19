@@ -533,6 +533,13 @@
                 "d1sk3qeff9e0lt.cloudfront.net",
                 "slobodn1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.slobodnaevropa.mk",
+            "available_mirrors": [
+                "dk99i459aa9en.cloudfront.net",
+                "slobodn2.azureedge.net"
+            ]
         }
     ]
 }
