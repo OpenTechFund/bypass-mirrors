@@ -649,7 +649,8 @@
         {
             "main_domain": "rus.azattyq.org",
             "available_mirrors": [
-                "dqyf3b5tyrhay.cloudfront.net"
+                "dqyf3b5tyrhay.cloudfront.net",
+                "rusazattyq1.azureedge.net"
             ]
         }
     ]
