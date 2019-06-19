@@ -631,6 +631,13 @@
                 "d3vt1li3uxancf.cloudfront.net",
                 "ekhokavkaza1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "en.radiofarda.com",
+            "available_mirrors": [
+                "d15rhpxl82e2j6.cloudfront.net",
+                "enradiofarda1.azureedge.net"
+            ]
         }
     ]
 }
