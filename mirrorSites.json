@@ -722,6 +722,13 @@
                 "d3l09yi3rfdr27.cloudfront.net",
                 "daazadiradio2.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "gandhara.rferl.org",
+            "available_mirrors": [
+                "d3eavyd4ceklqc.cloudfront.net",
+                "gandhara1.azureedge.net"
+            ]
         }
     ]
 }
