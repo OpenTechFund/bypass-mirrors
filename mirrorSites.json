@@ -673,6 +673,13 @@
                 "d3dtjnkqwk27h9.cloudfront.net",
                 "ozodi1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "rus.ozodi.org",
+            "available_mirrors": [
+                "d225hw0x3ivebp.cloudfront.net",
+                "rusozodi1.azureedge.net"
+            ]
         }
     ]
 }
