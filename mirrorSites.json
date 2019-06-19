@@ -568,6 +568,13 @@
                 "d1fv5edn5x6c43.cloudfront.net",
                 "factogr1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.azatliq.org",
+            "available_mirrors": [
+                "d3p1ee4vyd5fte.cloudfront.net",
+                "azatliq1.azureedge.net"
+            ]
         }
     ]
 }
