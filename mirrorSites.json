@@ -519,6 +519,13 @@
                 "dnpzl4pgplpls.cloudfront.net",
                 "romani1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.svobodnaevropa.bg",
+            "available_mirrors": [
+                "d3qinv6vsiufbn.cloudfront.net",
+                "svobod1.azureedge.net"
+            ]
         }
     ]
 }
