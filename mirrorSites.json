@@ -680,6 +680,13 @@
                 "d225hw0x3ivebp.cloudfront.net",
                 "rusozodi1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.azathabar.com",
+            "available_mirrors": [
+                "djjnjz9yrrn9s.cloudfront.net",
+                "azathabar1.azureedge.net"
+            ]
         }
     ]
 }
