@@ -377,7 +377,14 @@
         {
             "main_domain": "dw.com",
             "available_mirrors": [
-                "d3bs3uc00sxstu.cloudfront.net"
+                "d3bs3uc00sxstu.cloudfront.net",
+                "dwnewsvdyyiamwnp.onion"
+            ]
+        },
+        {
+            "main_domain": "bbc.co.uk",
+            "available_mirrors": [
+                "bbcnewsv2vjtpsuy.onion"
             ]
         },
         {
