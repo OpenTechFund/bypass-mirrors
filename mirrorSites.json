@@ -659,6 +659,13 @@
                 "d1xagugcphl5ka.cloudfront.net",
                 "azattyk2.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "rus.azattyk.org",
+            "available_mirrors": [
+                "dupohxa4h2tyy.cloudfront.net",
+                "rusazatyyk2.azureedge.net"
+            ]
         }
     ]
 }
