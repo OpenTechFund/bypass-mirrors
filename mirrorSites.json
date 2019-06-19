@@ -561,6 +561,13 @@
                 "dy10nebxja1k9.cloudfront.net",
                 "sibreal1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.factograph.info",
+            "available_mirrors": [
+                "d1fv5edn5x6c43.cloudfront.net",
+                "factogr1.azureedge.net"
+            ]
         }
     ]
 }
