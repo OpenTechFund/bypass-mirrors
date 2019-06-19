@@ -498,6 +498,13 @@
                 "d3e1m6ew10i0fy.cloudfront.net",
                 "katkry1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "ru.krymr.com",
+            "available_mirrors": [
+                "d1lynpf6ndesae.cloudfront.net",
+                "rukry1.azureedge.net"
+            ]
         }
     ]
 }
