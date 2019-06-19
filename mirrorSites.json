@@ -547,6 +547,13 @@
                 "d2tti6r5yf3ebk.cloudfront.net",
                 "evropae1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "www.svoboda.org",
+            "available_mirrors": [
+                "d1e6t2g7k08m8d.cloudfront.net",
+                "svoboda3.azureedge.net"
+            ]
         }
     ]
 }
