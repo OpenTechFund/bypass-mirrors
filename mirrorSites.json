@@ -491,6 +491,13 @@
                 "dyhoiobzhmf6u.cloudfront.net",
                 "ktat1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "ua.krymr.com",
+            "available_mirrors": [
+                "d3e1m6ew10i0fy.cloudfront.net",
+                "katkry1.azureedge.net"
+            ]
         }
     ]
 }
