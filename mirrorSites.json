@@ -5,14 +5,16 @@
             "main_domain": "voadeewanews.com",
             "available_mirrors": [
                 "dvoa1.global.ssl.fastly.net",
-                "d3anrqy0xi2p65.cloudfront.net"
+                "d3anrqy0xi2p65.cloudfront.net",
+                "deewamfupxj4cele.onion"
             ]
         },
         {
             "main_domain": "urduvoa.com",
             "available_mirrors": [
                 "uvoa1.global.ssl.fastly.net",
-                "d2ipxb4xuzc3f8.cloudfront.net"
+                "d2ipxb4xuzc3f8.cloudfront.net",
+                "urdvoauhitx5icb5.onion"
             ]
         },
         {
