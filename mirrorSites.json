@@ -29,7 +29,8 @@
             "main_domain": "rferl.org",
             "available_mirrors": [
                 "rferl1.global.ssl.fastly.net",
-                "d2nhsvzhh6a8fa.cloudfront.net"
+                "d2nhsvzhh6a8fa.cloudfront.net",
+                "rferl1.azureedge.net"
             ]
         },
         {
@@ -449,6 +450,293 @@
             "available_mirrors": [
                 "d1sxuww68nv5ka.cloudfront.net",
                 "amerikanc1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.polygraph.info",
+            "available_mirrors": [
+                "d2p1p2pf0rgubm.cloudfront.net",
+                "polygraph1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "pressroom.rferl.org",
+            "available_mirrors": [
+                "d35on3r4wwdtjm.cloudfront.net",
+                "pressr1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.currenttime.tv",
+            "available_mirrors": [
+                "d3olbu2cl74039.cloudfront.net",
+                "currtv1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.svaboda.org",
+            "available_mirrors": [
+                "d1no88f5ipkpvq.cloudfront.net",
+                "svabod1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.radiosvoboda.org",
+            "available_mirrors": [
+                "d3pkp5ysrgnc2b.cloudfront.net",
+                "radiosv1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "ktat.krymr.com",
+            "available_mirrors": [
+                "dyhoiobzhmf6u.cloudfront.net",
+                "ktat1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "ua.krymr.com",
+            "available_mirrors": [
+                "d3e1m6ew10i0fy.cloudfront.net",
+                "katkry1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "ru.krymr.com",
+            "available_mirrors": [
+                "d1lynpf6ndesae.cloudfront.net",
+                "rukry1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "moldova.europalibera.org",
+            "available_mirrors": [
+                "d1ugi0rai6uerj.cloudfront.net",
+                "moldov1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "romania.europalibera.org",
+            "available_mirrors": [
+                "dnpzl4pgplpls.cloudfront.net",
+                "romani1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.svobodnaevropa.bg",
+            "available_mirrors": [
+                "d3qinv6vsiufbn.cloudfront.net",
+                "svobod1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.slobodnaevropa.org",
+            "available_mirrors": [
+                "d1sk3qeff9e0lt.cloudfront.net",
+                "slobodn1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.slobodnaevropa.mk",
+            "available_mirrors": [
+                "dk99i459aa9en.cloudfront.net",
+                "slobodn2.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.evropaelire.org",
+            "available_mirrors": [
+                "d2tti6r5yf3ebk.cloudfront.net",
+                "evropae1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.svoboda.org",
+            "available_mirrors": [
+                "d1e6t2g7k08m8d.cloudfront.net",
+                "svoboda3.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.sibreal.org",
+            "available_mirrors": [
+                "dy10nebxja1k9.cloudfront.net",
+                "sibreal1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.factograph.info",
+            "available_mirrors": [
+                "d1fv5edn5x6c43.cloudfront.net",
+                "factogr1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.azatliq.org",
+            "available_mirrors": [
+                "d3p1ee4vyd5fte.cloudfront.net",
+                "azatliq1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.idelreal.org",
+            "available_mirrors": [
+                "d1esqphj4q8g1s.cloudfront.net",
+                "idelreal1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.kavkazr.com",
+            "available_mirrors": [
+                "d1qc3w1114w6y9.cloudfront.net",
+                "kavkazr1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.radiomarsho.com",
+            "available_mirrors": [
+                "d1d9taxynonm87.cloudfront.net",
+                "radiomarsho1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.azatutyun.am",
+            "available_mirrors": [
+                "d3n8a0vrwm0b1b.cloudfront.net",
+                "azatut1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "rus.azatutyun.am",
+            "available_mirrors": [
+                "d2b76qttafjygo.cloudfront.net",
+                "rusazat1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.azadliq.org",
+            "available_mirrors": [
+                "d6hnm3uzmmstw.cloudfront.net",
+                "azadliq1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.radiotavisupleba.ge",
+            "available_mirrors": [
+                "dpa3si1v04rwd.cloudfront.net",
+                "radiotavis1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.ekhokavkaza.com",
+            "available_mirrors": [
+                "d3vt1li3uxancf.cloudfront.net",
+                "ekhokavkaza1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "en.radiofarda.com",
+            "available_mirrors": [
+                "d15rhpxl82e2j6.cloudfront.net",
+                "enradiofarda1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.azattyq.org",
+            "available_mirrors": [
+                "d2obt8q3k32oie.cloudfront.net",
+                "azattyq1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "rus.azattyq.org",
+            "available_mirrors": [
+                "dqyf3b5tyrhay.cloudfront.net",
+                "rusazattyq1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.azattyk.org",
+            "available_mirrors": [
+                "d1xagugcphl5ka.cloudfront.net",
+                "azattyk2.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "rus.azattyk.org",
+            "available_mirrors": [
+                "dupohxa4h2tyy.cloudfront.net",
+                "rusazatyyk2.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.ozodi.org",
+            "available_mirrors": [
+                "d3dtjnkqwk27h9.cloudfront.net",
+                "ozodi1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "rus.ozodi.org",
+            "available_mirrors": [
+                "d225hw0x3ivebp.cloudfront.net",
+                "rusozodi1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.azathabar.com",
+            "available_mirrors": [
+                "djjnjz9yrrn9s.cloudfront.net",
+                "azathabar1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "rus.azathabar.com",
+            "available_mirrors": [
+                "d2c01behjrwzzh.cloudfront.net",
+                "rusazath1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.ozodlik.org",
+            "available_mirrors": [
+                "dl018yoox1gz2.cloudfront.net",
+                "ozodlik1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "rus.ozodlik.org",
+            "available_mirrors": [
+                "d27ict1psc8jf8.cloudfront.net",
+                "rusozodlik1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "pa.azadiradio.com",
+            "available_mirrors": [
+                "dzmr266n1373m.cloudfront.net",
+                "paazadradio1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "da.azadiradio.com",
+            "available_mirrors": [
+                "d3l09yi3rfdr27.cloudfront.net",
+                "daazadiradio2.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "gandhara.rferl.org",
+            "available_mirrors": [
+                "d3eavyd4ceklqc.cloudfront.net",
+                "gandhara1.azureedge.net"
+            ]
+        },
+        {
+            "main_domain": "www.mashaalradio.com",
+            "available_mirrors": [
+                "d1hbgv1r2g372t.cloudfront.net",
+                "mashaalradio1.azureedge.net"
             ]
         }
     ]
