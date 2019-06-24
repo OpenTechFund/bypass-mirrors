@@ -575,14 +575,16 @@
             "main_domain": "www.azatliq.org",
             "available_mirrors": [
                 "d3p1ee4vyd5fte.cloudfront.net",
-                "azatliq1.azureedge.net"
+                "azatliq1.azureedge.net",
+                "azatliqmmvir2cxm.onion"
             ]
         },
         {
             "main_domain": "www.idelreal.org",
             "available_mirrors": [
                 "d1esqphj4q8g1s.cloudfront.net",
-                "idelreal1.azureedge.net"
+                "idelreal1.azureedge.net",
+                "idelrea5soxeg7h7.onion"
             ]
         },
         {
