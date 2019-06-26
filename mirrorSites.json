@@ -563,6 +563,9 @@
             "available_mirrors": [
                 "d1e6t2g7k08m8d.cloudfront.net",
                 "svoboda3.azureedge.net"
+            ],
+            "available_onions":[
+                "svobod65rq5ufpfj.onion"
             ]
         },
         {
@@ -570,6 +573,9 @@
             "available_mirrors": [
                 "dy10nebxja1k9.cloudfront.net",
                 "sibreal1.azureedge.net"
+            ],
+            "available_onions":[
+                "sibreal2lrj3v3lm.onion"
             ]
         },
         {
@@ -577,6 +583,9 @@
             "available_mirrors": [
                 "d1fv5edn5x6c43.cloudfront.net",
                 "factogr1.azureedge.net"
+            ],
+            "available_onions":[
+                "factogrepzbkwv3o.onion"
             ]
         },
         {
@@ -604,6 +613,9 @@
             "available_mirrors": [
                 "d1qc3w1114w6y9.cloudfront.net",
                 "kavkazr1.azureedge.net"
+            ],
+            "available_onions":[
+                "kavkazsngf4c2qui.onion"
             ]
         },
         {
@@ -611,6 +623,9 @@
             "available_mirrors": [
                 "d1d9taxynonm87.cloudfront.net",
                 "radiomarsho1.azureedge.net"
+            ],
+            "available_onions":[
+                "marshouzr45aiykf.onion"
             ]
         },
         {
