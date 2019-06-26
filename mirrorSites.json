@@ -1,11 +1,13 @@
 {
-    "version": 1,
+    "version": 1.1,
     "sites": [
         {
             "main_domain": "voadeewanews.com",
             "available_mirrors": [
                 "dvoa1.global.ssl.fastly.net",
-                "d3anrqy0xi2p65.cloudfront.net",
+                "d3anrqy0xi2p65.cloudfront.net"
+            ],
+            "available_onions": [
                 "deewamfupxj4cele.onion"
             ]
         },
@@ -13,7 +15,9 @@
             "main_domain": "urduvoa.com",
             "available_mirrors": [
                 "uvoa1.global.ssl.fastly.net",
-                "d2ipxb4xuzc3f8.cloudfront.net",
+                "d2ipxb4xuzc3f8.cloudfront.net"
+            ],
+            "available_onions": [
                 "urdvoauhitx5icb5.onion"
             ]
         },
@@ -412,14 +416,18 @@
         {
             "main_domain": "dw.com",
             "available_mirrors": [
-                "d3bs3uc00sxstu.cloudfront.net",
+                "d3bs3uc00sxstu.cloudfront.net"
+            ],
+            "available_onions": [
                 "dwnewsvdyyiamwnp.onion"
             ]
         },
         {
             "main_domain": "bbc.co.uk",
             "available_mirrors": [
-                "bbcnewsv2vjtpsuy.onion"
+            ],
+            "available_onions": [
+                 "bbcnewsv2vjtpsuy.onion"
             ]
         },
         {
@@ -575,7 +583,9 @@
             "main_domain": "www.azatliq.org",
             "available_mirrors": [
                 "d3p1ee4vyd5fte.cloudfront.net",
-                "azatliq1.azureedge.net",
+                "azatliq1.azureedge.net"
+            ],
+            "available_onions": [
                 "azatliqmmvir2cxm.onion"
             ]
         },
@@ -583,7 +593,9 @@
             "main_domain": "www.idelreal.org",
             "available_mirrors": [
                 "d1esqphj4q8g1s.cloudfront.net",
-                "idelreal1.azureedge.net",
+                "idelreal1.azureedge.net"
+            ],
+            "available_onions": [
                 "idelrea5soxeg7h7.onion"
             ]
         },
