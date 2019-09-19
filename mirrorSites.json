@@ -5,7 +5,8 @@
             "main_domain": "voadeewanews.com",
             "available_mirrors": [
                 "dvoa1.global.ssl.fastly.net",
-                "d3anrqy0xi2p65.cloudfront.net"
+                "d3anrqy0xi2p65.cloudfront.net",
+                "34.216.190.199"
             ],
             "available_onions": [
                 "deewamfupxj4cele.onion"
@@ -430,10 +431,9 @@
         },
         {
             "main_domain": "bbc.co.uk",
-            "available_mirrors": [
-            ],
+            "available_mirrors": [],
             "available_onions": [
-                 "bbcnewsv2vjtpsuy.onion"
+                "bbcnewsv2vjtpsuy.onion"
             ]
         },
         {
@@ -570,7 +570,7 @@
                 "d1e6t2g7k08m8d.cloudfront.net",
                 "svoboda3.azureedge.net"
             ],
-            "available_onions":[
+            "available_onions": [
                 "svobod65rq5ufpfj.onion"
             ]
         },
@@ -580,7 +580,7 @@
                 "dy10nebxja1k9.cloudfront.net",
                 "sibreal1.azureedge.net"
             ],
-            "available_onions":[
+            "available_onions": [
                 "sibrealdgxmk4gfg.onion"
             ]
         },
@@ -590,7 +590,7 @@
                 "d1fv5edn5x6c43.cloudfront.net",
                 "factogr1.azureedge.net"
             ],
-            "available_onions":[
+            "available_onions": [
                 "factogrepzbkwv3o.onion"
             ]
         },
@@ -620,7 +620,7 @@
                 "d1qc3w1114w6y9.cloudfront.net",
                 "kavkazr1.azureedge.net"
             ],
-            "available_onions":[
+            "available_onions": [
                 "kavkazr6vak4ftdd.onion"
             ]
         },
@@ -630,7 +630,7 @@
                 "d1d9taxynonm87.cloudfront.net",
                 "radiomarsho1.azureedge.net"
             ],
-            "available_onions":[
+            "available_onions": [
                 "marshouzr45aiykf.onion"
             ]
         },
