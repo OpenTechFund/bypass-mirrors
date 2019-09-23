@@ -786,6 +786,12 @@
                 "d1hbgv1r2g372t.cloudfront.net",
                 "mashaalradio1.azureedge.net"
             ]
+        },
+        {
+            "main_domain": "ukranian.voanews.com",
+            "available_mirrors": [
+                "voaukrel5ds5o2ay.onion"
+            ]
         }
     ]
 }
