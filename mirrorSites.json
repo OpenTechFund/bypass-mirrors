@@ -129,6 +129,9 @@
                 "voatib1.global.ssl.fastly.net",
                 "d1bgq2xjhyjaf2.cloudfront.net",
                 "voatbeng1.azureedge.net"
+            ],
+            "available_onions": [
+                "voatibenjgi7dx33.onion"
             ]
         },
         {
