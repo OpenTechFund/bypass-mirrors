@@ -247,6 +247,9 @@
                 "d3k0r37v2a6skr.cloudfront.net",
                 "voatibet2.global.ssl.fastly.net",
                 "voatibet1.azureedge.net"
+            ],
+            "available_onions": [
+                "voatibetjrt52sem.onion"
             ]
         },
         {
