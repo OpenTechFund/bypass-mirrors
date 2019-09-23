@@ -512,6 +512,9 @@
             "available_mirrors": [
                 "d3pkp5ysrgnc2b.cloudfront.net",
                 "radiosv1.azureedge.net"
+            ],
+            "available_onions": [
+                "radiosvqf2b7qycq.onion"
             ]
         },
         {
