@@ -94,6 +94,9 @@
                 "voacant1.global.ssl.fastly.net",
                 "d2nrssbcvr15be.cloudfront.net",
                 "voacant1.azureedge.net"
+            ],
+            "available_onions": [
+                "voacant5lzidz4ma.onion"
             ]
         },
         {
