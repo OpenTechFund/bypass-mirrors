@@ -121,6 +121,9 @@
                 "golos1.global.ssl.fastly.net",
                 "d36uwzm4zjhq8y.cloudfront.net",
                 "golos1.azureedge.net"
+            ],
+            "available_onions": [
+                "golosctnxclzq4xj.onion"
             ]
         },
         {
