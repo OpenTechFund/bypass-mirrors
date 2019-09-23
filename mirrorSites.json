@@ -179,6 +179,9 @@
                 "d1i9o2xnbbjxka.cloudfront.net",
                 "mkvoa1.global.ssl.fastly.net",
                 "mkvoa1.azureedge.net"
+            ],
+            "available_onions": [
+                "mkvoart6geuu3kn4.onion"
             ]
         },
         {
