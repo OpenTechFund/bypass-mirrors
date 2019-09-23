@@ -790,7 +790,8 @@
         {
             "main_domain": "ukranian.voanews.com",
             "available_mirrors": [
-                "voaukrel5ds5o2ay.onion"
+                "voaukrel5ds5o2ay.onion",
+                "d2bli39f2k2tpl.cloudfront.net"
             ]
         }
     ]
