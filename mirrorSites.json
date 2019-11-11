@@ -66,7 +66,7 @@
         {
             "main_domain": "opentech.fund",
             "available_mirrors": [
-                "otf1.global.ssl.fastly.net"
+                "34.216.129.1"
             ],
             "available_onions": [
                 "opentechbk3hyb2l.onion"
