@@ -47,6 +47,9 @@
             "available_mirrors": [
                 "34.219.135.209/english",
                 "d3u78wqo4nxlzw.cloudfront.net"
+            ],
+            "available_onions": [
+                "rfa62zl6z6owmtlf.onion"
             ]
         },
         {
