@@ -88,6 +88,9 @@
                 "voach1.global.ssl.fastly.net",
                 "dt0xlnfid8nkl.cloudfront.net",
                 "voachin1.azureedge.net"
+            ],
+            "available_onions": [
+                "voachineksz65vsb.onion"
             ]
         },
         {
