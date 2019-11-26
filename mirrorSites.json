@@ -811,6 +811,12 @@
             "available_onions": [
                 "voaukrel5ds5o2ay.onion"
             ]
+        },
+        {
+            "main_domain": "benarnews.org",
+            "available_mirrors": [
+                "34.211.97.45/english/"
+            ]
         }
     ]
 }
