@@ -6,7 +6,7 @@
             "available_mirrors": [
                 "dvoa1.global.ssl.fastly.net",
                 "d3anrqy0xi2p65.cloudfront.net",
-                "35.163.75.154"
+                "18.236.83.249"
             ],
             "available_onions": [
                 "deewamfupxj4cele.onion"
@@ -28,7 +28,7 @@
                 "voan1.global.ssl.fastly.net",
                 "d3g0g1bncts1h.cloudfront.net",
                 "voanews1.azureedge.net",
-                "34.216.190.199"
+                "54.185.55.163"
             ],
             "available_onions": [
                 "voanewsktwx4bxhs.onion"
@@ -48,7 +48,7 @@
         {
             "main_domain": "rfa.org",
             "available_mirrors": [
-                "34.219.135.209/english",
+                "52.40.37.106/english",
                 "d3u78wqo4nxlzw.cloudfront.net"
             ],
             "available_onions": [
@@ -72,7 +72,7 @@
         {
             "main_domain": "opentech.fund",
             "available_mirrors": [
-                "34.216.129.1"
+                "35.163.55.119"
             ],
             "available_onions": [
                 "opentechbk3hyb2l.onion"
@@ -447,7 +447,7 @@
         {
             "main_domain": "dw.com",
             "available_mirrors": [
-                "54.202.90.86/en/top-stories/s-9097/"
+                "50.112.150.78/en/top-stories/s-9097/"
             ],
             "available_onions": [
                 "dwnewsvdyyiamwnp.onion"
@@ -815,7 +815,7 @@
         {
             "main_domain": "benarnews.org",
             "available_mirrors": [
-                "34.211.97.45/english/"
+                "54.213.144.85/english/"
             ]
         }
     ]
