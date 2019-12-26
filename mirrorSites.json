@@ -456,7 +456,7 @@
         {
             "main_domain": "bbc.co.uk",
             "available_mirrors": [
-                "54.212.52.195/worldserviceradio"
+                "18.236.74.205/worldserviceradio"
             ],
             "available_onions": [
                 "bbcnewsv2vjtpsuy.onion"
