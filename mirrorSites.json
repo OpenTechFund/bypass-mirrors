@@ -48,7 +48,7 @@
         {
             "main_domain": "rfa.org",
             "available_mirrors": [
-                "52.33.86.154/english",
+                "34.216.96.75/english",
                 "d3u78wqo4nxlzw.cloudfront.net"
             ],
             "available_onions": [
