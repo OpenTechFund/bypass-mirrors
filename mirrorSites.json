@@ -28,7 +28,7 @@
                 "voan1.global.ssl.fastly.net",
                 "d3g0g1bncts1h.cloudfront.net",
                 "voanews1.azureedge.net",
-                "34.221.97.15"
+                "54.188.40.55"
             ],
             "available_onions": [
                 "voanewsktwx4bxhs.onion"
@@ -813,8 +813,7 @@
         },
         {
             "main_domain": "benarnews.org",
-            "available_mirrors": [
-            ]
+            "available_mirrors": []
         }
     ]
 }
