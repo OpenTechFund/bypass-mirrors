@@ -814,7 +814,9 @@
         },
         {
             "main_domain": "benarnews.org",
-            "available_mirrors": []
+            "available_mirrors": [
+                "54.80.60.201/benarnews/english/"
+            ]
         }
     ]
 }
