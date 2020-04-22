@@ -17,7 +17,8 @@
             "available_mirrors": [
                 "uvoa1.global.ssl.fastly.net",
                 "dsin0kzf5uino.cloudfront.net",
-                "dour21.azureedge.net"
+                "dour21.azureedge.net",
+                "dour21.global.ssl.fastly.net"
             ],
             "available_onions": [
                 "urdvoauhitx5icb5.onion"
