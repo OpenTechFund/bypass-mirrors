@@ -49,7 +49,7 @@
         {
             "main_domain": "rfa.org",
             "available_mirrors": [
-                "http://184.169.210.108/english/"
+                "184.169.210.108/english/"
             ],
             "available_onions": [
                 "rfa62zl6z6owmtlf.onion"
