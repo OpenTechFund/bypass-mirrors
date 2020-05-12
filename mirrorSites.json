@@ -28,8 +28,7 @@
             "available_mirrors": [
                 "voan1.global.ssl.fastly.net",
                 "d3g0g1bncts1h.cloudfront.net",
-                "voanews1.azureedge.net",
-                "34.220.243.114"
+                "voanews1.azureedge.net"
             ],
             "available_onions": [
                 "voanewsktwx4bxhs.onion"
