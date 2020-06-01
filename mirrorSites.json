@@ -444,9 +444,7 @@
         },
         {
             "main_domain": "dw.com",
-            "available_mirrors": [
-                "54.188.16.61/en/top-stories/s-9097/"
-            ],
+            "available_mirrors": [],
             "available_onions": [
                 "dwnewsvdyyiamwnp.onion"
             ]
