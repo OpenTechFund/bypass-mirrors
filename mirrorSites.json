@@ -814,6 +814,9 @@
         },
         {
             "main_domain": "https://www.youtube.com/watch?v=dp5h6n6fbUg&list=WL&index=2&t=7s",
+            "available_mirrors": [
+                "d31itgans6fvsa.cloudfront.net"
+            ],
             "available_ipfs_nodes": [
                 "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
             ]
