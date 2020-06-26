@@ -1,825 +1,802 @@
 {
-    "version": 1.1,
-    "sites": [
-        {
-            "main_domain": "voadeewanews.com",
-            "available_mirrors": [
-                "dvoa1.global.ssl.fastly.net",
-                "d3anrqy0xi2p65.cloudfront.net"
-            ],
-            "available_onions": [
-                "deewamfupxj4cele.onion"
-            ]
-        },
-        {
-            "main_domain": "urduvoa.com",
-            "available_mirrors": [
-                "dsin0kzf5uino.cloudfront.net",
-                "dour21.azureedge.net",
-                "dour21.global.ssl.fastly.net"
-            ],
-            "available_onions": [
-                "urdvoauhitx5icb5.onion"
-            ]
-        },
-        {
-            "main_domain": "voanews.com",
-            "available_mirrors": [
-                "voan1.global.ssl.fastly.net",
-                "d3g0g1bncts1h.cloudfront.net",
-                "voanews1.azureedge.net"
-            ],
-            "available_onions": [
-                "voanewsktwx4bxhs.onion"
-            ]
-        },
-        {
-            "main_domain": "rferl.org",
-            "available_mirrors": [
-                "rferl1.global.ssl.fastly.net",
-                "d2nhsvzhh6a8fa.cloudfront.net",
-                "rferl1.azureedge.net"
-            ],
-            "available_onions": [
-                "rferlcjay7gumqvb.onion"
-            ]
-        },
-        {
-            "main_domain": "rfa.org",
-            "available_mirrors": [
-                "184.169.210.108/english/"
-            ],
-            "available_onions": [
-                "rfa62zl6z6owmtlf.onion"
-            ]
-        },
-        {
-            "main_domain": "alhurra.com",
-            "available_mirrors": [
-                "alhurr1.global.ssl.fastly.net",
-                "dvb5m5133mjx2.cloudfront.net"
-            ]
-        },
-        {
-            "main_domain": "radiosawa.com",
-            "available_mirrors": [
-                "rsawa1.global.ssl.fastly.net",
-                "d3qu9zle029wq1.cloudfront.net"
-            ]
-        },
-        {
-            "main_domain": "opentech.fund",
-            "available_mirrors": [
-                "35.167.85.253"
-            ],
-            "available_onions": [
-                "opentechbk3hyb2l.onion"
-            ]
-        },
-        {
-            "main_domain": "radiotelevisionmarti.com",
-            "available_mirrors": [
-                "mart1.global.ssl.fastly.net",
-                "d2sg4fdjdi994l.cloudfront.net"
-            ]
-        },
-        {
-            "main_domain": "voachinese.com",
-            "available_mirrors": [
-                "voach1.global.ssl.fastly.net",
-                "dt0xlnfid8nkl.cloudfront.net",
-                "voachin1.azureedge.net"
-            ],
-            "available_onions": [
-                "voachineksz65vsb.onion"
-            ]
-        },
-        {
-            "main_domain": "voacantonese.com",
-            "available_mirrors": [
-                "voacant1.global.ssl.fastly.net",
-                "d2nrssbcvr15be.cloudfront.net",
-                "voacant1.azureedge.net"
-            ],
-            "available_onions": [
-                "voacant5lzidz4ma.onion"
-            ]
-        },
-        {
-            "main_domain": "voatiengviet.com",
-            "available_mirrors": [
-                "voati1.global.ssl.fastly.net",
-                "d14mwypgnul2rt.cloudfront.net",
-                "voatieng1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "amerikaninsesi.org",
-            "available_mirrors": [
-                "amerk1.global.ssl.fastly.net",
-                "d3rt9c0a4lyhua.cloudfront.net",
-                "kanis1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "golos-ameriki.ru",
-            "available_mirrors": [
-                "golos1.global.ssl.fastly.net",
-                "d36uwzm4zjhq8y.cloudfront.net",
-                "golos1.azureedge.net"
-            ],
-            "available_onions": [
-                "golosctnxclzq4xj.onion"
-            ]
-        },
-        {
-            "main_domain": "voatibetanenglish.com",
-            "available_mirrors": [
-                "voatib1.global.ssl.fastly.net",
-                "d1bgq2xjhyjaf2.cloudfront.net",
-                "voatbeng1.azureedge.net"
-            ],
-            "available_onions": [
-                "voatibenjgi7dx33.onion"
-            ]
-        },
-        {
-            "main_domain": "en.rfi.fr",
-            "available_mirrors": [
-                "rfi1.global.ssl.fastly.net",
-                "d2hq2qymvj55pv.cloudfront.net",
-                "enrfi1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "glasamerike.net",
-            "available_mirrors": [
-                "d27p5syzkh3i8t.cloudfront.net",
-                "glasa1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "ukrainian.voanews.com",
-            "available_mirrors": [
-                "d22lrcvl9lpljh.cloudfront.net",
-                "ukrai1.global.ssl.fastly.net",
-                "ukrain1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "ba.voanews.com",
-            "available_mirrors": [
-                "d2597r2yuql1l3.cloudfront.net",
-                "bavoa1.global.ssl.fastly.net",
-                "bavoanews1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "gr.voanews.com",
-            "available_mirrors": [
-                "d1ewq9x4vso4mg.cloudfront.net",
-                "grvoa1.global.ssl.fastly.net",
-                "grvoa1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "mk.voanews.com",
-            "available_mirrors": [
-                "d1i9o2xnbbjxka.cloudfront.net",
-                "mkvoa1.global.ssl.fastly.net",
-                "mkvoa1.azureedge.net"
-            ],
-            "available_onions": [
-                "mkvoart6geuu3kn4.onion"
-            ]
-        },
-        {
-            "main_domain": "www.zeriamerikes.com",
-            "available_mirrors": [
-                "d16zfnvyrkt8ha.cloudfront.net",
-                "zeria1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "burmese.voanews.com",
-            "available_mirrors": [
-                "d11rrrn51uia9t.cloudfront.net",
-                "burme1.global.ssl.fastly.net",
-                "burmes1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voaindonesia.com",
-            "available_mirrors": [
-                "d3qduo44dg1dxf.cloudfront.net",
-                "voaind1.global.ssl.fastly.net",
-                "voaind1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "khmer.voanews.com",
-            "available_mirrors": [
-                "d3gfy1yp11en0v.cloudfront.net",
-                "khmer1.global.ssl.fastly.net",
-                "khmer1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voacambodia.com",
-            "available_mirrors": [
-                "d2koenh5bw0hsw.cloudfront.net",
-                "voacam1.global.ssl.fastly.net",
-                "voacamb1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voakorea.com",
-            "available_mirrors": [
-                "d3en78yfqfzy3p.cloudfront.net",
-                "voakor1.global.ssl.fastly.net",
-                "voakorea1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "lao.voanews.com",
-            "available_mirrors": [
-                "d3j3u2oczbdci3.cloudfront.net",
-                "voalao1.global.ssl.fastly.net",
-                "voalao1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voathai.com",
-            "available_mirrors": [
-                "d23gzxkfyganlr.cloudfront.net",
-                "voathai1.global.ssl.fastly.net",
-                "voathai1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voatibetan.com",
-            "available_mirrors": [
-                "d3k0r37v2a6skr.cloudfront.net",
-                "voatibet2.global.ssl.fastly.net",
-                "voatibet1.azureedge.net"
-            ],
-            "available_onions": [
-                "voatibetjrt52sem.onion"
-            ]
-        },
-        {
-            "main_domain": "amerikaovozi.com",
-            "available_mirrors": [
-                "d2sorbcz6i6ph4.cloudfront.net",
-                "kaovo1.global.ssl.fastly.net"
-            ]
-        },
-        {
-            "main_domain": "voabangla.com",
-            "available_mirrors": [
-                "d1gjrk4rd09dyo.cloudfront.net",
-                "voabang1.global.ssl.fastly.net",
-                "voabangla1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "darivoa.com",
-            "available_mirrors": [
-                "d314t9m83wo682.cloudfront.net",
-                "dario1.global.ssl.fastly.net",
-                "dario1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "pashtovoa.com",
-            "available_mirrors": [
-                "d3g81wsezffiiv.cloudfront.net",
-                "pashto1.global.ssl.fastly.net",
-                "pashto1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voaafaanoromoo.com",
-            "available_mirrors": [
-                "d11fwl8go5phep.cloudfront.net",
-                "voaafaa1.global.ssl.fastly.net",
-                "voaafaa1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "amharic.voanews.com",
-            "available_mirrors": [
-                "d1nhm3ln3k1qcx.cloudfront.net",
-                "amhar1.global.ssl.fastly.net",
-                "amhari1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voabambara.com",
-            "available_mirrors": [
-                "d1nlmc9xbxdp0m.cloudfront.net",
-                "voabam1.global.ssl.fastly.net",
-                "voabam1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voaafrique.com",
-            "available_mirrors": [
-                "d2x2wdnc5wqo5e.cloudfront.net",
-                "voaafri1.global.ssl.fastly.net",
-                "voaafri1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voahausa.com",
-            "available_mirrors": [
-                "dwuqnn9wvpfxx.cloudfront.net",
-                "voahau1.global.ssl.fastly.net",
-                "voahau1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "radiyoyacuvoa.com",
-            "available_mirrors": [
-                "d400ni5nx0y8r.cloudfront.net",
-                "radioyo1.global.ssl.fastly.net",
-                "radioyo1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voalingala.com",
-            "available_mirrors": [
-                "d2ns88muhdwax6.cloudfront.net",
-                "voaling1.global.ssl.fastly.net"
-            ]
-        },
-        {
-            "main_domain": "voandebele.com",
-            "available_mirrors": [
-                "d1im2c0ulrj969.cloudfront.net",
-                "voande1.global.ssl.fastly.net",
-                "voande1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voaportugues.com",
-            "available_mirrors": [
-                "d1lr1wd65rfqlo.cloudfront.net",
-                "voaport3.global.ssl.fastly.net",
-                "voaport1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voashona.com",
-            "available_mirrors": [
-                "d1ub4jr4kdbmn3.cloudfront.net",
-                "voasho2.global.ssl.fastly.net",
-                "voasho2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voasomali.com",
-            "available_mirrors": [
-                "drvm4tx2f316x.cloudfront.net",
-                "voasoma2.global.ssl.fastly.net",
-                "voasoma2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voaswahili.com",
-            "available_mirrors": [
-                "d2uu9ucbnbit5g.cloudfront.net",
-                "voaswah1.global.ssl.fastly.net",
-                "voaswah1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "tigrigna.voanews.com",
-            "available_mirrors": [
-                "d2xzp5nh044poy.cloudfront.net",
-                "tigrig1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voazimbabwe.com",
-            "available_mirrors": [
-                "dqtqgv0z2fz2m.cloudfront.net",
-                "voazim2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "ir.voanews.com",
-            "available_mirrors": [
-                "d39c0v9ye2df3x.cloudfront.net",
-                "irvoa1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "dengiamerika.com",
-            "available_mirrors": [
-                "d3i93fguv3m4cg.cloudfront.net",
-                "dengia1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "dengeamerika.com",
-            "available_mirrors": [
-                "d39uw103xbzdem.cloudfront.net",
-                "dengea1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voanouvel.com",
-            "available_mirrors": [
-                "d2zck4jortm6fu.cloudfront.net",
-                "voanou1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "voanoticias.com",
-            "available_mirrors": [
-                "d10lan121hftkg.cloudfront.net",
-                "voanotici1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "dw.com",
-            "available_mirrors": [],
-            "available_onions": [
-                "dwnewsvdyyiamwnp.onion"
-            ]
-        },
-        {
-            "main_domain": "bbc.co.uk",
-            "available_mirrors": [],
-            "available_onions": [
-                "bbcnewsv2vjtpsuy.onion"
-            ]
-        },
-        {
-            "main_domain": "www.amerikayidzayn.com",
-            "available_mirrors": [
-                "kayid1.global.ssl.fastly.net",
-                "d39u4wcgwn4kyv.cloudfront.net",
-                "kayid1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.amerikiskhma.com",
-            "available_mirrors": [
-                "kiskh1.global.ssl.fastly.net",
-                "dtc4drn3cv47c.cloudfront.net",
-                "kisk1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "learningenglish.voanews.com",
-            "available_mirrors": [
-                "d3p3ets9xecguv.cloudfront.net",
-                "learni1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.amerikaninsesi.com",
-            "available_mirrors": [
-                "d1sxuww68nv5ka.cloudfront.net",
-                "amerikanc1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.polygraph.info",
-            "available_mirrors": [
-                "d2p1p2pf0rgubm.cloudfront.net",
-                "polygraph1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "pressroom.rferl.org",
-            "available_mirrors": [
-                "d35on3r4wwdtjm.cloudfront.net",
-                "pressr1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.currenttime.tv",
-            "available_mirrors": [
-                "d3olbu2cl74039.cloudfront.net",
-                "currtv1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.svaboda.org",
-            "available_mirrors": [
-                "d1no88f5ipkpvq.cloudfront.net",
-                "svabod1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.radiosvoboda.org",
-            "available_mirrors": [
-                "d3pkp5ysrgnc2b.cloudfront.net",
-                "radiosv1.azureedge.net"
-            ],
-            "available_onions": [
-                "radiosvqf2b7qycq.onion"
-            ]
-        },
-        {
-            "main_domain": "ktat.krymr.com",
-            "available_mirrors": [
-                "dyhoiobzhmf6u.cloudfront.net",
-                "ktat1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "ua.krymr.com",
-            "available_mirrors": [
-                "d3e1m6ew10i0fy.cloudfront.net",
-                "katkry1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "ru.krymr.com",
-            "available_mirrors": [
-                "d1lynpf6ndesae.cloudfront.net",
-                "rukry1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "moldova.europalibera.org",
-            "available_mirrors": [
-                "d1ugi0rai6uerj.cloudfront.net",
-                "moldov1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "romania.europalibera.org",
-            "available_mirrors": [
-                "dnpzl4pgplpls.cloudfront.net",
-                "romani1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.svobodnaevropa.bg",
-            "available_mirrors": [
-                "d3qinv6vsiufbn.cloudfront.net",
-                "svobod1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.slobodnaevropa.org",
-            "available_mirrors": [
-                "d1sk3qeff9e0lt.cloudfront.net",
-                "slobodn1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.slobodnaevropa.mk",
-            "available_mirrors": [
-                "dk99i459aa9en.cloudfront.net",
-                "slobodn2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.evropaelire.org",
-            "available_mirrors": [
-                "d2tti6r5yf3ebk.cloudfront.net",
-                "evropae1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.svoboda.org",
-            "available_mirrors": [
-                "d1e6t2g7k08m8d.cloudfront.net",
-                "svoboda3.azureedge.net"
-            ],
-            "available_onions": [
-                "svobod65rq5ufpfj.onion"
-            ]
-        },
-        {
-            "main_domain": "www.sibreal.org",
-            "available_mirrors": [
-                "dy10nebxja1k9.cloudfront.net",
-                "sibreal1.azureedge.net"
-            ],
-            "available_onions": [
-                "sibrealdgxmk4gfg.onion"
-            ]
-        },
-        {
-            "main_domain": "www.factograph.info",
-            "available_mirrors": [
-                "d1fv5edn5x6c43.cloudfront.net",
-                "factogr1.azureedge.net"
-            ],
-            "available_onions": [
-                "factogrepzbkwv3o.onion"
-            ]
-        },
-        {
-            "main_domain": "www.azatliq.org",
-            "available_mirrors": [
-                "d3p1ee4vyd5fte.cloudfront.net",
-                "azatliq1.azureedge.net"
-            ],
-            "available_onions": [
-                "azatliqmmvir2cxm.onion"
-            ]
-        },
-        {
-            "main_domain": "www.idelreal.org",
-            "available_mirrors": [
-                "d1esqphj4q8g1s.cloudfront.net",
-                "idelreal1.azureedge.net"
-            ],
-            "available_onions": [
-                "idelrea5soxeg7h7.onion"
-            ]
-        },
-        {
-            "main_domain": "www.kavkazr.com",
-            "available_mirrors": [
-                "d1qc3w1114w6y9.cloudfront.net",
-                "kavkazr1.azureedge.net"
-            ],
-            "available_onions": [
-                "kavkazr6vak4ftdd.onion"
-            ]
-        },
-        {
-            "main_domain": "www.radiomarsho.com",
-            "available_mirrors": [
-                "d1d9taxynonm87.cloudfront.net",
-                "radiomarsho1.azureedge.net"
-            ],
-            "available_onions": [
-                "marshouzr45aiykf.onion"
-            ]
-        },
-        {
-            "main_domain": "www.azatutyun.am",
-            "available_mirrors": [
-                "d3n8a0vrwm0b1b.cloudfront.net",
-                "azatut1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "rus.azatutyun.am",
-            "available_mirrors": [
-                "d2b76qttafjygo.cloudfront.net",
-                "rusazat1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.azadliq.org",
-            "available_mirrors": [
-                "d6hnm3uzmmstw.cloudfront.net",
-                "azadliq1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.radiotavisupleba.ge",
-            "available_mirrors": [
-                "dpa3si1v04rwd.cloudfront.net",
-                "radiotavis1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.ekhokavkaza.com",
-            "available_mirrors": [
-                "d3vt1li3uxancf.cloudfront.net",
-                "ekhokavkaza1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "en.radiofarda.com",
-            "available_mirrors": [
-                "d15rhpxl82e2j6.cloudfront.net",
-                "enradiofarda1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.azattyq.org",
-            "available_mirrors": [
-                "d2obt8q3k32oie.cloudfront.net",
-                "azattyq1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "rus.azattyq.org",
-            "available_mirrors": [
-                "dqyf3b5tyrhay.cloudfront.net",
-                "rusazattyq1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.azattyk.org",
-            "available_mirrors": [
-                "d1xagugcphl5ka.cloudfront.net",
-                "azattyk2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "rus.azattyk.org",
-            "available_mirrors": [
-                "dupohxa4h2tyy.cloudfront.net",
-                "rusazatyyk2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.ozodi.org",
-            "available_mirrors": [
-                "d3dtjnkqwk27h9.cloudfront.net",
-                "ozodi1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "rus.ozodi.org",
-            "available_mirrors": [
-                "d225hw0x3ivebp.cloudfront.net",
-                "rusozodi1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.azathabar.com",
-            "available_mirrors": [
-                "djjnjz9yrrn9s.cloudfront.net",
-                "azathabar1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "rus.azathabar.com",
-            "available_mirrors": [
-                "d2c01behjrwzzh.cloudfront.net",
-                "rusazath1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.ozodlik.org",
-            "available_mirrors": [
-                "dl018yoox1gz2.cloudfront.net",
-                "ozodlik1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "rus.ozodlik.org",
-            "available_mirrors": [
-                "d27ict1psc8jf8.cloudfront.net",
-                "rusozodlik1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "pa.azadiradio.com",
-            "available_mirrors": [
-                "dzmr266n1373m.cloudfront.net",
-                "paazadradio1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "da.azadiradio.com",
-            "available_mirrors": [
-                "d3l09yi3rfdr27.cloudfront.net",
-                "daazadiradio2.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "gandhara.rferl.org",
-            "available_mirrors": [
-                "d3eavyd4ceklqc.cloudfront.net",
-                "gandhara1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "www.mashaalradio.com",
-            "available_mirrors": [
-                "d1hbgv1r2g372t.cloudfront.net",
-                "mashaalradio1.azureedge.net"
-            ]
-        },
-        {
-            "main_domain": "ukranian.voanews.com",
-            "available_mirrors": [
-                "d2bli39f2k2tpl.cloudfront.net"
-            ],
-            "available_onions": [
-                "voaukrel5ds5o2ay.onion"
-            ]
-        },
-        {
-            "main_domain": "benarnews.org",
-            "available_mirrors": [
-                "3.221.146.5/english/"
-            ]
-        },
-        {
-            "main_domain": "https://www.youtube.com/watch?v=dp5h6n6fbUg&list=WL&index=2&t=7s",
-            "available_mirrors": [
-                "d31itgans6fvsa.cloudfront.net"
-            ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ]
-        }
-    ]
+  "version": 1.1,
+  "sites": [
+    {
+      "main_domain": "voadeewanews.com",
+      "available_mirrors": [
+        "dvoa1.global.ssl.fastly.net",
+        "d3anrqy0xi2p65.cloudfront.net"
+      ],
+      "available_onions": ["deewamfupxj4cele.onion"]
+    },
+    {
+      "main_domain": "urduvoa.com",
+      "available_mirrors": [
+        "dsin0kzf5uino.cloudfront.net",
+        "dour21.azureedge.net",
+        "dour21.global.ssl.fastly.net"
+      ],
+      "available_onions": ["urdvoauhitx5icb5.onion"]
+    },
+    {
+      "main_domain": "voanews.com",
+      "available_mirrors": [
+        "voan1.global.ssl.fastly.net",
+        "d3g0g1bncts1h.cloudfront.net",
+        "voanews1.azureedge.net"
+      ],
+      "available_onions": ["voanewsktwx4bxhs.onion"]
+    },
+    {
+      "main_domain": "rferl.org",
+      "available_mirrors": [
+        "rferl1.global.ssl.fastly.net",
+        "d2nhsvzhh6a8fa.cloudfront.net",
+        "rferl1.azureedge.net"
+      ],
+      "available_onions": ["rferlcjay7gumqvb.onion"]
+    },
+    {
+      "main_domain": "rfa.org",
+      "available_mirrors": ["184.169.210.108/english/"],
+      "available_onions": ["rfa62zl6z6owmtlf.onion"]
+    },
+    {
+      "main_domain": "alhurra.com",
+      "available_mirrors": [
+        "alhurr1.global.ssl.fastly.net",
+        "dvb5m5133mjx2.cloudfront.net"
+      ]
+    },
+    {
+      "main_domain": "radiosawa.com",
+      "available_mirrors": [
+        "rsawa1.global.ssl.fastly.net",
+        "d3qu9zle029wq1.cloudfront.net"
+      ]
+    },
+    {
+      "main_domain": "opentech.fund",
+      "available_mirrors": ["35.167.85.253"],
+      "available_onions": ["opentechbk3hyb2l.onion"]
+    },
+    {
+      "main_domain": "radiotelevisionmarti.com",
+      "available_mirrors": [
+        "mart1.global.ssl.fastly.net",
+        "d2sg4fdjdi994l.cloudfront.net"
+      ]
+    },
+    {
+      "main_domain": "voachinese.com",
+      "available_mirrors": [
+        "voach1.global.ssl.fastly.net",
+        "dt0xlnfid8nkl.cloudfront.net",
+        "voachin1.azureedge.net"
+      ],
+      "available_onions": ["voachineksz65vsb.onion"]
+    },
+    {
+      "main_domain": "voacantonese.com",
+      "available_mirrors": [
+        "voacant1.global.ssl.fastly.net",
+        "d2nrssbcvr15be.cloudfront.net",
+        "voacant1.azureedge.net"
+      ],
+      "available_onions": ["voacant5lzidz4ma.onion"]
+    },
+    {
+      "main_domain": "voatiengviet.com",
+      "available_mirrors": [
+        "voati1.global.ssl.fastly.net",
+        "d14mwypgnul2rt.cloudfront.net",
+        "voatieng1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "amerikaninsesi.org",
+      "available_mirrors": [
+        "amerk1.global.ssl.fastly.net",
+        "d3rt9c0a4lyhua.cloudfront.net",
+        "kanis1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "golos-ameriki.ru",
+      "available_mirrors": [
+        "golos1.global.ssl.fastly.net",
+        "d36uwzm4zjhq8y.cloudfront.net",
+        "golos1.azureedge.net"
+      ],
+      "available_onions": ["golosctnxclzq4xj.onion"]
+    },
+    {
+      "main_domain": "voatibetanenglish.com",
+      "available_mirrors": [
+        "voatib1.global.ssl.fastly.net",
+        "d1bgq2xjhyjaf2.cloudfront.net",
+        "voatbeng1.azureedge.net"
+      ],
+      "available_onions": ["voatibenjgi7dx33.onion"]
+    },
+    {
+      "main_domain": "en.rfi.fr",
+      "available_mirrors": [
+        "rfi1.global.ssl.fastly.net",
+        "d2hq2qymvj55pv.cloudfront.net",
+        "enrfi1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "glasamerike.net",
+      "available_mirrors": [
+        "d27p5syzkh3i8t.cloudfront.net",
+        "glasa1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "ukrainian.voanews.com",
+      "available_mirrors": [
+        "d22lrcvl9lpljh.cloudfront.net",
+        "ukrai1.global.ssl.fastly.net",
+        "ukrain1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "ba.voanews.com",
+      "available_mirrors": [
+        "d2597r2yuql1l3.cloudfront.net",
+        "bavoa1.global.ssl.fastly.net",
+        "bavoanews1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "gr.voanews.com",
+      "available_mirrors": [
+        "d1ewq9x4vso4mg.cloudfront.net",
+        "grvoa1.global.ssl.fastly.net",
+        "grvoa1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "mk.voanews.com",
+      "available_mirrors": [
+        "d1i9o2xnbbjxka.cloudfront.net",
+        "mkvoa1.global.ssl.fastly.net",
+        "mkvoa1.azureedge.net"
+      ],
+      "available_onions": ["mkvoart6geuu3kn4.onion"]
+    },
+    {
+      "main_domain": "www.zeriamerikes.com",
+      "available_mirrors": [
+        "d16zfnvyrkt8ha.cloudfront.net",
+        "zeria1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "burmese.voanews.com",
+      "available_mirrors": [
+        "d11rrrn51uia9t.cloudfront.net",
+        "burme1.global.ssl.fastly.net",
+        "burmes1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voaindonesia.com",
+      "available_mirrors": [
+        "d3qduo44dg1dxf.cloudfront.net",
+        "voaind1.global.ssl.fastly.net",
+        "voaind1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "khmer.voanews.com",
+      "available_mirrors": [
+        "d3gfy1yp11en0v.cloudfront.net",
+        "khmer1.global.ssl.fastly.net",
+        "khmer1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voacambodia.com",
+      "available_mirrors": [
+        "d2koenh5bw0hsw.cloudfront.net",
+        "voacam1.global.ssl.fastly.net",
+        "voacamb1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voakorea.com",
+      "available_mirrors": [
+        "d3en78yfqfzy3p.cloudfront.net",
+        "voakor1.global.ssl.fastly.net",
+        "voakorea1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "lao.voanews.com",
+      "available_mirrors": [
+        "d3j3u2oczbdci3.cloudfront.net",
+        "voalao1.global.ssl.fastly.net",
+        "voalao1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voathai.com",
+      "available_mirrors": [
+        "d23gzxkfyganlr.cloudfront.net",
+        "voathai1.global.ssl.fastly.net",
+        "voathai1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voatibetan.com",
+      "available_mirrors": [
+        "d3k0r37v2a6skr.cloudfront.net",
+        "voatibet2.global.ssl.fastly.net",
+        "voatibet1.azureedge.net"
+      ],
+      "available_onions": ["voatibetjrt52sem.onion"]
+    },
+    {
+      "main_domain": "amerikaovozi.com",
+      "available_mirrors": [
+        "d2sorbcz6i6ph4.cloudfront.net",
+        "kaovo1.global.ssl.fastly.net"
+      ]
+    },
+    {
+      "main_domain": "voabangla.com",
+      "available_mirrors": [
+        "d1gjrk4rd09dyo.cloudfront.net",
+        "voabang1.global.ssl.fastly.net",
+        "voabangla1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "darivoa.com",
+      "available_mirrors": [
+        "d314t9m83wo682.cloudfront.net",
+        "dario1.global.ssl.fastly.net",
+        "dario1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "pashtovoa.com",
+      "available_mirrors": [
+        "d3g81wsezffiiv.cloudfront.net",
+        "pashto1.global.ssl.fastly.net",
+        "pashto1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voaafaanoromoo.com",
+      "available_mirrors": [
+        "d11fwl8go5phep.cloudfront.net",
+        "voaafaa1.global.ssl.fastly.net",
+        "voaafaa1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "amharic.voanews.com",
+      "available_mirrors": [
+        "d1nhm3ln3k1qcx.cloudfront.net",
+        "amhar1.global.ssl.fastly.net",
+        "amhari1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voabambara.com",
+      "available_mirrors": [
+        "d1nlmc9xbxdp0m.cloudfront.net",
+        "voabam1.global.ssl.fastly.net",
+        "voabam1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voaafrique.com",
+      "available_mirrors": [
+        "d2x2wdnc5wqo5e.cloudfront.net",
+        "voaafri1.global.ssl.fastly.net",
+        "voaafri1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voahausa.com",
+      "available_mirrors": [
+        "dwuqnn9wvpfxx.cloudfront.net",
+        "voahau1.global.ssl.fastly.net",
+        "voahau1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "radiyoyacuvoa.com",
+      "available_mirrors": [
+        "d400ni5nx0y8r.cloudfront.net",
+        "radioyo1.global.ssl.fastly.net",
+        "radioyo1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voalingala.com",
+      "available_mirrors": [
+        "d2ns88muhdwax6.cloudfront.net",
+        "voaling1.global.ssl.fastly.net"
+      ]
+    },
+    {
+      "main_domain": "voandebele.com",
+      "available_mirrors": [
+        "d1im2c0ulrj969.cloudfront.net",
+        "voande1.global.ssl.fastly.net",
+        "voande1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voaportugues.com",
+      "available_mirrors": [
+        "d1lr1wd65rfqlo.cloudfront.net",
+        "voaport3.global.ssl.fastly.net",
+        "voaport1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voashona.com",
+      "available_mirrors": [
+        "d1ub4jr4kdbmn3.cloudfront.net",
+        "voasho2.global.ssl.fastly.net",
+        "voasho2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voasomali.com",
+      "available_mirrors": [
+        "drvm4tx2f316x.cloudfront.net",
+        "voasoma2.global.ssl.fastly.net",
+        "voasoma2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voaswahili.com",
+      "available_mirrors": [
+        "d2uu9ucbnbit5g.cloudfront.net",
+        "voaswah1.global.ssl.fastly.net",
+        "voaswah1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "tigrigna.voanews.com",
+      "available_mirrors": [
+        "d2xzp5nh044poy.cloudfront.net",
+        "tigrig1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voazimbabwe.com",
+      "available_mirrors": [
+        "dqtqgv0z2fz2m.cloudfront.net",
+        "voazim2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "ir.voanews.com",
+      "available_mirrors": [
+        "d39c0v9ye2df3x.cloudfront.net",
+        "irvoa1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "dengiamerika.com",
+      "available_mirrors": [
+        "d3i93fguv3m4cg.cloudfront.net",
+        "dengia1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "dengeamerika.com",
+      "available_mirrors": [
+        "d39uw103xbzdem.cloudfront.net",
+        "dengea1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voanouvel.com",
+      "available_mirrors": [
+        "d2zck4jortm6fu.cloudfront.net",
+        "voanou1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "voanoticias.com",
+      "available_mirrors": [
+        "d10lan121hftkg.cloudfront.net",
+        "voanotici1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "dw.com",
+      "available_mirrors": [],
+      "available_onions": ["dwnewsvdyyiamwnp.onion"]
+    },
+    {
+      "main_domain": "bbc.co.uk",
+      "available_mirrors": [],
+      "available_onions": ["bbcnewsv2vjtpsuy.onion"]
+    },
+    {
+      "main_domain": "www.amerikayidzayn.com",
+      "available_mirrors": [
+        "kayid1.global.ssl.fastly.net",
+        "d39u4wcgwn4kyv.cloudfront.net",
+        "kayid1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.amerikiskhma.com",
+      "available_mirrors": [
+        "kiskh1.global.ssl.fastly.net",
+        "dtc4drn3cv47c.cloudfront.net",
+        "kisk1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "learningenglish.voanews.com",
+      "available_mirrors": [
+        "d3p3ets9xecguv.cloudfront.net",
+        "learni1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.amerikaninsesi.com",
+      "available_mirrors": [
+        "d1sxuww68nv5ka.cloudfront.net",
+        "amerikanc1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.polygraph.info",
+      "available_mirrors": [
+        "d2p1p2pf0rgubm.cloudfront.net",
+        "polygraph1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "pressroom.rferl.org",
+      "available_mirrors": [
+        "d35on3r4wwdtjm.cloudfront.net",
+        "pressr1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.currenttime.tv",
+      "available_mirrors": [
+        "d3olbu2cl74039.cloudfront.net",
+        "currtv1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.svaboda.org",
+      "available_mirrors": [
+        "d1no88f5ipkpvq.cloudfront.net",
+        "svabod1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.radiosvoboda.org",
+      "available_mirrors": [
+        "d3pkp5ysrgnc2b.cloudfront.net",
+        "radiosv1.azureedge.net"
+      ],
+      "available_onions": ["radiosvqf2b7qycq.onion"]
+    },
+    {
+      "main_domain": "ktat.krymr.com",
+      "available_mirrors": [
+        "dyhoiobzhmf6u.cloudfront.net",
+        "ktat1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "ua.krymr.com",
+      "available_mirrors": [
+        "d3e1m6ew10i0fy.cloudfront.net",
+        "katkry1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "ru.krymr.com",
+      "available_mirrors": [
+        "d1lynpf6ndesae.cloudfront.net",
+        "rukry1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "moldova.europalibera.org",
+      "available_mirrors": [
+        "d1ugi0rai6uerj.cloudfront.net",
+        "moldov1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "romania.europalibera.org",
+      "available_mirrors": [
+        "dnpzl4pgplpls.cloudfront.net",
+        "romani1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.svobodnaevropa.bg",
+      "available_mirrors": [
+        "d3qinv6vsiufbn.cloudfront.net",
+        "svobod1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.slobodnaevropa.org",
+      "available_mirrors": [
+        "d1sk3qeff9e0lt.cloudfront.net",
+        "slobodn1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.slobodnaevropa.mk",
+      "available_mirrors": [
+        "dk99i459aa9en.cloudfront.net",
+        "slobodn2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.evropaelire.org",
+      "available_mirrors": [
+        "d2tti6r5yf3ebk.cloudfront.net",
+        "evropae1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.svoboda.org",
+      "available_mirrors": [
+        "d1e6t2g7k08m8d.cloudfront.net",
+        "svoboda3.azureedge.net"
+      ],
+      "available_onions": ["svobod65rq5ufpfj.onion"]
+    },
+    {
+      "main_domain": "www.sibreal.org",
+      "available_mirrors": [
+        "dy10nebxja1k9.cloudfront.net",
+        "sibreal1.azureedge.net"
+      ],
+      "available_onions": ["sibrealdgxmk4gfg.onion"]
+    },
+    {
+      "main_domain": "www.factograph.info",
+      "available_mirrors": [
+        "d1fv5edn5x6c43.cloudfront.net",
+        "factogr1.azureedge.net"
+      ],
+      "available_onions": ["factogrepzbkwv3o.onion"]
+    },
+    {
+      "main_domain": "www.azatliq.org",
+      "available_mirrors": [
+        "d3p1ee4vyd5fte.cloudfront.net",
+        "azatliq1.azureedge.net"
+      ],
+      "available_onions": ["azatliqmmvir2cxm.onion"]
+    },
+    {
+      "main_domain": "www.idelreal.org",
+      "available_mirrors": [
+        "d1esqphj4q8g1s.cloudfront.net",
+        "idelreal1.azureedge.net"
+      ],
+      "available_onions": ["idelrea5soxeg7h7.onion"]
+    },
+    {
+      "main_domain": "www.kavkazr.com",
+      "available_mirrors": [
+        "d1qc3w1114w6y9.cloudfront.net",
+        "kavkazr1.azureedge.net"
+      ],
+      "available_onions": ["kavkazr6vak4ftdd.onion"]
+    },
+    {
+      "main_domain": "www.radiomarsho.com",
+      "available_mirrors": [
+        "d1d9taxynonm87.cloudfront.net",
+        "radiomarsho1.azureedge.net"
+      ],
+      "available_onions": ["marshouzr45aiykf.onion"]
+    },
+    {
+      "main_domain": "www.azatutyun.am",
+      "available_mirrors": [
+        "d3n8a0vrwm0b1b.cloudfront.net",
+        "azatut1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "rus.azatutyun.am",
+      "available_mirrors": [
+        "d2b76qttafjygo.cloudfront.net",
+        "rusazat1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.azadliq.org",
+      "available_mirrors": [
+        "d6hnm3uzmmstw.cloudfront.net",
+        "azadliq1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.radiotavisupleba.ge",
+      "available_mirrors": [
+        "dpa3si1v04rwd.cloudfront.net",
+        "radiotavis1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.ekhokavkaza.com",
+      "available_mirrors": [
+        "d3vt1li3uxancf.cloudfront.net",
+        "ekhokavkaza1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "en.radiofarda.com",
+      "available_mirrors": [
+        "d15rhpxl82e2j6.cloudfront.net",
+        "enradiofarda1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.azattyq.org",
+      "available_mirrors": [
+        "d2obt8q3k32oie.cloudfront.net",
+        "azattyq1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "rus.azattyq.org",
+      "available_mirrors": [
+        "dqyf3b5tyrhay.cloudfront.net",
+        "rusazattyq1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.azattyk.org",
+      "available_mirrors": [
+        "d1xagugcphl5ka.cloudfront.net",
+        "azattyk2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "rus.azattyk.org",
+      "available_mirrors": [
+        "dupohxa4h2tyy.cloudfront.net",
+        "rusazatyyk2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.ozodi.org",
+      "available_mirrors": [
+        "d3dtjnkqwk27h9.cloudfront.net",
+        "ozodi1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "rus.ozodi.org",
+      "available_mirrors": [
+        "d225hw0x3ivebp.cloudfront.net",
+        "rusozodi1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.azathabar.com",
+      "available_mirrors": [
+        "djjnjz9yrrn9s.cloudfront.net",
+        "azathabar1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "rus.azathabar.com",
+      "available_mirrors": [
+        "d2c01behjrwzzh.cloudfront.net",
+        "rusazath1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.ozodlik.org",
+      "available_mirrors": [
+        "dl018yoox1gz2.cloudfront.net",
+        "ozodlik1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "rus.ozodlik.org",
+      "available_mirrors": [
+        "d27ict1psc8jf8.cloudfront.net",
+        "rusozodlik1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "pa.azadiradio.com",
+      "available_mirrors": [
+        "dzmr266n1373m.cloudfront.net",
+        "paazadradio1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "da.azadiradio.com",
+      "available_mirrors": [
+        "d3l09yi3rfdr27.cloudfront.net",
+        "daazadiradio2.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "gandhara.rferl.org",
+      "available_mirrors": [
+        "d3eavyd4ceklqc.cloudfront.net",
+        "gandhara1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "www.mashaalradio.com",
+      "available_mirrors": [
+        "d1hbgv1r2g372t.cloudfront.net",
+        "mashaalradio1.azureedge.net"
+      ]
+    },
+    {
+      "main_domain": "ukranian.voanews.com",
+      "available_mirrors": ["d2bli39f2k2tpl.cloudfront.net"],
+      "available_onions": ["voaukrel5ds5o2ay.onion"]
+    },
+    {
+      "main_domain": "benarnews.org",
+      "available_mirrors": ["3.221.146.5/english/"]
+    },
+    {
+      "main_domain": "https://www.youtube.com/watch?v=dp5h6n6fbUg&list=WL",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "https://www.youtube.com/watch?list=WL&v=dp5h6n6fbUg",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "https://www.youtube.com/watch?v=dp5h6n6fbUg",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "https://youtu.be/dp5h6n6fbUg",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "http://www.youtube.com/watch?v=dp5h6n6fbUg&list=WL",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "http://www.youtube.com/watch?list=WL&v=dp5h6n6fbUg",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "http://www.youtube.com/watch?v=dp5h6n6fbUg",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    },
+    {
+      "main_domain": "http://youtu.be/dp5h6n6fbUg",
+      "available_mirrors": ["d31itgans6fvsa.cloudfront.net"],
+      "available_ipfs_nodes": ["QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"]
+    }
+  ]
 }
