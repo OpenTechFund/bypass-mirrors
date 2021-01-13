@@ -2820,9 +2820,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.749201",
@@ -2830,13 +2827,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.749201",
-                    "updated_at": "2020-12-21 13:29:17.749201",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2845,9 +2835,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.750003",
@@ -2855,13 +2842,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.750003",
-                    "updated_at": "2020-12-21 13:29:17.750003",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2870,9 +2850,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.750490",
@@ -2880,13 +2857,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.750490",
-                    "updated_at": "2020-12-21 13:29:17.750490",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2895,9 +2865,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.750973",
@@ -2905,13 +2872,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.750973",
-                    "updated_at": "2020-12-21 13:29:17.750973",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2920,9 +2880,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.751458",
@@ -2930,13 +2887,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.751458",
-                    "updated_at": "2020-12-21 13:29:17.751458",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2945,9 +2895,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.751935",
@@ -2955,13 +2902,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.751935",
-                    "updated_at": "2020-12-21 13:29:17.751935",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2970,9 +2910,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.752453",
@@ -2980,13 +2917,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.752453",
-                    "updated_at": "2020-12-21 13:29:17.752453",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
@@ -2995,9 +2925,6 @@
             "available_mirrors": [
                 "d31itgans6fvsa.cloudfront.net"
             ],
-            "available_ipfs_nodes": [
-                "QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
-            ],
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.752951",
@@ -3005,13 +2932,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d31itgans6fvsa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.752951",
-                    "updated_at": "2020-12-21 13:29:17.752951",
-                    "proto": "https",
-                    "type": "ipfs_node",
-                    "url": "https://QmQ9GrEC5MVVb69HE2thmxNdSazNGjXdi6YLeQT3EULjVu"
                 }
             ]
         },
