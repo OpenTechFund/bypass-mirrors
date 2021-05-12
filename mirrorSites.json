@@ -410,13 +410,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d3rt9c0a4lyhua.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.688869",
-                    "updated_at": "2020-12-21 13:29:17.688869",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kanis1.azureedge.net"
                 }
             ]
         },
