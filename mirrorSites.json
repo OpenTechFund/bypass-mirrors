@@ -58,13 +58,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://dour21.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://urdvoauhitx5icb5.onion"
                 }
             ]
         },
