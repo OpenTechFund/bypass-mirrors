@@ -151,13 +151,6 @@
                 {
                     "created_at": "2020-12-21 13:29:17.684992",
                     "updated_at": "2020-12-21 13:29:17.684992",
-                    "type": "mirror",
-                    "proto": "http",
-                    "url": "http://35.167.85.253"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.684992",
-                    "updated_at": "2020-12-21 13:29:17.684992",
                     "proto": "tor",
                     "type": "eotk",
                     "url": "https://opentechbk3hyb2l.onion"
