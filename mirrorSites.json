@@ -2,32 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voadeewanews.com",
-            "available_mirrors": [
-                "dvoa1.global.ssl.fastly.net",
-                "d3anrqy0xi2p65.cloudfront.net"
-            ],
-            "available_onions": [
-                "deewamfupxj4cele.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.667716",
-                    "updated_at": "2020-12-21 13:29:17.667716",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dvoa1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.667716",
-                    "updated_at": "2020-12-21 13:29:17.667716",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3anrqy0xi2p65.cloudfront.net"
-                }
-            ]
-        },
-        {
             "main_domain": "urduvoa.com",
             "available_mirrors": [
                 "dsin0kzf5uino.cloudfront.net",
@@ -2880,6 +2854,27 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voacant1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voadeewanews.com",
+            "requested_url": "voadeewanews.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.667716",
+                    "updated_at": "2020-12-21 13:29:17.667716",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dvoa1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.667716",
+                    "updated_at": "2020-12-21 13:29:17.667716",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3anrqy0xi2p65.cloudfront.net"
                 }
             ]
         }
