@@ -24,13 +24,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d3anrqy0xi2p65.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.667716",
-                    "updated_at": "2020-12-21 13:29:17.667716",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://deewamfupxj4cele.onion"
                 }
             ]
         },
