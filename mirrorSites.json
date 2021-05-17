@@ -289,47 +289,6 @@
             ]
         },
         {
-            "main_domain": "voacantonese.com",
-            "available_mirrors": [
-                "voacant1.global.ssl.fastly.net",
-                "d2nrssbcvr15be.cloudfront.net",
-                "voacant1.azureedge.net"
-            ],
-            "available_onions": [
-                "voacant5lzidz4ma.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voacant1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2nrssbcvr15be.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voacant1.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://voacant5lzidz4ma.onion"
-                }
-            ]
-        },
-        {
             "main_domain": "voatiengviet.com",
             "available_mirrors": [
                 "voati1.global.ssl.fastly.net",
@@ -2907,6 +2866,41 @@
                     "type": "mirror",
                     "created_at": "2021-01-11 14:21:22.051644",
                     "url": "severreal.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voacantonese.com",
+            "requested_url": "voacantonese.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.687219",
+                    "updated_at": "2020-12-21 13:29:17.687219",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voacant1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.687219",
+                    "updated_at": "2020-12-21 13:29:17.687219",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d2nrssbcvr15be.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.687219",
+                    "updated_at": "2020-12-21 13:29:17.687219",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voacant1.azureedge.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.687219",
+                    "updated_at": "2020-12-21 13:29:17.687219",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "url": "https://voacant5lzidz4ma.onion"
                 }
             ]
         }
