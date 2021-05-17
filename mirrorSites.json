@@ -155,13 +155,6 @@
                 {
                     "created_at": "2020-12-21 13:29:17.679072",
                     "updated_at": "2020-12-21 13:29:17.679072",
-                    "type": "mirror",
-                    "proto": "http",
-                    "url": "http://184.169.210.108/english/"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.679072",
-                    "updated_at": "2020-12-21 13:29:17.679072",
                     "proto": "tor",
                     "type": "eotk",
                     "url": "https://rfa62zl6z6owmtlf.onion"
