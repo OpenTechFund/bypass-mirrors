@@ -2,40 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "urduvoa.com",
-            "available_mirrors": [
-                "dsin0kzf5uino.cloudfront.net",
-                "dour21.azureedge.net",
-                "dour21.global.ssl.fastly.net"
-            ],
-            "available_onions": [
-                "urdvoauhitx5icb5.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dsin0kzf5uino.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dour21.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dour21.global.ssl.fastly.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voanews.com",
             "available_mirrors": [
                 "voan1.global.ssl.fastly.net",
@@ -2875,6 +2841,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d3anrqy0xi2p65.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "urduvoa.com",
+            "requested_url": "urduvoa.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.671196",
+                    "updated_at": "2020-12-21 13:29:17.671196",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dsin0kzf5uino.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.671196",
+                    "updated_at": "2020-12-21 13:29:17.671196",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dour21.azureedge.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.671196",
+                    "updated_at": "2020-12-21 13:29:17.671196",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dour21.global.ssl.fastly.net"
                 }
             ]
         }
