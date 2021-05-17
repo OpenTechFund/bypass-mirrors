@@ -32,13 +32,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voanews1.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://voanewsktwx4bxhs.onion"
                 }
             ]
         },
