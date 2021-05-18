@@ -2017,13 +2017,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://idelreal1.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.733464",
-                    "updated_at": "2020-12-21 13:29:17.733464",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://idelrea5soxeg7h7.onion"
                 }
             ]
         },
