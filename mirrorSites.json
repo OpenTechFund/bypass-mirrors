@@ -1666,13 +1666,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://radiosv1.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.725306",
-                    "updated_at": "2020-12-21 13:29:17.725306",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://radiosvqf2b7qycq.onion"
                 }
             ]
         },
