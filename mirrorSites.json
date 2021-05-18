@@ -1991,13 +1991,6 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://azatliq1.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.732901",
-                    "updated_at": "2020-12-21 13:29:17.732901",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://azatliqmmvir2cxm.onion"
                 }
             ]
         },
