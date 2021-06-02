@@ -2142,7 +2142,7 @@
             ]
         },
         {
-            "main_domain": "www.radiotavisupleba.ge",
+            "main_domain": "radiotavisupleba.ge",
             "available_mirrors": [
                 "dpa3si1v04rwd.cloudfront.net",
                 "radiotavis1.azureedge.net"
