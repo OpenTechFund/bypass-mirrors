@@ -1910,7 +1910,7 @@
             ]
         },
         {
-            "main_domain": "www.sibreal.org",
+            "main_domain": "sibreal.org",
             "available_mirrors": [
                 "dy10nebxja1k9.cloudfront.net",
                 "sibreal1.azureedge.net"
