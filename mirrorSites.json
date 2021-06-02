@@ -1552,7 +1552,7 @@
             ]
         },
         {
-            "main_domain": "www.polygraph.info",
+            "main_domain": "polygraph.info",
             "available_mirrors": [
                 "d2p1p2pf0rgubm.cloudfront.net",
                 "polygraph1.azureedge.net"
