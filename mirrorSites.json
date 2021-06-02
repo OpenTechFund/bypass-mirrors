@@ -1808,7 +1808,7 @@
             ]
         },
         {
-            "main_domain": "www.slobodnaevropa.org",
+            "main_domain": "slobodnaevropa.org",
             "available_mirrors": [
                 "d1sk3qeff9e0lt.cloudfront.net",
                 "slobodn1.azureedge.net"
