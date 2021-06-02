@@ -2395,7 +2395,7 @@
             ]
         },
         {
-            "main_domain": "www.ozodlik.org",
+            "main_domain": "ozodlik.org",
             "available_mirrors": [
                 "dl018yoox1gz2.cloudfront.net",
                 "ozodlik1.azureedge.net"
