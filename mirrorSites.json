@@ -1598,7 +1598,7 @@
             ]
         },
         {
-            "main_domain": "www.currenttime.tv",
+            "main_domain": "currenttime.tv",
             "available_mirrors": [
                 "d3olbu2cl74039.cloudfront.net",
                 "currtv1.azureedge.net"
