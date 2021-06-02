@@ -1877,7 +1877,7 @@
             ]
         },
         {
-            "main_domain": "www.svoboda.org",
+            "main_domain": "svoboda.org",
             "available_mirrors": [
                 "d1e6t2g7k08m8d.cloudfront.net",
                 "svoboda3.azureedge.net"
