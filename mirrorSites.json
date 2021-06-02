@@ -2303,7 +2303,7 @@
             ]
         },
         {
-            "main_domain": "www.ozodi.org",
+            "main_domain": "ozodi.org",
             "available_mirrors": [
                 "d3dtjnkqwk27h9.cloudfront.net",
                 "ozodi1.azureedge.net"
