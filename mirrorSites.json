@@ -1936,7 +1936,7 @@
             ]
         },
         {
-            "main_domain": "www.factograph.info",
+            "main_domain": "factograph.info",
             "available_mirrors": [
                 "d1fv5edn5x6c43.cloudfront.net",
                 "factogr1.azureedge.net"
