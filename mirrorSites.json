@@ -1621,35 +1621,6 @@
             ]
         },
         {
-            "main_domain": "svaboda.org",
-            "available_mirrors": [
-                "d1no88f5ipkpvq.cloudfront.net",
-                "svabod1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.724762",
-                    "updated_at": "2020-12-21 13:29:17.724762",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1no88f5ipkpvq.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.724762",
-                    "updated_at": "2021-06-02 20:39:44.720970",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://svaboda.azureedge.net"
-                },
-                {
-                    "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2021-06-03 17:04:34.206486",
-                    "url": "https://svaboda.global.ssl.fastly.net"
-                }
-            ]
-        },
-        {
             "main_domain": "radiosvoboda.org",
             "available_mirrors": [
                 "d3pkp5ysrgnc2b.cloudfront.net",
@@ -2662,6 +2633,33 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://dour21.global.ssl.fastly.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "svaboda.org",
+            "requested_url": "svaboda.org",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.724762",
+                    "updated_at": "2020-12-21 13:29:17.724762",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1no88f5ipkpvq.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.724762",
+                    "updated_at": "2021-06-02 20:39:44.720970",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://svaboda.azureedge.net"
+                },
+                {
+                    "proto": "https",
+                    "type": "proxy",
+                    "created_at": "2021-06-03 17:04:34.206486",
+                    "url": "https://svaboda.global.ssl.fastly.net"
                 }
             ]
         }
