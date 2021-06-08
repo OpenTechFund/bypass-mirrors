@@ -1417,15 +1417,7 @@
             "available_onions": [
                 "dwnewsvdyyiamwnp.onion"
             ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.719631",
-                    "updated_at": "2020-12-21 13:29:17.719631",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://dwnewsvdyyiamwnp.onion"
-                }
-            ]
+            "available_alternatives": []
         },
         {
             "main_domain": "bbc.co.uk",
