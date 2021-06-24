@@ -2,40 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voanews.com",
-            "available_mirrors": [
-                "voan1.global.ssl.fastly.net",
-                "d3g0g1bncts1h.cloudfront.net",
-                "voanews1.azureedge.net"
-            ],
-            "available_onions": [
-                "voanewsktwx4bxhs.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voan1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3g0g1bncts1h.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voanews1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "rferl.org",
             "available_mirrors": [
                 "rferl1.global.ssl.fastly.net",
@@ -2645,6 +2611,34 @@
                     "type": "proxy",
                     "created_at": "2021-06-03 17:04:34.206486",
                     "url": "https://svaboda.global.ssl.fastly.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voanews.com",
+            "requested_url": "voanews.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.673731",
+                    "updated_at": "2020-12-21 13:29:17.673731",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voan1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.673731",
+                    "updated_at": "2020-12-21 13:29:17.673731",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3g0g1bncts1h.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.673731",
+                    "updated_at": "2020-12-21 13:29:17.673731",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voanews1.azureedge.net"
                 }
             ]
         }
