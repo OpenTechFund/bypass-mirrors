@@ -2,40 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "rferl.org",
-            "available_mirrors": [
-                "rferl1.global.ssl.fastly.net",
-                "d2nhsvzhh6a8fa.cloudfront.net",
-                "rferl1.azureedge.net"
-            ],
-            "available_onions": [
-                "rferlcjay7gumqvb.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.676444",
-                    "updated_at": "2021-05-03 10:24:14.242800",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rferl2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.676444",
-                    "updated_at": "2020-12-21 13:29:17.676444",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2nhsvzhh6a8fa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.676444",
-                    "updated_at": "2021-06-02 20:38:44.412893",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rferl.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "rfa.org",
             "available_mirrors": [
                 "184.169.210.108/english/"
@@ -2639,6 +2605,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voanews1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "rferl.org",
+            "requested_url": "rferl.org",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.676444",
+                    "updated_at": "2021-05-03 10:24:14.242800",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://rferl2.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.676444",
+                    "updated_at": "2020-12-21 13:29:17.676444",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d2nhsvzhh6a8fa.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.676444",
+                    "updated_at": "2021-06-02 20:38:44.412893",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://rferl.azureedge.net"
                 }
             ]
         }
