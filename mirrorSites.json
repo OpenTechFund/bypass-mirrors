@@ -2,16 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "rfa.org",
-            "available_mirrors": [
-                "184.169.210.108/english/"
-            ],
-            "available_onions": [
-                "rfa62zl6z6owmtlf.onion"
-            ],
-            "available_alternatives": []
-        },
-        {
             "main_domain": "alhurra.com",
             "available_mirrors": [
                 "alhurr1.global.ssl.fastly.net",
@@ -2635,6 +2625,12 @@
                     "url": "https://rferl.azureedge.net"
                 }
             ]
+        },
+        {
+            "main_domain": "rfa.org",
+            "requested_url": "rfa.org",
+            "exists": true,
+            "available_alternatives": []
         }
     ]
 }
