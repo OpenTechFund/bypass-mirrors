@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "alhurra.com",
-            "available_mirrors": [
-                "alhurr1.global.ssl.fastly.net",
-                "dvb5m5133mjx2.cloudfront.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.682901",
-                    "updated_at": "2020-12-21 13:29:17.682901",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://alhurr1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.682901",
-                    "updated_at": "2020-12-21 13:29:17.682901",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dvb5m5133mjx2.cloudfront.net"
-                }
-            ]
-        },
-        {
             "main_domain": "radiosawa.com",
             "available_mirrors": [
                 "rsawa1.global.ssl.fastly.net",
@@ -2631,6 +2608,27 @@
             "requested_url": "rfa.org",
             "exists": true,
             "available_alternatives": []
+        },
+        {
+            "main_domain": "alhurra.com",
+            "requested_url": "alhurra.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.682901",
+                    "updated_at": "2020-12-21 13:29:17.682901",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://alhurr1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.682901",
+                    "updated_at": "2020-12-21 13:29:17.682901",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dvb5m5133mjx2.cloudfront.net"
+                }
+            ]
         }
     ]
 }
