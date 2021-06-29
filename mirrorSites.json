@@ -2,24 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "opentech.fund",
-            "available_mirrors": [
-                "35.167.85.253"
-            ],
-            "available_onions": [
-                "opentechbk3hyb2l.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.684992",
-                    "updated_at": "2020-12-21 13:29:17.684992",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://opentechbk3hyb2l.onion"
-                }
-            ]
-        },
-        {
             "main_domain": "radiotelevisionmarti.com",
             "available_mirrors": [
                 "mart1.global.ssl.fastly.net",
@@ -2625,6 +2607,20 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d3qu9zle029wq1.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "opentech.fund",
+            "requested_url": "opentech.fund",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.684992",
+                    "updated_at": "2020-12-21 13:29:17.684992",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "url": "https://opentechbk3hyb2l.onion"
                 }
             ]
         }
