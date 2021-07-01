@@ -2,40 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voachinese.com",
-            "available_mirrors": [
-                "voach1.global.ssl.fastly.net",
-                "dt0xlnfid8nkl.cloudfront.net",
-                "voachin1.azureedge.net"
-            ],
-            "available_onions": [
-                "voachineksz65vsb.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.686180",
-                    "updated_at": "2020-12-21 13:29:17.686180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voach1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.686180",
-                    "updated_at": "2020-12-21 13:29:17.686180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dt0xlnfid8nkl.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.686180",
-                    "updated_at": "2020-12-21 13:29:17.686180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voachin1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voatiengviet.com",
             "available_mirrors": [
                 "voati1.global.ssl.fastly.net",
@@ -2619,6 +2585,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://d2sg4fdjdi994l.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voachinese.com",
+            "requested_url": "voachinese.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.686180",
+                    "updated_at": "2020-12-21 13:29:17.686180",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voach1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.686180",
+                    "updated_at": "2020-12-21 13:29:17.686180",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dt0xlnfid8nkl.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.686180",
+                    "updated_at": "2020-12-21 13:29:17.686180",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voachin1.azureedge.net"
                 }
             ]
         }
