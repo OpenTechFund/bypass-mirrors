@@ -2,40 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voatibetanenglish.com",
-            "available_mirrors": [
-                "voatib1.global.ssl.fastly.net",
-                "d1bgq2xjhyjaf2.cloudfront.net",
-                "voatbeng1.azureedge.net"
-            ],
-            "available_onions": [
-                "voatibenjgi7dx33.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.690504",
-                    "updated_at": "2020-12-21 13:29:17.690504",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatib1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.690504",
-                    "updated_at": "2020-12-21 13:29:17.690504",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1bgq2xjhyjaf2.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.690504",
-                    "updated_at": "2020-12-21 13:29:17.690504",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatbeng1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "en.rfi.fr",
             "available_mirrors": [
                 "rfi1.global.ssl.fastly.net",
@@ -2601,6 +2567,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://golos1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voatibetanenglish.com",
+            "requested_url": "voatibetanenglish.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.690504",
+                    "updated_at": "2020-12-21 13:29:17.690504",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voatib1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.690504",
+                    "updated_at": "2020-12-21 13:29:17.690504",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1bgq2xjhyjaf2.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.690504",
+                    "updated_at": "2020-12-21 13:29:17.690504",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voatbeng1.azureedge.net"
                 }
             ]
         }
