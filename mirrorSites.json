@@ -2,15 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "en.rfi.fr",
-            "available_mirrors": [
-                "rfi1.global.ssl.fastly.net",
-                "d2hq2qymvj55pv.cloudfront.net",
-                "enrfi1.azureedge.net"
-            ],
-            "available_alternatives": []
-        },
-        {
             "main_domain": "glasamerike.net",
             "available_mirrors": [
                 "d27p5syzkh3i8t.cloudfront.net",
@@ -2597,6 +2588,12 @@
                     "url": "https://voatbeng1.azureedge.net"
                 }
             ]
+        },
+        {
+            "main_domain": "en.rfi.fr",
+            "requested_url": "en.rfi.fr",
+            "exists": true,
+            "available_alternatives": []
         }
     ]
 }
