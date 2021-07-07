@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "glasamerike.net",
-            "available_mirrors": [
-                "d27p5syzkh3i8t.cloudfront.net",
-                "glasa1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.691932",
-                    "updated_at": "2020-12-21 13:29:17.691932",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d27p5syzkh3i8t.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.691932",
-                    "updated_at": "2020-12-21 13:29:17.691932",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://glasa1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "ukrainian.voanews.com",
             "available_mirrors": [
                 "d22lrcvl9lpljh.cloudfront.net",
@@ -2594,6 +2571,27 @@
             "requested_url": "en.rfi.fr",
             "exists": true,
             "available_alternatives": []
+        },
+        {
+            "main_domain": "glasamerike.net",
+            "requested_url": "glasamerike.net",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.691932",
+                    "updated_at": "2020-12-21 13:29:17.691932",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d27p5syzkh3i8t.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.691932",
+                    "updated_at": "2020-12-21 13:29:17.691932",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://glasa1.azureedge.net"
+                }
+            ]
         }
     ]
 }
