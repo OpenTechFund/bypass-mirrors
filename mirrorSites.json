@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "ba.voanews.com",
-            "available_mirrors": [
-                "d2597r2yuql1l3.cloudfront.net",
-                "bavoa1.global.ssl.fastly.net",
-                "bavoanews1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.693222",
-                    "updated_at": "2020-12-21 13:29:17.693222",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2597r2yuql1l3.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.693222",
-                    "updated_at": "2020-12-21 13:29:17.693222",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://bavoa1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.693222",
-                    "updated_at": "2020-12-21 13:29:17.693222",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://bavoanews1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "gr.voanews.com",
             "available_mirrors": [
                 "d1ewq9x4vso4mg.cloudfront.net",
@@ -2587,6 +2556,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://ukrain1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "ba.voanews.com",
+            "requested_url": "ba.voanews.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.693222",
+                    "updated_at": "2020-12-21 13:29:17.693222",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d2597r2yuql1l3.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.693222",
+                    "updated_at": "2020-12-21 13:29:17.693222",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://bavoa1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.693222",
+                    "updated_at": "2020-12-21 13:29:17.693222",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://bavoanews1.azureedge.net"
                 }
             ]
         }
