@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "burmese.voanews.com",
-            "available_mirrors": [
-                "d11rrrn51uia9t.cloudfront.net",
-                "burme1.global.ssl.fastly.net",
-                "burmes1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.696825",
-                    "updated_at": "2020-12-21 13:29:17.696825",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d11rrrn51uia9t.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.696825",
-                    "updated_at": "2020-12-21 13:29:17.696825",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://burme1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.696825",
-                    "updated_at": "2020-12-21 13:29:17.696825",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://burmes1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voaindonesia.com",
             "available_mirrors": [
                 "d3qduo44dg1dxf.cloudfront.net",
@@ -2573,6 +2542,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://zeria1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "burmese.voanews.com",
+            "requested_url": "burmese.voanews.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.696825",
+                    "updated_at": "2020-12-21 13:29:17.696825",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d11rrrn51uia9t.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.696825",
+                    "updated_at": "2020-12-21 13:29:17.696825",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://burme1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.696825",
+                    "updated_at": "2020-12-21 13:29:17.696825",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://burmes1.azureedge.net"
                 }
             ]
         }
