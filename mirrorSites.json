@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voaindonesia.com",
-            "available_mirrors": [
-                "d3qduo44dg1dxf.cloudfront.net",
-                "voaind1.global.ssl.fastly.net",
-                "voaind1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.697720",
-                    "updated_at": "2020-12-21 13:29:17.697720",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3qduo44dg1dxf.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.697720",
-                    "updated_at": "2020-12-21 13:29:17.697720",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaind1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.697720",
-                    "updated_at": "2020-12-21 13:29:17.697720",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaind1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "khmer.voanews.com",
             "available_mirrors": [
                 "d3gfy1yp11en0v.cloudfront.net",
@@ -2570,6 +2539,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://burmes1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voaindonesia.com",
+            "requested_url": "voaindonesia.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.697720",
+                    "updated_at": "2020-12-21 13:29:17.697720",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3qduo44dg1dxf.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.697720",
+                    "updated_at": "2020-12-21 13:29:17.697720",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voaind1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.697720",
+                    "updated_at": "2020-12-21 13:29:17.697720",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voaind1.azureedge.net"
                 }
             ]
         }
