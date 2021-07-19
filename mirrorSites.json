@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voathai.com",
-            "available_mirrors": [
-                "d23gzxkfyganlr.cloudfront.net",
-                "voathai1.global.ssl.fastly.net",
-                "voathai1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.701473",
-                    "updated_at": "2020-12-21 13:29:17.701473",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d23gzxkfyganlr.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.701473",
-                    "updated_at": "2020-12-21 13:29:17.701473",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voathai1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.701473",
-                    "updated_at": "2020-12-21 13:29:17.701473",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voathai1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voatibetan.com",
             "available_mirrors": [
                 "d3k0r37v2a6skr.cloudfront.net",
@@ -2555,6 +2524,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voalao1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voathai.com",
+            "requested_url": "voathai.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.701473",
+                    "updated_at": "2020-12-21 13:29:17.701473",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d23gzxkfyganlr.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.701473",
+                    "updated_at": "2020-12-21 13:29:17.701473",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voathai1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.701473",
+                    "updated_at": "2020-12-21 13:29:17.701473",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voathai1.azureedge.net"
                 }
             ]
         }
