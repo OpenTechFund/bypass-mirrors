@@ -2,47 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voatibetan.com",
-            "available_mirrors": [
-                "d3k0r37v2a6skr.cloudfront.net",
-                "voatibet2.global.ssl.fastly.net",
-                "voatibet1.azureedge.net"
-            ],
-            "available_onions": [
-                "voatibetjrt52sem.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3k0r37v2a6skr.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatibet2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatibet1.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://voatibetjrt52sem.onion"
-                }
-            ]
-        },
-        {
             "main_domain": "amerikaovozi.com",
             "available_mirrors": [
                 "d2sorbcz6i6ph4.cloudfront.net",
@@ -2552,6 +2511,41 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voathai1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voatibetan.com",
+            "requested_url": "voatibetan.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.702189",
+                    "updated_at": "2020-12-21 13:29:17.702189",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3k0r37v2a6skr.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.702189",
+                    "updated_at": "2020-12-21 13:29:17.702189",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voatibet2.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.702189",
+                    "updated_at": "2020-12-21 13:29:17.702189",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voatibet1.azureedge.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.702189",
+                    "updated_at": "2020-12-21 13:29:17.702189",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "url": "https://voatibetjrt52sem.onion"
                 }
             ]
         }
