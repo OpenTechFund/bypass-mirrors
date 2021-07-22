@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voabangla.com",
-            "available_mirrors": [
-                "d1gjrk4rd09dyo.cloudfront.net",
-                "voabang1.global.ssl.fastly.net",
-                "voabangla1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.704254",
-                    "updated_at": "2020-12-21 13:29:17.704254",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1gjrk4rd09dyo.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.704254",
-                    "updated_at": "2020-12-21 13:29:17.704254",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabang1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.704254",
-                    "updated_at": "2020-12-21 13:29:17.704254",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabangla1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "darivoa.com",
             "available_mirrors": [
                 "d314t9m83wo682.cloudfront.net",
@@ -2537,6 +2506,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://kaovo1.global.ssl.fastly.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voabangla.com",
+            "requested_url": "voabangla.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.704254",
+                    "updated_at": "2020-12-21 13:29:17.704254",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1gjrk4rd09dyo.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.704254",
+                    "updated_at": "2020-12-21 13:29:17.704254",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voabang1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.704254",
+                    "updated_at": "2020-12-21 13:29:17.704254",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voabangla1.azureedge.net"
                 }
             ]
         }
