@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voaafaanoromoo.com",
-            "available_mirrors": [
-                "d11fwl8go5phep.cloudfront.net",
-                "voaafaa1.global.ssl.fastly.net",
-                "voaafaa1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.706497",
-                    "updated_at": "2020-12-21 13:29:17.706497",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d11fwl8go5phep.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.706497",
-                    "updated_at": "2020-12-21 13:29:17.706497",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaafaa1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.706497",
-                    "updated_at": "2020-12-21 13:29:17.706497",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaafaa1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "amharic.voanews.com",
             "available_mirrors": [
                 "d1nhm3ln3k1qcx.cloudfront.net",
@@ -2528,6 +2497,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://pashto1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voaafaanoromoo.com",
+            "requested_url": "voaafaanoromoo.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.706497",
+                    "updated_at": "2020-12-21 13:29:17.706497",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d11fwl8go5phep.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.706497",
+                    "updated_at": "2020-12-21 13:29:17.706497",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voaafaa1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.706497",
+                    "updated_at": "2020-12-21 13:29:17.706497",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voaafaa1.azureedge.net"
                 }
             ]
         }
