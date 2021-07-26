@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "amharic.voanews.com",
-            "available_mirrors": [
-                "d1nhm3ln3k1qcx.cloudfront.net",
-                "amhar1.global.ssl.fastly.net",
-                "amhari1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.707509",
-                    "updated_at": "2020-12-21 13:29:17.707509",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1nhm3ln3k1qcx.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.707509",
-                    "updated_at": "2020-12-21 13:29:17.707509",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://amhar1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.707509",
-                    "updated_at": "2020-12-21 13:29:17.707509",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://amhari1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voabambara.com",
             "available_mirrors": [
                 "d1nlmc9xbxdp0m.cloudfront.net",
@@ -2525,6 +2494,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voaafaa1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "amharic.voanews.com",
+            "requested_url": "amharic.voanews.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.707509",
+                    "updated_at": "2020-12-21 13:29:17.707509",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1nhm3ln3k1qcx.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.707509",
+                    "updated_at": "2020-12-21 13:29:17.707509",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://amhar1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.707509",
+                    "updated_at": "2020-12-21 13:29:17.707509",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://amhari1.azureedge.net"
                 }
             ]
         }
