@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voabambara.com",
-            "available_mirrors": [
-                "d1nlmc9xbxdp0m.cloudfront.net",
-                "voabam1.global.ssl.fastly.net",
-                "voabam1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.708711",
-                    "updated_at": "2020-12-21 13:29:17.708711",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1nlmc9xbxdp0m.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.708711",
-                    "updated_at": "2020-12-21 13:29:17.708711",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabam1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.708711",
-                    "updated_at": "2020-12-21 13:29:17.708711",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabam1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voaafrique.com",
             "available_mirrors": [
                 "d2x2wdnc5wqo5e.cloudfront.net",
@@ -2522,6 +2491,34 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://amhari1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voabambara.com",
+            "requested_url": "voabambara.com",
+            "exists": true,
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.708711",
+                    "updated_at": "2020-12-21 13:29:17.708711",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1nlmc9xbxdp0m.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.708711",
+                    "updated_at": "2020-12-21 13:29:17.708711",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voabam1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.708711",
+                    "updated_at": "2020-12-21 13:29:17.708711",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voabam1.azureedge.net"
                 }
             ]
         }
