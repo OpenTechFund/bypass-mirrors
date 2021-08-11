@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "pressroom.rferl.org",
-            "available_mirrors": [
-                "d35on3r4wwdtjm.cloudfront.net",
-                "pressr1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.723663",
-                    "updated_at": "2020-12-21 13:29:17.723663",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d35on3r4wwdtjm.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.723663",
-                    "updated_at": "2020-12-21 13:29:17.723663",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://pressr1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "currenttime.tv",
             "available_mirrors": [
                 "d3olbu2cl74039.cloudfront.net",
@@ -2419,6 +2396,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://polygraph1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "pressroom.rferl.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.723663",
+                    "updated_at": "2020-12-21 13:29:17.723663",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d35on3r4wwdtjm.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.723663",
+                    "updated_at": "2020-12-21 13:29:17.723663",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://pressr1.azureedge.net"
                 }
             ]
         }
