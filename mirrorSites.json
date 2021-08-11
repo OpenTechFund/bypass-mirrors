@@ -2,13 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "benarnews.org",
-            "available_mirrors": [
-                "3.221.146.5/english/"
-            ],
-            "available_alternatives": []
-        },
-        {
             "main_domain": "severreal.org",
             "available_alternatives": [
                 {
@@ -2235,6 +2228,10 @@
                     "url": "https://voaukrel5ds5o2ay.onion"
                 }
             ]
+        },
+        {
+            "main_domain": "benarnews.org",
+            "available_alternatives": []
         }
     ]
 }
