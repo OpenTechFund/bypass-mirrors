@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "rus.azatutyun.am",
-            "available_mirrors": [
-                "d2b76qttafjygo.cloudfront.net",
-                "rusazat1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.735732",
-                    "updated_at": "2020-12-21 13:29:17.735732",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2b76qttafjygo.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.735732",
-                    "updated_at": "2020-12-21 13:29:17.735732",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusazat1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "azadliq.org",
             "available_mirrors": [
                 "d6hnm3uzmmstw.cloudfront.net",
@@ -2315,6 +2292,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://azatut1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "rus.azatutyun.am",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.735732",
+                    "updated_at": "2020-12-21 13:29:17.735732",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d2b76qttafjygo.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.735732",
+                    "updated_at": "2020-12-21 13:29:17.735732",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://rusazat1.azureedge.net"
                 }
             ]
         }
