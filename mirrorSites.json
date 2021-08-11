@@ -2,32 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "radiomarsho.com",
-            "available_mirrors": [
-                "d1d9taxynonm87.cloudfront.net",
-                "radiomarsho1.azureedge.net"
-            ],
-            "available_onions": [
-                "marshouzr45aiykf.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.734599",
-                    "updated_at": "2020-12-21 13:29:17.734599",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1d9taxynonm87.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.734599",
-                    "updated_at": "2020-12-21 13:29:17.734599",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://radiomarsho1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "azatutyun.am",
             "available_mirrors": [
                 "d3n8a0vrwm0b1b.cloudfront.net",
@@ -2326,6 +2300,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://kavkazr.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "radiomarsho.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.734599",
+                    "updated_at": "2020-12-21 13:29:17.734599",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1d9taxynonm87.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.734599",
+                    "updated_at": "2020-12-21 13:29:17.734599",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://radiomarsho1.azureedge.net"
                 }
             ]
         }
