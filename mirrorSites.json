@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voazimbabwe.com",
-            "available_mirrors": [
-                "dqtqgv0z2fz2m.cloudfront.net",
-                "voazim2.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.715884",
-                    "updated_at": "2020-12-21 13:29:17.715884",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dqtqgv0z2fz2m.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.715884",
-                    "updated_at": "2020-12-21 13:29:17.715884",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voazim2.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "ir.voanews.com",
             "available_mirrors": [
                 "d39c0v9ye2df3x.cloudfront.net",
@@ -2473,6 +2450,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://tigrig1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voazimbabwe.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.715884",
+                    "updated_at": "2020-12-21 13:29:17.715884",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dqtqgv0z2fz2m.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.715884",
+                    "updated_at": "2020-12-21 13:29:17.715884",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voazim2.azureedge.net"
                 }
             ]
         }
