@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "ozodi.org",
-            "available_mirrors": [
-                "d3dtjnkqwk27h9.cloudfront.net",
-                "ozodi1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.742985",
-                    "updated_at": "2020-12-21 13:29:17.742985",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3dtjnkqwk27h9.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.742985",
-                    "updated_at": "2020-12-21 13:29:17.742985",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ozodi1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "rus.ozodi.org",
             "available_mirrors": [
                 "d225hw0x3ivebp.cloudfront.net",
@@ -2279,6 +2256,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://rusazatyyk2.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "ozodi.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.742985",
+                    "updated_at": "2020-12-21 13:29:17.742985",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3dtjnkqwk27h9.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.742985",
+                    "updated_at": "2020-12-21 13:29:17.742985",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://ozodi1.azureedge.net"
                 }
             ]
         }
