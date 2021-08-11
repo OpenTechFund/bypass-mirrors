@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "dengiamerika.com",
-            "available_mirrors": [
-                "d3i93fguv3m4cg.cloudfront.net",
-                "dengia1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.717189",
-                    "updated_at": "2020-12-21 13:29:17.717189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3i93fguv3m4cg.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.717189",
-                    "updated_at": "2020-12-21 13:29:17.717189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dengia1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "dengeamerika.com",
             "available_mirrors": [
                 "d39uw103xbzdem.cloudfront.net",
@@ -2465,6 +2442,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://irvoa1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "dengiamerika.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.717189",
+                    "updated_at": "2020-12-21 13:29:17.717189",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3i93fguv3m4cg.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.717189",
+                    "updated_at": "2020-12-21 13:29:17.717189",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dengia1.azureedge.net"
                 }
             ]
         }
