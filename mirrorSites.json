@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "mashaalradio.com",
-            "available_mirrors": [
-                "d1hbgv1r2g372t.cloudfront.net",
-                "mashaalradio1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.747750",
-                    "updated_at": "2020-12-21 13:29:17.747750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1hbgv1r2g372t.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.747750",
-                    "updated_at": "2020-12-21 13:29:17.747750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://mashaalradio1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "ukranian.voanews.com",
             "available_mirrors": [
                 "d2bli39f2k2tpl.cloudfront.net"
@@ -2243,6 +2220,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://gandhara1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "mashaalradio.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.747750",
+                    "updated_at": "2020-12-21 13:29:17.747750",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1hbgv1r2g372t.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.747750",
+                    "updated_at": "2020-12-21 13:29:17.747750",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://mashaalradio1.azureedge.net"
                 }
             ]
         }
