@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voahausa.com",
-            "available_mirrors": [
-                "dwuqnn9wvpfxx.cloudfront.net",
-                "voahau1.global.ssl.fastly.net",
-                "voahau1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.710177",
-                    "updated_at": "2020-12-21 13:29:17.710177",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dwuqnn9wvpfxx.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.710177",
-                    "updated_at": "2020-12-21 13:29:17.710177",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voahau1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.710177",
-                    "updated_at": "2020-12-21 13:29:17.710177",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voahau1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "radiyoyacuvoa.com",
             "available_mirrors": [
                 "d400ni5nx0y8r.cloudfront.net",
@@ -2516,6 +2485,32 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voaafri1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voahausa.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.710177",
+                    "updated_at": "2020-12-21 13:29:17.710177",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dwuqnn9wvpfxx.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.710177",
+                    "updated_at": "2020-12-21 13:29:17.710177",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voahau1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.710177",
+                    "updated_at": "2020-12-21 13:29:17.710177",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voahau1.azureedge.net"
                 }
             ]
         }
