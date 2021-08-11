@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "amerikiskhma.com",
-            "available_mirrors": [
-                "kiskh1.global.ssl.fastly.net",
-                "dtc4drn3cv47c.cloudfront.net",
-                "kisk1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.721167",
-                    "updated_at": "2020-12-21 13:29:17.721167",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kiskh1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.721167",
-                    "updated_at": "2020-12-21 13:29:17.721167",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dtc4drn3cv47c.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.721167",
-                    "updated_at": "2020-12-21 13:29:17.721167",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kisk1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "learningenglish.voanews.com",
             "available_mirrors": [
                 "d3p3ets9xecguv.cloudfront.net",
@@ -2436,6 +2405,32 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://kayid1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "amerikiskhma.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.721167",
+                    "updated_at": "2020-12-21 13:29:17.721167",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://kiskh1.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.721167",
+                    "updated_at": "2020-12-21 13:29:17.721167",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dtc4drn3cv47c.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.721167",
+                    "updated_at": "2020-12-21 13:29:17.721167",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://kisk1.azureedge.net"
                 }
             ]
         }
