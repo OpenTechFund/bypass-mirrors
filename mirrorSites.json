@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "ir.voanews.com",
-            "available_mirrors": [
-                "d39c0v9ye2df3x.cloudfront.net",
-                "irvoa1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.716472",
-                    "updated_at": "2020-12-21 13:29:17.716472",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d39c0v9ye2df3x.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.716472",
-                    "updated_at": "2020-12-21 13:29:17.716472",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://irvoa1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "dengiamerika.com",
             "available_mirrors": [
                 "d3i93fguv3m4cg.cloudfront.net",
@@ -2469,6 +2446,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voazim2.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "ir.voanews.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.716472",
+                    "updated_at": "2020-12-21 13:29:17.716472",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d39c0v9ye2df3x.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.716472",
+                    "updated_at": "2020-12-21 13:29:17.716472",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://irvoa1.azureedge.net"
                 }
             ]
         }
