@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "da.azadiradio.com",
-            "available_mirrors": [
-                "d3l09yi3rfdr27.cloudfront.net",
-                "daazadiradio2.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.746740",
-                    "updated_at": "2020-12-21 13:29:17.746740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3l09yi3rfdr27.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.746740",
-                    "updated_at": "2020-12-21 13:29:17.746740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://daazadiradio2.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "gandhara.rferl.org",
             "available_mirrors": [
                 "d3eavyd4ceklqc.cloudfront.net",
@@ -2251,6 +2228,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://paazadradio1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "da.azadiradio.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.746740",
+                    "updated_at": "2020-12-21 13:29:17.746740",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3l09yi3rfdr27.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.746740",
+                    "updated_at": "2020-12-21 13:29:17.746740",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://daazadiradio2.azureedge.net"
                 }
             ]
         }
