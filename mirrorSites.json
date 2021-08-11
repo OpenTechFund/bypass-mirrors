@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "en.radiofarda.com",
-            "available_mirrors": [
-                "d15rhpxl82e2j6.cloudfront.net",
-                "enradiofarda1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.738701",
-                    "updated_at": "2020-12-21 13:29:17.738701",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d15rhpxl82e2j6.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.738701",
-                    "updated_at": "2020-12-21 13:29:17.738701",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://enradiofarda1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "azattyq.org",
             "available_mirrors": [
                 "d2obt8q3k32oie.cloudfront.net",
@@ -2299,6 +2276,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://ekhokavkaza1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "en.radiofarda.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.738701",
+                    "updated_at": "2020-12-21 13:29:17.738701",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d15rhpxl82e2j6.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.738701",
+                    "updated_at": "2020-12-21 13:29:17.738701",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://enradiofarda1.azureedge.net"
                 }
             ]
         }
