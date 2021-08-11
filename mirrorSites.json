@@ -2,14 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "dw.com",
-            "available_mirrors": [],
-            "available_onions": [
-                "dwnewsvdyyiamwnp.onion"
-            ],
-            "available_alternatives": []
-        },
-        {
             "main_domain": "bbc.co.uk",
             "available_mirrors": [],
             "available_onions": [
@@ -2451,6 +2443,10 @@
                     "url": "https://voanotici1.azureedge.net"
                 }
             ]
+        },
+        {
+            "main_domain": "dw.com",
+            "available_alternatives": []
         }
     ]
 }
