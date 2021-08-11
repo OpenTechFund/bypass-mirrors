@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "moldova.europalibera.org",
-            "available_mirrors": [
-                "d1ugi0rai6uerj.cloudfront.net",
-                "moldov1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.727810",
-                    "updated_at": "2020-12-21 13:29:17.727810",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1ugi0rai6uerj.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.727810",
-                    "updated_at": "2020-12-21 13:29:17.727810",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://moldov1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "romania.europalibera.org",
             "available_mirrors": [
                 "dnpzl4pgplpls.cloudfront.net",
@@ -2392,6 +2369,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://rukrymr.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "moldova.europalibera.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.727810",
+                    "updated_at": "2020-12-21 13:29:17.727810",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1ugi0rai6uerj.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.727810",
+                    "updated_at": "2020-12-21 13:29:17.727810",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://moldov1.azureedge.net"
                 }
             ]
         }
