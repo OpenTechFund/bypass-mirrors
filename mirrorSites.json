@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "slobodnaevropa.org",
-            "available_mirrors": [
-                "d1sk3qeff9e0lt.cloudfront.net",
-                "slobodn1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.729392",
-                    "updated_at": "2020-12-21 13:29:17.729392",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1sk3qeff9e0lt.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.729392",
-                    "updated_at": "2020-12-21 13:29:17.729392",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://slobodn1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "slobodnaevropa.mk",
             "available_mirrors": [
                 "dk99i459aa9en.cloudfront.net",
@@ -2380,6 +2357,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://svobod1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "slobodnaevropa.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.729392",
+                    "updated_at": "2020-12-21 13:29:17.729392",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1sk3qeff9e0lt.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.729392",
+                    "updated_at": "2020-12-21 13:29:17.729392",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://slobodn1.azureedge.net"
                 }
             ]
         }
