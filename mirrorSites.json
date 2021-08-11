@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "rus.ozodlik.org",
-            "available_mirrors": [
-                "d27ict1psc8jf8.cloudfront.net",
-                "rusozodlik1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.745750",
-                    "updated_at": "2020-12-21 13:29:17.745750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d27ict1psc8jf8.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.745750",
-                    "updated_at": "2020-12-21 13:29:17.745750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusozodlik1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "pa.azadiradio.com",
             "available_mirrors": [
                 "dzmr266n1373m.cloudfront.net",
@@ -2259,6 +2236,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://ozodlik1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "rus.ozodlik.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.745750",
+                    "updated_at": "2020-12-21 13:29:17.745750",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d27ict1psc8jf8.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.745750",
+                    "updated_at": "2020-12-21 13:29:17.745750",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://rusozodlik1.azureedge.net"
                 }
             ]
         }
