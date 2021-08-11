@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "ekhokavkaza.com",
-            "available_mirrors": [
-                "d3vt1li3uxancf.cloudfront.net",
-                "ekhokavkaza1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.737800",
-                    "updated_at": "2020-12-21 13:29:17.737800",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3vt1li3uxancf.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.737800",
-                    "updated_at": "2020-12-21 13:29:17.737800",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ekhokavkaza1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "en.radiofarda.com",
             "available_mirrors": [
                 "d15rhpxl82e2j6.cloudfront.net",
@@ -2303,6 +2280,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://radiotavis1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "ekhokavkaza.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.737800",
+                    "updated_at": "2020-12-21 13:29:17.737800",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3vt1li3uxancf.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.737800",
+                    "updated_at": "2020-12-21 13:29:17.737800",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://ekhokavkaza1.azureedge.net"
                 }
             ]
         }
