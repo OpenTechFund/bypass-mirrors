@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "azathabar.com",
-            "available_mirrors": [
-                "djjnjz9yrrn9s.cloudfront.net",
-                "azathabar1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.744099",
-                    "updated_at": "2020-12-21 13:29:17.744099",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://djjnjz9yrrn9s.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.744099",
-                    "updated_at": "2020-12-21 13:29:17.744099",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azathabar1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "rus.azathabar.com",
             "available_mirrors": [
                 "d2c01behjrwzzh.cloudfront.net",
@@ -2271,6 +2248,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://rusozodi1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "azathabar.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.744099",
+                    "updated_at": "2020-12-21 13:29:17.744099",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://djjnjz9yrrn9s.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.744099",
+                    "updated_at": "2020-12-21 13:29:17.744099",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://azathabar1.azureedge.net"
                 }
             ]
         }
