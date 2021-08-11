@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "azattyk.org",
-            "available_mirrors": [
-                "d1xagugcphl5ka.cloudfront.net",
-                "azattyk2.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.741817",
-                    "updated_at": "2020-12-21 13:29:17.741817",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1xagugcphl5ka.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.741817",
-                    "updated_at": "2020-12-21 13:29:17.741817",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azattyk2.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "rus.azattyk.org",
             "available_mirrors": [
                 "dupohxa4h2tyy.cloudfront.net",
@@ -2287,6 +2264,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://rusazattyq1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "azattyk.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.741817",
+                    "updated_at": "2020-12-21 13:29:17.741817",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1xagugcphl5ka.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.741817",
+                    "updated_at": "2020-12-21 13:29:17.741817",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://azattyk2.azureedge.net"
                 }
             ]
         }
