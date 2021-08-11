@@ -2,37 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "voashona.com",
-            "available_mirrors": [
-                "d1ub4jr4kdbmn3.cloudfront.net",
-                "voasho2.global.ssl.fastly.net",
-                "voasho2.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.713409",
-                    "updated_at": "2020-12-21 13:29:17.713409",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1ub4jr4kdbmn3.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.713409",
-                    "updated_at": "2020-12-21 13:29:17.713409",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voasho2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.713409",
-                    "updated_at": "2020-12-21 13:29:17.713409",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voasho2.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "voasomali.com",
             "available_mirrors": [
                 "drvm4tx2f316x.cloudfront.net",
@@ -2492,6 +2461,32 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://voaport1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "voashona.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.713409",
+                    "updated_at": "2020-12-21 13:29:17.713409",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1ub4jr4kdbmn3.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.713409",
+                    "updated_at": "2020-12-21 13:29:17.713409",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voasho2.global.ssl.fastly.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.713409",
+                    "updated_at": "2020-12-21 13:29:17.713409",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://voasho2.azureedge.net"
                 }
             ]
         }
