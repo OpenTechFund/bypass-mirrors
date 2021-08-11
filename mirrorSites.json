@@ -2,32 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "radiosvoboda.org",
-            "available_mirrors": [
-                "d3pkp5ysrgnc2b.cloudfront.net",
-                "radiosv1.azureedge.net"
-            ],
-            "available_onions": [
-                "radiosvqf2b7qycq.onion"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.725306",
-                    "updated_at": "2020-12-21 13:29:17.725306",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3pkp5ysrgnc2b.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.725306",
-                    "updated_at": "2020-12-21 13:29:17.725306",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://radiosv1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "ktat.krymr.com",
             "available_mirrors": [
                 "dyhoiobzhmf6u.cloudfront.net",
@@ -2411,6 +2385,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://currtv.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "radiosvoboda.org",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.725306",
+                    "updated_at": "2020-12-21 13:29:17.725306",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d3pkp5ysrgnc2b.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.725306",
+                    "updated_at": "2020-12-21 13:29:17.725306",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://radiosv1.azureedge.net"
                 }
             ]
         }
