@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "ru.krymr.com",
-            "available_mirrors": [
-                "d1lynpf6ndesae.cloudfront.net",
-                "rukry1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.727114",
-                    "updated_at": "2020-12-21 13:29:17.727114",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1lynpf6ndesae.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.727114",
-                    "updated_at": "2021-06-02 20:40:46.793940",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rukrymr.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "moldova.europalibera.org",
             "available_mirrors": [
                 "d1ugi0rai6uerj.cloudfront.net",
@@ -2396,6 +2373,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://katkry1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "ru.krymr.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.727114",
+                    "updated_at": "2020-12-21 13:29:17.727114",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://d1lynpf6ndesae.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.727114",
+                    "updated_at": "2021-06-02 20:40:46.793940",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://rukrymr.azureedge.net"
                 }
             ]
         }
