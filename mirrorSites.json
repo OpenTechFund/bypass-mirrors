@@ -2,29 +2,6 @@
     "version": "2.0",
     "sites": [
         {
-            "main_domain": "ktat.krymr.com",
-            "available_mirrors": [
-                "dyhoiobzhmf6u.cloudfront.net",
-                "ktat1.azureedge.net"
-            ],
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.725899",
-                    "updated_at": "2020-12-21 13:29:17.725899",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dyhoiobzhmf6u.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.725899",
-                    "updated_at": "2020-12-21 13:29:17.725899",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ktat1.azureedge.net"
-                }
-            ]
-        },
-        {
             "main_domain": "ua.krymr.com",
             "available_mirrors": [
                 "d3e1m6ew10i0fy.cloudfront.net",
@@ -2404,6 +2381,25 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://radiosv1.azureedge.net"
+                }
+            ]
+        },
+        {
+            "main_domain": "ktat.krymr.com",
+            "available_alternatives": [
+                {
+                    "created_at": "2020-12-21 13:29:17.725899",
+                    "updated_at": "2020-12-21 13:29:17.725899",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://dyhoiobzhmf6u.cloudfront.net"
+                },
+                {
+                    "created_at": "2020-12-21 13:29:17.725899",
+                    "updated_at": "2020-12-21 13:29:17.725899",
+                    "type": "proxy",
+                    "proto": "https",
+                    "url": "https://ktat1.azureedge.net"
                 }
             ]
         }
