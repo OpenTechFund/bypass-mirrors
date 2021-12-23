@@ -2238,6 +2238,10 @@
         {
             "main_domain": "benarnews.org",
             "available_alternatives": []
+        },
+        {
+            "main_domain": "letsconvene.im",
+            "available_alternatives": []
         }
     ]
 }
