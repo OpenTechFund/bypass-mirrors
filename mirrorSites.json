@@ -2227,6 +2227,10 @@
                     "url": "d16204a1db94ho.cloudfront.net"
                 }
             ]
+        },
+        {
+            "main_domain": "guardianproject.info",
+            "available_alternatives": []
         }
     ]
 }
