@@ -1754,6 +1754,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://sibreal.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-04 19:57:33.985579",
+                    "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
                 }
             ]
         },
