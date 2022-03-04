@@ -1712,6 +1712,12 @@
                     "proto": "tor",
                     "type": "eotk",
                     "url": "https://svobod65rq5ufpfj.onion"
+                },
+                {
+                    "proto": "http",
+                    "type": "mirror",
+                    "created_at": "2022-03-04 11:02:11.722428",
+                    "url": "svoboda3.azureedge.net"
                 }
             ]
         },
