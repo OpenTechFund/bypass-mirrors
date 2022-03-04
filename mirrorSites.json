@@ -1709,13 +1709,6 @@
                 {
                     "created_at": "2020-12-21 13:29:17.730966",
                     "updated_at": "2020-12-21 13:29:17.730966",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://svoboda3.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.730966",
-                    "updated_at": "2020-12-21 13:29:17.730966",
                     "proto": "tor",
                     "type": "eotk",
                     "url": "https://svobod65rq5ufpfj.onion"
