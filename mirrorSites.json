@@ -1356,6 +1356,12 @@
                     "proto": "tor",
                     "type": "eotk",
                     "url": "https://bbcnewsv2vjtpsuy.onion"
+                },
+                {
+                    "proto": "http",
+                    "type": "mirror",
+                    "created_at": "2022-03-04 11:57:25.615965",
+                    "url": "https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/"
                 }
             ]
         },
