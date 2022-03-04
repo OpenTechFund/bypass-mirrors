@@ -1351,13 +1351,6 @@
             "main_domain": "bbc.co.uk",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.720133",
-                    "updated_at": "2020-12-21 13:29:17.720133",
-                    "proto": "tor",
-                    "type": "eotk",
-                    "url": "https://bbcnewsv2vjtpsuy.onion"
-                },
-                {
                     "proto": "http",
                     "type": "mirror",
                     "created_at": "2022-03-04 11:57:25.615965",
