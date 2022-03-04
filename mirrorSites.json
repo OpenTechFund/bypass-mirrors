@@ -1559,6 +1559,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://ktat1.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-04 21:33:58.144852",
+                    "url": "https://ktatkr72hfpautxxdsa47e6ywsj6gzdu3zneuqcu3do6qglk4yjs7jyd.onion"
                 }
             ]
         },
