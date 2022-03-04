@@ -2250,6 +2250,10 @@
                     "url": "dx6k8baw8uxeq.cloudfront.net"
                 }
             ]
+        },
+        {
+            "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com",
+            "available_alternatives": []
         }
     ]
 }
