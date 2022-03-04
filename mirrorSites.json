@@ -1578,6 +1578,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://katkry1.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-04 21:24:08.248270",
+                    "url": "https://krymruazp7xfegryesi3guntfok25ilayldbfx2yrfvyx2q277xyrcyd.onion"
                 }
             ]
         },
