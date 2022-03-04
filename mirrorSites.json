@@ -1860,6 +1860,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://kavkazr.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-04 22:03:50.679692",
+                    "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
                 }
             ]
         },
