@@ -2337,6 +2337,10 @@
                     "url": "d3sdzkcy2os10m.cloudfront.net"
                 }
             ]
+        },
+        {
+            "main_domain": "kloop.kg",
+            "available_alternatives": []
         }
     ]
 }
