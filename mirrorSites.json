@@ -2348,6 +2348,10 @@
                     "url": "dnf1c2qr4mitl.cloudfront.net"
                 }
             ]
+        },
+        {
+            "main_domain": "www.agents.media",
+            "available_alternatives": []
         }
     ]
 }
