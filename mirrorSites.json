@@ -1532,6 +1532,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://radiosv1.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-05 15:35:50.232003",
+                    "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
                 }
             ]
         },
