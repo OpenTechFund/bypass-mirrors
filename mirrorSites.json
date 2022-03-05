@@ -2359,6 +2359,10 @@
                     "url": "d1afma8653u35k.cloudfront.net"
                 }
             ]
+        },
+        {
+            "main_domain": "sr2.uk",
+            "available_alternatives": []
         }
     ]
 }
