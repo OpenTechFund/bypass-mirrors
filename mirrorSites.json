@@ -2084,7 +2084,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-01-24 19:15:42.306441",
-                    "url": "d2vvzvxrodyg2e.cloudfront.net"
+                    "url": "https://d2vvzvxrodyg2e.cloudfront.net"
                 }
             ]
         },
@@ -2152,7 +2152,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-01-22 04:29:39.630841",
-                    "url": "dhtw4h5yju1xx.cloudfront.net"
+                    "url": "https://dhtw4h5yju1xx.cloudfront.net"
                 }
             ]
         },
@@ -2281,7 +2281,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2021-12-23 14:30:33.756970",
-                    "url": "d16204a1db94ho.cloudfront.net"
+                    "url": "https://d16204a1db94ho.cloudfront.net"
                 }
             ]
         },
@@ -2292,13 +2292,13 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-01-22 04:18:08.468923",
-                    "url": "d2c0cl8vuqwvuv.cloudfront.net"
+                    "url": "https://d2c0cl8vuqwvuv.cloudfront.net"
                 },
                 {
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-01-24 19:36:55.077573",
-                    "url": "dx6k8baw8uxeq.cloudfront.net"
+                    "url": "https://dx6k8baw8uxeq.cloudfront.net"
                 }
             ]
         },
@@ -2309,7 +2309,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-03-04 13:43:29.337403",
-                    "url": "d8pxa2sijln69.cloudfront.net"
+                    "url": "https://d8pxa2sijln69.cloudfront.net"
                 }
             ]
         },
@@ -2320,7 +2320,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-03-04 16:41:13.566812",
-                    "url": "d3sdzkcy2os10m.cloudfront.net"
+                    "url": "https://d3sdzkcy2os10m.cloudfront.net"
                 }
             ]
         },
@@ -2343,16 +2343,10 @@
             "main_domain": "sr2.uk",
             "available_alternatives": [
                 {
-                    "proto": "http",
-                    "type": "mirror",
-                    "created_at": "2022-03-05 12:52:11.811537",
-                    "url": "sr2.scot"
-                },
-                {
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-03-05 12:55:35.198197",
-                    "url": "ds183d52ytzii.cloudfront.net"
+                    "url": "https://ds183d52ytzii.cloudfront.net"
                 }
             ]
         },
@@ -2363,7 +2357,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-03-06 03:04:09.564363",
-                    "url": "dkvn2ooq1pfjj.cloudfront.net"
+                    "url": "https://dkvn2ooq1pfjj.cloudfront.net"
                 }
             ]
         }
