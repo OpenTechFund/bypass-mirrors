@@ -1978,6 +1978,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://radiotavis1.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-08 12:21:50.575841",
+                    "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion/"
                 }
             ]
         },
