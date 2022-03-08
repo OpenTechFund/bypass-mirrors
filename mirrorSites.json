@@ -1921,6 +1921,12 @@
                     "type": "proxy",
                     "proto": "https",
                     "url": "https://azatut1.azureedge.net"
+                },
+                {
+                    "proto": "tor",
+                    "type": "eotk",
+                    "created_at": "2022-03-08 13:05:42.363981",
+                    "url": "https://www.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
                 }
             ]
         },
