@@ -2329,12 +2329,6 @@
                     "type": "proxy",
                     "created_at": "2022-01-22 04:18:08.468923",
                     "url": "https://d2c0cl8vuqwvuv.cloudfront.net"
-                },
-                {
-                    "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-01-24 19:36:55.077573",
-                    "url": "https://dx6k8baw8uxeq.cloudfront.net"
                 }
             ]
         },
