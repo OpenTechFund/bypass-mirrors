@@ -1482,13 +1482,6 @@
             "available_alternatives": [
                 {
                     "created_at": "2020-12-21 13:29:17.724217",
-                    "updated_at": "2020-12-21 13:29:17.724217",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3olbu2cl74039.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.724217",
                     "updated_at": "2021-06-02 20:37:43.309645",
                     "type": "proxy",
                     "proto": "https",
@@ -1504,7 +1497,7 @@
                     "proto": "https",
                     "type": "proxy",
                     "created_at": "2022-03-09 18:27:22.012038",
-                    "url": "d2jo4diopaaqfj.cloudfront.net"
+                    "url": "https://d2jo4diopaaqfj.cloudfront.net"
                 }
             ]
         },
