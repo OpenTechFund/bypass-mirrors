@@ -1499,6 +1499,12 @@
                     "type": "eotk",
                     "created_at": "2022-03-04 18:42:19.060684",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+                },
+                {
+                    "proto": "https",
+                    "type": "proxy",
+                    "created_at": "2022-03-09 18:27:22.012038",
+                    "url": "d2jo4diopaaqfj.cloudfront.net"
                 }
             ]
         },
