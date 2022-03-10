@@ -7,7 +7,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.863242",
-                    "url": "dkvn2ooq1pfjj.cloudfront.net"
+                    "url": "https://dkvn2ooq1pfjj.cloudfront.net"
                 }
             ],
             "main_domain": "7x7-journal.ru"
@@ -19,7 +19,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.786784",
-                    "url": "d1nhm3ln3k1qcx.cloudfront.net"
+                    "url": "https://d1nhm3ln3k1qcx.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.814062",
@@ -45,7 +45,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.768131",
-                    "url": "d2597r2yuql1l3.cloudfront.net"
+                    "url": "https://d2597r2yuql1l3.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.792882",
@@ -87,7 +87,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.772521",
-                    "url": "d11rrrn51uia9t.cloudfront.net"
+                    "url": "https://d11rrrn51uia9t.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.797687",
@@ -113,7 +113,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.853103",
-                    "url": "d3l09yi3rfdr27.cloudfront.net"
+                    "url": "https://d3l09yi3rfdr27.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.892969",
@@ -136,7 +136,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.859810",
-                    "url": "d8pxa2sijln69.cloudfront.net"
+                    "url": "https://d8pxa2sijln69.cloudfront.net"
                 }
             ],
             "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
@@ -148,7 +148,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.840095",
-                    "url": "d15rhpxl82e2j6.cloudfront.net"
+                    "url": "https://d15rhpxl82e2j6.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.877898",
@@ -171,7 +171,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.854176",
-                    "url": "d3eavyd4ceklqc.cloudfront.net"
+                    "url": "https://d3eavyd4ceklqc.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.894102",
@@ -190,7 +190,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.769232",
-                    "url": "d1ewq9x4vso4mg.cloudfront.net"
+                    "url": "https://d1ewq9x4vso4mg.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.794041",
@@ -216,21 +216,21 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.858738",
-                    "url": "d2c0cl8vuqwvuv.cloudfront.net"
+                    "url": "https://d2c0cl8vuqwvuv.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:32:30.861795",
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 21:32:58.643504",
-                    "url": "dxx59zxzkaqol.cloudfront.net"
+                    "url": "https://dxx59zxzkaqol.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:35:21.639404",
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 21:35:31.996308",
-                    "url": "d11b3t2zh1bhpp.cloudfront.net"
+                    "url": "https://d11b3t2zh1bhpp.cloudfront.net"
                 }
             ],
             "main_domain": "guardianproject.info"
@@ -242,7 +242,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.802017",
-                    "url": "d39c0v9ye2df3x.cloudfront.net"
+                    "url": "https://d39c0v9ye2df3x.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.832894",
@@ -261,7 +261,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.860894",
-                    "url": "d3sdzkcy2os10m.cloudfront.net"
+                    "url": "https://d3sdzkcy2os10m.cloudfront.net"
                 }
             ],
             "main_domain": "istories.media"
@@ -273,7 +273,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.774713",
-                    "url": "d3gfy1yp11en0v.cloudfront.net"
+                    "url": "https://d3gfy1yp11en0v.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.800184",
@@ -299,7 +299,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.861963",
-                    "url": "dnf1c2qr4mitl.cloudfront.net"
+                    "url": "https://dnf1c2qr4mitl.cloudfront.net"
                 }
             ],
             "main_domain": "kloop.kg"
@@ -318,7 +318,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.817214",
-                    "url": "dyhoiobzhmf6u.cloudfront.net"
+                    "url": "https://dyhoiobzhmf6u.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.849773",
@@ -337,7 +337,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.778078",
-                    "url": "d3j3u2oczbdci3.cloudfront.net"
+                    "url": "https://d3j3u2oczbdci3.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.804001",
@@ -363,7 +363,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.810518",
-                    "url": "d3p3ets9xecguv.cloudfront.net"
+                    "url": "https://d3p3ets9xecguv.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.842103",
@@ -382,7 +382,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.857625",
-                    "url": "d16204a1db94ho.cloudfront.net"
+                    "url": "https://d16204a1db94ho.cloudfront.net"
                 }
             ],
             "main_domain": "letsconvene.im"
@@ -401,7 +401,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.770334",
-                    "url": "d1i9o2xnbbjxka.cloudfront.net"
+                    "url": "https://d1i9o2xnbbjxka.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.795159",
@@ -434,7 +434,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.820512",
-                    "url": "d1ugi0rai6uerj.cloudfront.net"
+                    "url": "https://d1ugi0rai6uerj.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.853185",
@@ -457,7 +457,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.852052",
-                    "url": "dzmr266n1373m.cloudfront.net"
+                    "url": "https://dzmr266n1373m.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.891813",
@@ -476,7 +476,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.813790",
-                    "url": "d35on3r4wwdtjm.cloudfront.net"
+                    "url": "https://d35on3r4wwdtjm.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.845960",
@@ -506,7 +506,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.821620",
-                    "url": "dnpzl4pgplpls.cloudfront.net"
+                    "url": "https://dnpzl4pgplpls.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.854316",
@@ -532,7 +532,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.819398",
-                    "url": "d1lynpf6ndesae.cloudfront.net"
+                    "url": "https://d1lynpf6ndesae.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.852074",
@@ -551,7 +551,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.848772",
-                    "url": "d2c01behjrwzzh.cloudfront.net"
+                    "url": "https://d2c01behjrwzzh.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.888880",
@@ -570,7 +570,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.844388",
-                    "url": "dupohxa4h2tyy.cloudfront.net"
+                    "url": "https://dupohxa4h2tyy.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.883161",
@@ -589,7 +589,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.842226",
-                    "url": "dqyf3b5tyrhay.cloudfront.net"
+                    "url": "https://dqyf3b5tyrhay.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.880446",
@@ -615,7 +615,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.835786",
-                    "url": "d2b76qttafjygo.cloudfront.net"
+                    "url": "https://d2b76qttafjygo.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.872554",
@@ -634,7 +634,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.846613",
-                    "url": "d225hw0x3ivebp.cloudfront.net"
+                    "url": "https://d225hw0x3ivebp.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.885891",
@@ -653,7 +653,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.850947",
-                    "url": "d27ict1psc8jf8.cloudfront.net"
+                    "url": "https://d27ict1psc8jf8.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.890593",
@@ -672,7 +672,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.798894",
-                    "url": "d2xzp5nh044poy.cloudfront.net"
+                    "url": "https://d2xzp5nh044poy.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.830383",
@@ -698,7 +698,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.818312",
-                    "url": "d3e1m6ew10i0fy.cloudfront.net"
+                    "url": "https://d3e1m6ew10i0fy.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.850953",
@@ -724,14 +724,14 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.767023",
-                    "url": "d22lrcvl9lpljh.cloudfront.net"
+                    "url": "https://d22lrcvl9lpljh.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 12:47:07.856338",
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 14:28:40.711865",
-                    "url": "d2bli39f2k2tpl.cloudfront.net"
+                    "url": "https://d2bli39f2k2tpl.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.791723",
@@ -777,7 +777,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.756809",
-                    "url": "dvb5m5133mjx2.cloudfront.net"
+                    "url": "https://dvb5m5133mjx2.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.619246",
@@ -796,7 +796,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.811608",
-                    "url": "d1sxuww68nv5ka.cloudfront.net"
+                    "url": "https://d1sxuww68nv5ka.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.843484",
@@ -815,7 +815,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.762460",
-                    "url": "d3rt9c0a4lyhua.cloudfront.net"
+                    "url": "https://d3rt9c0a4lyhua.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.627624",
@@ -834,7 +834,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.781327",
-                    "url": "d2sorbcz6i6ph4.cloudfront.net"
+                    "url": "https://d2sorbcz6i6ph4.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.648698",
@@ -853,7 +853,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.808294",
-                    "url": "d39u4wcgwn4kyv.cloudfront.net"
+                    "url": "https://d39u4wcgwn4kyv.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.839141",
@@ -879,7 +879,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.809401",
-                    "url": "dtc4drn3cv47c.cloudfront.net"
+                    "url": "https://dtc4drn3cv47c.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.840813",
@@ -905,7 +905,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.836869",
-                    "url": "d6hnm3uzmmstw.cloudfront.net"
+                    "url": "https://d6hnm3uzmmstw.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.874016",
@@ -924,7 +924,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.847684",
-                    "url": "djjnjz9yrrn9s.cloudfront.net"
+                    "url": "https://djjnjz9yrrn9s.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.887495",
@@ -950,7 +950,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.830333",
-                    "url": "d3p1ee4vyd5fte.cloudfront.net"
+                    "url": "https://d3p1ee4vyd5fte.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.864627",
@@ -969,7 +969,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.843321",
-                    "url": "d1xagugcphl5ka.cloudfront.net"
+                    "url": "https://d1xagugcphl5ka.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.881884",
@@ -988,7 +988,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.841153",
-                    "url": "d2obt8q3k32oie.cloudfront.net"
+                    "url": "https://d2obt8q3k32oie.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.879288",
@@ -1014,7 +1014,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.834701",
-                    "url": "d3n8a0vrwm0b1b.cloudfront.net"
+                    "url": "https://d3n8a0vrwm0b1b.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.871297",
@@ -1047,7 +1047,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-10 12:00:01.592546",
-                    "url": "d2jo4diopaaqfj.cloudfront.net"
+                    "url": "https://d2jo4diopaaqfj.cloudfront.net"
                 }
             ],
             "main_domain": "www.currenttime.tv"
@@ -1059,7 +1059,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.783475",
-                    "url": "d314t9m83wo682.cloudfront.net"
+                    "url": "https://d314t9m83wo682.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.809783",
@@ -1085,7 +1085,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.804556",
-                    "url": "d39uw103xbzdem.cloudfront.net"
+                    "url": "https://d39uw103xbzdem.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.835541",
@@ -1104,7 +1104,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.803390",
-                    "url": "d3i93fguv3m4cg.cloudfront.net"
+                    "url": "https://d3i93fguv3m4cg.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.834234",
@@ -1130,7 +1130,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.839015",
-                    "url": "d3vt1li3uxancf.cloudfront.net"
+                    "url": "https://d3vt1li3uxancf.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.876749",
@@ -1149,7 +1149,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.825974",
-                    "url": "d2tti6r5yf3ebk.cloudfront.net"
+                    "url": "https://d2tti6r5yf3ebk.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.859774",
@@ -1168,7 +1168,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.829226",
-                    "url": "d1fv5edn5x6c43.cloudfront.net"
+                    "url": "https://d1fv5edn5x6c43.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.863228",
@@ -1187,7 +1187,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.765941",
-                    "url": "d27p5syzkh3i8t.cloudfront.net"
+                    "url": "https://d27p5syzkh3i8t.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.790428",
@@ -1206,7 +1206,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.763567",
-                    "url": "d36uwzm4zjhq8y.cloudfront.net"
+                    "url": "https://d36uwzm4zjhq8y.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:59:49.407491",
@@ -1232,7 +1232,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.831407",
-                    "url": "d1esqphj4q8g1s.cloudfront.net"
+                    "url": "https://d1esqphj4q8g1s.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.866622",
@@ -1258,7 +1258,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.832509",
-                    "url": "d1qc3w1114w6y9.cloudfront.net"
+                    "url": "https://d1qc3w1114w6y9.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.868436",
@@ -1277,7 +1277,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.855255",
-                    "url": "d1hbgv1r2g372t.cloudfront.net"
+                    "url": "https://d1hbgv1r2g372t.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.895459",
@@ -1296,7 +1296,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.845520",
-                    "url": "d2vvzvxrodyg2e.cloudfront.net"
+                    "url": "https://d2vvzvxrodyg2e.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.884561",
@@ -1315,7 +1315,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.849857",
-                    "url": "dhtw4h5yju1xx.cloudfront.net"
+                    "url": "https://dhtw4h5yju1xx.cloudfront.net"
                 }
             ],
             "main_domain": "www.ozodlik.org"
@@ -1327,7 +1327,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.784585",
-                    "url": "d3g81wsezffiiv.cloudfront.net"
+                    "url": "https://d3g81wsezffiiv.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.811107",
@@ -1353,7 +1353,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.812701",
-                    "url": "d2p1p2pf0rgubm.cloudfront.net"
+                    "url": "https://d2p1p2pf0rgubm.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.844821",
@@ -1379,7 +1379,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.833595",
-                    "url": "d1d9taxynonm87.cloudfront.net"
+                    "url": "https://d1d9taxynonm87.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.869932",
@@ -1398,7 +1398,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.757915",
-                    "url": "d3qu9zle029wq1.cloudfront.net"
+                    "url": "https://d3qu9zle029wq1.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.620874",
@@ -1424,7 +1424,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.816103",
-                    "url": "d3pkp5ysrgnc2b.cloudfront.net"
+                    "url": "https://d3pkp5ysrgnc2b.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.848628",
@@ -1450,7 +1450,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.837944",
-                    "url": "dpa3si1v04rwd.cloudfront.net"
+                    "url": "https://dpa3si1v04rwd.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.875412",
@@ -1469,7 +1469,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.759198",
-                    "url": "d2sg4fdjdi994l.cloudfront.net"
+                    "url": "https://d2sg4fdjdi994l.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.622707",
@@ -1488,7 +1488,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.791135",
-                    "url": "d400ni5nx0y8r.cloudfront.net"
+                    "url": "https://d400ni5nx0y8r.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.821460",
@@ -1521,7 +1521,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.755448",
-                    "url": "d2nhsvzhh6a8fa.cloudfront.net"
+                    "url": "https://d2nhsvzhh6a8fa.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.782126",
@@ -1554,7 +1554,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.747931",
-                    "url": "d37sg4cltf6jy4.cloudfront.net"
+                    "url": "https://d37sg4cltf6jy4.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.773040",
@@ -1580,7 +1580,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.828099",
-                    "url": "dy10nebxja1k9.cloudfront.net"
+                    "url": "https://dy10nebxja1k9.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.861756",
@@ -1599,7 +1599,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.824888",
-                    "url": "dk99i459aa9en.cloudfront.net"
+                    "url": "https://dk99i459aa9en.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.858341",
@@ -1618,7 +1618,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.823789",
-                    "url": "d1sk3qeff9e0lt.cloudfront.net"
+                    "url": "https://d1sk3qeff9e0lt.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.857001",
@@ -1644,7 +1644,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.753219",
-                    "url": "d1no88f5ipkpvq.cloudfront.net"
+                    "url": "https://d1no88f5ipkpvq.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.779306",
@@ -1677,7 +1677,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.827039",
-                    "url": "d1e6t2g7k08m8d.cloudfront.net"
+                    "url": "https://d1e6t2g7k08m8d.cloudfront.net"
                 }
             ],
             "main_domain": "www.svoboda.org"
@@ -1689,7 +1689,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.822706",
-                    "url": "d3qinv6vsiufbn.cloudfront.net"
+                    "url": "https://d3qinv6vsiufbn.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.855658",
@@ -1708,7 +1708,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.752071",
-                    "url": "dsin0kzf5uino.cloudfront.net"
+                    "url": "https://dsin0kzf5uino.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.777780",
@@ -1734,7 +1734,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.785698",
-                    "url": "d11fwl8go5phep.cloudfront.net"
+                    "url": "https://d11fwl8go5phep.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.812622",
@@ -1760,7 +1760,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.788965",
-                    "url": "d2x2wdnc5wqo5e.cloudfront.net"
+                    "url": "https://d2x2wdnc5wqo5e.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.817656",
@@ -1786,7 +1786,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.787858",
-                    "url": "d1nlmc9xbxdp0m.cloudfront.net"
+                    "url": "https://d1nlmc9xbxdp0m.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.815525",
@@ -1812,7 +1812,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.782410",
-                    "url": "d1gjrk4rd09dyo.cloudfront.net"
+                    "url": "https://d1gjrk4rd09dyo.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.808394",
@@ -1838,7 +1838,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.775800",
-                    "url": "d2koenh5bw0hsw.cloudfront.net"
+                    "url": "https://d2koenh5bw0hsw.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.801505",
@@ -1864,7 +1864,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.749634",
-                    "url": "d2nrssbcvr15be.cloudfront.net"
+                    "url": "https://d2nrssbcvr15be.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.775924",
@@ -1890,7 +1890,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.760306",
-                    "url": "dt0xlnfid8nkl.cloudfront.net"
+                    "url": "https://dt0xlnfid8nkl.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.785086",
@@ -1916,7 +1916,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.750783",
-                    "url": "d3anrqy0xi2p65.cloudfront.net"
+                    "url": "https://d3anrqy0xi2p65.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.610541",
@@ -1935,7 +1935,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.790051",
-                    "url": "dwuqnn9wvpfxx.cloudfront.net"
+                    "url": "https://dwuqnn9wvpfxx.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.819846",
@@ -1961,7 +1961,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.773620",
-                    "url": "d3qduo44dg1dxf.cloudfront.net"
+                    "url": "https://d3qduo44dg1dxf.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.799058",
@@ -1987,7 +1987,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.776937",
-                    "url": "d3en78yfqfzy3p.cloudfront.net"
+                    "url": "https://d3en78yfqfzy3p.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.802848",
@@ -2013,7 +2013,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.792252",
-                    "url": "d2ns88muhdwax6.cloudfront.net"
+                    "url": "https://d2ns88muhdwax6.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:02:24.665088",
@@ -2032,7 +2032,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.793360",
-                    "url": "d1im2c0ulrj969.cloudfront.net"
+                    "url": "https://d1im2c0ulrj969.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.823643",
@@ -2058,7 +2058,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.754352",
-                    "url": "d3g0g1bncts1h.cloudfront.net"
+                    "url": "https://d3g0g1bncts1h.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.780665",
@@ -2084,7 +2084,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.805675",
-                    "url": "d2zck4jortm6fu.cloudfront.net"
+                    "url": "https://d2zck4jortm6fu.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.836910",
@@ -2103,7 +2103,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.794469",
-                    "url": "d1lr1wd65rfqlo.cloudfront.net"
+                    "url": "https://d1lr1wd65rfqlo.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.825107",
@@ -2129,7 +2129,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.795602",
-                    "url": "d1ub4jr4kdbmn3.cloudfront.net"
+                    "url": "https://d1ub4jr4kdbmn3.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.826509",
@@ -2155,7 +2155,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.796719",
-                    "url": "drvm4tx2f316x.cloudfront.net"
+                    "url": "https://drvm4tx2f316x.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.827911",
@@ -2181,7 +2181,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.797828",
-                    "url": "d2uu9ucbnbit5g.cloudfront.net"
+                    "url": "https://d2uu9ucbnbit5g.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.829252",
@@ -2207,7 +2207,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.779152",
-                    "url": "d23gzxkfyganlr.cloudfront.net"
+                    "url": "https://d23gzxkfyganlr.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.805332",
@@ -2233,14 +2233,14 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 18:52:00.015043",
-                    "url": "d1bgq2xjhyjaf2.cloudfront.net"
+                    "url": "https://d1bgq2xjhyjaf2.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 12:47:07.780242",
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.780243",
-                    "url": "d3k0r37v2a6skr.cloudfront.net"
+                    "url": "https://d3k0r37v2a6skr.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.806631",
@@ -2266,7 +2266,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.761386",
-                    "url": "d14mwypgnul2rt.cloudfront.net"
+                    "url": "https://d14mwypgnul2rt.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.786468",
@@ -2292,7 +2292,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.799991",
-                    "url": "dqtqgv0z2fz2m.cloudfront.net"
+                    "url": "https://dqtqgv0z2fz2m.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.831726",
@@ -2311,7 +2311,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.806787",
-                    "url": "d10lan121hftkg.cloudfront.net"
+                    "url": "https://d10lan121hftkg.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 21:00:51.158607",
@@ -2330,7 +2330,7 @@
                     "proto": "https",
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.771413",
-                    "url": "d16zfnvyrkt8ha.cloudfront.net"
+                    "url": "https://d16zfnvyrkt8ha.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.796508",
