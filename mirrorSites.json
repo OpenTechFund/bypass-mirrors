@@ -53,13 +53,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.792883",
                     "url": "https://bavoanews1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.631537",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.631538",
-                    "url": "https://bavoa1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "ba.voanews.com"
@@ -790,13 +783,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.756809",
                     "url": "https://dvb5m5133mjx2.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.619246",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.619246",
-                    "url": "https://alhurr1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.alhurra.com"
@@ -828,13 +814,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.762460",
                     "url": "https://d3rt9c0a4lyhua.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.627624",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.627624",
-                    "url": "https://amerk1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.amerikaninsesi.org"
