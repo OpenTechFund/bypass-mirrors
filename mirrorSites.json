@@ -142,7 +142,15 @@
             "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-10 14:54:19.966198",
+                    "url": "https://d1ib4ftn4j7inf.cloudfront.net"
+                }
+            ],
             "main_domain": "en.currenttime.tv"
         },
         {
@@ -1370,7 +1378,15 @@
             "main_domain": "www.polygraph.info"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-10 14:56:24.131988",
+                    "url": "https://d2ni0lpj8yy90r.cloudfront.net"
+                }
+            ],
             "main_domain": "www.radiofarda.com"
         },
         {
@@ -1710,7 +1726,15 @@
             "main_domain": "www.svobodnaevropa.bg"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-10 14:56:16.044603",
+                    "url": "https://d26jcmpapz3sbd.cloudfront.net"
+                }
+            ],
             "main_domain": "www.szabadeuropa.hu"
         },
         {
