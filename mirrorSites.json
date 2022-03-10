@@ -203,13 +203,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.794041",
                     "url": "https://grvoa1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.632972",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.632973",
-                    "url": "https://grvoa1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "gr.voanews.com"
@@ -1058,13 +1051,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.809783",
                     "url": "https://dario1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.651882",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.651882",
-                    "url": "https://dario1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.darivoa.com"
@@ -1402,13 +1388,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.757915",
                     "url": "https://d3qu9zle029wq1.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.620874",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.620875",
-                    "url": "https://rsawa1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.radiosawa.com"
@@ -1499,13 +1478,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.821461",
                     "url": "https://radioyo1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.663491",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.663492",
-                    "url": "https://radioyo1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.radiyoyacuvoa.com"
@@ -1932,13 +1904,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.750783",
                     "url": "https://d3anrqy0xi2p65.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.610541",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.610542",
-                    "url": "https://dvoa1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voadeewanews.com"
@@ -2204,13 +2169,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.829253",
                     "url": "https://voaswah1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.673153",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.673153",
-                    "url": "https://voaswah1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voaswahili.com"
