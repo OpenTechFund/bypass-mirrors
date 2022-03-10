@@ -1,2383 +1,2347 @@
 {
-    "version": "2.0",
     "sites": [
         {
-            "main_domain": "severreal.org",
             "available_alternatives": [
                 {
-                    "proto": "http",
+                    "created_at": "2022-03-09 12:47:07.863241",
+                    "proto": "https",
                     "type": "mirror",
-                    "created_at": "2021-01-11 14:21:22.051644",
-                    "url": "https://severreal.azureedge.net",
-                    "updated_at": "2021-06-02 20:36:38.113716"
-                },
-                {
-                    "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2021-05-17 14:36:11.980334",
-                    "url": "https://d37sg4cltf6jy4.cloudfront.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 19:45:43.368177",
-                    "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+                    "updated_at": "2022-03-09 12:47:07.863242",
+                    "url": "dkvn2ooq1pfjj.cloudfront.net"
                 }
-            ]
+            ],
+            "main_domain": "7x7-journal.ru"
         },
         {
-            "main_domain": "voacantonese.com",
-            "requested_url": "voacantonese.com",
-            "exists": true,
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.786783",
                     "proto": "https",
-                    "url": "https://voacant1.global.ssl.fastly.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.786784",
+                    "url": "d1nhm3ln3k1qcx.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.814062",
                     "proto": "https",
-                    "url": "https://d2nrssbcvr15be.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.814063",
+                    "url": "https://amhari1.azureedge.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.687219",
-                    "updated_at": "2020-12-21 13:29:17.687219",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 21:02:24.656565",
                     "proto": "https",
-                    "url": "https://voacant1.azureedge.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.656566",
+                    "url": "https://amhar1.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "amharic.voanews.com"
         },
         {
-            "main_domain": "voadeewanews.com",
-            "requested_url": "voadeewanews.com",
-            "exists": true,
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.667716",
-                    "updated_at": "2020-12-21 13:29:17.667716",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.768130",
                     "proto": "https",
-                    "url": "https://dvoa1.global.ssl.fastly.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.768131",
+                    "url": "d2597r2yuql1l3.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.667716",
-                    "updated_at": "2020-12-21 13:29:17.667716",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.792882",
                     "proto": "https",
-                    "url": "https://d3anrqy0xi2p65.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "urduvoa.com",
-            "requested_url": "urduvoa.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dsin0kzf5uino.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dour21.azureedge.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.671196",
-                    "updated_at": "2020-12-21 13:29:17.671196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dour21.global.ssl.fastly.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "svaboda.org",
-            "requested_url": "svaboda.org",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.724762",
-                    "updated_at": "2020-12-21 13:29:17.724762",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1no88f5ipkpvq.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.724762",
-                    "updated_at": "2021-06-02 20:39:44.720970",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://svaboda.azureedge.net"
-                },
-                {
-                    "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2021-06-03 17:04:34.206486",
-                    "url": "https://svaboda.global.ssl.fastly.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 19:01:32.762271",
-                    "url": "https://svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "voanews.com",
-            "requested_url": "voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voan1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3g0g1bncts1h.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.673731",
-                    "updated_at": "2020-12-21 13:29:17.673731",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voanews1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "rferl.org",
-            "requested_url": "rferl.org",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.676444",
-                    "updated_at": "2021-05-03 10:24:14.242800",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rferl2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.676444",
-                    "updated_at": "2020-12-21 13:29:17.676444",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2nhsvzhh6a8fa.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.676444",
-                    "updated_at": "2021-06-02 20:38:44.412893",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rferl.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2021-09-27 17:14:29.999310",
-                    "url": "https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "rfa.org",
-            "requested_url": "rfa.org",
-            "exists": true,
-            "available_alternatives": []
-        },
-        {
-            "main_domain": "alhurra.com",
-            "requested_url": "alhurra.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.682901",
-                    "updated_at": "2020-12-21 13:29:17.682901",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://alhurr1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.682901",
-                    "updated_at": "2020-12-21 13:29:17.682901",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dvb5m5133mjx2.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "radiosawa.com",
-            "requested_url": "radiosawa.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.684382",
-                    "updated_at": "2020-12-21 13:29:17.684382",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rsawa1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.684382",
-                    "updated_at": "2020-12-21 13:29:17.684382",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3qu9zle029wq1.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "opentech.fund",
-            "requested_url": "opentech.fund",
-            "exists": true,
-            "available_alternatives": []
-        },
-        {
-            "main_domain": "radiotelevisionmarti.com",
-            "requested_url": "radiotelevisionmarti.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.685581",
-                    "updated_at": "2020-12-21 13:29:17.685581",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://mart1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.685581",
-                    "updated_at": "2020-12-21 13:29:17.685581",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2sg4fdjdi994l.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voachinese.com",
-            "requested_url": "voachinese.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.686180",
-                    "updated_at": "2020-12-21 13:29:17.686180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voach1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.686180",
-                    "updated_at": "2020-12-21 13:29:17.686180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dt0xlnfid8nkl.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.686180",
-                    "updated_at": "2020-12-21 13:29:17.686180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voachin1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voatiengviet.com",
-            "requested_url": "voatiengviet.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.688024",
-                    "updated_at": "2020-12-21 13:29:17.688024",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voati1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.688024",
-                    "updated_at": "2020-12-21 13:29:17.688024",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d14mwypgnul2rt.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.688024",
-                    "updated_at": "2020-12-21 13:29:17.688024",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatieng1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "amerikaninsesi.org",
-            "requested_url": "amerikaninsesi.org",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.688869",
-                    "updated_at": "2020-12-21 13:29:17.688869",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://amerk1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.688869",
-                    "updated_at": "2020-12-21 13:29:17.688869",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3rt9c0a4lyhua.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "golos-ameriki.ru",
-            "requested_url": "golos-ameriki.ru",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.689740",
-                    "updated_at": "2020-12-21 13:29:17.689740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d36uwzm4zjhq8y.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.689740",
-                    "updated_at": "2020-12-21 13:29:17.689740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://golos1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voatibetanenglish.com",
-            "requested_url": "voatibetanenglish.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.690504",
-                    "updated_at": "2020-12-21 13:29:17.690504",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1bgq2xjhyjaf2.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.690504",
-                    "updated_at": "2020-12-21 13:29:17.690504",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatbeng1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "en.rfi.fr",
-            "requested_url": "en.rfi.fr",
-            "exists": true,
-            "available_alternatives": []
-        },
-        {
-            "main_domain": "glasamerike.net",
-            "requested_url": "glasamerike.net",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.691932",
-                    "updated_at": "2020-12-21 13:29:17.691932",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d27p5syzkh3i8t.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.691932",
-                    "updated_at": "2020-12-21 13:29:17.691932",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://glasa1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "ukrainian.voanews.com",
-            "requested_url": "ukrainian.voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.692549",
-                    "updated_at": "2020-12-21 13:29:17.692549",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d22lrcvl9lpljh.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.692549",
-                    "updated_at": "2020-12-21 13:29:17.692549",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ukrai1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.692549",
-                    "updated_at": "2020-12-21 13:29:17.692549",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ukrain1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "ba.voanews.com",
-            "requested_url": "ba.voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.693222",
-                    "updated_at": "2020-12-21 13:29:17.693222",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2597r2yuql1l3.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.693222",
-                    "updated_at": "2020-12-21 13:29:17.693222",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://bavoa1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.693222",
-                    "updated_at": "2020-12-21 13:29:17.693222",
-                    "type": "proxy",
-                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.792883",
                     "url": "https://bavoanews1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.631537",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.631538",
+                    "url": "https://bavoa1.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "ba.voanews.com"
         },
         {
-            "main_domain": "gr.voanews.com",
-            "requested_url": "gr.voanews.com",
-            "exists": true,
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.693910",
-                    "updated_at": "2020-12-21 13:29:17.693910",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.719556",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.719557",
+                    "url": "https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion"
+                }
+            ],
+            "main_domain": "bbc.co.uk"
+        },
+        {
+            "available_alternatives": [],
+            "main_domain": "benarnews.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.772520",
                     "proto": "https",
-                    "url": "https://d1ewq9x4vso4mg.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.772521",
+                    "url": "d11rrrn51uia9t.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.693910",
-                    "updated_at": "2020-12-21 13:29:17.693910",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.797687",
                     "proto": "https",
-                    "url": "https://grvoa1.global.ssl.fastly.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.797688",
+                    "url": "https://burmes1.azureedge.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.693910",
-                    "updated_at": "2020-12-21 13:29:17.693910",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 21:02:24.636235",
                     "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.636235",
+                    "url": "https://burme1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "burmese.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.853103",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.853103",
+                    "url": "d3l09yi3rfdr27.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.892969",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.892970",
+                    "url": "https://daazadiradio2.azureedge.net"
+                }
+            ],
+            "main_domain": "da.azadiradio.com"
+        },
+        {
+            "available_alternatives": [],
+            "main_domain": "dw.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.859809",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.859810",
+                    "url": "d8pxa2sijln69.cloudfront.net"
+                }
+            ],
+            "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.840094",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.840095",
+                    "url": "d15rhpxl82e2j6.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.877898",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.877899",
+                    "url": "https://enradiofarda1.azureedge.net"
+                }
+            ],
+            "main_domain": "en.radiofarda.com"
+        },
+        {
+            "available_alternatives": [],
+            "main_domain": "en.rfi.fr"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.854176",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.854176",
+                    "url": "d3eavyd4ceklqc.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.894102",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.894103",
+                    "url": "https://gandhara1.azureedge.net"
+                }
+            ],
+            "main_domain": "gandhara.rferl.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.769231",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.769232",
+                    "url": "d1ewq9x4vso4mg.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.794041",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.794041",
                     "url": "https://grvoa1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.632972",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.632973",
+                    "url": "https://grvoa1.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "gr.voanews.com"
         },
         {
-            "main_domain": "mk.voanews.com",
-            "requested_url": "mk.voanews.com",
-            "exists": true,
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.694815",
-                    "updated_at": "2020-12-21 13:29:17.694815",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.858737",
                     "proto": "https",
-                    "url": "https://d1i9o2xnbbjxka.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.858738",
+                    "url": "d2c0cl8vuqwvuv.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.694815",
-                    "updated_at": "2020-12-21 13:29:17.694815",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 21:32:30.861795",
                     "proto": "https",
-                    "url": "https://mkvoa1.global.ssl.fastly.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:32:58.643504",
+                    "url": "dxx59zxzkaqol.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.694815",
-                    "updated_at": "2020-12-21 13:29:17.694815",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 21:35:21.639404",
                     "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:35:31.996308",
+                    "url": "d11b3t2zh1bhpp.cloudfront.net"
+                }
+            ],
+            "main_domain": "guardianproject.info"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.802012",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.802017",
+                    "url": "d39c0v9ye2df3x.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.832894",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.832895",
+                    "url": "https://irvoa1.azureedge.net"
+                }
+            ],
+            "main_domain": "ir.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.860893",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.860894",
+                    "url": "d3sdzkcy2os10m.cloudfront.net"
+                }
+            ],
+            "main_domain": "istories.media"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.774712",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.774713",
+                    "url": "d3gfy1yp11en0v.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.800184",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.800185",
+                    "url": "https://khmer1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.639276",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.639276",
+                    "url": "https://khmer1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "khmer.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.861962",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.861963",
+                    "url": "dnf1c2qr4mitl.cloudfront.net"
+                }
+            ],
+            "main_domain": "kloop.kg"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.724244",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.724244",
+                    "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.817213",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.817214",
+                    "url": "dyhoiobzhmf6u.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.849773",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.849774",
+                    "url": "https://ktat1.azureedge.net"
+                }
+            ],
+            "main_domain": "ktat.krymr.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.778077",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.778078",
+                    "url": "d3j3u2oczbdci3.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.804001",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.804001",
+                    "url": "https://voalao1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.643882",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.643883",
+                    "url": "https://voalao1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "lao.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.810517",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.810518",
+                    "url": "d3p3ets9xecguv.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.842103",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.842104",
+                    "url": "https://learni1.azureedge.net"
+                }
+            ],
+            "main_domain": "learningenglish.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.857624",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.857625",
+                    "url": "d16204a1db94ho.cloudfront.net"
+                }
+            ],
+            "main_domain": "letsconvene.im"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.712250",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.712251",
+                    "url": "https://mkvoart6geuu3kn4.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.770333",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.770334",
+                    "url": "d1i9o2xnbbjxka.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.795159",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.795159",
                     "url": "https://mkvoa1.azureedge.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.694815",
-                    "updated_at": "2020-12-21 13:29:17.694815",
+                    "created_at": "2022-03-09 21:02:24.634400",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.634401",
+                    "url": "https://mkvoa1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "mk.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.727645",
                     "proto": "tor",
                     "type": "eotk",
-                    "url": "https://mkvoart6geuu3kn4.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "zeriamerikes.com",
-            "requested_url": "zeriamerikes.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.695810",
-                    "updated_at": "2020-12-21 13:29:17.695810",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d16zfnvyrkt8ha.cloudfront.net"
+                    "updated_at": "2022-03-09 12:47:07.727645",
+                    "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.695810",
-                    "updated_at": "2020-12-21 13:29:17.695810",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.820512",
                     "proto": "https",
-                    "url": "https://zeria1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "burmese.voanews.com",
-            "requested_url": "burmese.voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.696825",
-                    "updated_at": "2020-12-21 13:29:17.696825",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d11rrrn51uia9t.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.696825",
-                    "updated_at": "2020-12-21 13:29:17.696825",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://burme1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.696825",
-                    "updated_at": "2020-12-21 13:29:17.696825",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://burmes1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voaindonesia.com",
-            "requested_url": "voaindonesia.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.697720",
-                    "updated_at": "2020-12-21 13:29:17.697720",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3qduo44dg1dxf.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.697720",
-                    "updated_at": "2020-12-21 13:29:17.697720",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaind1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.697720",
-                    "updated_at": "2020-12-21 13:29:17.697720",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaind1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "khmer.voanews.com",
-            "requested_url": "khmer.voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.698606",
-                    "updated_at": "2020-12-21 13:29:17.698606",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3gfy1yp11en0v.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.698606",
-                    "updated_at": "2020-12-21 13:29:17.698606",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://khmer1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.698606",
-                    "updated_at": "2020-12-21 13:29:17.698606",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://khmer1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voacambodia.com",
-            "requested_url": "voacambodia.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.699451",
-                    "updated_at": "2020-12-21 13:29:17.699451",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2koenh5bw0hsw.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.699451",
-                    "updated_at": "2020-12-21 13:29:17.699451",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voacam1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.699451",
-                    "updated_at": "2020-12-21 13:29:17.699451",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voacamb1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voakorea.com",
-            "requested_url": "voakorea.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.700131",
-                    "updated_at": "2020-12-21 13:29:17.700131",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3en78yfqfzy3p.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.700131",
-                    "updated_at": "2020-12-21 13:29:17.700131",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voakor1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.700131",
-                    "updated_at": "2020-12-21 13:29:17.700131",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voakorea1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "lao.voanews.com",
-            "requested_url": "lao.voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.700808",
-                    "updated_at": "2020-12-21 13:29:17.700808",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3j3u2oczbdci3.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.700808",
-                    "updated_at": "2020-12-21 13:29:17.700808",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voalao1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.700808",
-                    "updated_at": "2020-12-21 13:29:17.700808",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voalao1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voathai.com",
-            "requested_url": "voathai.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.701473",
-                    "updated_at": "2020-12-21 13:29:17.701473",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d23gzxkfyganlr.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.701473",
-                    "updated_at": "2020-12-21 13:29:17.701473",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voathai1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.701473",
-                    "updated_at": "2020-12-21 13:29:17.701473",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voathai1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voatibetan.com",
-            "requested_url": "voatibetan.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3k0r37v2a6skr.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatibet2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.702189",
-                    "updated_at": "2020-12-21 13:29:17.702189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voatibet1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "amerikaovozi.com",
-            "requested_url": "amerikaovozi.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.703196",
-                    "updated_at": "2020-12-21 13:29:17.703196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2sorbcz6i6ph4.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.703196",
-                    "updated_at": "2020-12-21 13:29:17.703196",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kaovo1.global.ssl.fastly.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voabangla.com",
-            "requested_url": "voabangla.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.704254",
-                    "updated_at": "2020-12-21 13:29:17.704254",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1gjrk4rd09dyo.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.704254",
-                    "updated_at": "2020-12-21 13:29:17.704254",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabang1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.704254",
-                    "updated_at": "2020-12-21 13:29:17.704254",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabangla1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "darivoa.com",
-            "requested_url": "darivoa.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.704979",
-                    "updated_at": "2020-12-21 13:29:17.704979",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d314t9m83wo682.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.704979",
-                    "updated_at": "2020-12-21 13:29:17.704979",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dario1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.704979",
-                    "updated_at": "2020-12-21 13:29:17.704979",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dario1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "pashtovoa.com",
-            "requested_url": "pashtovoa.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.705740",
-                    "updated_at": "2020-12-21 13:29:17.705740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3g81wsezffiiv.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.705740",
-                    "updated_at": "2020-12-21 13:29:17.705740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://pashto1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.705740",
-                    "updated_at": "2020-12-21 13:29:17.705740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://pashto1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voaafaanoromoo.com",
-            "requested_url": "voaafaanoromoo.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.706497",
-                    "updated_at": "2020-12-21 13:29:17.706497",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d11fwl8go5phep.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.706497",
-                    "updated_at": "2020-12-21 13:29:17.706497",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaafaa1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.706497",
-                    "updated_at": "2020-12-21 13:29:17.706497",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaafaa1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "amharic.voanews.com",
-            "requested_url": "amharic.voanews.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.707509",
-                    "updated_at": "2020-12-21 13:29:17.707509",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1nhm3ln3k1qcx.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.707509",
-                    "updated_at": "2020-12-21 13:29:17.707509",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://amhar1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.707509",
-                    "updated_at": "2020-12-21 13:29:17.707509",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://amhari1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voabambara.com",
-            "requested_url": "voabambara.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.708711",
-                    "updated_at": "2020-12-21 13:29:17.708711",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1nlmc9xbxdp0m.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.708711",
-                    "updated_at": "2020-12-21 13:29:17.708711",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabam1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.708711",
-                    "updated_at": "2020-12-21 13:29:17.708711",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voabam1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voaafrique.com",
-            "requested_url": "voaafrique.com",
-            "exists": true,
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.709526",
-                    "updated_at": "2020-12-21 13:29:17.709526",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2x2wdnc5wqo5e.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.709526",
-                    "updated_at": "2020-12-21 13:29:17.709526",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaafri1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.709526",
-                    "updated_at": "2020-12-21 13:29:17.709526",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaafri1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voahausa.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.710177",
-                    "updated_at": "2020-12-21 13:29:17.710177",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dwuqnn9wvpfxx.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.710177",
-                    "updated_at": "2020-12-21 13:29:17.710177",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voahau1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.710177",
-                    "updated_at": "2020-12-21 13:29:17.710177",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voahau1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "radiyoyacuvoa.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.710799",
-                    "updated_at": "2020-12-21 13:29:17.710799",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d400ni5nx0y8r.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.710799",
-                    "updated_at": "2020-12-21 13:29:17.710799",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://radioyo1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.710799",
-                    "updated_at": "2020-12-21 13:29:17.710799",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://radioyo1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voalingala.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.711606",
-                    "updated_at": "2020-12-21 13:29:17.711606",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2ns88muhdwax6.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.711606",
-                    "updated_at": "2020-12-21 13:29:17.711606",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaling1.global.ssl.fastly.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voandebele.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.712180",
-                    "updated_at": "2020-12-21 13:29:17.712180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1im2c0ulrj969.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.712180",
-                    "updated_at": "2020-12-21 13:29:17.712180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voande1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.712180",
-                    "updated_at": "2020-12-21 13:29:17.712180",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voande1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voaportugues.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.712794",
-                    "updated_at": "2020-12-21 13:29:17.712794",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1lr1wd65rfqlo.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.712794",
-                    "updated_at": "2020-12-21 13:29:17.712794",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaport3.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.712794",
-                    "updated_at": "2020-12-21 13:29:17.712794",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaport1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voashona.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.713409",
-                    "updated_at": "2020-12-21 13:29:17.713409",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1ub4jr4kdbmn3.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.713409",
-                    "updated_at": "2020-12-21 13:29:17.713409",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voasho2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.713409",
-                    "updated_at": "2020-12-21 13:29:17.713409",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voasho2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voasomali.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.714057",
-                    "updated_at": "2020-12-21 13:29:17.714057",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://drvm4tx2f316x.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.714057",
-                    "updated_at": "2020-12-21 13:29:17.714057",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voasoma2.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.714057",
-                    "updated_at": "2020-12-21 13:29:17.714057",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voasoma2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voaswahili.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.714650",
-                    "updated_at": "2020-12-21 13:29:17.714650",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2uu9ucbnbit5g.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.714650",
-                    "updated_at": "2020-12-21 13:29:17.714650",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaswah1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.714650",
-                    "updated_at": "2020-12-21 13:29:17.714650",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voaswah1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "tigrigna.voanews.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.715312",
-                    "updated_at": "2020-12-21 13:29:17.715312",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2xzp5nh044poy.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.715312",
-                    "updated_at": "2020-12-21 13:29:17.715312",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://tigrig1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voazimbabwe.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.715884",
-                    "updated_at": "2020-12-21 13:29:17.715884",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dqtqgv0z2fz2m.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.715884",
-                    "updated_at": "2020-12-21 13:29:17.715884",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voazim2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "ir.voanews.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.716472",
-                    "updated_at": "2020-12-21 13:29:17.716472",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d39c0v9ye2df3x.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.716472",
-                    "updated_at": "2020-12-21 13:29:17.716472",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://irvoa1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "dengiamerika.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.717189",
-                    "updated_at": "2020-12-21 13:29:17.717189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3i93fguv3m4cg.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.717189",
-                    "updated_at": "2020-12-21 13:29:17.717189",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dengia1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "dengeamerika.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.717751",
-                    "updated_at": "2020-12-21 13:29:17.717751",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d39uw103xbzdem.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.717751",
-                    "updated_at": "2020-12-21 13:29:17.717751",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dengea1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voanouvel.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.718411",
-                    "updated_at": "2020-12-21 13:29:17.718411",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2zck4jortm6fu.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.718411",
-                    "updated_at": "2020-12-21 13:29:17.718411",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voanou1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "voanoticias.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.719045",
-                    "updated_at": "2020-12-21 13:29:17.719045",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d10lan121hftkg.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.719045",
-                    "updated_at": "2020-12-21 13:29:17.719045",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://voanotici1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "dw.com",
-            "available_alternatives": []
-        },
-        {
-            "main_domain": "bbc.co.uk",
-            "available_alternatives": [
-                {
-                    "proto": "http",
                     "type": "mirror",
-                    "created_at": "2022-03-04 11:57:25.615965",
-                    "url": "https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion",
-                    "updated_at": "2022-03-04 12:42:45.403197"
+                    "updated_at": "2022-03-09 12:47:07.820512",
+                    "url": "d1ugi0rai6uerj.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.853185",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.853186",
+                    "url": "https://moldov1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "moldova.europalibera.org"
         },
         {
-            "main_domain": "amerikayidzayn.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.720604",
-                    "updated_at": "2020-12-21 13:29:17.720604",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kayid1.global.ssl.fastly.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.720604",
-                    "updated_at": "2020-12-21 13:29:17.720604",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d39u4wcgwn4kyv.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.720604",
-                    "updated_at": "2020-12-21 13:29:17.720604",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kayid1.azureedge.net"
-                }
-            ]
+            "available_alternatives": [],
+            "main_domain": "opentech.fund"
         },
         {
-            "main_domain": "amerikiskhma.com",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.721167",
-                    "updated_at": "2020-12-21 13:29:17.721167",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.852052",
                     "proto": "https",
-                    "url": "https://kiskh1.global.ssl.fastly.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.852052",
+                    "url": "dzmr266n1373m.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.721167",
-                    "updated_at": "2020-12-21 13:29:17.721167",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.891813",
                     "proto": "https",
-                    "url": "https://dtc4drn3cv47c.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.721167",
-                    "updated_at": "2020-12-21 13:29:17.721167",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kisk1.azureedge.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.891814",
+                    "url": "https://paazadradio1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "pa.azadiradio.com"
         },
         {
-            "main_domain": "learningenglish.voanews.com",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.721791",
-                    "updated_at": "2020-12-21 13:29:17.721791",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.813789",
                     "proto": "https",
-                    "url": "https://d3p3ets9xecguv.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.813790",
+                    "url": "d35on3r4wwdtjm.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.721791",
-                    "updated_at": "2020-12-21 13:29:17.721791",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.845960",
                     "proto": "https",
-                    "url": "https://learni1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "amerikaninsesi.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.722510",
-                    "updated_at": "2020-12-21 13:29:17.722510",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1sxuww68nv5ka.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.722510",
-                    "updated_at": "2020-12-21 13:29:17.722510",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://amerikanc1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "polygraph.info",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.723111",
-                    "updated_at": "2020-12-21 13:29:17.723111",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2p1p2pf0rgubm.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.723111",
-                    "updated_at": "2020-12-21 13:29:17.723111",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://polygraph1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "pressroom.rferl.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.723663",
-                    "updated_at": "2020-12-21 13:29:17.723663",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d35on3r4wwdtjm.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.723663",
-                    "updated_at": "2020-12-21 13:29:17.723663",
-                    "type": "proxy",
-                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.845961",
                     "url": "https://pressr1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "pressroom.rferl.org"
         },
         {
-            "main_domain": "currenttime.tv",
+            "available_alternatives": [],
+            "main_domain": "rfa.org"
+        },
+        {
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.724217",
-                    "updated_at": "2021-06-02 20:37:43.309645",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://currtv.azureedge.net"
-                },
-                {
+                    "created_at": "2022-03-09 12:47:07.728749",
                     "proto": "tor",
                     "type": "eotk",
-                    "created_at": "2022-03-04 18:42:19.060684",
+                    "updated_at": "2022-03-09 12:47:07.728750",
+                    "url": "https://romania.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.821620",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.821620",
+                    "url": "dnpzl4pgplpls.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.854316",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.854317",
+                    "url": "https://romani1.azureedge.net"
+                }
+            ],
+            "main_domain": "romania.europalibera.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.726461",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.726462",
+                    "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.819398",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.819398",
+                    "url": "d1lynpf6ndesae.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.852074",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.852074",
+                    "url": "https://rukrymr.azureedge.net"
+                }
+            ],
+            "main_domain": "ru.krymr.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.848771",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.848772",
+                    "url": "d2c01behjrwzzh.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.888880",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.888881",
+                    "url": "https://rusazath1.azureedge.net"
+                }
+            ],
+            "main_domain": "rus.azathabar.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.844387",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.844388",
+                    "url": "dupohxa4h2tyy.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.883161",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.883162",
+                    "url": "https://rusazatyyk2.azureedge.net"
+                }
+            ],
+            "main_domain": "rus.azattyk.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.842226",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.842226",
+                    "url": "dqyf3b5tyrhay.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.880446",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.880447",
+                    "url": "https://rusazattyq1.azureedge.net"
+                }
+            ],
+            "main_domain": "rus.azattyq.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.738772",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.738772",
+                    "url": "https://rus.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.835786",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.835786",
+                    "url": "d2b76qttafjygo.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.872554",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.872555",
+                    "url": "https://rusazat1.azureedge.net"
+                }
+            ],
+            "main_domain": "rus.azatutyun.am"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.846612",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.846613",
+                    "url": "d225hw0x3ivebp.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.885891",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.885892",
+                    "url": "https://rusozodi1.azureedge.net"
+                }
+            ],
+            "main_domain": "rus.ozodi.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.850946",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.850947",
+                    "url": "d27ict1psc8jf8.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.890593",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.890593",
+                    "url": "https://rusozodlik1.azureedge.net"
+                }
+            ],
+            "main_domain": "rus.ozodlik.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.798894",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.798894",
+                    "url": "d2xzp5nh044poy.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.830383",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.830384",
+                    "url": "https://tigrig1.azureedge.net"
+                }
+            ],
+            "main_domain": "tigrigna.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.725343",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.725344",
+                    "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.818312",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.818312",
+                    "url": "d3e1m6ew10i0fy.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.850953",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.850954",
+                    "url": "https://katkry1.azureedge.net"
+                }
+            ],
+            "main_domain": "ua.krymr.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.745219",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 14:15:52.134760",
+                    "url": "https://voaukrel5ds5o2ay.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.767022",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.767023",
+                    "url": "d22lrcvl9lpljh.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.856338",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 14:28:40.711865",
+                    "url": "d2bli39f2k2tpl.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.791723",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.791723",
+                    "url": "https://ukrain1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.630082",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.630082",
+                    "url": "https://ukrai1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "ukrainian.voanews.com"
+        },
+        {
+            "available_alternatives": [],
+            "main_domain": "ukranian.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 20:56:28.788476",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.788477",
+                    "url": "https://voatbeng1.azureedge.net"
+                }
+            ],
+            "main_domain": "voatibetanenglish.com"
+        },
+        {
+            "available_alternatives": [],
+            "main_domain": "www.agents.media"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.756808",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.756809",
+                    "url": "dvb5m5133mjx2.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.619246",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.619246",
+                    "url": "https://alhurr1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.alhurra.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.811608",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.811608",
+                    "url": "d1sxuww68nv5ka.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.843484",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.843484",
+                    "url": "https://amerikanc1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.amerikaninsesi.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.762459",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.762460",
+                    "url": "d3rt9c0a4lyhua.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.627624",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.627624",
+                    "url": "https://amerk1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.amerikaninsesi.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.781327",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.781327",
+                    "url": "d2sorbcz6i6ph4.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.648698",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.648698",
+                    "url": "https://kaovo1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.amerikaovozi.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.808294",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.808294",
+                    "url": "d39u4wcgwn4kyv.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.839141",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.839142",
+                    "url": "https://kayid1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.677266",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.677266",
+                    "url": "https://kayid1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.amerikayidzayn.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.809401",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.809401",
+                    "url": "dtc4drn3cv47c.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.840813",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.840815",
+                    "url": "https://kisk1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.678899",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.678900",
+                    "url": "https://kiskh1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.amerikiskhma.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.836868",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.836869",
+                    "url": "d6hnm3uzmmstw.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.874016",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.874017",
+                    "url": "https://azadliq1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.azadliq.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.847684",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.847684",
+                    "url": "djjnjz9yrrn9s.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.887495",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.887497",
+                    "url": "https://azathabar1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.azathabar.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.733118",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.733119",
+                    "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.830332",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.830333",
+                    "url": "d3p1ee4vyd5fte.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.864627",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.864628",
+                    "url": "https://azatliq.azureedge.net"
+                }
+            ],
+            "main_domain": "www.azatliq.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.843320",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.843321",
+                    "url": "d1xagugcphl5ka.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.881884",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.881885",
+                    "url": "https://azattyk2.azureedge.net"
+                }
+            ],
+            "main_domain": "www.azattyk.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.841152",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.841153",
+                    "url": "d2obt8q3k32oie.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.879288",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.879289",
+                    "url": "https://azattyq1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.azattyq.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.737643",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.737644",
+                    "url": "https://www.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.834700",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.834701",
+                    "url": "d3n8a0vrwm0b1b.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.871297",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.871298",
+                    "url": "https://azatut1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.azatutyun.am"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.721893",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
                 },
                 {
+                    "created_at": "2022-03-09 20:56:28.847301",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-03-09 18:27:22.012038",
-                    "url": "https://d2jo4diopaaqfj.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.847302",
+                    "url": "https://currtv.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 11:42:53.005620",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-10 12:00:01.592546",
+                    "url": "d2jo4diopaaqfj.cloudfront.net"
                 }
-            ]
+            ],
+            "main_domain": "www.currenttime.tv"
         },
         {
-            "main_domain": "radiosvoboda.org",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.725306",
-                    "updated_at": "2020-12-21 13:29:17.725306",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.783475",
                     "proto": "https",
-                    "url": "https://d3pkp5ysrgnc2b.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.783475",
+                    "url": "d314t9m83wo682.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.725306",
-                    "updated_at": "2020-12-21 13:29:17.725306",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.809783",
                     "proto": "https",
-                    "url": "https://radiosv1.azureedge.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.809783",
+                    "url": "https://dario1.azureedge.net"
                 },
                 {
+                    "created_at": "2022-03-09 21:02:24.651882",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.651882",
+                    "url": "https://dario1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.darivoa.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.804556",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.804556",
+                    "url": "d39uw103xbzdem.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.835541",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.835542",
+                    "url": "https://dengea1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.dengeamerika.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.803389",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.803390",
+                    "url": "d3i93fguv3m4cg.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.834234",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.834235",
+                    "url": "https://dengia1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.dengiamerika.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.741268",
                     "proto": "tor",
                     "type": "eotk",
-                    "created_at": "2022-03-05 15:35:50.232003",
-                    "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
+                    "updated_at": "2022-03-09 12:47:07.741268",
+                    "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.839015",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.839015",
+                    "url": "d3vt1li3uxancf.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.876749",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.876749",
+                    "url": "https://ekhokavkaza1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.ekhokavkaza.com"
         },
         {
-            "main_domain": "ktat.krymr.com",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.725899",
-                    "updated_at": "2020-12-21 13:29:17.725899",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.825973",
                     "proto": "https",
-                    "url": "https://dyhoiobzhmf6u.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.825974",
+                    "url": "d2tti6r5yf3ebk.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.725899",
-                    "updated_at": "2020-12-21 13:29:17.725899",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.859774",
                     "proto": "https",
-                    "url": "https://ktat1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-06 20:53:16.511633",
-                    "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "ua.krymr.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.726531",
-                    "updated_at": "2020-12-21 13:29:17.726531",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3e1m6ew10i0fy.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.726531",
-                    "updated_at": "2020-12-21 13:29:17.726531",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://katkry1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-06 20:53:48.594727",
-                    "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "ru.krymr.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.727114",
-                    "updated_at": "2020-12-21 13:29:17.727114",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1lynpf6ndesae.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.727114",
-                    "updated_at": "2021-06-02 20:40:46.793940",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rukrymr.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 18:39:18.696353",
-                    "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion",
-                    "updated_at": "2022-03-06 20:54:26.800138"
-                }
-            ]
-        },
-        {
-            "main_domain": "moldova.europalibera.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.727810",
-                    "updated_at": "2020-12-21 13:29:17.727810",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1ugi0rai6uerj.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.727810",
-                    "updated_at": "2020-12-21 13:29:17.727810",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://moldov1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-06 21:26:37.869836",
-                    "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "romania.europalibera.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.728338",
-                    "updated_at": "2020-12-21 13:29:17.728338",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dnpzl4pgplpls.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.728338",
-                    "updated_at": "2020-12-21 13:29:17.728338",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://romani1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-06 21:26:16.271212",
-                    "url": "https://romania.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "svobodnaevropa.bg",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.728862",
-                    "updated_at": "2020-12-21 13:29:17.728862",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3qinv6vsiufbn.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.728862",
-                    "updated_at": "2020-12-21 13:29:17.728862",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://svobod1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "slobodnaevropa.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.729392",
-                    "updated_at": "2020-12-21 13:29:17.729392",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1sk3qeff9e0lt.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.729392",
-                    "updated_at": "2020-12-21 13:29:17.729392",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://slobodn1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "slobodnaevropa.mk",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.729899",
-                    "updated_at": "2020-12-21 13:29:17.729899",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dk99i459aa9en.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.729899",
-                    "updated_at": "2020-12-21 13:29:17.729899",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://slobodn2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "evropaelire.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.730434",
-                    "updated_at": "2020-12-21 13:29:17.730434",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2tti6r5yf3ebk.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.730434",
-                    "updated_at": "2020-12-21 13:29:17.730434",
-                    "type": "proxy",
-                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.859775",
                     "url": "https://evropae1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.evropaelire.org"
         },
         {
-            "main_domain": "svoboda.org",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.730966",
-                    "updated_at": "2020-12-21 13:29:17.730966",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.829226",
                     "proto": "https",
-                    "url": "https://d1e6t2g7k08m8d.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.829226",
+                    "url": "d1fv5edn5x6c43.cloudfront.net"
                 },
                 {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 18:38:03.280964",
-                    "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "sibreal.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.731575",
-                    "updated_at": "2020-12-21 13:29:17.731575",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.863228",
                     "proto": "https",
-                    "url": "https://dy10nebxja1k9.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.731575",
-                    "updated_at": "2021-06-02 20:34:16.904399",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://sibreal.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 19:57:33.985579",
-                    "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "factograph.info",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.732182",
-                    "updated_at": "2020-12-21 13:29:17.732182",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1fv5edn5x6c43.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.732182",
-                    "updated_at": "2020-12-21 13:29:17.732182",
-                    "type": "proxy",
-                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.863229",
                     "url": "https://factogr1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.factograph.info"
         },
         {
-            "main_domain": "azatliq.org",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.732901",
-                    "updated_at": "2020-12-21 13:29:17.732901",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.765941",
                     "proto": "https",
-                    "url": "https://d3p1ee4vyd5fte.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.765941",
+                    "url": "d27p5syzkh3i8t.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.732901",
-                    "updated_at": "2021-06-02 20:33:18.474861",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.790428",
                     "proto": "https",
-                    "url": "https://azatliq.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 21:17:24.955439",
-                    "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.790429",
+                    "url": "https://glasa1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.glasamerike.net"
         },
         {
-            "main_domain": "idelreal.org",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.733464",
-                    "updated_at": "2020-12-21 13:29:17.733464",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.763566",
                     "proto": "https",
-                    "url": "https://d1esqphj4q8g1s.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.763567",
+                    "url": "d36uwzm4zjhq8y.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.733464",
-                    "updated_at": "2021-06-02 20:31:59.744057",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:59:49.407491",
                     "proto": "https",
-                    "url": "https://idelreal.azureedge.net"
-                },
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:59:49.407493",
+                    "url": "https://golos1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.golosameriki.com"
+        },
+        {
+            "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.734201",
                     "proto": "tor",
                     "type": "eotk",
-                    "created_at": "2022-03-04 21:10:07.365038",
+                    "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.831406",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.831407",
+                    "url": "d1esqphj4q8g1s.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.866622",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.866626",
+                    "url": "https://idelreal.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.idelreal.org"
         },
         {
-            "main_domain": "kavkazr.com",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.734029",
-                    "updated_at": "2020-12-21 13:29:17.734029",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1qc3w1114w6y9.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.734029",
-                    "updated_at": "2021-06-02 20:30:37.454088",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://kavkazr.azureedge.net"
-                },
-                {
+                    "created_at": "2022-03-09 12:47:07.735337",
                     "proto": "tor",
                     "type": "eotk",
-                    "created_at": "2022-03-04 22:03:50.679692",
+                    "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.832508",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.832509",
+                    "url": "d1qc3w1114w6y9.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.868436",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.868437",
+                    "url": "https://kavkazr.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.kavkazr.com"
         },
         {
-            "main_domain": "radiomarsho.com",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.734599",
-                    "updated_at": "2020-12-21 13:29:17.734599",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.855254",
                     "proto": "https",
-                    "url": "https://d1d9taxynonm87.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.855255",
+                    "url": "d1hbgv1r2g372t.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.734599",
-                    "updated_at": "2022-03-08 17:13:05.526325",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 20:56:28.895459",
                     "proto": "https",
-                    "url": "https://radiomarsho.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-04 22:13:56.010794",
-                    "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "azatutyun.am",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.735197",
-                    "updated_at": "2020-12-21 13:29:17.735197",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3n8a0vrwm0b1b.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.735197",
-                    "updated_at": "2020-12-21 13:29:17.735197",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azatut1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-08 13:05:42.363981",
-                    "url": "https://www.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "rus.azatutyun.am",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.735732",
-                    "updated_at": "2020-12-21 13:29:17.735732",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2b76qttafjygo.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.735732",
-                    "updated_at": "2020-12-21 13:29:17.735732",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusazat1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-08 13:06:09.452660",
-                    "url": "https://rus.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "azadliq.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.736288",
-                    "updated_at": "2020-12-21 13:29:17.736288",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d6hnm3uzmmstw.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.736288",
-                    "updated_at": "2020-12-21 13:29:17.736288",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azadliq1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "radiotavisupleba.ge",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.737018",
-                    "updated_at": "2020-12-21 13:29:17.737018",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dpa3si1v04rwd.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.737018",
-                    "updated_at": "2020-12-21 13:29:17.737018",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://radiotavis1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-08 12:21:50.575841",
-                    "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion",
-                    "updated_at": "2022-03-08 12:21:59.272528"
-                }
-            ]
-        },
-        {
-            "main_domain": "ekhokavkaza.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.737800",
-                    "updated_at": "2020-12-21 13:29:17.737800",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3vt1li3uxancf.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.737800",
-                    "updated_at": "2020-12-21 13:29:17.737800",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ekhokavkaza1.azureedge.net"
-                },
-                {
-                    "proto": "tor",
-                    "type": "eotk",
-                    "created_at": "2022-03-08 12:07:20.618324",
-                    "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
-                }
-            ]
-        },
-        {
-            "main_domain": "en.radiofarda.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.738701",
-                    "updated_at": "2020-12-21 13:29:17.738701",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d15rhpxl82e2j6.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.738701",
-                    "updated_at": "2020-12-21 13:29:17.738701",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://enradiofarda1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "azattyq.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.739522",
-                    "updated_at": "2020-12-21 13:29:17.739522",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2obt8q3k32oie.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.739522",
-                    "updated_at": "2020-12-21 13:29:17.739522",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azattyq1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "rus.azattyq.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.740911",
-                    "updated_at": "2020-12-21 13:29:17.740911",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dqyf3b5tyrhay.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.740911",
-                    "updated_at": "2020-12-21 13:29:17.740911",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusazattyq1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "azattyk.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.741817",
-                    "updated_at": "2020-12-21 13:29:17.741817",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1xagugcphl5ka.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.741817",
-                    "updated_at": "2020-12-21 13:29:17.741817",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azattyk2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "rus.azattyk.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.742405",
-                    "updated_at": "2020-12-21 13:29:17.742405",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dupohxa4h2tyy.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.742405",
-                    "updated_at": "2020-12-21 13:29:17.742405",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusazatyyk2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "ozodi.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.742985",
-                    "updated_at": "2020-12-21 13:29:17.742985",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://ozodi1.azureedge.net"
-                },
-                {
-                    "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-01-24 19:15:42.306441",
-                    "url": "https://d2vvzvxrodyg2e.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "rus.ozodi.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.743555",
-                    "updated_at": "2020-12-21 13:29:17.743555",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d225hw0x3ivebp.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.743555",
-                    "updated_at": "2020-12-21 13:29:17.743555",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusozodi1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "azathabar.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.744099",
-                    "updated_at": "2020-12-21 13:29:17.744099",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://djjnjz9yrrn9s.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.744099",
-                    "updated_at": "2020-12-21 13:29:17.744099",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://azathabar1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "rus.azathabar.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.744615",
-                    "updated_at": "2020-12-21 13:29:17.744615",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d2c01behjrwzzh.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.744615",
-                    "updated_at": "2020-12-21 13:29:17.744615",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusazath1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "ozodlik.org",
-            "available_alternatives": [
-                {
-                    "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-01-22 04:29:39.630841",
-                    "url": "https://dhtw4h5yju1xx.cloudfront.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "rus.ozodlik.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.745750",
-                    "updated_at": "2020-12-21 13:29:17.745750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d27ict1psc8jf8.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.745750",
-                    "updated_at": "2020-12-21 13:29:17.745750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://rusozodlik1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "pa.azadiradio.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.746245",
-                    "updated_at": "2020-12-21 13:29:17.746245",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://dzmr266n1373m.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.746245",
-                    "updated_at": "2020-12-21 13:29:17.746245",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://paazadradio1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "da.azadiradio.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.746740",
-                    "updated_at": "2020-12-21 13:29:17.746740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3l09yi3rfdr27.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.746740",
-                    "updated_at": "2020-12-21 13:29:17.746740",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://daazadiradio2.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "gandhara.rferl.org",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.747251",
-                    "updated_at": "2020-12-21 13:29:17.747251",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d3eavyd4ceklqc.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.747251",
-                    "updated_at": "2020-12-21 13:29:17.747251",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://gandhara1.azureedge.net"
-                }
-            ]
-        },
-        {
-            "main_domain": "mashaalradio.com",
-            "available_alternatives": [
-                {
-                    "created_at": "2020-12-21 13:29:17.747750",
-                    "updated_at": "2020-12-21 13:29:17.747750",
-                    "type": "proxy",
-                    "proto": "https",
-                    "url": "https://d1hbgv1r2g372t.cloudfront.net"
-                },
-                {
-                    "created_at": "2020-12-21 13:29:17.747750",
-                    "updated_at": "2020-12-21 13:29:17.747750",
-                    "type": "proxy",
-                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.895459",
                     "url": "https://mashaalradio1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.mashaalradio.com"
         },
         {
-            "main_domain": "ukranian.voanews.com",
             "available_alternatives": [
                 {
-                    "created_at": "2020-12-21 13:29:17.748255",
-                    "updated_at": "2020-12-21 13:29:17.748255",
-                    "type": "proxy",
+                    "created_at": "2022-03-09 12:47:07.845519",
                     "proto": "https",
-                    "url": "https://d2bli39f2k2tpl.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.845520",
+                    "url": "d2vvzvxrodyg2e.cloudfront.net"
                 },
                 {
-                    "created_at": "2020-12-21 13:29:17.748255",
-                    "updated_at": "2020-12-21 13:29:17.748255",
+                    "created_at": "2022-03-09 20:56:28.884561",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.884562",
+                    "url": "https://ozodi1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.ozodi.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.849856",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.849857",
+                    "url": "dhtw4h5yju1xx.cloudfront.net"
+                }
+            ],
+            "main_domain": "www.ozodlik.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.784584",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.784585",
+                    "url": "d3g81wsezffiiv.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.811107",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.811107",
+                    "url": "https://pashto1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.653486",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.653486",
+                    "url": "https://pashto1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.pashtovoa.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.812701",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.812701",
+                    "url": "d2p1p2pf0rgubm.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.844821",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.844822",
+                    "url": "https://polygraph1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.polygraph.info"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.736502",
                     "proto": "tor",
                     "type": "eotk",
-                    "url": "https://voaukrel5ds5o2ay.onion"
+                    "updated_at": "2022-03-09 12:47:07.736503",
+                    "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.833594",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.833595",
+                    "url": "d1d9taxynonm87.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.869932",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.869933",
+                    "url": "https://radiomarsho.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.radiomarsho.com"
         },
         {
-            "main_domain": "benarnews.org",
-            "available_alternatives": []
-        },
-        {
-            "main_domain": "letsconvene.im",
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.757915",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2021-12-23 14:30:33.756970",
-                    "url": "https://d16204a1db94ho.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.757915",
+                    "url": "d3qu9zle029wq1.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.620874",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.620875",
+                    "url": "https://rsawa1.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "www.radiosawa.com"
         },
         {
-            "main_domain": "guardianproject.info",
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.723071",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.723072",
+                    "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.816102",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-01-22 04:18:08.468923",
-                    "url": "https://d2c0cl8vuqwvuv.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.816103",
+                    "url": "d3pkp5ysrgnc2b.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.848628",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.848628",
+                    "url": "https://radiosv1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.radiosvoboda.org"
         },
         {
-            "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com",
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.740129",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.740130",
+                    "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.837943",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-03-04 13:43:29.337403",
-                    "url": "https://d8pxa2sijln69.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.837944",
+                    "url": "dpa3si1v04rwd.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.875412",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.875412",
+                    "url": "https://radiotavis1.azureedge.net"
                 }
-            ]
+            ],
+            "main_domain": "www.radiotavisupleba.ge"
         },
         {
-            "main_domain": "istories.media",
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.759197",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-03-04 16:41:13.566812",
-                    "url": "https://d3sdzkcy2os10m.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.759198",
+                    "url": "d2sg4fdjdi994l.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.622707",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.622708",
+                    "url": "https://mart1.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "www.radiotelevisionmarti.com"
         },
         {
-            "main_domain": "kloop.kg",
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.791134",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-03-05 10:41:38.861086",
-                    "url": "https://dnf1c2qr4mitl.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.791135",
+                    "url": "d400ni5nx0y8r.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.821460",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.821461",
+                    "url": "https://radioyo1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.663491",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.663492",
+                    "url": "https://radioyo1.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "www.radiyoyacuvoa.com"
         },
         {
-            "main_domain": "www.agents.media",
-            "available_alternatives": []
-        },
-        {
-            "main_domain": "7x7-journal.ru",
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-09 12:47:07.708243",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.708243",
+                    "url": "https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.755447",
                     "proto": "https",
-                    "type": "proxy",
-                    "created_at": "2022-03-06 03:04:09.564363",
-                    "url": "https://dkvn2ooq1pfjj.cloudfront.net"
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.755448",
+                    "url": "d2nhsvzhh6a8fa.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.782126",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.782127",
+                    "url": "https://rferl.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.617360",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.617361",
+                    "url": "https://rferl2.global.ssl.fastly.net"
                 }
-            ]
+            ],
+            "main_domain": "www.rferl.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.704676",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.704677",
+                    "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.747930",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.747931",
+                    "url": "d37sg4cltf6jy4.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.773040",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.773043",
+                    "url": "https://severreal.azureedge.net"
+                }
+            ],
+            "main_domain": "www.severreal.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.731793",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.731793",
+                    "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.828099",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.828099",
+                    "url": "dy10nebxja1k9.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.861756",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.861757",
+                    "url": "https://sibreal.azureedge.net"
+                }
+            ],
+            "main_domain": "www.sibreal.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.824887",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.824888",
+                    "url": "dk99i459aa9en.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.858341",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.858341",
+                    "url": "https://slobodn2.azureedge.net"
+                }
+            ],
+            "main_domain": "www.slobodnaevropa.mk"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.823788",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.823789",
+                    "url": "d1sk3qeff9e0lt.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.857001",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.857001",
+                    "url": "https://slobodn1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.slobodnaevropa.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.706894",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.706894",
+                    "url": "https://svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.753219",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.753219",
+                    "url": "d1no88f5ipkpvq.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.779306",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.779307",
+                    "url": "https://svaboda.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.614003",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.614004",
+                    "url": "https://svaboda.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.svaboda.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.730641",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-09 12:47:07.730642",
+                    "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.827039",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.827039",
+                    "url": "d1e6t2g7k08m8d.cloudfront.net"
+                }
+            ],
+            "main_domain": "www.svoboda.org"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.822705",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.822706",
+                    "url": "d3qinv6vsiufbn.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.855658",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.855658",
+                    "url": "https://svobod1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.svobodnaevropa.bg"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.752070",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.752071",
+                    "url": "dsin0kzf5uino.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.777780",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.777780",
+                    "url": "https://dour21.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.612279",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.612280",
+                    "url": "https://dour21.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.urduvoa.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.785697",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.785698",
+                    "url": "d11fwl8go5phep.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.812622",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.812624",
+                    "url": "https://voaafaa1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.655132",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.655133",
+                    "url": "https://voaafaa1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voaafaanoromoo.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.788964",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.788965",
+                    "url": "d2x2wdnc5wqo5e.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.817656",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.817660",
+                    "url": "https://voaafri1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.660255",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.660255",
+                    "url": "https://voaafri1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voaafrique.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.787857",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.787858",
+                    "url": "d1nlmc9xbxdp0m.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.815525",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.815526",
+                    "url": "https://voabam1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.658643",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.658644",
+                    "url": "https://voabam1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voabambara.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.782410",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.782410",
+                    "url": "d1gjrk4rd09dyo.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.808394",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.808394",
+                    "url": "https://voabangla1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.650293",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.650294",
+                    "url": "https://voabang1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voabangla.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.775799",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.775800",
+                    "url": "d2koenh5bw0hsw.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.801505",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.801506",
+                    "url": "https://voacamb1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.640867",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.640867",
+                    "url": "https://voacam1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voacambodia.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.749633",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.749634",
+                    "url": "d2nrssbcvr15be.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.775924",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.775925",
+                    "url": "https://voacant1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.607609",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.607611",
+                    "url": "https://voacant1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voacantonese.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.760305",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.760306",
+                    "url": "dt0xlnfid8nkl.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.785086",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.785087",
+                    "url": "https://voachin1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.624373",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.624374",
+                    "url": "https://voach1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voachinese.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.750782",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.750783",
+                    "url": "d3anrqy0xi2p65.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.610541",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.610542",
+                    "url": "https://dvoa1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voadeewanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.790051",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.790051",
+                    "url": "dwuqnn9wvpfxx.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.819846",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.819848",
+                    "url": "https://voahau1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.661853",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.661853",
+                    "url": "https://voahau1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voahausa.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.773620",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.773620",
+                    "url": "d3qduo44dg1dxf.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.799058",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.799058",
+                    "url": "https://voaind1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.637854",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.637854",
+                    "url": "https://voaind1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voaindonesia.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.776936",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.776937",
+                    "url": "d3en78yfqfzy3p.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.802848",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.802849",
+                    "url": "https://voakorea1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.642476",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.642477",
+                    "url": "https://voakor1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voakorea.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.792251",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.792252",
+                    "url": "d2ns88muhdwax6.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.665088",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.665088",
+                    "url": "https://voaling1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voalingala.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.793359",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.793360",
+                    "url": "d1im2c0ulrj969.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.823643",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.823645",
+                    "url": "https://voande1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.666725",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.666725",
+                    "url": "https://voande1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voandebele.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.754351",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.754352",
+                    "url": "d3g0g1bncts1h.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.780665",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.780665",
+                    "url": "https://voanews1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.615674",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.615675",
+                    "url": "https://voan1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voanews.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.805675",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.805675",
+                    "url": "d2zck4jortm6fu.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.836910",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.836911",
+                    "url": "https://voanou1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.voanouvel.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.794468",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.794469",
+                    "url": "d1lr1wd65rfqlo.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.825107",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.825108",
+                    "url": "https://voaport1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.668314",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.668315",
+                    "url": "https://voaport3.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voaportugues.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.795601",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.795602",
+                    "url": "d1ub4jr4kdbmn3.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.826509",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.826509",
+                    "url": "https://voasho2.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.669903",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.669904",
+                    "url": "https://voasho2.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voashona.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.796718",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.796719",
+                    "url": "drvm4tx2f316x.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.827911",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.827912",
+                    "url": "https://voasoma2.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.671530",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.671531",
+                    "url": "https://voasoma2.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voasomali.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.797827",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.797828",
+                    "url": "d2uu9ucbnbit5g.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.829252",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.829253",
+                    "url": "https://voaswah1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.673153",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.673153",
+                    "url": "https://voaswah1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voaswahili.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.779151",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.779152",
+                    "url": "d23gzxkfyganlr.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.805332",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.805333",
+                    "url": "https://voathai1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.645491",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.645491",
+                    "url": "https://voathai1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voathai.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.764652",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 18:52:00.015043",
+                    "url": "d1bgq2xjhyjaf2.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 12:47:07.780242",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.780243",
+                    "url": "d3k0r37v2a6skr.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.806631",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.806631",
+                    "url": "https://voatibet1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.647082",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.647083",
+                    "url": "https://voatibet2.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voatibetan.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.761385",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.761386",
+                    "url": "d14mwypgnul2rt.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.786468",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.786469",
+                    "url": "https://voatieng1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:02:24.626005",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:02:24.626005",
+                    "url": "https://voati1.global.ssl.fastly.net"
+                }
+            ],
+            "main_domain": "www.voatiengviet.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.799989",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.799991",
+                    "url": "dqtqgv0z2fz2m.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.831726",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.831727",
+                    "url": "https://voazim2.azureedge.net"
+                }
+            ],
+            "main_domain": "www.voazimbabwe.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.806787",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.806787",
+                    "url": "d10lan121hftkg.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 21:00:51.158607",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 21:00:51.158613",
+                    "url": "https://voanotici1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.vozdeamerica.com"
+        },
+        {
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-09 12:47:07.771413",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 12:47:07.771413",
+                    "url": "d16zfnvyrkt8ha.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-09 20:56:28.796508",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-09 20:56:28.796509",
+                    "url": "https://zeria1.azureedge.net"
+                }
+            ],
+            "main_domain": "www.zeriamerikes.com"
         }
-    ]
+    ],
+    "version": "2.0"
 }
