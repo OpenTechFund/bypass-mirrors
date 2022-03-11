@@ -400,13 +400,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.795159",
                     "url": "https://mkvoa1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.634400",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.634401",
-                    "url": "https://mkvoa1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "mk.voanews.com"
