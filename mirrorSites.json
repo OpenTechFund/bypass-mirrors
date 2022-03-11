@@ -746,15 +746,7 @@
             "main_domain": "ukranian.voanews.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-09 20:56:28.788476",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 20:56:28.788477",
-                    "url": "https://voatbeng1.azureedge.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "voatibetanenglish.com"
         },
         {
@@ -2080,13 +2072,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.827912",
                     "url": "https://voasoma2.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.671530",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.671531",
-                    "url": "https://voasoma2.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voasomali.com"
