@@ -27,13 +27,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.814063",
                     "url": "https://amhari1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.656565",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.656566",
-                    "url": "https://amhar1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "amharic.voanews.com"
@@ -1445,13 +1438,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.759198",
                     "url": "https://d2sg4fdjdi994l.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.622707",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.622708",
-                    "url": "https://mart1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.radiotelevisionmarti.com"
@@ -1620,13 +1606,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.779307",
                     "url": "https://svaboda.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.614003",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.614004",
-                    "url": "https://svaboda.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.svaboda.org"
@@ -1748,13 +1727,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.817660",
                     "url": "https://voaafri1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.660255",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.660255",
-                    "url": "https://voaafri1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voaafrique.com"
@@ -1852,13 +1824,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.775925",
                     "url": "https://voacant1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.607609",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.607611",
-                    "url": "https://voacant1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voacantonese.com"
@@ -1878,13 +1843,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.785087",
                     "url": "https://voachin1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.624373",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.624374",
-                    "url": "https://voach1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voachinese.com"
@@ -1942,13 +1900,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.799058",
                     "url": "https://voaind1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.637854",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.637854",
-                    "url": "https://voaind1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voaindonesia.com"
@@ -2110,13 +2061,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.826509",
                     "url": "https://voasho2.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.669903",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.669904",
-                    "url": "https://voasho2.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voashona.com"
@@ -2181,13 +2125,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.805333",
                     "url": "https://voathai1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.645491",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.645491",
-                    "url": "https://voathai1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voathai.com"
@@ -2214,13 +2151,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.806631",
                     "url": "https://voatibet1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.647082",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.647083",
-                    "url": "https://voatibet2.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voatibetan.com"
@@ -2240,13 +2170,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.786469",
                     "url": "https://voatieng1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.626005",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.626005",
-                    "url": "https://voati1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.voatiengviet.com"
