@@ -1312,13 +1312,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.811107",
                     "url": "https://pashto1.azureedge.net"
-                },
-                {
-                    "created_at": "2022-03-09 21:02:24.653486",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 21:02:24.653486",
-                    "url": "https://pashto1.global.ssl.fastly.net"
                 }
             ],
             "main_domain": "www.pashtovoa.com"
