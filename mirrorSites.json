@@ -95,13 +95,6 @@
         {
             "available_alternatives": [
                 {
-                    "created_at": "2022-03-09 12:47:07.853103",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.853103",
-                    "url": "https://d3l09yi3rfdr27.cloudfront.net"
-                },
-                {
                     "created_at": "2022-03-09 20:56:28.892969",
                     "proto": "https",
                     "type": "mirror",
@@ -128,15 +121,7 @@
             "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-10 14:54:19.966198",
-                    "url": "https://d1ib4ftn4j7inf.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "en.currenttime.tv"
         },
         {
@@ -164,13 +149,6 @@
         },
         {
             "available_alternatives": [
-                {
-                    "created_at": "2022-03-09 12:47:07.854176",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.854176",
-                    "url": "https://d3eavyd4ceklqc.cloudfront.net"
-                },
                 {
                     "created_at": "2022-03-09 20:56:28.894102",
                     "proto": "https",
@@ -437,13 +415,6 @@
         {
             "available_alternatives": [
                 {
-                    "created_at": "2022-03-09 12:47:07.852052",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.852052",
-                    "url": "https://dzmr266n1373m.cloudfront.net"
-                },
-                {
                     "created_at": "2022-03-09 20:56:28.891813",
                     "proto": "https",
                     "type": "mirror",
@@ -666,13 +637,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
-                },
-                {
-                    "created_at": "2022-03-09 12:47:07.850946",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.850947",
-                    "url": "https://d27ict1psc8jf8.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-09 20:56:28.890593",
@@ -1284,13 +1248,6 @@
         {
             "available_alternatives": [
                 {
-                    "created_at": "2022-03-09 12:47:07.855254",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.855255",
-                    "url": "https://d1hbgv1r2g372t.cloudfront.net"
-                },
-                {
                     "created_at": "2022-03-09 20:56:28.895459",
                     "proto": "https",
                     "type": "mirror",
@@ -1334,13 +1291,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://www.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
-                },
-                {
-                    "created_at": "2022-03-09 12:47:07.849856",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.849857",
-                    "url": "https://dhtw4h5yju1xx.cloudfront.net"
                 }
             ],
             "main_domain": "ozodlik.org"
