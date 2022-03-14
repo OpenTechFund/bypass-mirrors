@@ -456,13 +456,6 @@
         {
             "available_alternatives": [
                 {
-                    "created_at": "2022-03-09 12:47:07.813789",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.813790",
-                    "url": "https://d35on3r4wwdtjm.cloudfront.net"
-                },
-                {
                     "created_at": "2022-03-09 20:56:28.845960",
                     "proto": "https",
                     "type": "mirror",
