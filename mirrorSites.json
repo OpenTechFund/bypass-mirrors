@@ -293,13 +293,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.727645",
                     "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
-                },
-                {
-                    "created_at": "2022-03-09 12:47:07.820512",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.820512",
-                    "url": "https://d1ugi0rai6uerj.cloudfront.net"
                 }
             ],
             "main_domain": "moldova.europalibera.org"
@@ -321,7 +314,15 @@
             "main_domain": "pa.azadiradio.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:50:20.556179",
+                    "url": "https://d1an4j1zhblpsd.cloudfront.net"
+                }
+            ],
             "main_domain": "pressroom.rferl.org"
         },
         {
@@ -500,13 +501,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.725344",
                     "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-09 12:47:07.818312",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.818312",
-                    "url": "https://d3e1m6ew10i0fy.cloudfront.net"
                 }
             ],
             "main_domain": "ua.krymr.com"
@@ -1013,6 +1007,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.723072",
                     "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:56:18.288395",
+                    "url": "https://d1ye9g77vgkayj.cloudfront.net"
                 }
             ],
             "main_domain": "radiosvoboda.org"
