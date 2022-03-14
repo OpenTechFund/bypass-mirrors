@@ -446,6 +446,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.738772",
                     "url": "https://rus.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:58:37.114318",
+                    "url": "https://d1lviv51eamne7.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azatutyun.am"
@@ -682,6 +689,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.830333",
                     "url": "https://d3p1ee4vyd5fte.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:55:30.588941",
+                    "url": "https://d24zzo0gr52dm6.cloudfront.net"
                 }
             ],
             "main_domain": "azatliq.org"
@@ -746,6 +760,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 12:47:07.834701",
                     "url": "https://d3n8a0vrwm0b1b.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:58:07.400423",
+                    "url": "https://d30lvhhyircl34.cloudfront.net"
                 }
             ],
             "main_domain": "azatutyun.am"
@@ -837,7 +858,15 @@
             "main_domain": "evropaelire.org"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:54:40.240096",
+                    "url": "https://d15morwn17inys.cloudfront.net"
+                }
+            ],
             "main_domain": "factograph.info"
         },
         {
@@ -872,6 +901,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:56:12.155232",
+                    "url": "https://d3nc5v25wu2xr3.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -884,6 +920,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:56:49.263504",
+                    "url": "https://d1o1tnv3boqfmg.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
@@ -982,6 +1025,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.736503",
                     "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:57:18.521984",
+                    "url": "https://d1lx9kmmqma2wa.cloudfront.net"
                 }
             ],
             "main_domain": "radiomarsho.com"
