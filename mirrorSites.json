@@ -226,6 +226,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.724244",
                     "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:01:06.969635",
+                    "url": "https://ddqp4xjpo7z2y.cloudfront.net"
                 }
             ],
             "main_domain": "ktat.krymr.com"
@@ -293,6 +300,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.727645",
                     "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:12:24.631770",
+                    "url": "https://d7ncr4io4habk.cloudfront.net"
                 }
             ],
             "main_domain": "moldova.europalibera.org"
@@ -337,6 +351,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.728750",
                     "url": "https://romania.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:14:37.769552",
+                    "url": "https://dpxcth8dzlida.cloudfront.net"
                 }
             ],
             "main_domain": "romania.europalibera.org"
@@ -349,6 +370,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:03:08.408360",
+                    "url": "https://d14z4jedskxt7o.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -494,6 +522,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.725344",
                     "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:17:26.194433",
+                    "url": "https://d3gwpps3424lnp.cloudfront.net"
                 }
             ],
             "main_domain": "ua.krymr.com"
@@ -730,6 +765,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:05:04.268958",
+                    "url": "https://d29z1quku5t3sk.cloudfront.net"
                 }
             ],
             "main_domain": "currenttime.tv"
@@ -790,15 +832,7 @@
             "main_domain": "ekhokavkaza.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-09 12:47:07.825973",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.825974",
-                    "url": "https://d2tti6r5yf3ebk.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "evropaelire.org"
         },
         {
@@ -1088,6 +1122,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-14 08:35:42.343948",
                     "url": "https://d1w5a5wsawhavq.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:06:19.396112",
+                    "url": "https://dc1iti50lcmo2.cloudfront.net"
                 }
             ],
             "main_domain": "severreal.org"
@@ -1116,15 +1157,7 @@
             "main_domain": "slobodnaevropa.mk"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-09 12:47:07.823788",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.823789",
-                    "url": "https://d1sk3qeff9e0lt.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "slobodnaevropa.org"
         },
         {
@@ -1173,7 +1206,15 @@
             "main_domain": "svoboda.org"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 09:19:43.804105",
+                    "url": "https://d2jaxh8mf7tb5x.cloudfront.net"
+                }
+            ],
             "main_domain": "svobodnaevropa.bg"
         },
         {
