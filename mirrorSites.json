@@ -1384,15 +1384,7 @@
             "main_domain": "polygraph.info"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-10 14:56:24.131988",
-                    "url": "https://d2ni0lpj8yy90r.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "radiofarda.com"
         },
         {
@@ -1704,15 +1696,7 @@
             "main_domain": "svobodnaevropa.bg"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-10 14:56:16.044603",
-                    "url": "https://d26jcmpapz3sbd.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "szabadeuropa.hu"
         },
         {
