@@ -226,13 +226,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.724244",
                     "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-09 12:47:07.817213",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.817214",
-                    "url": "https://dyhoiobzhmf6u.cloudfront.net"
                 }
             ],
             "main_domain": "ktat.krymr.com"
@@ -362,13 +355,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-09 12:47:07.819398",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.819398",
-                    "url": "https://d1lynpf6ndesae.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -757,13 +743,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-                },
-                {
-                    "created_at": "2022-03-10 11:42:53.005620",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-10 12:00:01.592546",
-                    "url": "https://d2jo4diopaaqfj.cloudfront.net"
                 }
             ],
             "main_domain": "currenttime.tv"
