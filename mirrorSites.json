@@ -531,6 +531,13 @@
         {
             "available_alternatives": [
                 {
+                    "created_at": "2022-03-14 08:00:00",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-14 08:00:00",
+                    "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+                },
+                {
                     "created_at": "2022-03-09 12:47:07.848771",
                     "proto": "https",
                     "type": "mirror",
@@ -549,6 +556,13 @@
         },
         {
             "available_alternatives": [
+                {
+                    "created_at": "2022-03-14 08:00:00",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-14 08:00:00",
+                    "url": "https://rus.azattykniqsficisrmyoqv3orh77t3qgj364y4tl6zrdjgjptzev2kyd.onion"
+                },
                 {
                     "created_at": "2022-03-09 12:47:07.844387",
                     "proto": "https",
@@ -620,6 +634,13 @@
         },
         {
             "available_alternatives": [
+                {
+                    "created_at": "2022-03-14 08:00:00",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-14 08:00:00",
+                    "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+                },
                 {
                     "created_at": "2022-03-09 12:47:07.846612",
                     "proto": "https",
@@ -933,6 +954,13 @@
         },
         {
             "available_alternatives": [
+                {
+                    "created_at": "2022-03-14 08:00:00",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-14 08:00:00",
+                    "url": "https://www.azattykniqsficisrmyoqv3orh77t3qgj364y4tl6zrdjgjptzev2kyd.onion"
+                },
                 {
                     "created_at": "2022-03-09 12:47:07.843320",
                     "proto": "https",
@@ -1260,6 +1288,13 @@
         },
         {
             "available_alternatives": [
+                {
+                    "created_at": "2022-03-14 08:00:00",
+                    "proto": "tor",
+                    "type": "eotk",
+                    "updated_at": "2022-03-14 08:00:00",
+                    "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+                },
                 {
                     "created_at": "2022-03-09 12:47:07.845519",
                     "proto": "https",
