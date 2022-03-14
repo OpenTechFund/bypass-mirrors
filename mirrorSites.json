@@ -100,6 +100,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.892970",
                     "url": "https://daazadiradio2.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:21:36.338352",
+                    "url": "https://d2l1kxxf0ub38r.cloudfront.net"
                 }
             ],
             "main_domain": "da.azadiradio.com"
@@ -156,6 +163,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.894103",
                     "url": "https://gandhara1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:20:07.682100",
+                    "url": "https://d1abdmoswko3y5.cloudfront.net"
                 }
             ],
             "main_domain": "gandhara.rferl.org"
@@ -421,6 +435,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.891814",
                     "url": "https://paazadradio1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:22:09.865867",
+                    "url": "https://d3ipw6vah5fhwu.cloudfront.net"
                 }
             ],
             "main_domain": "pa.azadiradio.com"
@@ -515,6 +536,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.888881",
                     "url": "https://rusazath1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:26:14.107508",
+                    "url": "https://d2se9hknybqdw1.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azathabar.com"
@@ -534,6 +562,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.883162",
                     "url": "https://rusazatyyk2.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:29:01.400365",
+                    "url": "https://d3tboolw647eu7.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azattyk.org"
@@ -598,6 +633,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.885892",
                     "url": "https://rusozodi1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:27:41.666975",
+                    "url": "https://d1shoyc5cx7jao.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodi.org"
@@ -617,6 +659,20 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.890593",
                     "url": "https://rusozodlik1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:22:45.793978",
+                    "url": "https://d1lf8p3buomw3s.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:23:41.389145",
+                    "url": "https://dv7x71zjgtyh5.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodlik.org"
@@ -835,13 +891,6 @@
         {
             "available_alternatives": [
                 {
-                    "created_at": "2022-03-09 12:47:07.836868",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-09 12:47:07.836869",
-                    "url": "https://d6hnm3uzmmstw.cloudfront.net"
-                },
-                {
                     "created_at": "2022-03-09 20:56:28.874016",
                     "proto": "https",
                     "type": "mirror",
@@ -866,6 +915,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.887497",
                     "url": "https://azathabar1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:26:52.990148",
+                    "url": "https://d11n9w41pdbrv2.cloudfront.net"
                 }
             ],
             "main_domain": "azathabar.com"
@@ -911,6 +967,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.881885",
                     "url": "https://azattyk2.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:29:57.658804",
+                    "url": "https://d2vf0aicv7adyj.cloudfront.net"
                 }
             ],
             "main_domain": "azattyk.org"
@@ -1224,6 +1287,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-09 20:56:28.884562",
                     "url": "https://ozodi1.azureedge.net"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:28:03.092630",
+                    "url": "https://d1nqx27iy0xf1c.cloudfront.net"
                 }
             ],
             "main_domain": "ozodi.org"
@@ -1236,6 +1306,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://www.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-14 08:24:23.944145",
+                    "url": "https://dbex3nfsome03.cloudfront.net"
                 }
             ],
             "main_domain": "ozodlik.org"
