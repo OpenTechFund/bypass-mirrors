@@ -1232,6 +1232,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.730642",
                     "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+                },
+                {
+                    "created_at": "2022-03-10 14:53:48.134392",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-15 11:14:34.066495",
+                    "url": "https://dxzxywzzuxidx.cloudfront.net"
                 }
             ],
             "main_domain": "svoboda.org"
