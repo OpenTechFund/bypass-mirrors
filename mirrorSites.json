@@ -491,13 +491,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-14 08:22:45.793978",
                     "url": "https://d1lf8p3buomw3s.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 08:23:41.389145",
-                    "url": "https://dv7x71zjgtyh5.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodlik.org"
@@ -920,13 +913,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:56:49.263504",
-                    "url": "https://d1o1tnv3boqfmg.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
