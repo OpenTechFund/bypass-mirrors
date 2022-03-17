@@ -834,6 +834,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.741268",
                     "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-17 19:55:51.160874",
+                    "url": "https://d20j674fpwdfan.cloudfront.net"
                 }
             ],
             "main_domain": "ekhokavkaza.com"
