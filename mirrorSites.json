@@ -370,13 +370,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-17 19:38:38.955345",
-                    "url": "https://d1h36t5fkj2lt0.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -1144,13 +1137,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-14 09:06:19.396112",
                     "url": "https://dc1iti50lcmo2.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-17 17:47:44.978266",
-                    "url": "https://d1po0dwii5d0k9.cloudfront.net"
                 }
             ],
             "main_domain": "severreal.org"
@@ -1163,13 +1149,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.731793",
                     "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-17 17:48:27.005910",
-                    "url": "https://d2lwnr1n42vzk3.cloudfront.net"
                 }
             ],
             "main_domain": "sibreal.org"
