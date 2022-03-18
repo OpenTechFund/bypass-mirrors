@@ -370,6 +370,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:30:53.430873",
+                    "url": "https://d2tcbp34d8ujp5.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -446,6 +453,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-14 09:58:37.114318",
                     "url": "https://d1lviv51eamne7.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:35:32.696011",
+                    "url": "https://dnh98r5mnhraj.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azatutyun.am"
@@ -644,6 +658,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-14 08:37:28.584038",
                     "url": "https://d2yagb5mpsf41b.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:33:18.061101",
+                    "url": "https://d1y1ec2zronuzd.cloudfront.net"
                 }
             ],
             "main_domain": "azadliq.org"
@@ -772,6 +793,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:38:41.035987",
+                    "url": "https://d23ox7057ng1qa.cloudfront.net"
                 }
             ],
             "main_domain": "currenttime.tv"
@@ -887,6 +915,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:38:47.979308",
+                    "url": "https://d1bstqu2p9pwgl.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -899,6 +934,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:37:44.344540",
+                    "url": "https://d3btao4h9mcbhb.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
@@ -997,6 +1039,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.736503",
                     "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:33:23.999748",
+                    "url": "https://d38v77fucx7gcy.cloudfront.net"
                 }
             ],
             "main_domain": "radiomarsho.com"
@@ -1021,6 +1070,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.723072",
                     "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-18 21:31:06.002229",
+                    "url": "https://d2ktnwehn3bkmb.cloudfront.net"
                 }
             ],
             "main_domain": "radiosvoboda.org"
