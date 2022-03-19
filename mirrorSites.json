@@ -44,12 +44,27 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.719557",
                     "url": "https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion"
+                },
+                {
+                    "created_at": "2022-03-19 17:28:37.856005",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:37.856013",
+                    "url": "https://d1z4fwsvd2qf42.cloudfront.net"
                 }
             ],
             "main_domain": "bbc.co.uk"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:38.761256",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:38.761265",
+                    "url": "https://d3havzzao50wgt.cloudfront.net"
+                }
+            ],
             "main_domain": "benarnews.org"
         },
         {
@@ -77,7 +92,15 @@
             "main_domain": "da.azadiradio.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:37.625902",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:37.625910",
+                    "url": "https://d2ykbg1ps2uq4q.cloudfront.net"
+                }
+            ],
             "main_domain": "dw.com"
         },
         {
@@ -117,7 +140,15 @@
             "main_domain": "en.radiofarda.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:37.220375",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:37.220382",
+                    "url": "https://d2aghdm6mqf6ua.cloudfront.net"
+                }
+            ],
             "main_domain": "en.rfi.fr"
         },
         {
@@ -312,7 +343,15 @@
             "main_domain": "moldova.europalibera.org"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:36.459745",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:36.459752",
+                    "url": "https://d3aap95qwofawr.cloudfront.net"
+                }
+            ],
             "main_domain": "opentech.fund"
         },
         {
@@ -340,7 +379,15 @@
             "main_domain": "pressroom.rferl.org"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:36.064523",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:36.064532",
+                    "url": "https://dlp87f7hg1f8x.cloudfront.net"
+                }
+            ],
             "main_domain": "rfa.org"
         },
         {
@@ -567,15 +614,39 @@
             "main_domain": "ukrainian.voanews.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:38.404027",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:38.404035",
+                    "url": "https://dn1o31vnadun5.cloudfront.net"
+                }
+            ],
             "main_domain": "ukranian.voanews.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:36.872150",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:36.872158",
+                    "url": "https://d145hc48kdpcer.cloudfront.net"
+                }
+            ],
             "main_domain": "voatibetanenglish.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:39.180332",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:39.180340",
+                    "url": "https://d31s0ebus3dd5x.cloudfront.net"
+                }
+            ],
             "main_domain": "agents.media"
         },
         {
@@ -1196,7 +1267,15 @@
             "main_domain": "sibreal.org"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-19 17:28:38.141552",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 17:28:38.141560",
+                    "url": "https://d1lpyic2e0ipqi.cloudfront.net"
+                }
+            ],
             "main_domain": "slobodnaevropa.mk"
         },
         {
