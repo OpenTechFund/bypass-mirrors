@@ -710,6 +710,13 @@
                     "type": "mirror",
                     "updated_at": "2022-03-19 11:57:14.428861",
                     "url": "https://d1qrerb7si5y6e.cloudfront.net"
+                },
+                {
+                    "created_at": "2022-03-15 19:47:36.485431",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 12:16:22.531100",
+                    "url": "https://dam8eut0m7fv1.cloudfront.net"
                 }
             ],
             "main_domain": "azatliq.org"
