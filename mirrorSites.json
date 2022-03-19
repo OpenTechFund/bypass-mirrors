@@ -44,6 +44,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.719557",
                     "url": "https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion"
+                },
+                {
+                    "created_at": "2022-03-19 19:30:08.592476",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-19 19:30:08.592486",
+                    "url": "https://d30r7dvnrtlh0i.cloudfront.net"
                 }
             ],
             "main_domain": "bbc.co.uk"
