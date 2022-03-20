@@ -1296,13 +1296,6 @@
                     "created_at": "2022-03-10 14:53:48.134392",
                     "proto": "https",
                     "type": "mirror",
-                    "updated_at": "2022-03-14 08:45:53.774430",
-                    "url": "https://d1tase7zmbxc5t.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
                     "updated_at": "2022-03-14 08:45:54.295640",
                     "url": "https://d2yiimo3qyynog.cloudfront.net"
                 }
