@@ -1106,13 +1106,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.723072",
                     "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-18 21:31:06.002229",
-                    "url": "https://d2ktnwehn3bkmb.cloudfront.net"
                 }
             ],
             "main_domain": "radiosvoboda.org"
