@@ -772,13 +772,6 @@
                     "created_at": "2022-03-15 19:47:36.485431",
                     "proto": "https",
                     "type": "mirror",
-                    "updated_at": "2022-03-19 11:57:14.428861",
-                    "url": "https://d1qrerb7si5y6e.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
                     "updated_at": "2022-03-19 12:16:22.531100",
                     "url": "https://dam8eut0m7fv1.cloudfront.net"
                 }
@@ -979,13 +972,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-18 21:38:47.979308",
-                    "url": "https://d1bstqu2p9pwgl.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -998,13 +984,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-18 21:37:44.344540",
-                    "url": "https://d3btao4h9mcbhb.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
@@ -1246,15 +1225,7 @@
             "main_domain": "sibreal.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-19 17:28:38.141552",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-19 17:28:38.141560",
-                    "url": "https://d1lpyic2e0ipqi.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "slobodnaevropa.mk"
         },
         {
