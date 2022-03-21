@@ -417,13 +417,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-18 21:30:53.430873",
-                    "url": "https://d2tcbp34d8ujp5.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -857,6 +850,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+                },
+                {
+                    "created_at": "2022-03-21 07:40:02.735468",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-21 07:40:02.735479",
+                    "url": "https://d1wj1zdq9ng2ph.cloudfront.net"
                 }
             ],
             "main_domain": "currenttime.tv"
@@ -1082,13 +1082,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.736503",
                     "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-18 21:33:23.999748",
-                    "url": "https://d38v77fucx7gcy.cloudfront.net"
                 }
             ],
             "main_domain": "radiomarsho.com"
@@ -1132,13 +1125,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.740130",
                     "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 08:36:18.603014",
-                    "url": "https://d1p2ckgsmyhvar.cloudfront.net"
                 }
             ],
             "main_domain": "radiotavisupleba.ge"
@@ -1194,13 +1180,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.704677",
                     "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-18 21:27:30.619066",
-                    "url": "https://df6tsmfvy4gh4.cloudfront.net"
                 }
             ],
             "main_domain": "severreal.org"
@@ -1213,13 +1192,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.731793",
                     "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
-                },
-                {
-                    "created_at": "2022-03-19 23:00:05.527070",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-19 23:00:05.527078",
-                    "url": "https://d3pgjjiw1t63y5.cloudfront.net"
                 }
             ],
             "main_domain": "sibreal.org"
@@ -1255,13 +1227,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.706894",
                     "url": "https://svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 08:45:54.295640",
-                    "url": "https://d2yiimo3qyynog.cloudfront.net"
                 }
             ],
             "main_domain": "svaboda.org"
@@ -1274,13 +1239,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.730642",
                     "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-                },
-                {
-                    "created_at": "2022-03-19 23:00:05.027239",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-19 23:00:05.027250",
-                    "url": "https://dwb6ksn1db36f.cloudfront.net"
                 }
             ],
             "main_domain": "svoboda.org"
