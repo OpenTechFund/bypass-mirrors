@@ -257,13 +257,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.724244",
                     "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:01:06.969635",
-                    "url": "https://ddqp4xjpo7z2y.cloudfront.net"
                 }
             ],
             "main_domain": "ktat.krymr.com"
@@ -576,13 +569,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.725344",
                     "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:17:26.194433",
-                    "url": "https://d3gwpps3424lnp.cloudfront.net"
                 }
             ],
             "main_domain": "ua.krymr.com"
