@@ -896,15 +896,7 @@
             "main_domain": "ekhokavkaza.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:26:19.782074",
-                    "url": "https://d3956uzwt2qvwk.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "evropaelire.org"
         },
         {
@@ -951,13 +943,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-                },
-                {
-                    "created_at": "2022-03-22 12:40:03.353275",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 12:40:03.353282",
-                    "url": "https://d2xz5gja6a9ymc.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
