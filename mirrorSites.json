@@ -1239,15 +1239,7 @@
             "main_domain": "sibreal.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-21 07:50:04.080273",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-21 07:50:04.080282",
-                    "url": "https://dy79fxtlltr08.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "slobodnaevropa.mk"
         },
         {
@@ -1258,13 +1250,6 @@
                     "type": "mirror",
                     "updated_at": "2022-03-14 09:24:37.697272",
                     "url": "https://d3o0l3a938p7kk.cloudfront.net"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-15 19:58:30.118682",
-                    "url": "https://d2s5jb6o4og564.cloudfront.net"
                 }
             ],
             "main_domain": "slobodnaevropa.org"
