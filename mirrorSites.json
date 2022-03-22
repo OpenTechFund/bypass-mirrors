@@ -772,6 +772,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://www.azattykniqsficisrmyoqv3orh77t3qgj364y4tl6zrdjgjptzev2kyd.onion"
+                },
+                {
+                    "created_at": "2022-03-22 18:50:02.270929",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 18:50:02.270938",
+                    "url": "https://d3bkj20eld3glq.cloudfront.net"
                 }
             ],
             "main_domain": "azattyk.org"
