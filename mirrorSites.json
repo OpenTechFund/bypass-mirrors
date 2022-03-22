@@ -857,6 +857,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+                },
+                {
+                    "created_at": "2022-03-22 12:40:02.222763",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 12:40:02.222771",
+                    "url": "https://d27ry9mbprq3tq.cloudfront.net"
                 }
             ],
             "main_domain": "currenttime.tv"
@@ -972,6 +979,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
+                },
+                {
+                    "created_at": "2022-03-22 12:40:03.353275",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 12:40:03.353282",
+                    "url": "https://d2xz5gja6a9ymc.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -984,6 +998,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+                },
+                {
+                    "created_at": "2022-03-22 12:40:03.656852",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 12:40:03.656859",
+                    "url": "https://d2caly6w11qbsn.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
@@ -1213,6 +1234,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.731793",
                     "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+                },
+                {
+                    "created_at": "2022-03-22 12:40:03.072544",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 12:40:03.072551",
+                    "url": "https://d32cgsdn8f67fq.cloudfront.net"
                 }
             ],
             "main_domain": "sibreal.org"
@@ -1275,6 +1303,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.730642",
                     "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+                },
+                {
+                    "created_at": "2022-03-22 12:40:02.694689",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 12:40:02.694696",
+                    "url": "https://d1nxxwsrwpq1kj.cloudfront.net"
                 }
             ],
             "main_domain": "svoboda.org"
