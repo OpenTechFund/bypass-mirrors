@@ -1003,7 +1003,15 @@
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-22 18:30:02.272214",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 18:30:02.272224",
+                    "url": "https://d14x0zj4pxku07.cloudfront.net"
+                }
+            ],
             "main_domain": "mashaalradio.com"
         },
         {
@@ -1138,13 +1146,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.740130",
                     "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion"
-                },
-                {
-                    "created_at": "2022-03-21 07:50:06.191810",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-21 07:50:06.191817",
-                    "url": "https://d2nkv38s13efr6.cloudfront.net"
                 }
             ],
             "main_domain": "radiotavisupleba.ge"
@@ -1293,15 +1294,7 @@
             "main_domain": "svoboda.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-22 18:00:02.613209",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 18:00:02.613219",
-                    "url": "https://dmrpyilk8myre.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "svobodnaevropa.bg"
         },
         {
