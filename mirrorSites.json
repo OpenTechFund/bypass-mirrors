@@ -1003,15 +1003,7 @@
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 08:19:31.565871",
-                    "url": "https://dkvdzocsf5wz9.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "mashaalradio.com"
         },
         {
