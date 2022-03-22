@@ -80,7 +80,15 @@
             "main_domain": "burmese.voanews.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-22 17:50:02.125150",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-22 17:50:02.125158",
+                    "url": "https://d3ddfq7t1tg81w.cloudfront.net"
+                }
+            ],
             "main_domain": "da.azadiradio.com"
         },
         {
@@ -485,13 +493,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.738772",
                     "url": "https://rus.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
-                },
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:58:37.114318",
-                    "url": "https://d1lviv51eamne7.cloudfront.net"
                 },
                 {
                     "created_at": "2022-03-15 19:47:36.485431",
@@ -1226,13 +1227,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.731793",
                     "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
-                },
-                {
-                    "created_at": "2022-03-22 12:40:03.072544",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 12:40:03.072551",
-                    "url": "https://d32cgsdn8f67fq.cloudfront.net"
                 }
             ],
             "main_domain": "sibreal.org"
@@ -1307,15 +1301,7 @@
             "main_domain": "svoboda.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:19:43.804105",
-                    "url": "https://d2jaxh8mf7tb5x.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "svobodnaevropa.bg"
         },
         {
