@@ -152,7 +152,15 @@
             "main_domain": "en.rfi.fr"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-23 06:00:02.740816",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-23 06:00:02.740825",
+                    "url": "https://dlefvn6tsyt48.cloudfront.net"
+                }
+            ],
             "main_domain": "gandhara.rferl.org"
         },
         {
