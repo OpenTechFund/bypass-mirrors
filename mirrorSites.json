@@ -951,13 +951,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-                },
-                {
-                    "created_at": "2022-03-23 05:10:02.547176",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-23 05:10:02.547184",
-                    "url": "https://d6h8bjkvtxiiq.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
