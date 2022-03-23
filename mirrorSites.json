@@ -80,15 +80,7 @@
             "main_domain": "burmese.voanews.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-22 17:50:02.125150",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 17:50:02.125158",
-                    "url": "https://d3ddfq7t1tg81w.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "da.azadiradio.com"
         },
         {
