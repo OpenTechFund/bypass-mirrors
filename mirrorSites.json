@@ -355,7 +355,15 @@
             "main_domain": "opentech.fund"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-23 10:20:02.169086",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-23 10:20:02.169095",
+                    "url": "https://d1qcp6pp7ktsfj.cloudfront.net"
+                }
+            ],
             "main_domain": "pa.azadiradio.com"
         },
         {
@@ -745,13 +753,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.733119",
                     "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-                },
-                {
-                    "created_at": "2022-03-15 19:47:36.485431",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-19 12:16:22.531100",
-                    "url": "https://dam8eut0m7fv1.cloudfront.net"
                 }
             ],
             "main_domain": "azatliq.org"
