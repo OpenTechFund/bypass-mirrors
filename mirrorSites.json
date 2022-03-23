@@ -753,6 +753,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.733119",
                     "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+                },
+                {
+                    "created_at": "2022-03-23 19:10:02.752681",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-23 19:10:02.752690",
+                    "url": "https://d2h3x9wm1ar3n3.cloudfront.net"
                 }
             ],
             "main_domain": "azatliq.org"
