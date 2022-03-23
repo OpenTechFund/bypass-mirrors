@@ -152,15 +152,7 @@
             "main_domain": "en.rfi.fr"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 08:20:07.682100",
-                    "url": "https://d1abdmoswko3y5.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "gandhara.rferl.org"
         },
         {
@@ -331,6 +323,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.727645",
                     "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
+                },
+                {
+                    "created_at": "2022-03-23 05:50:02.328631",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-23 05:50:02.328639",
+                    "url": "https://d2hwbkby8je8js.cloudfront.net"
                 }
             ],
             "main_domain": "moldova.europalibera.org"
