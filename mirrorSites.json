@@ -152,15 +152,7 @@
             "main_domain": "en.rfi.fr"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-23 06:00:02.740816",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-23 06:00:02.740825",
-                    "url": "https://dlefvn6tsyt48.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "gandhara.rferl.org"
         },
         {
@@ -1106,6 +1098,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.723072",
                     "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
+                },
+                {
+                    "created_at": "2022-03-23 07:00:02.906132",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-23 07:00:02.906140",
+                    "url": "https://dp8d1ok223z1e.cloudfront.net"
                 }
             ],
             "main_domain": "radiosvoboda.org"
