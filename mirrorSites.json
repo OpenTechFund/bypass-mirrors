@@ -896,15 +896,7 @@
             "main_domain": "ekhokavkaza.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-23 05:10:02.204113",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-23 05:10:02.204122",
-                    "url": "https://d1nt7ycbq82fly.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "evropaelire.org"
         },
         {
@@ -982,15 +974,7 @@
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-22 18:30:02.272214",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 18:30:02.272224",
-                    "url": "https://d14x0zj4pxku07.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "mashaalradio.com"
         },
         {
