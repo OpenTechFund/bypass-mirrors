@@ -331,6 +331,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.727645",
                     "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 23:00:02.486067",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 23:00:02.486076",
+                    "url": "https://d22whlol7vjqey.cloudfront.net"
                 }
             ],
             "main_domain": "moldova.europalibera.org"
@@ -410,13 +417,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-24 11:10:03.522963",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 11:10:03.522970",
-                    "url": "https://d1qw4u22hi6xmw.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -1199,6 +1199,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.731793",
                     "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 23:00:03.223240",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 23:00:03.223248",
+                    "url": "https://d29lgd7xcxytad.cloudfront.net"
                 }
             ],
             "main_domain": "sibreal.org"
