@@ -355,7 +355,15 @@
             "main_domain": "opentech.fund"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 03:30:02.956420",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 03:30:02.956428",
+                    "url": "https://d19ngdeyogtx6n.cloudfront.net"
+                }
+            ],
             "main_domain": "pa.azadiradio.com"
         },
         {
@@ -876,6 +884,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.741268",
                     "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
+                },
+                {
+                    "created_at": "2022-03-24 03:30:02.650794",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 03:30:02.650806",
+                    "url": "https://d2ijntpdqvrwer.cloudfront.net"
                 }
             ],
             "main_domain": "ekhokavkaza.com"
