@@ -80,7 +80,15 @@
             "main_domain": "burmese.voanews.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 11:10:08.579400",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:08.579407",
+                    "url": "https://d2rv57c9kd9fnf.cloudfront.net"
+                }
+            ],
             "main_domain": "da.azadiradio.com"
         },
         {
@@ -144,7 +152,15 @@
             "main_domain": "en.rfi.fr"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 11:10:08.896141",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:08.896148",
+                    "url": "https://d3f3ka2ft3lb1l.cloudfront.net"
+                }
+            ],
             "main_domain": "gandhara.rferl.org"
         },
         {
@@ -339,7 +355,15 @@
             "main_domain": "opentech.fund"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 11:10:08.279470",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:08.279477",
+                    "url": "https://dybxby8nlmq6u.cloudfront.net"
+                }
+            ],
             "main_domain": "pa.azadiradio.com"
         },
         {
@@ -412,6 +436,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 11:10:07.245904",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:07.245915",
+                    "url": "https://d31egztd7rg7x8.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azathabar.com"
@@ -481,6 +512,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 11:10:06.580323",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:06.580334",
+                    "url": "https://dnfp8ewwq4j9b.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodi.org"
@@ -493,6 +531,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
+                },
+                {
+                    "created_at": "2022-03-24 11:10:07.815083",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:07.815091",
+                    "url": "https://d3eh6mtbj84x88.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodlik.org"
@@ -689,6 +734,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 11:10:06.931370",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:06.931379",
+                    "url": "https://d12c1dlrp7zut9.cloudfront.net"
                 }
             ],
             "main_domain": "azathabar.com"
@@ -930,7 +982,15 @@
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 11:10:09.320559",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:10:09.320566",
+                    "url": "https://d3ig8nqr6q2tvv.cloudfront.net"
+                }
+            ],
             "main_domain": "mashaalradio.com"
         },
         {
