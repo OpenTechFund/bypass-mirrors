@@ -436,13 +436,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-                },
-                {
-                    "created_at": "2022-03-24 11:10:07.245904",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 11:10:07.245915",
-                    "url": "https://d31egztd7rg7x8.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azathabar.com"
