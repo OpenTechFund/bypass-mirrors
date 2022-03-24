@@ -1230,15 +1230,7 @@
             "main_domain": "slobodnaevropa.mk"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 09:24:37.697272",
-                    "url": "https://d3o0l3a938p7kk.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "slobodnaevropa.org"
         },
         {
@@ -1249,13 +1241,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.706894",
                     "url": "https://svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-                },
-                {
-                    "created_at": "2022-03-24 02:50:02.144385",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 02:50:02.144393",
-                    "url": "https://d1ufcnbdel39vc.cloudfront.net"
                 }
             ],
             "main_domain": "svaboda.org"
@@ -1280,15 +1265,7 @@
             "main_domain": "svoboda.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-22 18:40:02.204025",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 18:40:02.204033",
-                    "url": "https://d23hmurmajv6yj.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "svobodnaevropa.bg"
         },
         {
