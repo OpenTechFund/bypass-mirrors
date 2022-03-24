@@ -734,6 +734,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 08:50:02.300217",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 08:50:02.300226",
+                    "url": "https://d3n8m1pm8lt98g.cloudfront.net"
                 }
             ],
             "main_domain": "azathabar.com"
