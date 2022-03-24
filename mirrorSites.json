@@ -152,15 +152,7 @@
             "main_domain": "en.rfi.fr"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-23 07:10:02.571564",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-23 07:10:02.571572",
-                    "url": "https://dk8u41mkj8wja.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "gandhara.rferl.org"
         },
         {
@@ -512,13 +504,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-                },
-                {
-                    "created_at": "2022-03-24 01:10:01.915589",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 01:10:01.915597",
-                    "url": "https://d3m615njlx2xg0.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodi.org"
