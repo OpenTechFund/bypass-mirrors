@@ -970,27 +970,12 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-                },
-                {
-                    "created_at": "2022-03-23 04:20:02.072813",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-23 04:20:02.072822",
-                    "url": "https://dxd50zcojmh66.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-23 08:10:03.212086",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-23 08:10:03.212094",
-                    "url": "https://d36hg5drrknghq.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "mashaalradio.com"
         },
         {
@@ -1249,13 +1234,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.706894",
                     "url": "https://svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-                },
-                {
-                    "created_at": "2022-03-22 19:20:02.283210",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 19:20:02.283218",
-                    "url": "https://d18dbb0v9ro0y0.cloudfront.net"
                 }
             ],
             "main_domain": "svaboda.org"
