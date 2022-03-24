@@ -436,6 +436,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 01:10:02.546607",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 01:10:02.546614",
+                    "url": "https://d21iw4wr5pyzwm.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azathabar.com"
@@ -505,6 +512,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 01:10:01.915589",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 01:10:01.915597",
+                    "url": "https://d3m615njlx2xg0.cloudfront.net"
                 }
             ],
             "main_domain": "rus.ozodi.org"
