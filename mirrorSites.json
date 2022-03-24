@@ -835,13 +835,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-                },
-                {
-                    "created_at": "2022-03-24 09:40:04.837619",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 09:40:04.837627",
-                    "url": "https://d2037vopsl8lkt.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -854,27 +847,12 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-                },
-                {
-                    "created_at": "2022-03-24 09:40:05.189853",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 09:40:05.189860",
-                    "url": "https://d2x4vjuvd27410.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-24 10:30:02.783159",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 10:30:02.783167",
-                    "url": "https://d1cbx042e1cwhv.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "mashaalradio.com"
         },
         {
