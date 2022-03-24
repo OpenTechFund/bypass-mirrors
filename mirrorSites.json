@@ -951,13 +951,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-                },
-                {
-                    "created_at": "2022-03-24 11:10:04.561728",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 11:10:04.561735",
-                    "url": "https://d2ikp7ob2lf2oo.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -1187,6 +1180,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.704677",
                     "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 14:10:02.285215",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 14:10:02.285224",
+                    "url": "https://d37899x6248ft2.cloudfront.net"
                 }
             ],
             "main_domain": "severreal.org"
