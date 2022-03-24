@@ -562,6 +562,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.725344",
                     "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+                },
+                {
+                    "created_at": "2022-03-24 18:10:02.220016",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 18:10:02.220025",
+                    "url": "https://d3430ctxzmlorr.cloudfront.net"
                 }
             ],
             "main_domain": "ua.krymr.com"
@@ -975,7 +982,15 @@
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 18:10:02.504291",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 18:10:02.504300",
+                    "url": "https://dyz3iw2apiitb.cloudfront.net"
+                }
+            ],
             "main_domain": "mashaalradio.com"
         },
         {
