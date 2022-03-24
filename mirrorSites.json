@@ -1280,15 +1280,7 @@
             "main_domain": "svoboda.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-24 09:10:02.715149",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 09:10:02.715157",
-                    "url": "https://d2qfy0iupmnkxd.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "svobodnaevropa.bg"
         },
         {
