@@ -1187,13 +1187,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.704677",
                     "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
-                },
-                {
-                    "created_at": "2022-03-22 16:00:02.958079",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-22 16:00:02.958087",
-                    "url": "https://d108gdc5zm6oen.cloudfront.net"
                 }
             ],
             "main_domain": "severreal.org"
