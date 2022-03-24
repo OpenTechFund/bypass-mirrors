@@ -562,13 +562,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.725344",
                     "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-24 16:10:02.719679",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 16:10:02.719687",
-                    "url": "https://d1fnzlmr4g75z1.cloudfront.net"
                 }
             ],
             "main_domain": "ua.krymr.com"
@@ -982,15 +975,7 @@
             "main_domain": "kavkazr.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-24 11:10:09.320559",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 11:10:09.320566",
-                    "url": "https://d3ig8nqr6q2tvv.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "mashaalradio.com"
         },
         {
@@ -1280,7 +1265,15 @@
             "main_domain": "svoboda.org"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-24 18:00:02.759512",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 18:00:02.759526",
+                    "url": "https://dw925zz4xuqvi.cloudfront.net"
+                }
+            ],
             "main_domain": "svobodnaevropa.bg"
         },
         {
