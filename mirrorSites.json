@@ -1125,6 +1125,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.740130",
                     "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion"
+                },
+                {
+                    "created_at": "2022-03-24 11:50:01.873673",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-24 11:50:01.873682",
+                    "url": "https://d13bs2fgy0v8ra.cloudfront.net"
                 }
             ],
             "main_domain": "radiotavisupleba.ge"
