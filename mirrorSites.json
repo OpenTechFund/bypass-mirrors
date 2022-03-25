@@ -417,13 +417,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-25 01:30:02.705861",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-25 01:30:02.705869",
-                    "url": "https://d3r3y4wqm7gwhr.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
