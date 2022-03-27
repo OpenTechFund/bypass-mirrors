@@ -896,7 +896,15 @@
             "main_domain": "ekhokavkaza.com"
         },
         {
-            "available_alternatives": [],
+            "available_alternatives": [
+                {
+                    "created_at": "2022-03-27 19:50:01.886338",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-27 19:50:01.886350",
+                    "url": "https://d3pqrgk47r9cmb.cloudfront.net"
+                }
+            ],
             "main_domain": "evropaelire.org"
         },
         {
@@ -962,6 +970,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+                },
+                {
+                    "created_at": "2022-03-27 19:50:02.700523",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-27 19:50:02.700530",
+                    "url": "https://d18459ijhzpb9v.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
@@ -1191,6 +1206,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.731793",
                     "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+                },
+                {
+                    "created_at": "2022-03-27 19:50:02.385508",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-27 19:50:02.385516",
+                    "url": "https://dd0lipi2ttq6l.cloudfront.net"
                 }
             ],
             "main_domain": "sibreal.org"
