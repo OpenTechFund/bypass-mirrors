@@ -1048,13 +1048,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.740130",
                     "url": "https://www.radtavilkmrh7dkvzna2ctgbm676rjraxqmkglci5lnvfh7goiuts6qd.onion"
-                },
-                {
-                    "created_at": "2022-03-24 19:30:02.521180",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 19:30:02.521188",
-                    "url": "https://d37g76o9zjvca9.cloudfront.net"
                 }
             ],
             "main_domain": "radiotavisupleba.ge"
@@ -1127,15 +1120,7 @@
             "main_domain": "sibreal.org"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-24 08:10:02.149653",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-24 08:10:02.149661",
-                    "url": "https://d2zx8b7wmv056t.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "slobodnaevropa.mk"
         },
         {
@@ -1177,13 +1162,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.730642",
                     "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-                },
-                {
-                    "created_at": "2022-03-27 06:20:02.282831",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-27 06:20:02.282838",
-                    "url": "https://d7m86avknm4w9.cloudfront.net"
                 }
             ],
             "main_domain": "svoboda.org"
