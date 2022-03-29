@@ -1168,6 +1168,13 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.708243",
                     "url": "https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+                },
+                {
+                    "created_at": "2022-03-29 16:50:02.430237",
+                    "proto": "https",
+                    "type": "mirror",
+                    "updated_at": "2022-03-29 16:50:02.430245",
+                    "url": "https://dbh7z3epgd19u.cloudfront.net"
                 }
             ],
             "main_domain": "rferl.org"
