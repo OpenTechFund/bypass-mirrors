@@ -116,15 +116,7 @@
             "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
         },
         {
-            "available_alternatives": [
-                {
-                    "created_at": "2022-03-10 14:53:48.134392",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-14 08:18:21.317272",
-                    "url": "https://dv65in40pteva.cloudfront.net"
-                }
-            ],
+            "available_alternatives": [],
             "main_domain": "en.currenttime.tv"
         },
         {
@@ -417,13 +409,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.726462",
                     "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:20:02.005020",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:20:02.005028",
-                    "url": "https://d5utbqbgdpnvo.cloudfront.net"
                 }
             ],
             "main_domain": "ru.krymr.com"
@@ -474,13 +459,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-14 08:00:00",
                     "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:06.100620",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:06.100627",
-                    "url": "https://d2jjya6lcghzbp.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azattyq.org"
@@ -753,13 +731,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.733119",
                     "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:03.959262",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:03.959270",
-                    "url": "https://d12rwkw3nzcqve.cloudfront.net"
                 }
             ],
             "main_domain": "azatliq.org"
@@ -884,13 +855,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.741268",
                     "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:05.718018",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:05.718025",
-                    "url": "https://d30k67h8hpms6u.cloudfront.net"
                 }
             ],
             "main_domain": "ekhokavkaza.com"
@@ -951,13 +915,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.734201",
                     "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:04.280565",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:04.280573",
-                    "url": "https://dylb0nzih8o1f.cloudfront.net"
                 }
             ],
             "main_domain": "idelreal.org"
@@ -970,13 +927,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.735338",
                     "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:04.724504",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:04.724516",
-                    "url": "https://d2g4mpc3ndsg3n.cloudfront.net"
                 }
             ],
             "main_domain": "kavkazr.com"
@@ -1075,13 +1025,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.736503",
                     "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:05.048184",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:05.048192",
-                    "url": "https://d581f4ll08wko.cloudfront.net"
                 }
             ],
             "main_domain": "radiomarsho.com"
