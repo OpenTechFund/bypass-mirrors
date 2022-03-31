@@ -493,13 +493,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.738772",
                     "url": "https://rus.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:05.375339",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:05.375345",
-                    "url": "https://d4i89jes5vlje.cloudfront.net"
                 }
             ],
             "main_domain": "rus.azatutyun.am"
@@ -829,13 +822,6 @@
                     "type": "eotk",
                     "updated_at": "2022-03-09 12:47:07.721893",
                     "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-                },
-                {
-                    "created_at": "2022-03-28 17:30:02.884556",
-                    "proto": "https",
-                    "type": "mirror",
-                    "updated_at": "2022-03-28 17:30:02.884565",
-                    "url": "https://d1wuar5injqek6.cloudfront.net"
                 }
             ],
             "main_domain": "currenttime.tv"
