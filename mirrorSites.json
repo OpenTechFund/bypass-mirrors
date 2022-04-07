@@ -1266,6 +1266,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.731793",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+        },
+        {
+          "created_at": "2022-04-07 14:00:02.506146",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-07 14:00:02.506153",
+          "url": "https://d1q3wefsynhz7r.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
@@ -1321,6 +1328,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.730642",
           "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2022-04-07 14:00:02.202483",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-07 14:00:02.202492",
+          "url": "https://d2ghrry3rc2m7h.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
