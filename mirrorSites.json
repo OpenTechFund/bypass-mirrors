@@ -1247,6 +1247,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.704677",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+        },
+        {
+          "created_at": "2022-04-07 14:40:02.064401",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-07 14:40:02.064409",
+          "url": "https://d3btq8sxputy9d.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
@@ -1321,6 +1328,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.730642",
           "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2022-04-07 14:40:02.567542",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-07 14:40:02.567549",
+          "url": "https://d3x9mt0atec6r.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
