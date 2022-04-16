@@ -971,15 +971,7 @@
       "main_domain": "glasamerike.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-04-15 10:50:02.910057",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-15 10:50:02.910065",
-          "url": "https://d3szr3vczjo115.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "golosameriki.com"
     },
     {
@@ -1272,13 +1264,6 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.730642",
           "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2022-04-15 10:50:03.973958",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-15 10:50:03.973966",
-          "url": "https://d1u7c1pqlwnw41.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
