@@ -944,6 +944,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.741268",
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
+        },
+        {
+          "created_at": "2022-04-17 23:10:03.084464",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-17 23:10:03.084472",
+          "url": "https://dg1di773l65q2.cloudfront.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
@@ -985,7 +992,15 @@
       "main_domain": "glasamerike.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-04-17 23:10:02.567132",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-17 23:10:02.567141",
+          "url": "https://d217n09w14yzh5.cloudfront.net"
+        }
+      ],
       "main_domain": "golosameriki.com"
     },
     {
