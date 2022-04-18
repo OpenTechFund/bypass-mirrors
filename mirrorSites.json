@@ -877,6 +877,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.721893",
           "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2022-04-18 23:10:02.878239",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-18 23:10:02.878249",
+          "url": "https://d85iphktmvdje.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
