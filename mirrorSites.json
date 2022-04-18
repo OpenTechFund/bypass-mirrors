@@ -944,13 +944,6 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.741268",
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
-        },
-        {
-          "created_at": "2022-04-17 23:10:03.084464",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-17 23:10:03.084472",
-          "url": "https://dg1di773l65q2.cloudfront.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
@@ -992,15 +985,7 @@
       "main_domain": "glasamerike.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-04-17 23:10:02.567132",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-17 23:10:02.567141",
-          "url": "https://d217n09w14yzh5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "golosameriki.com"
     },
     {
@@ -1030,13 +1015,6 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.735338",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-        },
-        {
-          "created_at": "2022-04-16 17:10:05.116629",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-16 17:10:05.116638",
-          "url": "https://d2h51pt6czgu2h.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -1135,13 +1113,6 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.736503",
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-        },
-        {
-          "created_at": "2022-04-16 17:10:05.422435",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-16 17:10:05.422443",
-          "url": "https://dnes0neo66lgy.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
@@ -1328,13 +1299,6 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.730642",
           "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2022-04-16 17:50:02.462911",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-16 17:50:02.462920",
-          "url": "https://d20x8iocm3lolh.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
