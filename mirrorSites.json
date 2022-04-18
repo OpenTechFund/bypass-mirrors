@@ -992,15 +992,7 @@
       "main_domain": "glasamerike.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-04-18 17:50:01.952188",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-18 17:50:01.952197",
-          "url": "https://d2vv6uinya6k1l.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "golosameriki.com"
     },
     {
