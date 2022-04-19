@@ -3,18 +3,6 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2022-03-09 12:47:07.863241",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-03-09 12:47:07.863242",
-          "url": "https://dkvn2ooq1pfjj.cloudfront.net"
-        }
-      ],
-      "main_domain": "7x7-journal.ru"
-    },
-    {
-      "available_alternatives": [
-        {
           "created_at": "2022-03-09 12:47:07.786783",
           "proto": "https",
           "type": "mirror",
@@ -180,6 +168,10 @@
           "url": "https://d3sdzkcy2os10m.cloudfront.net"
         }
       ],
+      "main_domain": "istories.media"
+    },
+    {
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -509,6 +501,10 @@
           "url": "https://d1e6ryb3aodqqf.cloudfront.net"
         }
       ],
+      "main_domain": "semnasem.org"
+    },
+    {
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
