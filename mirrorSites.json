@@ -1,7 +1,15 @@
 {
   "sites": [
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-04-19 14:20:02.963080",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-19 14:20:02.963088",
+          "url": "https://dugksa7iamv9r.cloudfront.net"
+        }
+      ],
       "main_domain": "agents.media"
     },
     {
@@ -163,7 +171,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-04-19 14:20:02.291765",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-19 14:20:02.291774",
+          "url": "https://d3v1apemon137y.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -484,7 +500,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-04-19 14:20:02.720514",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-19 14:20:02.720522",
+          "url": "https://drrq3vqcoyeg0.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
