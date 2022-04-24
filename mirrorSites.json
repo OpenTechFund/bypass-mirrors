@@ -963,6 +963,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.735338",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+        },
+        {
+          "created_at": "2022-04-24 11:30:03.059305",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-24 11:30:03.059315",
+          "url": "https://d1d1psr3r57ufv.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
