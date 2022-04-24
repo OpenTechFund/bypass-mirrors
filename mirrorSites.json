@@ -488,6 +488,13 @@
           "type": "eotk",
           "updated_at": "2022-03-14 08:00:00",
           "url": "https://rus.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
+        },
+        {
+          "created_at": "2022-04-24 11:50:02.342451",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-24 11:50:02.342460",
+          "url": "https://d26js54q55d59b.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodlik.org"
