@@ -61,15 +61,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-04-26 13:07:02.124110",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-26 13:07:02.124119",
-          "url": "https://d1opq3esap8rne.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "currenttime.tv"
     },
     {
