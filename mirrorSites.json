@@ -61,6 +61,10 @@
       "main_domain": "burmese.voanews.com"
     },
     {
+      "available_alternatives": [],
+      "main_domain": "currenttime.tv"
+    },
+    {
       "available_alternatives": [
         {
           "created_at": "2022-03-24 11:10:08.579400",
@@ -109,7 +113,15 @@
       "main_domain": "en.radiofarda.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-04-26 12:59:04.177990",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-04-26 12:59:04.178005",
+          "url": "https://d2lw14q0xz2gi3.cloudfront.net"
+        }
+      ],
       "main_domain": "flashvideo.rferl.org"
     },
     {
@@ -817,25 +829,6 @@
         }
       ],
       "main_domain": "benarnews.org"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-09 12:47:07.721893",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-09 12:47:07.721893",
-          "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2022-04-25 17:10:02.869681",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-04-25 17:10:02.869692",
-          "url": "https://d18yr265g62rtd.cloudfront.net"
-        }
-      ],
-      "main_domain": "currenttime.tv"
     },
     {
       "available_alternatives": [
