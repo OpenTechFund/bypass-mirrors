@@ -121,15 +121,7 @@
       "main_domain": "en.radiofarda.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-05-01 16:37:05.787602",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-05-01 16:37:05.787611",
-          "url": "https://rferlorfyqpfsush.azureedge.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "flashvideo.rferl.org"
     },
     {
