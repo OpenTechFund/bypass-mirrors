@@ -959,6 +959,10 @@
       "main_domain": "kavkazr.com"
     },
     {
+      "available_alternatives": [],
+      "main_domain": "maghrebvoices.com"
+    },
+    {
       "available_alternatives": [
         {
           "created_at": "2022-04-25 13:57:39.236800",
