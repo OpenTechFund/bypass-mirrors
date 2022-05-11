@@ -486,15 +486,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-05-09 09:47:02.806187",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-05-09 09:47:02.806195",
-          "url": "https://censoguvhqvndalqg.azureedge.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -739,15 +731,7 @@
       "main_domain": "azatutyun.am"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-05-09 13:32:49.156962",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-05-09 13:32:49.156973",
-          "url": "https://bbcuyornmqwamgn.azureedge.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "bbc.com"
     },
     {
@@ -885,15 +869,7 @@
       "main_domain": "evropaelire.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2022-05-09 13:32:49.222299",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-05-09 13:32:49.222312",
-          "url": "https://factoipcwixjrzblx.azureedge.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "factograph.info"
     },
     {
