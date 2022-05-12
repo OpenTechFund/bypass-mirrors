@@ -288,18 +288,6 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2022-03-21 10:57:58.311417",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-03-21 10:57:58.311428",
-          "url": "https://openttswvugtzrj.azureedge.net"
-        }
-      ],
-      "main_domain": "opentech.fund"
-    },
-    {
-      "available_alternatives": [
-        {
           "created_at": "2022-04-25 13:57:39.224745",
           "proto": "https",
           "type": "mirror",
@@ -320,18 +308,6 @@
         }
       ],
       "main_domain": "pressroom.rferl.org"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-21 10:57:59.067276",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-03-21 10:57:59.067289",
-          "url": "https://rfaptmoaprnmzysyg.azureedge.net"
-        }
-      ],
-      "main_domain": "rfa.org"
     },
     {
       "available_alternatives": [
@@ -546,18 +522,6 @@
         }
       ],
       "main_domain": "ukrainian.voanews.com"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-21 10:57:59.291535",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2022-03-21 10:57:59.291542",
-          "url": "https://voatizfmaacqjbdjr.azureedge.net"
-        }
-      ],
-      "main_domain": "voatibetanenglish.com"
     },
     {
       "available_alternatives": [
@@ -995,6 +959,10 @@
       "main_domain": "mashaalradio.com"
     },
     {
+      "available_alternatives": [],
+      "main_domain": "opentech.fund"
+    },
+    {
       "available_alternatives": [
         {
           "created_at": "2022-03-14 08:00:00",
@@ -1160,6 +1128,10 @@
         }
       ],
       "main_domain": "radiyoyacuvoa.com"
+    },
+    {
+      "available_alternatives": [],
+      "main_domain": "rfa.org"
     },
     {
       "available_alternatives": [
