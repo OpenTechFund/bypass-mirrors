@@ -1,7 +1,15 @@
 {
   "sites": [
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-05-13 22:04:06.142305",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.142315",
+          "url": "https://censorgpczslfhqbp.azureedge.net"
+        }
+      ],
       "main_domain": "agents.media"
     },
     {
@@ -161,7 +169,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-05-13 22:04:06.133002",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.133013",
+          "url": "https://censofnqkmshxfctr.azureedge.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -320,6 +336,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.726462",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.009108",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.009118",
+          "url": "https://krymrgoncflxmssla.azureedge.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -439,7 +462,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-05-13 22:04:06.137969",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.137979",
+          "url": "https://censoiqenvfkylzvy.azureedge.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -603,6 +634,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.733119",
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.039208",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.039218",
+          "url": "https://azatlholssabwduzy.azureedge.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -665,7 +703,15 @@
       "main_domain": "azatutyun.am"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-05-13 22:04:05.963107",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:05.963120",
+          "url": "https://bbcjwhfyhkcuwtk.azureedge.net"
+        }
+      ],
       "main_domain": "bbc.com"
     },
     {
@@ -700,6 +746,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.721893",
           "url": "https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.118325",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.118334",
+          "url": "https://currefcfvoxzkxlns.azureedge.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -760,6 +813,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.741268",
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.050571",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.050580",
+          "url": "https://ekhokkfowlksbdphd.azureedge.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
@@ -813,7 +873,15 @@
       "main_domain": "glasamerike.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2022-05-13 22:04:06.208515",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.208524",
+          "url": "https://golosuylnpldosbmr.azureedge.net"
+        }
+      ],
       "main_domain": "golosameriki.com"
     },
     {
@@ -824,6 +892,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.734201",
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.086278",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.086289",
+          "url": "https://idelrvyzlusdwlrkg.azureedge.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -848,6 +923,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.735338",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:05.981570",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:05.981578",
+          "url": "https://kavkalrftonqleaaa.azureedge.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -970,6 +1052,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.736503",
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:05.996587",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:05.996597",
+          "url": "https://radiovijjfmrmulrj.azureedge.net"
         }
       ],
       "main_domain": "radiomarsho.com"
@@ -1087,6 +1176,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.704677",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:05.987029",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:05.987040",
+          "url": "https://severjoucnpvecloi.azureedge.net"
         }
       ],
       "main_domain": "severreal.org"
@@ -1099,6 +1195,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.731793",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.031375",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.031385",
+          "url": "https://sibreirjnjmliosxe.azureedge.net"
         }
       ],
       "main_domain": "sibreal.org"
@@ -1154,6 +1257,13 @@
           "type": "eotk",
           "updated_at": "2022-03-09 12:47:07.730642",
           "url": "https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2022-05-13 22:04:06.025209",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2022-05-13 22:04:06.025220",
+          "url": "https://svobobzlebokntcgs.azureedge.net"
         }
       ],
       "main_domain": "svoboda.org"
