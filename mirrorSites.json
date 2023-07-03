@@ -826,11 +826,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-07-01 20:47:50.732610",
+          "created_at": "2023-07-03 18:32:53.008413",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-06-28 16:07:57.266273",
-          "url": "https://d95nf1lcetbzq.cloudfront.net"
+          "updated_at": "2023-07-01 20:47:51.307529",
+          "url": "https://d285an22wlga6g.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -914,11 +914,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-07-01 20:47:50.718837",
+          "created_at": "2023-07-03 18:32:52.995469",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-06-28 16:07:57.255365",
-          "url": "https://d1rhtd74vrg47b.cloudfront.net"
+          "updated_at": "2023-07-01 20:47:51.294354",
+          "url": "https://d2ckcd92xmeul6.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1392,11 +1392,11 @@
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
         },
         {
-          "created_at": "2023-07-01 20:47:50.583484",
+          "created_at": "2023-07-03 18:32:52.844796",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-06-28 16:07:57.319542",
-          "url": "https://d3kfrrfc2p2ez7.cloudfront.net"
+          "updated_at": "2023-07-01 20:47:51.372495",
+          "url": "https://dkm2k4hmfqwwj.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
