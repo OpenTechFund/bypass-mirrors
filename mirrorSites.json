@@ -1076,13 +1076,6 @@
           "type": "eotk",
           "updated_at": "2022-03-19 12:14:00.086694",
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2023-07-09 18:02:53.725313",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-07-09 15:50:06.647312",
-          "url": "https://d187zacloaq7ts.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -1354,11 +1347,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-07-09 18:02:53.704729",
+          "created_at": "2023-07-10 19:27:51.322352",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-07-07 20:17:43.818723",
-          "url": "https://d31hauwzb5k50g.cloudfront.net"
+          "updated_at": "2023-07-09 18:02:54.639116",
+          "url": "https://d2tjzt9h9rlphi.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1597,13 +1590,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:05:15.207741",
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-        },
-        {
-          "created_at": "2023-07-09 18:02:53.401817",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-07-09 15:50:06.436849",
-          "url": "https://d1fqwd9mpgi9lq.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
