@@ -620,13 +620,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:19:55.334419",
           "url": "https://pa.azadi3tvhzlsdyiwe52hdc5agawzb3d6c6k5mdf6s2itfpfuoo7v7dqd.onion"
-        },
-        {
-          "created_at": "2023-07-12 07:15:04.855548",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-07-11 12:35:05.504652",
-          "url": "https://d2pnlc995vyhgm.cloudfront.net"
         }
       ],
       "main_domain": "pa.azadiradio.com"
