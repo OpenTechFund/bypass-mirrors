@@ -1585,13 +1585,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:55:49.556741",
           "url": "https://www.farda7tcb3bmdtmsmwx7wofkxxjrcw4iiizin7zzcju2oega74cnzbid.onion"
-        },
-        {
-          "created_at": "2023-07-22 07:50:03.699893",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-07-21 20:15:04.506425",
-          "url": "https://d1gdxshjgu2vf0.cloudfront.net"
         }
       ],
       "main_domain": "radiofarda.com"
