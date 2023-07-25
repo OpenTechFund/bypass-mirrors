@@ -46,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2023-07-25 09:05:03.716111",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-07-25 09:02:31.016614",
+          "url": "https://d3b4oe8bvrz44e.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -289,6 +296,13 @@
           "type": "eotk",
           "updated_at": "2022-06-18 11:50:23.981602",
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-07-25 09:05:03.875130",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-07-25 09:02:31.244787",
+          "url": "https://d228tsbrxdlopf.cloudfront.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
@@ -320,6 +334,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 14:44:57.781103",
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2023-07-25 09:05:03.754279",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-07-25 09:02:31.037515",
+          "url": "https://d23tvgk1pvpz47.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -532,6 +553,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-07-25 09:05:03.746841",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-07-25 09:02:31.033256",
+          "url": "https://d2t6dgatq1ntzj.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -872,6 +900,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-07-25 09:05:03.699509",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-07-25 09:02:31.009052",
+          "url": "https://d3r1t567vbz4cg.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
