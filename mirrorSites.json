@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2023-05-09 12:40:04.491686",
+          "created_at": "2023-07-25 09:05:03.682621",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-09 12:40:04.491691",
-          "url": "https://svabocwzzcyphhtuh.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.068724",
+          "url": "https://d2sohdg0pal6jb.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -46,13 +46,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2023-05-09 12:30:04.977913",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 12:30:04.977928",
-          "url": "https://svoboqzorihcnyyyh.azureedge.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -67,11 +60,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-05-09 12:00:04.299776",
+          "created_at": "2023-07-25 09:05:03.689594",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-09 12:00:04.299786",
-          "url": "https://rferleczxgfspwtxk.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.075899",
+          "url": "https://d1eq6titm0y511.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -86,11 +79,11 @@
           "url": "https://av.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2023-05-05 21:35:04.913077",
+          "created_at": "2023-07-25 09:02:30.421710",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-05 21:35:04.913089",
-          "url": "https://voanevpefcctkccnn.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.016238",
+          "url": "https://dl01s0f6ggk86.cloudfront.net"
         }
       ],
       "main_domain": "av.voanews.com"
@@ -148,11 +141,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2023-05-09 14:15:03.991730",
+          "created_at": "2023-07-25 09:05:03.707687",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-09 14:15:03.991734",
-          "url": "https://curretccfkdjnmxge.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.101740",
+          "url": "https://d2de0p335ryz17.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -167,11 +160,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-05-05 22:50:04.690542",
+          "created_at": "2023-07-25 09:02:30.207473",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-05 22:50:04.690553",
-          "url": "https://rferlybfijmqsfxdb.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.085226",
+          "url": "https://d1uqxyz5258mny.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -198,11 +191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-05-05 22:55:05.081014",
+          "created_at": "2023-07-25 09:05:04.074902",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-05 22:55:05.081025",
-          "url": "https://kaltudkohsdpbvqft.azureedge.net"
+          "updated_at": "2023-05-30 15:38:53.893369",
+          "url": "https://d3afpamji8qlwx.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -248,11 +241,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-05-09 14:15:03.963668",
+          "created_at": "2023-07-25 09:05:03.675458",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-09 14:15:03.963679",
-          "url": "https://rferlcoqnuthbtwrh.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.060818",
+          "url": "https://d2r4ve0anic9nv.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -296,13 +289,6 @@
           "type": "eotk",
           "updated_at": "2022-06-18 11:50:23.981602",
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-05-09 14:30:04.334234",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 14:30:04.334248",
-          "url": "https://rferlbizranvctdcw.azureedge.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
@@ -334,13 +320,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 14:44:57.781103",
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2023-05-09 14:05:04.054576",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 14:05:04.054587",
-          "url": "https://currejxjaqecihncl.azureedge.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -374,11 +353,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2023-05-05 22:05:05.619528",
+          "created_at": "2023-07-25 09:02:30.456391",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-05 22:05:05.619537",
-          "url": "https://voanetkuubkgtrurl.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.336340",
+          "url": "https://ddf1chi4zlem2.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -417,11 +396,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-05-07 22:10:03.558033",
+          "created_at": "2023-07-25 09:05:03.443354",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-07 22:10:03.558044",
-          "url": "https://bbciengdczhsjihg.azureedge.net"
+          "updated_at": "2023-05-30 15:38:54.564357",
+          "url": "https://d2tsnelsveelcc.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -553,13 +532,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-05-09 12:40:04.539597",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 12:40:04.539602",
-          "url": "https://rferliralnwilswgc.azureedge.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -574,11 +546,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2023-05-05 22:25:05.283084",
+          "created_at": "2023-07-25 09:02:30.621010",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-05 22:25:05.283094",
-          "url": "https://alhursslvzwfngjyo.azureedge.net"
+          "updated_at": "2023-05-30 15:38:53.657637",
+          "url": "https://d3g19wqvuhyccd.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -900,13 +872,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-05-09 14:50:04.068342",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 14:50:04.068352",
-          "url": "https://rferlcprbrfgnfpto.azureedge.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1085,11 +1050,11 @@
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2023-07-22 20:02:27.864127",
+          "created_at": "2023-07-25 09:02:30.346029",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-07-21 18:37:20.993805",
-          "url": "https://d1ereyksbug71i.cloudfront.net"
+          "updated_at": "2023-07-24 21:50:05.966078",
+          "url": "https://d2fwx9f4jmfyus.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -1361,11 +1326,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-07-22 20:02:27.850249",
+          "created_at": "2023-07-25 09:02:30.331784",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-07-21 18:37:20.989233",
-          "url": "https://d267yiispdbbzo.cloudfront.net"
+          "updated_at": "2023-07-23 16:22:16.294556",
+          "url": "https://do6hsskejyg4s.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1606,11 +1571,11 @@
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
         },
         {
-          "created_at": "2023-07-22 20:02:27.704711",
+          "created_at": "2023-07-25 09:02:30.178652",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-07-21 18:37:20.840457",
-          "url": "https://d34rcpija1q86n.cloudfront.net"
+          "updated_at": "2023-07-23 16:22:16.153508",
+          "url": "https://d28dqginc49l8d.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
