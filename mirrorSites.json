@@ -914,11 +914,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-07-26 15:32:21.296267",
+          "created_at": "2023-07-31 12:27:45.364651",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-07-23 16:22:16.237663",
-          "url": "https://d3fy0fb81ubsoe.cloudfront.net"
+          "updated_at": "2023-07-26 15:32:21.634341",
+          "url": "https://d3dtjpzo9ai8tl.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1758,11 +1758,11 @@
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
         },
         {
-          "created_at": "2023-07-26 15:32:20.773673",
+          "created_at": "2023-07-31 12:27:44.768564",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-07-25 09:50:05.937984",
-          "url": "https://d1gd9qq1lxkif4.cloudfront.net"
+          "updated_at": "2023-07-29 10:50:06.088223",
+          "url": "https://d8tznik6e7we5.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
