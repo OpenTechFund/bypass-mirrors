@@ -496,6 +496,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:17:08.473734",
           "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2023-08-04 07:20:04.120831",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-08-04 04:45:04.227585",
+          "url": "https://d15nyy150bzbb5.cloudfront.net"
         }
       ],
       "main_domain": "ktat.krymr.com"
