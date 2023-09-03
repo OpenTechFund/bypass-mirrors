@@ -686,11 +686,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2023-09-01 10:22:35.694744",
+          "created_at": "2023-09-03 13:12:14.827228",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-08-31 07:50:05.869879",
-          "url": "https://d38qhf9ir9y5am.cloudfront.net"
+          "updated_at": "2023-09-01 10:22:36.607435",
+          "url": "https://d1ebt1ukquaaym.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -900,11 +900,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-09-01 10:22:36.386835",
+          "created_at": "2023-09-03 13:12:15.352601",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-08-27 13:22:35.813221",
-          "url": "https://d23eapktdknpvc.cloudfront.net"
+          "updated_at": "2023-09-01 10:22:36.829279",
+          "url": "https://d2fexx1z5smltx.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1247,11 +1247,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-09-01 10:22:35.507187",
+          "created_at": "2023-09-03 13:12:14.673746",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-08-27 13:22:35.901768",
-          "url": "https://d2qq67xzncxjv4.cloudfront.net"
+          "updated_at": "2023-09-01 10:22:36.921625",
+          "url": "https://d23n77251iyzib.cloudfront.net"
         }
       ],
       "main_domain": "dw.com"
@@ -1266,11 +1266,11 @@
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
         },
         {
-          "created_at": "2023-09-01 10:22:35.569629",
+          "created_at": "2023-09-03 13:12:14.722771",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-08-27 13:22:35.597435",
-          "url": "https://d3cmggnli6xy7l.cloudfront.net"
+          "updated_at": "2023-09-01 10:22:36.576337",
+          "url": "https://d2jnh537n4v8j3.cloudfront.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
@@ -1366,11 +1366,11 @@
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
         },
         {
-          "created_at": "2023-09-01 10:22:36.262218",
+          "created_at": "2023-09-03 13:12:15.247075",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-08-27 13:22:35.867169",
-          "url": "https://d1w1jg1esec0s8.cloudfront.net"
+          "updated_at": "2023-09-01 10:22:36.883834",
+          "url": "https://d1m6krm54po67f.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1433,13 +1433,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:37:32.913682",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-        },
-        {
-          "created_at": "2023-09-01 10:22:35.746280",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-08-28 17:50:06.474579",
-          "url": "https://d2v765d35jwqn0.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -1747,13 +1740,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:43.166717",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
-        },
-        {
-          "created_at": "2023-09-01 10:22:35.650869",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-08-29 13:50:06.597588",
-          "url": "https://d2z6ekswujgdub.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
