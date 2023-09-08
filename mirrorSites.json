@@ -198,11 +198,11 @@
           "url": "https://da.azadi3tvhzlsdyiwe52hdc5agawzb3d6c6k5mdf6s2itfpfuoo7v7dqd.onion"
         },
         {
-          "created_at": "2023-09-07 02:05:03.425150",
+          "created_at": "2023-09-08 03:35:04.107375",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-09-06 16:00:04.200099",
-          "url": "https://d2sxiebe13j2c9.cloudfront.net"
+          "updated_at": "2023-09-07 17:20:04.908305",
+          "url": "https://d1qi4w5sa05p16.cloudfront.net"
         }
       ],
       "main_domain": "da.azadiradio.com"
@@ -636,11 +636,11 @@
           "url": "https://pa.azadi3tvhzlsdyiwe52hdc5agawzb3d6c6k5mdf6s2itfpfuoo7v7dqd.onion"
         },
         {
-          "created_at": "2023-09-07 00:40:04.462283",
+          "created_at": "2023-09-08 02:45:04.542423",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-09-06 23:10:04.937034",
-          "url": "https://d3be2yvaekgkz2.cloudfront.net"
+          "updated_at": "2023-09-07 23:35:04.420269",
+          "url": "https://d3kyt0vcv9o11v.cloudfront.net"
         }
       ],
       "main_domain": "pa.azadiradio.com"
@@ -663,6 +663,18 @@
         }
       ],
       "main_domain": "pressroom.rferl.org"
+    },
+    {
+      "available_alternatives": [
+        {
+          "created_at": "2023-09-08 09:24:26.414849",
+          "proto": "tor",
+          "type": "eotk",
+          "updated_at": "2023-09-08 09:24:26.412281",
+          "url": "https://projects.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        }
+      ],
+      "main_domain": "projects.voanews.com"
     },
     {
       "available_alternatives": [
@@ -1492,11 +1504,11 @@
           "url": "https://www.mashaal2bhsvkh3wznicm7224zvn2ua4mkjvbzwc6qpnwxw2gurqikid.onion"
         },
         {
-          "created_at": "2023-09-07 02:20:05.187376",
+          "created_at": "2023-09-08 02:50:04.282495",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-09-06 02:15:04.616195",
-          "url": "https://d1mdk01qeh54tg.cloudfront.net"
+          "updated_at": "2023-09-07 04:40:04.889246",
+          "url": "https://d33mm7f4s2es5s.cloudfront.net"
         }
       ],
       "main_domain": "mashaalradio.com"
