@@ -489,6 +489,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:17:08.473734",
           "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2023-09-13 07:40:03.613193",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-09-12 19:40:04.264347",
+          "url": "https://dqq99gnbhtfhi.cloudfront.net"
         }
       ],
       "main_domain": "ktat.krymr.com"
@@ -1602,6 +1609,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:55:49.556741",
           "url": "https://www.farda7tcb3bmdtmsmwx7wofkxxjrcw4iiizin7zzcju2oega74cnzbid.onion"
+        },
+        {
+          "created_at": "2023-09-12 21:25:03.866306",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-09-12 19:55:04.450736",
+          "url": "https://d2tobuuk2ohjfn.cloudfront.net"
         }
       ],
       "main_domain": "radiofarda.com"
