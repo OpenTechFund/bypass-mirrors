@@ -296,13 +296,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:21:24.643191",
           "url": "https://gandhara.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-09-12 10:00:03.573615",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-09-11 11:50:04.450381",
-          "url": "https://d3mjqu5kzm1jh7.cloudfront.net"
         }
       ],
       "main_domain": "gandhara.rferl.org"
