@@ -1509,13 +1509,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:22:05.190405",
           "url": "https://www.mashaal2bhsvkh3wznicm7224zvn2ua4mkjvbzwc6qpnwxw2gurqikid.onion"
-        },
-        {
-          "created_at": "2023-09-19 22:30:03.666308",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-09-19 00:40:04.008633",
-          "url": "https://d2ljmen5hne61t.cloudfront.net"
         }
       ],
       "main_domain": "mashaalradio.com"
