@@ -1418,11 +1418,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-06 17:52:21.828884",
+          "created_at": "2023-10-07 19:17:39.037557",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-05 21:32:22.567172",
-          "url": "https://d6mqysgexdd80.cloudfront.net"
+          "updated_at": "2023-10-06 17:52:22.510096",
+          "url": "https://d3gu0ho7hny5b0.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
