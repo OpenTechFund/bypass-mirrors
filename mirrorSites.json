@@ -196,6 +196,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:14:27.108851",
           "url": "https://da.azadi3tvhzlsdyiwe52hdc5agawzb3d6c6k5mdf6s2itfpfuoo7v7dqd.onion"
+        },
+        {
+          "created_at": "2023-10-17 16:00:03.774794",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-10-17 15:40:04.786873",
+          "url": "https://d2giufqamlp69e.cloudfront.net"
         }
       ],
       "main_domain": "da.azadiradio.com"
