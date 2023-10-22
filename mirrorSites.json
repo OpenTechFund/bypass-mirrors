@@ -427,11 +427,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-08 15:37:10.623661",
+          "created_at": "2023-10-22 15:07:14.712863",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-02 17:17:16.346923",
-          "url": "https://d3hnn6otepgbsn.cloudfront.net"
+          "updated_at": "2023-10-08 15:37:11.213893",
+          "url": "https://d3by0ifqx97aac.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -717,11 +717,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2023-10-15 15:22:22.909172",
+          "created_at": "2023-10-22 15:07:14.104414",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-14 11:45:05.816287",
-          "url": "https://d2uu4j91vcq7oa.cloudfront.net"
+          "updated_at": "2023-10-19 03:45:05.892068",
+          "url": "https://d3inluvbvcb6w0.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -843,11 +843,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-20 17:22:14.760278",
+          "created_at": "2023-10-22 15:07:14.700885",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-15 15:22:23.917103",
-          "url": "https://d1plwa11v6nkxe.cloudfront.net"
+          "updated_at": "2023-10-20 17:22:15.156603",
+          "url": "https://d23lkb2tpch0rn.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1138,13 +1138,6 @@
           "type": "eotk",
           "updated_at": "2022-03-19 12:14:00.086694",
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2023-10-17 23:17:24.854348",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-17 16:45:06.304841",
-          "url": "https://d1lf1njfqcc3v3.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -1247,11 +1240,11 @@
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2023-10-15 15:22:23.121185",
+          "created_at": "2023-10-22 15:07:14.315672",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-13 12:35:06.040664",
-          "url": "https://d3bjc28owrecec.cloudfront.net"
+          "updated_at": "2023-10-20 16:45:06.065527",
+          "url": "https://d3t9gqvvidaglu.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -1316,11 +1309,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-08 15:37:09.852183",
+          "created_at": "2023-10-22 15:07:13.933558",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-05 21:32:22.594312",
-          "url": "https://dzc7bjnkki1o8.cloudfront.net"
+          "updated_at": "2023-10-08 15:37:11.105293",
+          "url": "https://d2u1pp22co5rr6.cloudfront.net"
         }
       ],
       "main_domain": "dw.com"
@@ -1335,11 +1328,11 @@
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
         },
         {
-          "created_at": "2023-10-08 15:37:09.951842",
+          "created_at": "2023-10-22 15:07:13.984333",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-05 22:45:05.761379",
-          "url": "https://dx1xg02mdwmf8.cloudfront.net"
+          "updated_at": "2023-10-20 15:45:07.509338",
+          "url": "https://d1b5iz8smv966s.cloudfront.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
@@ -1402,15 +1395,7 @@
       "main_domain": "evropaelire.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-10-16 16:47:13.570276",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-15 15:22:23.975166",
-          "url": "https://d13f8om5oun5b9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "factograph.info"
     },
     {
@@ -1433,13 +1418,6 @@
           "type": "eotk",
           "updated_at": "2022-09-27 08:42:51.452037",
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
-        },
-        {
-          "created_at": "2023-10-21 13:42:18.202955",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-19 21:02:17.679479",
-          "url": "https://d2q1qfttm8scum.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1466,11 +1444,11 @@
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
         },
         {
-          "created_at": "2023-10-15 15:22:22.894527",
+          "created_at": "2023-10-22 15:07:14.089587",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-13 14:45:06.452695",
-          "url": "https://d2ojwl3d1mxggb.cloudfront.net"
+          "updated_at": "2023-10-20 16:45:05.849300",
+          "url": "https://d34x7sfjsh8lo1.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -1502,13 +1480,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:37:32.913682",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-        },
-        {
-          "created_at": "2023-10-15 15:22:22.952580",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-13 14:45:06.525895",
-          "url": "https://d37y3ag4jl15w5.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -1578,11 +1549,11 @@
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
         },
         {
-          "created_at": "2023-10-20 17:22:14.197559",
+          "created_at": "2023-10-22 15:07:14.121056",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-13 12:32:38.637431",
-          "url": "https://d86ux2kudqym0.cloudfront.net"
+          "updated_at": "2023-10-20 17:22:14.955096",
+          "url": "https://d25adi7j79itj8.cloudfront.net"
         }
       ],
       "main_domain": "ozodi.org"
@@ -1657,13 +1628,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:05:15.207741",
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-        },
-        {
-          "created_at": "2023-10-16 16:47:13.297191",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-15 15:22:23.799498",
-          "url": "https://d3kqipw1g9bnki.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
@@ -1809,13 +1773,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:43.166717",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
-        },
-        {
-          "created_at": "2023-10-15 15:22:22.869711",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-13 14:45:06.441641",
-          "url": "https://d35rmpao59klov.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
@@ -1830,11 +1787,11 @@
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
         },
         {
-          "created_at": "2023-10-15 15:22:23.190333",
+          "created_at": "2023-10-22 15:07:14.440824",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-14 11:45:06.081172",
-          "url": "https://d38bbsw3fx0c02.cloudfront.net"
+          "updated_at": "2023-10-18 11:45:05.871218",
+          "url": "https://d2quyi6rnmcpej.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
@@ -1906,11 +1863,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2023-10-15 15:22:23.099285",
+          "created_at": "2023-10-22 15:07:14.295355",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-14 11:45:05.999581",
-          "url": "https://d29bpksyjx6rjj.cloudfront.net"
+          "updated_at": "2023-10-20 14:45:09.320306",
+          "url": "https://d2t4aee0y6hmr6.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
