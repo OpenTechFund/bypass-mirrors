@@ -46,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2023-10-31 23:20:03.849544",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-10-31 23:15:05.143590",
+          "url": "https://d2q2sp5z4sj4.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -122,11 +129,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2023-10-30 21:45:07.010746",
+          "created_at": "2023-10-31 23:35:05.317318",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-30 20:35:07.192320",
-          "url": "https://d2b5zv9bxjiz9q.cloudfront.net"
+          "updated_at": "2023-10-31 23:00:05.055424",
+          "url": "https://da9zbx2cuk0nt.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -172,11 +179,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-30 21:45:07.806411",
+          "created_at": "2023-10-31 23:50:05.140964",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-30 20:00:05.433436",
-          "url": "https://d1cmafaabpd9ni.cloudfront.net"
+          "updated_at": "2023-10-30 21:45:08.118559",
+          "url": "https://d545scho0uhm1.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -322,11 +329,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-30 23:05:04.456917",
+          "created_at": "2023-10-31 23:45:03.934480",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-30 22:25:04.581306",
-          "url": "https://d3p89q41klb84r.cloudfront.net"
+          "updated_at": "2023-10-30 23:05:04.860283",
+          "url": "https://d27uglt3l51td5.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
