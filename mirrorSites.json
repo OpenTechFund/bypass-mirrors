@@ -67,11 +67,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-10-30 20:50:05.046484",
+          "created_at": "2023-10-31 21:50:05.296340",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-29 19:40:06.923926",
-          "url": "https://dvnzgsjdrnmgy.cloudfront.net"
+          "updated_at": "2023-10-30 23:45:04.988148",
+          "url": "https://d2ajbcn8gloscw.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -410,11 +410,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-10-30 20:15:04.766033",
+          "created_at": "2023-10-31 21:45:04.169615",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-30 20:10:05.509219",
-          "url": "https://d2stcw924a2acp.cloudfront.net"
+          "updated_at": "2023-10-30 20:15:06.265712",
+          "url": "https://d30n5iu72dlotl.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -548,11 +548,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-10-30 20:55:05.956673",
+          "created_at": "2023-10-31 21:45:04.658945",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-30 20:50:06.237253",
-          "url": "https://d29izcq9c9kgy7.cloudfront.net"
+          "updated_at": "2023-10-30 20:55:07.143428",
+          "url": "https://d14s2rerf4e6aq.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -567,11 +567,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2023-10-30 20:15:05.595931",
+          "created_at": "2023-10-31 21:50:05.778604",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-29 19:40:06.562161",
-          "url": "https://d3s4btp6h0lfsp.cloudfront.net"
+          "updated_at": "2023-10-30 20:15:05.712953",
+          "url": "https://d1vkn1w9f8qcmh.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
