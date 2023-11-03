@@ -962,13 +962,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:22:32.007491",
           "url": "https://ukrainian.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2023-05-09 16:55:04.800314",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 16:55:04.800319",
-          "url": "https://d25r309fhau8od.cloudfront.net"
         }
       ],
       "main_domain": "ukrainian.voanews.com"
