@@ -253,13 +253,6 @@
           "type": "eotk",
           "updated_at": "2022-06-18 11:50:23.981602",
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-11-05 03:25:05.634537",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-04 06:40:05.764336",
-          "url": "https://d1rpuungewd0wc.cloudfront.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
@@ -377,15 +370,7 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-11-05 04:05:03.582500",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-04 03:15:04.794563",
-          "url": "https://dfkx90mfrjooa.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
