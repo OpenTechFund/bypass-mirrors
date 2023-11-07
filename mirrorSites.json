@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2023-11-06 05:25:03.999115",
+          "created_at": "2023-11-07 07:30:03.581641",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-05 07:50:05.342900",
-          "url": "https://dsum3gixcn2yf.cloudfront.net"
+          "updated_at": "2023-11-06 09:50:04.412837",
+          "url": "https://d3mis363dlfnmg.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
