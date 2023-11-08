@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-07 06:00:03.151792",
+          "created_at": "2023-11-08 06:55:04.517387",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-06 05:35:05.693763",
-          "url": "https://d1wyudy79xmp7f.cloudfront.net"
+          "updated_at": "2023-11-07 06:00:04.798285",
+          "url": "https://d34uad39em85wm.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -579,11 +579,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2023-11-07 05:45:04.695077",
+          "created_at": "2023-11-08 07:00:04.115451",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-06 04:55:04.620980",
-          "url": "https://d1kdjz7ae3v876.cloudfront.net"
+          "updated_at": "2023-11-07 05:45:04.822513",
+          "url": "https://ddi4t7nfn5iiv.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
