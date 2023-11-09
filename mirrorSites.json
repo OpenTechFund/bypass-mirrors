@@ -58,15 +58,7 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-11-08 06:35:04.561236",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-08 06:00:07.179658",
-          "url": "https://d1q02wyge5m1wb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "assets-global.website-files.com"
     },
     {
