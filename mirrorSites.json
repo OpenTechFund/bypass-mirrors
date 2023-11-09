@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2023-11-08 12:40:03.283751",
+          "created_at": "2023-11-09 14:15:03.921419",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-08 08:10:04.184606",
-          "url": "https://d212xvdseunl2d.cloudfront.net"
+          "updated_at": "2023-11-09 09:50:10.661792",
+          "url": "https://d3tmca0frwbuhy.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -341,11 +341,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-08 12:25:04.333385",
+          "created_at": "2023-11-09 14:10:04.138277",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-08 10:10:06.353570",
-          "url": "https://d36vpor4kkfbq7.cloudfront.net"
+          "updated_at": "2023-11-09 11:50:04.142940",
+          "url": "https://d396hitriuqtl6.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
