@@ -962,6 +962,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-09 16:30:06.205034",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-09 16:20:06.133956",
+          "url": "https://d2rnx1st1aoy9n.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
