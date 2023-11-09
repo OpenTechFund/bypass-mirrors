@@ -58,7 +58,15 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-11-09 08:55:05.856295",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-09 08:00:04.706719",
+          "url": "https://dd0jpbub7bs6.cloudfront.net"
+        }
+      ],
       "main_domain": "assets-global.website-files.com"
     },
     {
@@ -569,6 +577,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
+        },
+        {
+          "created_at": "2023-11-09 08:50:04.758677",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-09 07:20:05.253095",
+          "url": "https://d2q8iq32libr4d.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
