@@ -329,11 +329,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2023-11-09 14:25:05.829717",
+          "created_at": "2023-11-10 15:15:04.575674",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-09 13:00:06.340588",
-          "url": "https://d1nwys7zieihc7.cloudfront.net"
+          "updated_at": "2023-11-09 14:25:07.190399",
+          "url": "https://d3veshghsuy5u5.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -341,11 +341,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-09 14:10:04.138277",
+          "created_at": "2023-11-10 15:10:05.426888",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-09 11:50:04.142940",
-          "url": "https://d396hitriuqtl6.cloudfront.net"
+          "updated_at": "2023-11-10 13:30:06.428962",
+          "url": "https://d3cjnyaga8zg4j.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
