@@ -323,15 +323,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-11-10 15:10:05.426888",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-10 13:30:06.428962",
-          "url": "https://d3cjnyaga8zg4j.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
