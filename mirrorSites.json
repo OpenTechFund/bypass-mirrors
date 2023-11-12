@@ -1022,13 +1022,6 @@
           "type": "eotk",
           "updated_at": "2022-03-19 12:14:00.086694",
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2023-11-11 11:52:31.401082",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-10 17:05:07.580189",
-          "url": "https://d1cyajoum8ba3v.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -1286,15 +1279,7 @@
       "main_domain": "evropaelire.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-11-11 11:52:31.383744",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-10 15:34:31.201148",
-          "url": "https://d28in24dy14h23.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "factograph.info"
     },
     {
@@ -1319,11 +1304,11 @@
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
         },
         {
-          "created_at": "2023-11-09 15:14:54.716278",
+          "created_at": "2023-11-12 18:23:00.179992",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-07 22:32:35.625592",
-          "url": "https://d3ce22bdnasqzs.cloudfront.net"
+          "updated_at": "2023-11-10 17:05:07.556193",
+          "url": "https://d2s5wqn9ssg61h.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1479,13 +1464,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:14.310216",
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2023-11-11 11:52:30.988241",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-04 18:19:12.987924",
-          "url": "https://dxtod158bfmzd.cloudfront.net"
         }
       ],
       "main_domain": "ozodi.org"
@@ -1567,13 +1545,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:05:15.207741",
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
-        },
-        {
-          "created_at": "2023-11-11 11:52:31.086546",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-10 16:45:07.595631",
-          "url": "https://d3tkq1w70qnwyl.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
