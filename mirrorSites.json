@@ -560,11 +560,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-11-14 16:25:04.218156",
+          "created_at": "2023-11-15 17:05:04.898426",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-13 18:30:05.515678",
-          "url": "https://d3im2zwucdtmq6.cloudfront.net"
+          "updated_at": "2023-11-14 20:30:05.931534",
+          "url": "https://dc3y5o1awjmt6.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -579,11 +579,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2023-11-14 15:30:05.205532",
+          "created_at": "2023-11-15 17:15:04.292054",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-14 14:25:04.754794",
-          "url": "https://d16o4xhkb7wk3l.cloudfront.net"
+          "updated_at": "2023-11-14 15:30:05.327848",
+          "url": "https://d10w78m9tk3rjj.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
