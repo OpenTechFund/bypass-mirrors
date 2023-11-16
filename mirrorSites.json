@@ -158,13 +158,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-11-14 21:30:04.095623",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-14 21:14:13.604022",
-          "url": "https://dw88fo1ul1igk.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
