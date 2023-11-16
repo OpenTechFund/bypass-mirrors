@@ -334,11 +334,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-14 23:05:04.531966",
+          "created_at": "2023-11-16 01:20:04.691054",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-14 19:35:04.845189",
-          "url": "https://d373s12a1r8e0j.cloudfront.net"
+          "updated_at": "2023-11-15 20:50:04.379475",
+          "url": "https://d6eteseyrcwo0.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
