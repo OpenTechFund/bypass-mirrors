@@ -46,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2023-11-16 01:50:17.284627",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-15 23:55:05.601860",
+          "url": "https://d6m80avhlns46.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -70,6 +77,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:38.853493",
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-16 02:40:03.443583",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-15 23:17:24.728161",
+          "url": "https://d3dcehyotrsdqd.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -144,6 +158,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-16 00:35:04.277139",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-16 00:25:05.312790",
+          "url": "https://d14zfm6trfxfc4.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -356,6 +377,13 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2023-11-16 02:00:04.782687",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-15 21:15:07.519608",
+          "url": "https://d7n6hv26cbnt8.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -934,6 +962,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-16 05:20:03.612368",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-16 03:35:04.648455",
+          "url": "https://d2009sxwcoxflv.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
