@@ -27,13 +27,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2023-11-17 01:15:05.159066",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-16 20:00:07.405694",
-          "url": "https://d111n3981opxai.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
