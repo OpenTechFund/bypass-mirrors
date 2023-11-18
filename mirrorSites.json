@@ -151,13 +151,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-11-17 02:50:04.199395",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-16 01:15:05.656442",
-          "url": "https://dm3rkj4howikm.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -320,13 +313,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 14:44:57.781103",
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2023-11-17 01:45:05.665718",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-16 01:35:05.266878",
-          "url": "https://d2ywtd6nuizrbj.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -370,13 +356,6 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2023-11-17 04:00:04.003883",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-16 23:05:04.689052",
-          "url": "https://d31g7zx8qp7nmf.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
