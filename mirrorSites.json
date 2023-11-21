@@ -27,6 +27,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
+        },
+        {
+          "created_at": "2023-11-21 09:05:04.203383",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-21 01:10:06.935425",
+          "url": "https://d1wkrfdrrcno1c.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -51,7 +58,15 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-11-21 02:10:06.251287",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-21 00:15:04.747253",
+          "url": "https://d10z00htkvco9m.cloudfront.net"
+        }
+      ],
       "main_domain": "assets-global.website-files.com"
     },
     {
@@ -362,6 +377,13 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2023-11-21 07:15:05.368577",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-21 05:55:04.659442",
+          "url": "https://d15y1up0f67die.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -398,7 +420,15 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-11-20 22:15:03.691393",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-20 21:20:04.842621",
+          "url": "https://d16smy43btolro.cloudfront.net"
+        }
+      ],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
@@ -528,6 +558,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-21 04:15:05.013564",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-21 03:10:05.342617",
+          "url": "https://d2zywrlbkxg4nk.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -540,6 +577,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
+        },
+        {
+          "created_at": "2023-11-21 01:10:06.350256",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-21 01:05:06.978133",
+          "url": "https://d3fvlr2o3n925v.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
