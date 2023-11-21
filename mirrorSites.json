@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2023-11-20 11:25:04.550040",
+          "created_at": "2023-11-21 11:35:07.896723",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-20 06:05:07.531391",
-          "url": "https://d24r9li0n3cr6q.cloudfront.net"
+          "updated_at": "2023-11-21 07:00:04.847659",
+          "url": "https://dva5fdun901hr.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -160,11 +160,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-11-20 09:55:06.258710",
+          "created_at": "2023-11-21 11:30:04.433807",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-20 06:20:05.443928",
-          "url": "https://dtcw4xzjoiku4.cloudfront.net"
+          "updated_at": "2023-11-21 08:35:06.711592",
+          "url": "https://d3pko09il8fcjh.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -857,11 +857,11 @@
           "url": "https://rus.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
         },
         {
-          "created_at": "2023-11-19 13:43:21.569273",
+          "created_at": "2023-11-21 11:27:33.466726",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-16 19:38:05.795557",
-          "url": "https://d2epl16wiszvdw.cloudfront.net"
+          "updated_at": "2023-11-19 13:43:22.849626",
+          "url": "https://dw3ejx8sgtf0t.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodlik.org"
@@ -1454,11 +1454,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-01 19:45:04.534024",
+          "created_at": "2023-11-21 11:27:33.926446",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-01 19:45:04.534028",
-          "url": "https://dq9jv466uzh9n.cloudfront.net"
+          "updated_at": "2023-11-01 19:45:05.246596",
+          "url": "https://d3girf0v8rga9u.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1604,11 +1604,11 @@
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
         },
         {
-          "created_at": "2023-11-19 13:43:21.136508",
+          "created_at": "2023-11-21 11:27:33.213855",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-16 19:38:05.523754",
-          "url": "https://d2ni72plj4d8t5.cloudfront.net"
+          "updated_at": "2023-11-19 13:43:22.506714",
+          "url": "https://d3rozgp4s7npne.cloudfront.net"
         }
       ],
       "main_domain": "ozodi.org"
