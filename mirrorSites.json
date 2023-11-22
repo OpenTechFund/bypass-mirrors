@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2023-11-21 11:35:07.896723",
+          "created_at": "2023-11-22 13:35:05.129724",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-21 07:00:04.847659",
-          "url": "https://dva5fdun901hr.cloudfront.net"
+          "updated_at": "2023-11-22 09:50:05.531329",
+          "url": "https://d2fnatcvfaxis2.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -964,11 +964,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-11-21 12:35:05.563987",
+          "created_at": "2023-11-22 13:30:05.330352",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-21 12:30:05.199862",
-          "url": "https://day6bcnhmqgny.cloudfront.net"
+          "updated_at": "2023-11-21 12:35:07.080205",
+          "url": "https://d3duwg0o1hqlu0.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
