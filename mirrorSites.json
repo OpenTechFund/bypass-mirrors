@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2023-11-21 09:05:04.203383",
+          "created_at": "2023-11-22 10:00:03.305402",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-21 01:10:06.935425",
-          "url": "https://d1wkrfdrrcno1c.cloudfront.net"
+          "updated_at": "2023-11-22 02:00:05.689254",
+          "url": "https://d1sq6upuegodby.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -379,11 +379,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2023-11-21 07:15:05.368577",
+          "created_at": "2023-11-22 10:00:03.680159",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-21 05:55:04.659442",
-          "url": "https://d15y1up0f67die.cloudfront.net"
+          "updated_at": "2023-11-22 06:15:05.215431",
+          "url": "https://d1m347ghrhukop.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
