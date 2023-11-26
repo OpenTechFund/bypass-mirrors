@@ -339,15 +339,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-11-25 15:40:05.300833",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-25 15:20:04.593363",
-          "url": "https://d370yclah6z9pl.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -964,11 +956,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-11-25 15:10:05.411838",
+          "created_at": "2023-11-26 16:20:05.813845",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-24 18:45:05.124207",
-          "url": "https://d1db9koqh0h00g.cloudfront.net"
+          "updated_at": "2023-11-25 22:05:05.258436",
+          "url": "https://d1emygzea6ckhl.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
