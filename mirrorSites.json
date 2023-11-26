@@ -58,7 +58,15 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-11-26 11:35:04.330297",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-26 09:15:05.272142",
+          "url": "https://d157c6d7r5xs4t.cloudfront.net"
+        }
+      ],
       "main_domain": "assets-global.website-files.com"
     },
     {
@@ -131,6 +139,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2023-11-26 10:50:04.038983",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-25 23:05:05.936701",
+          "url": "https://d3tgl5y1c8dv0t.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -274,6 +289,13 @@
           "type": "eotk",
           "updated_at": "2022-06-18 11:50:23.981602",
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-26 07:35:04.758524",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-25 17:50:05.850243",
+          "url": "https://d3f65s4au9rwn8.cloudfront.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
@@ -336,6 +358,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:17.310518",
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-26 14:30:04.452246",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-25 18:00:04.725711",
+          "url": "https://d2l4rkmbkk9w60.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -529,6 +558,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-11-26 11:35:03.885649",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-11-26 10:15:04.915488",
+          "url": "https://dc2eea0o7bsfp.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
