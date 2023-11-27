@@ -191,11 +191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-26 11:30:05.787802",
+          "created_at": "2023-11-27 16:00:06.370466",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-25 09:20:05.824648",
-          "url": "https://dv6gr8j0tkbyr.cloudfront.net"
+          "updated_at": "2023-11-27 12:55:04.659758",
+          "url": "https://d2frpjzvd3h5lm.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
