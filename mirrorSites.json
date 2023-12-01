@@ -191,11 +191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-11-30 22:00:09.421968",
+          "created_at": "2023-12-01 23:25:05.204373",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-29 20:05:07.033603",
-          "url": "https://d2lei5g65mk7fg.cloudfront.net"
+          "updated_at": "2023-12-01 22:55:05.024325",
+          "url": "https://dr0my8l4w8a7h.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -379,11 +379,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2023-11-30 22:10:06.469792",
+          "created_at": "2023-12-01 23:20:05.781292",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-11-30 18:30:07.479822",
-          "url": "https://dlzm2mcr8vczw.cloudfront.net"
+          "updated_at": "2023-12-01 18:45:07.724908",
+          "url": "https://dyv21gkabvyyw.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
