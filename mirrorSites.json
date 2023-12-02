@@ -1784,13 +1784,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:02:10.828755",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
-        },
-        {
-          "created_at": "2023-11-26 16:40:08.571720",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-26 15:00:07.525176",
-          "url": "https://dixg0oqkcy9t4.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
