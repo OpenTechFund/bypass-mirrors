@@ -1507,13 +1507,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:37:32.913682",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
-        },
-        {
-          "created_at": "2023-11-27 12:10:06.465777",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-26 15:00:07.227901",
-          "url": "https://d1ty3f6avubrvj.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
