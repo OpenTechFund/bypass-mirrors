@@ -218,13 +218,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-12-01 17:25:05.137110",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-01 02:55:07.023972",
-          "url": "https://d1rr9mfvsvtfe9.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -541,13 +534,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
-        },
-        {
-          "created_at": "2023-12-01 19:00:06.863126",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-11-30 17:25:05.152318",
-          "url": "https://d1sre5ze667mih.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
