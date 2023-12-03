@@ -27,13 +27,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2023-12-02 00:40:05.439551",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-01 19:20:05.661476",
-          "url": "https://d24ptot0unu4fq.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -327,13 +320,6 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2023-12-01 23:20:05.781292",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-01 18:45:07.724908",
-          "url": "https://dyv21gkabvyyw.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
