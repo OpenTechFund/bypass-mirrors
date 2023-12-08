@@ -189,7 +189,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-12-08 09:00:05.060632",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-12-08 08:15:04.537099",
+          "url": "https://d3myc6vg3za3gw.cloudfront.net"
+        }
+      ],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -412,7 +420,15 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-12-08 05:50:03.848100",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-12-08 05:40:06.475995",
+          "url": "https://dwq0z3c63cl4s.cloudfront.net"
+        }
+      ],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
@@ -542,6 +558,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2023-12-08 07:25:05.106423",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-12-08 03:50:05.128130",
+          "url": "https://d2ji025x3bay1i.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
