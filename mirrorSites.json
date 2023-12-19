@@ -291,11 +291,11 @@
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-12-18 02:25:04.543674",
+          "created_at": "2023-12-19 03:15:04.049027",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-17 07:20:04.783015",
-          "url": "https://da3w78dh4r17c.cloudfront.net"
+          "updated_at": "2023-12-18 09:55:05.448924",
+          "url": "https://d1mtwwf4tky139.cloudfront.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
@@ -379,11 +379,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2023-12-18 00:10:04.366266",
+          "created_at": "2023-12-19 03:10:05.519885",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-17 21:35:05.564841",
-          "url": "https://d3olu26dkjychv.cloudfront.net"
+          "updated_at": "2023-12-18 22:45:04.627603",
+          "url": "https://d1gnf6fnuvkb8o.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -420,7 +420,15 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2023-12-19 03:15:03.450559",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2023-12-19 02:30:13.512789",
+          "url": "https://deuj5urrx8rsv.cloudfront.net"
+        }
+      ],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
