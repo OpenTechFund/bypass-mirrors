@@ -420,15 +420,7 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2023-12-18 01:00:03.645406",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-18 00:40:04.851775",
-          "url": "https://d2eode6mu5yizs.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
@@ -560,11 +552,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2023-12-18 00:57:22.718578",
+          "created_at": "2023-12-19 03:00:03.951637",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-17 17:15:06.134229",
-          "url": "https://d5770evxxik8l.cloudfront.net"
+          "updated_at": "2023-12-18 19:55:04.221374",
+          "url": "https://d2vcufrj5nhcam.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
