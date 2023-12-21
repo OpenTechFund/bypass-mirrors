@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2023-12-20 12:35:03.209927",
+          "created_at": "2023-12-21 13:50:03.364015",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-20 01:20:04.978680",
-          "url": "https://d1i3hepcbhr8vd.cloudfront.net"
+          "updated_at": "2023-12-21 02:10:05.260810",
+          "url": "https://d2mwljw0vkdme1.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -77,13 +77,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:38.853493",
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-12-20 11:20:03.370891",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-20 10:50:04.927788",
-          "url": "https://d291xzcs9r9yn7.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
