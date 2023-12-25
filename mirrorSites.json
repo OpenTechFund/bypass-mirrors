@@ -379,11 +379,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2023-12-24 09:40:05.463704",
+          "created_at": "2023-12-25 10:25:06.186527",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-23 08:45:06.344143",
-          "url": "https://d1rrzbhmommwgf.cloudfront.net"
+          "updated_at": "2023-12-24 10:25:05.120528",
+          "url": "https://d1c069urf2awgk.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
