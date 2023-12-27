@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-12-26 14:45:05.624493",
+          "created_at": "2023-12-27 16:10:06.040750",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-26 02:00:07.577779",
-          "url": "https://d16y4sbik5p745.cloudfront.net"
+          "updated_at": "2023-12-27 05:15:04.744243",
+          "url": "https://d29oajy6g80wza.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-12-26 15:05:08.478235",
+          "created_at": "2023-12-27 16:15:05.935171",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-25 14:45:08.901838",
-          "url": "https://d3jzh9oruovqpx.cloudfront.net"
+          "updated_at": "2023-12-26 15:05:10.905508",
+          "url": "https://d1wm3ha8887y3q.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
