@@ -1027,13 +1027,6 @@
           "type": "eotk",
           "updated_at": "2022-03-19 12:14:00.086694",
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2023-12-28 20:22:59.801919",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-28 17:45:07.478198",
-          "url": "https://d1pqmkoqh7x8f3.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -1134,13 +1127,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 23:43:44.886427",
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2023-12-25 16:03:48.271002",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-25 14:05:09.257515",
-          "url": "https://d2odl6at1qreow.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -1321,11 +1307,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-12-22 16:48:43.798051",
+          "created_at": "2023-12-30 13:02:38.580868",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-22 01:32:24.133346",
-          "url": "https://d2e6m0f27ixgyb.cloudfront.net"
+          "updated_at": "2023-12-25 21:07:27.953130",
+          "url": "https://d1141rytshb2w1.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1350,13 +1336,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:40:51.109293",
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-        },
-        {
-          "created_at": "2023-12-24 14:38:16.185028",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-21 20:27:18.850776",
-          "url": "https://d2e7dxf74e9ub7.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -1469,13 +1448,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:14.310216",
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2023-12-29 16:42:21.055983",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-25 21:07:27.436889",
-          "url": "https://duhpzr9v0kmjg.cloudfront.net"
         }
       ],
       "main_domain": "ozodi.org"
@@ -1702,13 +1674,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:43.166717",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
-        },
-        {
-          "created_at": "2023-12-25 16:03:47.684537",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-25 08:05:07.034038",
-          "url": "https://d20jpgeny22yad.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
@@ -1771,13 +1736,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:47:55.333134",
           "url": "https://www.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2023-12-24 09:32:46.850005",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-22 16:48:44.277295",
-          "url": "https://d5fmaz6zpjf98.cloudfront.net"
         }
       ],
       "main_domain": "svaboda.org"
@@ -1790,13 +1748,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:32.883525",
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2023-12-25 16:03:48.157842",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-24 16:45:07.198694",
-          "url": "https://d2c0cirjv736aj.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
