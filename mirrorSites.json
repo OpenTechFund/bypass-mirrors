@@ -141,11 +141,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2023-12-30 21:10:04.149189",
+          "created_at": "2023-12-31 22:30:03.113873",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-30 00:30:05.706399",
-          "url": "https://d2k0wgs18fwwkj.cloudfront.net"
+          "updated_at": "2023-12-31 02:05:04.749366",
+          "url": "https://dsan0vdmm290e.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-12-30 21:10:03.819869",
+          "created_at": "2023-12-31 22:25:03.372902",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-29 20:45:06.072306",
-          "url": "https://d10frxcc890uw5.cloudfront.net"
+          "updated_at": "2023-12-30 21:10:05.409225",
+          "url": "https://d34s9qvcveug3.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
