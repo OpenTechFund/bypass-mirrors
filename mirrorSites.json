@@ -858,11 +858,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-12-31 14:27:22.808793",
+          "created_at": "2024-01-03 13:42:16.595261",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-12-24 14:38:17.427521",
-          "url": "https://d1r9qcxyzvcifb.cloudfront.net"
+          "updated_at": "2023-12-31 14:27:23.382461",
+          "url": "https://d2mqzv7xl2x0zf.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1783,13 +1783,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:32.883525",
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2024-01-01 15:52:20.944158",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-01-01 12:05:10.189736",
-          "url": "https://d286a98eyzpoko.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
@@ -2377,15 +2370,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-01-01 15:52:21.411798",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-12-24 14:38:17.666153",
-          "url": "https://dg81i0qvigdql.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
