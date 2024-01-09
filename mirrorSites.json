@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-01-08 16:35:04.832127",
+          "created_at": "2024-01-09 17:00:04.055646",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-08 09:00:05.140627",
-          "url": "https://d7694e17bk1ow.cloudfront.net"
+          "updated_at": "2024-01-09 09:35:04.902093",
+          "url": "https://dwbcd4mvu1ckw.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -869,11 +869,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-01-06 17:57:21.182358",
+          "created_at": "2024-01-09 17:09:01.282690",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-02 17:22:24.670580",
-          "url": "https://d9vgajncf0tbp.cloudfront.net"
+          "updated_at": "2024-01-06 17:57:21.761677",
+          "url": "https://d1nmddhf7mg8gd.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
