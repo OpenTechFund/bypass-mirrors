@@ -341,11 +341,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-01-13 22:35:04.064131",
+          "created_at": "2024-01-14 23:25:03.845633",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-13 12:40:05.316485",
-          "url": "https://din81hjpjb4iu.cloudfront.net"
+          "updated_at": "2024-01-14 15:20:04.602823",
+          "url": "https://d1lqrypbcaz6au.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-01-13 22:30:03.759825",
+          "created_at": "2024-01-14 23:25:02.913844",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-13 21:50:05.008020",
-          "url": "https://d3j9e53lwcq4td.cloudfront.net"
+          "updated_at": "2024-01-13 22:30:05.641493",
+          "url": "https://d15x6g11ibzkc5.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
