@@ -377,6 +377,13 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2024-01-18 11:35:05.386121",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-01-18 10:50:06.393383",
+          "url": "https://d2ab809sizjt6g.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
