@@ -341,11 +341,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-01-20 06:35:04.913104",
+          "created_at": "2024-01-21 08:40:04.470374",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-19 23:10:04.997913",
-          "url": "https://d2o29fe8pku1sh.cloudfront.net"
+          "updated_at": "2024-01-21 00:00:06.087885",
+          "url": "https://d1o7j2sqwqyifn.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
