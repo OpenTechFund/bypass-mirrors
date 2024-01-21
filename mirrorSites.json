@@ -191,11 +191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-01-20 02:12:29.247969",
+          "created_at": "2024-01-21 03:00:04.577809",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-19 01:55:04.524696",
-          "url": "https://dfcvruy2s2rvl.cloudfront.net"
+          "updated_at": "2024-01-20 02:12:29.532367",
+          "url": "https://d1uk2nl48mbvjb.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -291,11 +291,11 @@
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-01-20 01:15:04.938503",
+          "created_at": "2024-01-21 03:00:04.276011",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-19 11:00:17.347782",
-          "url": "https://d290wwc4tnqdoi.cloudfront.net"
+          "updated_at": "2024-01-20 12:00:04.664619",
+          "url": "https://d2lhtmwtf62sty.cloudfront.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
