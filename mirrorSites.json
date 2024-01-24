@@ -867,7 +867,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-01-24 18:25:15.281909",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-01-09 17:09:01.965510",
+          "url": "https://d38jr37uhouziz.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -985,7 +993,15 @@
       "main_domain": "videoreview.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-01-24 18:25:15.255793",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-01-08 15:42:29.123013",
+          "url": "https://d3dnk9aj0jq2cn.cloudfront.net"
+        }
+      ],
       "main_domain": "agents.media"
     },
     {
@@ -1255,6 +1271,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 23:43:44.886427",
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-01-24 18:25:14.788448",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-01-22 20:32:22.620871",
+          "url": "https://d3ehddf8rygpif.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -2458,6 +2481,13 @@
           "type": "eotk",
           "updated_at": "2023-01-19 13:33:06.223721",
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
+        },
+        {
+          "created_at": "2024-01-24 18:25:14.057723",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-01-23 11:47:21.939319",
+          "url": "https://d1skeuyqnuveex.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
@@ -2520,7 +2550,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-01-24 18:25:15.291354",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-01-08 15:42:29.384352",
+          "url": "https://d3cvws5onjzng6.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
