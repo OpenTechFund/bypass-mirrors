@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-01-23 22:15:04.065289",
+          "created_at": "2024-01-25 00:00:04.000727",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-23 20:05:07.921228",
-          "url": "https://d3t1bxz55oirwu.cloudfront.net"
+          "updated_at": "2024-01-24 20:50:05.062338",
+          "url": "https://d3lhvoqf17qbyj.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
