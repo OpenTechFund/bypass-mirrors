@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-01-25 15:20:04.122471",
+          "created_at": "2024-01-26 18:05:05.178509",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-01-24 23:00:05.999175",
-          "url": "https://dmaha575rer13.cloudfront.net"
+          "updated_at": "2024-01-26 01:00:05.261082",
+          "url": "https://d1bd3b11xh8nou.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
