@@ -291,11 +291,11 @@
           "url": "https://flashvideo.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-02-04 03:55:04.766557",
+          "created_at": "2024-02-05 04:30:03.774677",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-03 11:55:06.557617",
-          "url": "https://d319chvjzrtkod.cloudfront.net"
+          "updated_at": "2024-02-04 14:25:05.939393",
+          "url": "https://d341sfhrdslaxf.cloudfront.net"
         }
       ],
       "main_domain": "flashvideo.rferl.org"
@@ -577,13 +577,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
-        },
-        {
-          "created_at": "2024-02-04 04:00:05.307789",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-02-04 03:30:04.697563",
-          "url": "https://d32jid986i3yqm.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
