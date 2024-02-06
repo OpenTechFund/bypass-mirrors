@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-02-05 16:30:04.040377",
+          "created_at": "2024-02-06 17:00:03.929366",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-05 15:10:05.054377",
-          "url": "https://d1rl4v1pjrzqmy.cloudfront.net"
+          "updated_at": "2024-02-05 16:30:05.091868",
+          "url": "https://d3gm6eijxwnozh.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -396,6 +396,13 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2024-02-06 16:35:05.557408",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-02-06 16:30:05.814685",
+          "url": "https://d1u69tz3uyf8wc.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -995,11 +1002,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-02-05 15:45:04.926701",
+          "created_at": "2024-02-06 17:05:04.722852",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-04 19:15:06.177358",
-          "url": "https://d256on3f9wu89c.cloudfront.net"
+          "updated_at": "2024-02-05 21:50:05.825553",
+          "url": "https://d3v8oaypydo119.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
