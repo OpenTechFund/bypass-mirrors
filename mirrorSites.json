@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-02-12 17:40:07.414921",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-02-12 15:25:05.259740",
+          "url": "https://d1q1im6rzjeztk.cloudfront.net"
+        }
+      ],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -371,11 +379,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-02-11 16:30:03.602973",
+          "created_at": "2024-02-12 17:50:04.986030",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-11 04:00:04.344240",
-          "url": "https://d1hdm211w5ddxs.cloudfront.net"
+          "updated_at": "2024-02-12 05:55:04.365454",
+          "url": "https://d2hxf02rj9x3jb.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -590,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-02-11 16:25:04.625972",
+          "created_at": "2024-02-12 17:50:05.913279",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-11 16:20:04.746540",
-          "url": "https://d1ddjlapne4eky.cloudfront.net"
+          "updated_at": "2024-02-12 17:05:05.363638",
+          "url": "https://d1znf34wp8j0jr.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
