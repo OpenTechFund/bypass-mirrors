@@ -596,13 +596,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
-        },
-        {
-          "created_at": "2024-02-12 17:50:05.913279",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-02-12 17:05:05.363638",
-          "url": "https://d1znf34wp8j0jr.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1561,11 +1554,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2024-02-05 12:05:07.506599",
+          "created_at": "2024-02-13 20:20:09.176649",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-03 11:55:06.033737",
-          "url": "https://d33q3x9b3z6tpb.cloudfront.net"
+          "updated_at": "2024-02-13 14:10:07.139108",
+          "url": "https://d2f4r5pyvx7v6n.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
