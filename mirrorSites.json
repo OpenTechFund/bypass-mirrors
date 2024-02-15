@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-02-14 10:40:05.421505",
+          "created_at": "2024-02-15 12:05:04.949529",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-13 14:25:04.460406",
-          "url": "https://d2li3l5nbz9knl.cloudfront.net"
+          "updated_at": "2024-02-14 15:10:05.999636",
+          "url": "https://d2d6pik2cl1rqt.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -926,11 +926,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2024-02-14 11:45:04.103625",
+          "created_at": "2024-02-15 12:05:04.502693",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-14 10:25:05.192250",
-          "url": "https://d27wglb4ebdyaf.cloudfront.net"
+          "updated_at": "2024-02-14 11:45:05.126607",
+          "url": "https://d1ihe6dh62z01x.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
