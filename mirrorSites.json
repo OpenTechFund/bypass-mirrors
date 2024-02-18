@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-02-16 23:20:05.891553",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-02-15 21:35:05.928169",
-          "url": "https://d1ce83kljbfaox.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -348,11 +340,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-02-17 00:25:03.528006",
+          "created_at": "2024-02-18 02:05:03.936163",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-16 07:20:06.864818",
-          "url": "https://d367uorm4nfmqc.cloudfront.net"
+          "updated_at": "2024-02-17 07:50:06.959829",
+          "url": "https://d2ayanlcx0qyk6.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
