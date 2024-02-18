@@ -379,11 +379,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-02-17 02:00:05.566347",
+          "created_at": "2024-02-18 05:55:03.054923",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-16 10:40:06.901548",
-          "url": "https://d3jrc71e9jg8wo.cloudfront.net"
+          "updated_at": "2024-02-17 12:35:05.052619",
+          "url": "https://d2zpvvrwtewv07.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-02-17 05:05:03.793245",
+          "created_at": "2024-02-18 06:05:03.590431",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-16 11:40:07.390251",
-          "url": "https://d12wd4z4v3umbr.cloudfront.net"
+          "updated_at": "2024-02-17 13:50:06.225011",
+          "url": "https://d3mw5ti1d8vm5n.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
