@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-02-27 21:20:04.815387",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-02-26 19:25:06.067235",
-          "url": "https://d3bh5vkzmqc59s.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -579,11 +571,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-02-27 22:45:05.785455",
+          "created_at": "2024-02-28 23:15:05.834806",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-27 06:10:06.036268",
-          "url": "https://d6hpnlq8edcz9.cloudfront.net"
+          "updated_at": "2024-02-28 09:00:11.780004",
+          "url": "https://d6gq69w6atmh1.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
