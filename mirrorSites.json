@@ -1449,11 +1449,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-02-26 20:57:34.142810",
+          "created_at": "2024-03-02 18:08:55.702973",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-25 14:04:21.579498",
-          "url": "https://d3sot929tjsi8a.cloudfront.net"
+          "updated_at": "2024-03-01 21:47:48.559854",
+          "url": "https://d3ig88rxo6fr3n.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1492,11 +1492,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-03-01 11:38:41.202212",
+          "created_at": "2024-03-02 18:08:56.106650",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-25 14:04:21.781531",
-          "url": "https://d24pz25czj2hmo.cloudfront.net"
+          "updated_at": "2024-03-01 11:38:42.370074",
+          "url": "https://d2si7vhvdv8182.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1882,11 +1882,11 @@
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
         },
         {
-          "created_at": "2024-02-26 15:52:29.229595",
+          "created_at": "2024-03-02 18:08:55.227504",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-25 14:04:21.138993",
-          "url": "https://dbd2nnwq9cxdc.cloudfront.net"
+          "updated_at": "2024-03-01 08:50:09.596417",
+          "url": "https://d117wkzn2qu2gk.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
