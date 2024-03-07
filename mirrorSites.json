@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-03-06 05:15:03.821375",
+          "created_at": "2024-03-07 06:55:03.466911",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-05 04:05:05.342952",
-          "url": "https://d28o6kfu3q048u.cloudfront.net"
+          "updated_at": "2024-03-06 05:35:05.121494",
+          "url": "https://d2f6vm1q1to432.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -596,13 +596,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
-        },
-        {
-          "created_at": "2024-03-06 05:50:05.492495",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-03-05 04:30:05.317908",
-          "url": "https://d27q2iulw5yzc8.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
