@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-03-14 19:20:03.963992",
+          "created_at": "2024-03-15 21:05:05.958806",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-14 16:25:07.926474",
-          "url": "https://d1c13bfiyyrw4m.cloudfront.net"
+          "updated_at": "2024-03-15 17:45:08.033043",
+          "url": "https://d3juexd8ojdsjf.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-03-14 17:45:05.285634",
+          "created_at": "2024-03-15 21:05:05.608436",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-13 17:15:07.990194",
-          "url": "https://d3jptvv2hyofqr.cloudfront.net"
+          "updated_at": "2024-03-15 18:35:07.261106",
+          "url": "https://dmeoxvh3fgq3m.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
