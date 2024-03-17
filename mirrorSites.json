@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-03-16 22:00:04.137158",
+          "created_at": "2024-03-17 23:35:04.397719",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-15 21:05:07.589095",
-          "url": "https://d3uh0bae3ar2op.cloudfront.net"
+          "updated_at": "2024-03-17 23:15:06.121046",
+          "url": "https://dsz2tmtcd1r3f.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
