@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-03-21 22:00:03.853896",
+          "created_at": "2024-03-22 22:25:07.682060",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-21 11:45:06.420837",
-          "url": "https://d3txy751lde4uj.cloudfront.net"
+          "updated_at": "2024-03-22 12:05:07.172736",
+          "url": "https://d1dkaoq2tvdz04.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-03-21 22:15:06.976041",
+          "created_at": "2024-03-22 22:25:08.884242",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-21 15:10:05.322481",
-          "url": "https://d19myf47q0li85.cloudfront.net"
+          "updated_at": "2024-03-22 16:05:08.712272",
+          "url": "https://dg2uxwxyp35x6.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
