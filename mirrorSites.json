@@ -1473,11 +1473,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-03-31 15:07:48.036024",
+          "created_at": "2024-04-02 18:03:28.303468",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-30 18:46:56.160954",
-          "url": "https://d3h5dbd0wvlwpl.cloudfront.net"
+          "updated_at": "2024-03-31 15:07:48.939596",
+          "url": "https://d228zy1gecpban.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
