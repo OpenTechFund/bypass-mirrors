@@ -869,11 +869,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-01 21:37:47.007055",
+          "created_at": "2024-04-04 20:55:11.705563",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-25 17:45:08.785148",
-          "url": "https://d2979pfc22lecw.cloudfront.net"
+          "updated_at": "2024-04-01 21:37:47.709797",
+          "url": "https://d3fdrftwe9rb2i.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1473,11 +1473,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-02 18:03:28.303468",
+          "created_at": "2024-04-04 20:55:11.722377",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-31 15:07:48.939596",
-          "url": "https://d228zy1gecpban.cloudfront.net"
+          "updated_at": "2024-04-02 18:03:29.298518",
+          "url": "https://dals0tfvg7kn2.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1711,11 +1711,11 @@
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
         },
         {
-          "created_at": "2024-04-03 19:42:52.151430",
+          "created_at": "2024-04-04 20:55:10.929271",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-03 17:45:11.378020",
-          "url": "https://d13gq8jhjcqifm.cloudfront.net"
+          "updated_at": "2024-04-03 19:42:53.385913",
+          "url": "https://d2oecpvn9ug8jc.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
