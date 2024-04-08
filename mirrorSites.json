@@ -1430,11 +1430,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-04 21:08:48.916645",
+          "created_at": "2024-04-08 08:18:24.673776",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-31 15:07:48.733670",
-          "url": "https://d2jf8o021dq3hl.cloudfront.net"
+          "updated_at": "2024-04-04 21:08:50.152501",
+          "url": "https://d2hx9s4veu3t80.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1461,11 +1461,11 @@
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
         },
         {
-          "created_at": "2024-04-01 21:37:46.824487",
+          "created_at": "2024-04-08 08:18:24.961690",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-03-31 15:07:48.714504",
-          "url": "https://d16qxjyti882ge.cloudfront.net"
+          "updated_at": "2024-04-06 09:05:07.711506",
+          "url": "https://d3evuzv89gkxt2.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
