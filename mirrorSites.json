@@ -741,6 +741,13 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:03.902660",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-15 11:45:07.682735",
+          "url": "https://d3jofmbzsvmqam.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1264,6 +1271,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 23:43:44.886427",
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:04.341896",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-17 18:15:16.261491",
+          "url": "https://d15c2qwapo9nyx.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -1326,7 +1340,15 @@
       "main_domain": "dengiamerika.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-04-18 18:10:03.648937",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-15 08:28:10.135915",
+          "url": "https://d3iq79qfd9vwf4.cloudfront.net"
+        }
+      ],
       "main_domain": "dw.com"
     },
     {
@@ -1437,6 +1459,13 @@
           "type": "eotk",
           "updated_at": "2022-09-27 08:42:51.452037",
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:04.664220",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-17 17:05:10.888313",
+          "url": "https://d1bkav5l2sci7a.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1473,6 +1502,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:40:51.109293",
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:03.875903",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-17 18:15:15.857364",
+          "url": "https://d3sd84g9buasg0.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -1504,6 +1540,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:37:32.913682",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:03.972747",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-17 18:15:15.991825",
+          "url": "https://d2chtqx1to7h2.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -1818,6 +1861,13 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:43.166717",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:03.830732",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-17 18:15:15.840282",
+          "url": "https://dyu6rqbgkdhx8.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
@@ -1830,6 +1880,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:02:10.828755",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:04.440741",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-17 18:15:16.431875",
+          "url": "https://d2yk2zd3naxu1g.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
@@ -2424,6 +2481,13 @@
           "type": "eotk",
           "updated_at": "2023-01-19 13:33:06.223721",
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
+        },
+        {
+          "created_at": "2024-04-18 18:10:03.713369",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-04-16 05:05:06.799664",
+          "url": "https://d32azlgo23ek3c.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
