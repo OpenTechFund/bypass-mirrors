@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-04-23 06:50:03.784372",
+          "created_at": "2024-04-24 09:10:05.114483",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-22 12:05:04.573017",
-          "url": "https://d2racqe4ala60g.cloudfront.net"
+          "updated_at": "2024-04-23 14:15:05.068794",
+          "url": "https://d2w1v20g94e6hm.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-04-23 07:45:06.428356",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-04-22 06:35:06.070637",
-          "url": "https://dlowtkjvprpv7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "corp.kaltura.com"
     },
     {
