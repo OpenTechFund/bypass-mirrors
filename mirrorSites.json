@@ -560,11 +560,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-04-25 18:15:03.803689",
+          "created_at": "2024-04-26 18:55:13.510624",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-24 19:25:06.884180",
-          "url": "https://d21m1xx1tu0h3e.cloudfront.net"
+          "updated_at": "2024-04-25 20:15:04.873767",
+          "url": "https://dn396pjv8hnv1.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -1430,11 +1430,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-24 19:13:07.190176",
+          "created_at": "2024-04-26 18:48:36.896994",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-23 10:34:07.375515",
-          "url": "https://d1td98s97xoq5j.cloudfront.net"
+          "updated_at": "2024-04-24 19:13:08.359866",
+          "url": "https://d2e4mf344bwa72.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1461,11 +1461,11 @@
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
         },
         {
-          "created_at": "2024-04-18 18:10:04.664220",
+          "created_at": "2024-04-26 18:48:37.252958",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-17 17:05:10.888313",
-          "url": "https://d1bkav5l2sci7a.cloudfront.net"
+          "updated_at": "2024-04-26 06:50:10.980256",
+          "url": "https://d3w0d7k8231dwo.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1473,11 +1473,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-24 19:13:07.637313",
+          "created_at": "2024-04-26 18:48:37.500036",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-23 10:34:07.592254",
-          "url": "https://dlhjqrtbdepx6.cloudfront.net"
+          "updated_at": "2024-04-24 19:13:08.575833",
+          "url": "https://d3lkzt8wljuzyf.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
