@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-27 18:50:05.594805",
+          "created_at": "2024-04-28 19:45:03.548061",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-26 17:25:05.046379",
-          "url": "https://d3qpr2ec6dktqm.cloudfront.net"
+          "updated_at": "2024-04-27 18:50:07.596905",
+          "url": "https://d2tyad4yast4pj.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -560,11 +560,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-04-27 19:05:03.561257",
+          "created_at": "2024-04-28 19:50:06.850729",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-26 23:30:06.304744",
-          "url": "https://d39a7lxqn53f7y.cloudfront.net"
+          "updated_at": "2024-04-28 01:35:05.229172",
+          "url": "https://dmn0cz6uy83aa.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
