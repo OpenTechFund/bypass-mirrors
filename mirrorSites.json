@@ -1430,11 +1430,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-05-01 20:59:10.599806",
+          "created_at": "2024-05-02 17:34:00.482900",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-30 19:33:07.358936",
-          "url": "https://d2rjqr94kvae8v.cloudfront.net"
+          "updated_at": "2024-05-01 20:59:12.189230",
+          "url": "https://dkwwf9zh574sd.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1473,11 +1473,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-05-01 20:59:11.235817",
+          "created_at": "2024-05-02 17:34:00.991771",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-28 16:32:58.292000",
-          "url": "https://d2kpnc2fwkwsy4.cloudfront.net"
+          "updated_at": "2024-05-01 20:59:12.412787",
+          "url": "https://d3dxyr8txkqu9h.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1711,11 +1711,11 @@
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
         },
         {
-          "created_at": "2024-04-28 16:32:56.505235",
+          "created_at": "2024-05-02 17:34:00.086985",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-04-27 20:13:57.151662",
-          "url": "https://d2wv40cmgrwdwl.cloudfront.net"
+          "updated_at": "2024-04-30 15:50:10.949941",
+          "url": "https://d31a67u6kfaik7.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
