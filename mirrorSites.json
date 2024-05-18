@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-05-17 21:45:07.235616",
+          "created_at": "2024-05-18 23:45:06.959270",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-17 19:00:06.142591",
-          "url": "https://d2lt7k9mhz09s2.cloudfront.net"
+          "updated_at": "2024-05-18 21:00:06.997791",
+          "url": "https://d9uns5qxq9acy.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2024-05-17 22:40:05.659200",
+          "created_at": "2024-05-18 23:45:07.701912",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-17 15:45:09.008896",
-          "url": "https://d2bs67628ju2v9.cloudfront.net"
+          "updated_at": "2024-05-18 17:30:05.215917",
+          "url": "https://d3i14ba1wgxyyz.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
