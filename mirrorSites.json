@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-05-19 23:50:04.912527",
+          "created_at": "2024-05-21 00:50:04.947015",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-18 23:25:06.476906",
-          "url": "https://d1o67d3zwfg0n6.cloudfront.net"
+          "updated_at": "2024-05-19 23:50:05.260830",
+          "url": "https://dsxqwxnyj0a7k.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-05-20 00:00:04.657146",
+          "created_at": "2024-05-21 00:50:04.985658",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-19 03:15:06.655783",
-          "url": "https://dibcktgwi9kdo.cloudfront.net"
+          "updated_at": "2024-05-20 04:15:06.883937",
+          "url": "https://d34n70hnpkyhcv.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
