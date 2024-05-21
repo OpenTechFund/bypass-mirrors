@@ -346,6 +346,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 14:44:57.781103",
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-05-21 15:50:04.086556",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-05-21 15:40:04.908190",
+          "url": "https://d2nbkd51cc1f6r.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
