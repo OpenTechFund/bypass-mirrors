@@ -420,15 +420,7 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-05-21 08:55:05.641865",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-05-20 06:40:05.098570",
-          "url": "https://d2o6o31dtey9lz.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
