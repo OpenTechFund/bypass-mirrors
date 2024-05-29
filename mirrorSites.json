@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-05-28 18:25:05.350562",
+          "created_at": "2024-05-29 19:50:07.368063",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-28 17:00:08.372467",
-          "url": "https://d2iwradm3qkt6u.cloudfront.net"
+          "updated_at": "2024-05-29 19:10:10.102597",
+          "url": "https://d16u89xq12f02c.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -379,11 +379,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-05-28 18:25:04.095634",
+          "created_at": "2024-05-29 19:55:03.173072",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-28 04:15:04.861318",
-          "url": "https://d3c6f2zpi8te22.cloudfront.net"
+          "updated_at": "2024-05-29 06:15:04.555142",
+          "url": "https://duktvw4ifquw7.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
