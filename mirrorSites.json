@@ -558,13 +558,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-06-01 05:40:04.904281",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-06-01 05:15:08.177255",
-          "url": "https://d6hagrnjan56l.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
