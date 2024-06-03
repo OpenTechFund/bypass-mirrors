@@ -995,11 +995,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-05-31 08:18:42.919607",
+          "created_at": "2024-06-03 19:36:03.723294",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-28 08:28:13.278201",
-          "url": "https://d2ytwubycojw5.cloudfront.net"
+          "updated_at": "2024-05-31 08:18:43.615947",
+          "url": "https://d3i15948luoqsf.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -2483,11 +2483,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2024-05-31 08:18:41.837587",
+          "created_at": "2024-06-03 19:36:01.384799",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-31 01:05:08.753387",
-          "url": "https://d240r2gktyncpz.cloudfront.net"
+          "updated_at": "2024-06-03 08:45:08.424054",
+          "url": "https://d2e06g9gdd4vex.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
