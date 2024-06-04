@@ -413,15 +413,7 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-06-03 06:55:05.072640",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-06-03 06:50:06.952538",
-          "url": "https://d2y9958v9nvvf0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
