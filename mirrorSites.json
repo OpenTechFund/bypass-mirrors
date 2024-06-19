@@ -201,15 +201,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-06-18 04:30:06.977791",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-06-17 02:55:18.840580",
-          "url": "https://d1x32arg9645i5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -413,15 +405,7 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-06-18 04:35:04.451118",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-06-17 03:45:07.220346",
-          "url": "https://d3lou5e609zniv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
