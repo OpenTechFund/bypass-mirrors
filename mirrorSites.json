@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-06-19 03:35:05.048162",
+          "created_at": "2024-06-20 04:10:07.756385",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-18 17:45:07.495868",
-          "url": "https://d3pdwljm9w7ngp.cloudfront.net"
+          "updated_at": "2024-06-19 19:25:12.228953",
+          "url": "https://d12k2k7v1fwjcc.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-06-19 03:40:04.893668",
+          "created_at": "2024-06-20 04:20:05.142522",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-18 07:15:07.342034",
-          "url": "https://d36x499kxrazz.cloudfront.net"
+          "updated_at": "2024-06-19 09:10:06.628375",
+          "url": "https://d3sz34m0dvqpof.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
