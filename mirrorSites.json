@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-06-20 08:50:07.614274",
+          "created_at": "2024-06-21 09:40:06.857636",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-20 07:30:07.535376",
-          "url": "https://d2woiw6lpl0zbi.cloudfront.net"
+          "updated_at": "2024-06-20 08:50:08.110992",
+          "url": "https://d3qs96zh6g21a0.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -402,7 +402,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2024-06-21 03:00:06.726446",
-          "url": "https://d1c4fvlvdkbmlx.cloudfront.net"
+          "url": "https://d1f0rx7f52gpby.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -583,7 +583,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2024-06-21 01:45:07.454207",
-          "url": "https://d21y0w54my5apa.cloudfront.net"
+          "url": "https://d2cq1veb6zzjkr.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -911,7 +911,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2024-06-21 00:30:06.813649",
-          "url": "https://d3a2sp6nvvac54.cloudfront.net"
+          "url": "https://dkxyi1irc3dam.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1170,7 +1170,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2024-06-21 00:45:09.250069",
-          "url": "https://dl4uz6a5uy8xa.cloudfront.net"
+          "url": "https://d3du0l0kmt0t5h.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
