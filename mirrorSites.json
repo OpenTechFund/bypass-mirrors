@@ -58,7 +58,15 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-06-23 09:55:06.682965",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-06-23 04:40:20.885612",
+          "url": "https://d1bdma50tygxz1.cloudfront.net"
+        }
+      ],
       "main_domain": "assets-global.website-files.com"
     },
     {
@@ -369,6 +377,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:17.310518",
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-06-23 09:50:04.728245",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-06-22 23:34:44.905355",
+          "url": "https://d1edmh3kmz0nfx.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -381,6 +396,13 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2024-06-23 10:05:06.618082",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-06-23 08:45:09.740151",
+          "url": "https://d2s65ajdar56v4.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -555,6 +577,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
+        },
+        {
+          "created_at": "2024-06-23 05:55:06.888749",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-06-23 05:30:06.305749",
+          "url": "https://d166w7h22fknwg.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -876,6 +905,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2024-06-23 12:25:06.289612",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-06-23 03:25:08.954893",
+          "url": "https://d30bh9c37qnf3l.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
