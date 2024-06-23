@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-06-22 14:20:05.207531",
+          "created_at": "2024-06-23 16:30:04.742541",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-22 07:15:08.919128",
-          "url": "https://d1u4ij0i8ret8a.cloudfront.net"
+          "updated_at": "2024-06-23 08:20:06.710292",
+          "url": "https://d1xevvwuex5zeb.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-06-22 14:05:05.187755",
+          "created_at": "2024-06-23 16:25:04.960980",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-22 12:00:06.483159",
-          "url": "https://dvxl763m9ojyq.cloudfront.net"
+          "updated_at": "2024-06-22 14:05:08.277069",
+          "url": "https://d19vhxa6krmnax.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
