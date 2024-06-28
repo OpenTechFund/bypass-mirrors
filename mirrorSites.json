@@ -396,13 +396,6 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2024-06-27 15:50:07.318382",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-06-26 14:15:09.056380",
-          "url": "https://d37dmb5czk3yht.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -983,11 +976,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-06-27 16:35:06.316839",
+          "created_at": "2024-06-28 17:15:07.669449",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-26 22:50:06.921242",
-          "url": "https://d2kdk0xrks0cvs.cloudfront.net"
+          "updated_at": "2024-06-28 00:35:07.162269",
+          "url": "https://d2yy61wecoo3oq.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
