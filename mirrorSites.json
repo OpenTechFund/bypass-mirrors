@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-06-27 20:10:04.091836",
+          "created_at": "2024-06-28 22:50:04.649677",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-27 18:40:07.022504",
-          "url": "https://d3a7xsgs34ws2z.cloudfront.net"
+          "updated_at": "2024-06-28 19:55:08.449312",
+          "url": "https://d1mur37znoeli3.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-06-27 22:50:04.432512",
+          "created_at": "2024-06-28 23:05:08.850588",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-27 22:35:08.980963",
-          "url": "https://d2lopwbhvv1myd.cloudfront.net"
+          "updated_at": "2024-06-27 22:50:07.669711",
+          "url": "https://d36m6s94f2eyku.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
