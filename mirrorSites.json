@@ -1430,11 +1430,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-06-27 22:58:14.932852",
+          "created_at": "2024-06-29 10:43:16.967722",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-26 21:33:01.105483",
-          "url": "https://dvpmg8ci50wkt.cloudfront.net"
+          "updated_at": "2024-06-27 22:58:16.280369",
+          "url": "https://d2vof8zt74hkpg.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
