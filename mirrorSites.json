@@ -58,7 +58,15 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-07-01 20:30:07.398246",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-01 20:05:14.774885",
+          "url": "https://d3cbx6mtobl7v2.cloudfront.net"
+        }
+      ],
       "main_domain": "assets-global.website-files.com"
     },
     {
@@ -171,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-06-30 19:10:06.232361",
+          "created_at": "2024-07-01 20:40:06.795541",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-29 21:35:09.498057",
-          "url": "https://d13hfslcjaxlyk.cloudfront.net"
+          "updated_at": "2024-06-30 22:40:08.021862",
+          "url": "https://da0sqdd5ehxov.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
