@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-07-08 17:20:08.996521",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-08 17:15:09.811635",
+          "url": "https://dopr9dnewc73r.cloudfront.net"
+        }
+      ],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -735,11 +743,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2024-06-30 17:24:52.810279",
+          "created_at": "2024-07-08 17:56:14.470757",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-30 15:45:12.173981",
-          "url": "https://d29z95nsh9ajgz.cloudfront.net"
+          "updated_at": "2024-07-08 13:35:10.801638",
+          "url": "https://d30h3gqf2ghtjd.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -861,11 +869,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-06 12:15:17.859182",
+          "created_at": "2024-07-08 17:56:17.004962",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-01 19:00:05.813063",
-          "url": "https://dq0jpn00uo04a.cloudfront.net"
+          "updated_at": "2024-07-06 12:15:20.561006",
+          "url": "https://d1c4vi836b4sow.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1353,11 +1361,11 @@
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
         },
         {
-          "created_at": "2024-07-01 19:00:03.363694",
+          "created_at": "2024-07-08 17:56:14.195486",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-01 18:25:10.966920",
-          "url": "https://d32vescas4r68i.cloudfront.net"
+          "updated_at": "2024-07-08 11:05:10.866573",
+          "url": "https://d314n8ptk935ad.cloudfront.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
@@ -1534,11 +1542,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2024-06-30 17:24:52.940008",
+          "created_at": "2024-07-08 17:56:14.601489",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-30 14:45:14.276726",
-          "url": "https://d36tuz4xq456ng.cloudfront.net"
+          "updated_at": "2024-07-08 11:05:11.138922",
+          "url": "https://d12472vthybt4.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
