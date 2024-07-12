@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-07-11 20:00:07.392280",
+          "created_at": "2024-07-12 21:50:03.470047",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-11 07:50:12.388166",
-          "url": "https://d2fyja0pw5sxro.cloudfront.net"
+          "updated_at": "2024-07-12 11:10:17.475390",
+          "url": "https://d1ay4qm3vk9rw1.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-11 18:10:06.594389",
+          "created_at": "2024-07-12 21:55:06.569369",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-11 08:15:08.115645",
-          "url": "https://d1ls999uvsm8zd.cloudfront.net"
+          "updated_at": "2024-07-12 08:20:08.067183",
+          "url": "https://d3q8kzgkuvyjdj.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
