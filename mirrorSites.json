@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-06-03 09:13:39.835290",
+          "created_at": "2024-07-15 19:25:06.403651",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-05-31 08:18:43.957143",
-          "url": "https://d93wk6i0l7tzk.cloudfront.net"
+          "updated_at": "2024-06-03 09:13:41.432469",
+          "url": "https://d3vvv57yg50sc4.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -995,11 +995,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-01 19:00:04.801322",
+          "created_at": "2024-07-15 19:23:09.011566",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-06-03 19:36:05.091593",
-          "url": "https://drm04w0efbjq.cloudfront.net"
+          "updated_at": "2024-07-01 19:00:05.762009",
+          "url": "https://d2uxj0oic6ii3b.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1273,11 +1273,11 @@
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-07-06 16:45:08.908550",
+          "created_at": "2024-07-15 19:23:08.387130",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-05 04:15:11.227231",
-          "url": "https://d1sam9ku3e130n.cloudfront.net"
+          "updated_at": "2024-07-14 02:50:08.445644",
+          "url": "https://dhjzifivci56g.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
