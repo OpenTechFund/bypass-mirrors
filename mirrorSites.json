@@ -741,6 +741,13 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2024-07-16 20:48:04.788558",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-14 02:50:07.949544",
+          "url": "https://d3longkulqcq2v.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1264,6 +1271,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 23:43:44.886427",
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-07-16 20:48:05.485677",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-15 19:23:10.037155",
+          "url": "https://d1fwml1qikoivm.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -1445,6 +1459,13 @@
           "type": "eotk",
           "updated_at": "2022-09-27 08:42:51.452037",
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
+        },
+        {
+          "created_at": "2024-07-16 20:48:06.030277",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-14 02:50:08.589727",
+          "url": "https://d37q0cuekfd15z.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1935,6 +1956,13 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:32.883525",
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2024-07-16 20:48:05.446114",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-14 02:50:08.436478",
+          "url": "https://d1l4cwojh804zb.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
