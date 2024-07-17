@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2024-07-16 03:50:05.082096",
+          "created_at": "2024-07-17 04:44:06.035858",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-15 22:25:08.357235",
-          "url": "https://d26d29i0eakziq.cloudfront.net"
+          "updated_at": "2024-07-17 00:01:07.004086",
+          "url": "https://dtan301eit1sv.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-16 03:25:06.595368",
+          "created_at": "2024-07-17 04:48:03.244239",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-15 02:00:06.100849",
-          "url": "https://d13yfarcu9pr5d.cloudfront.net"
+          "updated_at": "2024-07-17 03:58:06.224505",
+          "url": "https://d2u30mpy0viisc.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
