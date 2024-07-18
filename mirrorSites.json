@@ -484,11 +484,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-04-29 07:40:06.497940",
+          "created_at": "2024-07-18 15:56:07.979042",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-02-20 10:00:07.230268",
-          "url": "https://d3ddk9yiu5l9xd.cloudfront.net"
+          "updated_at": "2024-07-17 15:58:08.913358",
+          "url": "https://d269ssucmt04mx.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
