@@ -741,6 +741,13 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2024-07-22 18:52:26.446982",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-22 18:51:07.275487",
+          "url": "https://dxau15y3vhb1q.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -791,6 +798,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:12:35.761521",
           "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
+        },
+        {
+          "created_at": "2024-07-22 18:52:26.355833",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-07-22 18:51:07.214502",
+          "url": "https://d2gls6yhbltbdx.cloudfront.net"
         }
       ],
       "main_domain": "rus.azattyq.org"
