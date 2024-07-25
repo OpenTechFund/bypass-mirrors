@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-07-24 12:04:09.174874",
+          "created_at": "2024-07-25 13:01:03.821661",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-23 22:46:06.409671",
-          "url": "https://d3j6jp3qgw2vjx.cloudfront.net"
+          "updated_at": "2024-07-24 23:45:07.552725",
+          "url": "https://dbx6c5p4znu95.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -422,11 +422,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-24 12:38:03.869722",
+          "created_at": "2024-07-25 12:57:04.428201",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-23 11:25:06.552385",
-          "url": "https://d1uusdv7wquzgt.cloudfront.net"
+          "updated_at": "2024-07-24 12:38:06.835418",
+          "url": "https://d3avfw229fk2gp.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
