@@ -1430,11 +1430,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-25 18:09:06.726803",
+          "created_at": "2024-07-27 10:51:18.296449",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-23 20:14:21.790041",
-          "url": "https://d1vpi02ws6fjx7.cloudfront.net"
+          "updated_at": "2024-07-25 18:09:08.779293",
+          "url": "https://d2garf143uduen.cloudfront.net"
         }
       ],
       "main_domain": "factograph.info"
@@ -1473,11 +1473,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-07-25 18:09:07.384141",
+          "created_at": "2024-07-27 10:51:19.203260",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-23 20:14:22.074325",
-          "url": "https://d1np8gnc4m8acq.cloudfront.net"
+          "updated_at": "2024-07-25 18:09:09.176343",
+          "url": "https://d3iixtxvahd3ni.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
