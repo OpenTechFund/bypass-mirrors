@@ -962,13 +962,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:52:17.386490",
           "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-        },
-        {
-          "created_at": "2024-07-07 08:25:06.583486",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-07-06 20:55:11.489297",
-          "url": "https://d3h0zs6j2nd8vg.cloudfront.net"
         }
       ],
       "main_domain": "ua.krymr.com"
@@ -1471,15 +1464,7 @@
       "main_domain": "golosameriki.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-07-31 11:39:05.292467",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-07-29 18:50:08.056067",
-          "url": "https://d2vky6p3lkg2or.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "groza.media"
     },
     {
