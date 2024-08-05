@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-08-05 08:40:04.952588",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-08-04 07:37:05.319922",
+          "url": "https://d2cvon96fub1b0.cloudfront.net"
+        }
+      ],
       "main_domain": "corp.kaltura.com"
     },
     {
