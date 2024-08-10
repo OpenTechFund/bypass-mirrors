@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-09 05:43:04.604324",
+          "created_at": "2024-08-10 06:11:05.139335",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-08 14:00:06.614664",
-          "url": "https://dnycvym15rfyn.cloudfront.net"
+          "updated_at": "2024-08-09 14:52:05.824352",
+          "url": "https://d2uh7etm8hn1be.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -348,11 +348,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-08-09 05:29:04.547083",
+          "created_at": "2024-08-10 06:17:03.907131",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-08 18:16:05.436724",
-          "url": "https://dtb2x0m78qhf7.cloudfront.net"
+          "updated_at": "2024-08-09 18:50:05.611063",
+          "url": "https://d37lux89x0qbno.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
