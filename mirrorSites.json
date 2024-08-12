@@ -577,6 +577,13 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
+        },
+        {
+          "created_at": "2024-08-12 21:26:05.301313",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-08-11 20:45:04.698019",
+          "url": "https://d1g0yd83p97l61.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
