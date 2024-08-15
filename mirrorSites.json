@@ -743,11 +743,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-08-14 11:34:09.635498",
+          "created_at": "2024-08-15 12:48:03.981341",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-13 11:19:08.062491",
-          "url": "https://d1620y2vb2sr99.cloudfront.net"
+          "updated_at": "2024-08-14 12:00:07.131468",
+          "url": "https://d3uxgvfnf5gnrb.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
@@ -2015,11 +2015,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-08-04 17:14:12.603812",
+          "created_at": "2024-08-15 12:46:08.005780",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-03 15:47:06.269918",
-          "url": "https://d32zy0t76i1ydj.cloudfront.net"
+          "updated_at": "2024-08-13 16:24:06.816903",
+          "url": "https://d1hjvox5b52pbb.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
