@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-23 20:12:44.244845",
+          "created_at": "2024-08-24 16:30:09.017110",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-15 19:25:07.758314",
-          "url": "https://d1b0wjav0vlseg.cloudfront.net"
+          "updated_at": "2024-08-23 20:12:45.538561",
+          "url": "https://d2l3go4j23nzi.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -800,11 +800,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2024-08-23 20:12:42.883940",
+          "created_at": "2024-08-24 16:30:06.243431",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-21 17:31:44.128030",
-          "url": "https://d2tkolf77szey.cloudfront.net"
+          "updated_at": "2024-08-24 13:16:09.339519",
+          "url": "https://d357ea4xrvvhp7.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -857,11 +857,11 @@
           "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
         },
         {
-          "created_at": "2024-08-21 17:31:41.381771",
+          "created_at": "2024-08-24 16:30:06.122254",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-21 07:58:05.525008",
-          "url": "https://d19809s4uqi1n7.cloudfront.net"
+          "updated_at": "2024-08-23 17:45:08.009157",
+          "url": "https://d14vn13qeync8p.cloudfront.net"
         }
       ],
       "main_domain": "rus.azattyq.org"
@@ -895,11 +895,11 @@
           "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
         },
         {
-          "created_at": "2024-08-21 17:31:41.525176",
+          "created_at": "2024-08-24 16:30:06.315798",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-20 21:14:07.090122",
-          "url": "https://ddh9vn8n2inyj.cloudfront.net"
+          "updated_at": "2024-08-23 00:44:08.214484",
+          "url": "https://d2w0vjqk6kipo6.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodi.org"
@@ -1899,13 +1899,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:44:23.592332",
           "url": "https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-05-09 14:25:04.331876",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09 14:25:04.331881",
-          "url": "https://dswvba4wnj0m1.cloudfront.net"
         }
       ],
       "main_domain": "rferl.org"
@@ -2609,11 +2602,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-23 20:12:44.211803",
+          "created_at": "2024-08-24 16:30:08.991630",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-19 14:46:07.446562",
-          "url": "https://d1lg0hnnrt4qf1.cloudfront.net"
+          "updated_at": "2024-08-23 20:12:45.489579",
+          "url": "https://d4not8xyms3k9.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
