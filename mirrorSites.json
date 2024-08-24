@@ -762,11 +762,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-08-23 19:08:06.494629",
+          "created_at": "2024-08-24 19:35:04.609970",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-22 21:47:09.210958",
-          "url": "https://d1bnezqb00xpl8.cloudfront.net"
+          "updated_at": "2024-08-23 22:28:06.469956",
+          "url": "https://d71c6apa1zm4s.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
