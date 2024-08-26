@@ -258,13 +258,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-08-25 05:51:04.165014",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-24 06:50:05.153500",
-          "url": "https://d4qm2iurcuw2t.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
