@@ -789,11 +789,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-29 13:05:05.936539",
+          "created_at": "2024-08-30 13:59:07.679610",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 13:05:05.936550",
-          "url": "https://dr4yeac30sghs.cloudfront.net"
+          "updated_at": "2024-08-29 13:05:08.787330",
+          "url": "https://d2qeypwngapne4.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1220,11 +1220,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-29 12:41:06.014827",
+          "created_at": "2024-08-30 14:01:08.331421",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 12:41:06.014833",
-          "url": "https://d3tqpiv8hxe5nk.cloudfront.net"
+          "updated_at": "2024-08-30 13:36:07.750413",
+          "url": "https://d23sbicv46u7la.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
