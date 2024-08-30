@@ -689,11 +689,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-29 13:05:06.918652",
+          "created_at": "2024-08-30 14:13:05.107191",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 13:05:06.918658",
-          "url": "https://d176klxwkx6qb6.cloudfront.net"
+          "updated_at": "2024-08-30 13:34:07.254861",
+          "url": "https://d3860ig635d7n3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1208,11 +1208,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-29 13:05:06.596199",
+          "created_at": "2024-08-30 14:11:05.019398",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 13:05:06.596205",
-          "url": "https://d1rverqhdn7ww0.cloudfront.net"
+          "updated_at": "2024-08-30 13:53:06.377065",
+          "url": "https://d3gjqld7bigxdm.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
