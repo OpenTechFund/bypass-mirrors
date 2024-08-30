@@ -820,11 +820,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-29 13:05:05.913327",
+          "created_at": "2024-08-30 13:34:04.997092",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 13:05:05.913331",
-          "url": "https://d2tloi676ggl89.cloudfront.net"
+          "updated_at": "2024-08-29 13:05:08.771466",
+          "url": "https://d3mzw3p346ford.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1158,15 +1158,7 @@
       "main_domain": "videoreview.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-08-29 13:05:06.633993",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-29 13:05:06.633996",
-          "url": "https://d18b7dz2fah9gu.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
