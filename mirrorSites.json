@@ -639,15 +639,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-08-29 13:05:06.964707",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-29 13:05:06.964713",
-          "url": "https://d17vgrb9gc7c9w.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -665,25 +657,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-29 13:05:06.941222",
+          "created_at": "2024-08-30 14:17:06.106567",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 13:05:06.941226",
-          "url": "https://dh9tqzyp5eh3b.cloudfront.net"
+          "updated_at": "2024-08-30 13:51:07.097057",
+          "url": "https://d145ck3geyzz59.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-08-29 12:45:05.135590",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-29 12:45:05.135598",
-          "url": "https://d1x84nw5gokmt.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -849,15 +833,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-08-29 13:05:05.885824",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-29 13:05:05.885836",
-          "url": "https://d1cnttxu78k8r1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
