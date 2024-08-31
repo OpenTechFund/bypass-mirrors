@@ -379,11 +379,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-08-30 00:01:03.744919",
+          "created_at": "2024-08-31 00:42:05.635484",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-08-29 18:10:06.032117",
-          "url": "https://d2aim4umaivz9q.cloudfront.net"
+          "updated_at": "2024-08-30 19:37:07.501379",
+          "url": "https://d1wg81a75q6vbe.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
