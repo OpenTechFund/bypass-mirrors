@@ -851,11 +851,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-02 17:38:09.619396",
+          "created_at": "2024-09-03 20:30:05.284672",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-02 17:36:08.200059",
-          "url": "https://d1sa82ftij1g3t.cloudfront.net"
+          "updated_at": "2024-09-03 18:36:07.559650",
+          "url": "https://d3p3x0efa10ky2.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
