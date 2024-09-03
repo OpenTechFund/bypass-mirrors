@@ -1158,15 +1158,7 @@
       "main_domain": "videoreview.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-09-02 16:18:04.888953",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-09-01 15:34:09.280747",
-          "url": "https://d23ke8mlu1nu9x.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
