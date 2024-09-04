@@ -789,11 +789,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-03 16:23:04.858212",
+          "created_at": "2024-09-04 17:48:05.142357",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-02 18:10:07.839835",
-          "url": "https://d26896aaxxn1ft.cloudfront.net"
+          "updated_at": "2024-09-03 19:10:07.062632",
+          "url": "https://d22a6k4kakm97i.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1160,11 +1160,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-03 17:16:06.476842",
+          "created_at": "2024-09-04 17:46:06.505731",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-03 16:59:15.772472",
-          "url": "https://d1g6y1j4acrexk.cloudfront.net"
+          "updated_at": "2024-09-03 17:16:08.547644",
+          "url": "https://d2zpn029wh8u2l.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
