@@ -1184,11 +1184,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-03 16:23:05.337087",
+          "created_at": "2024-09-04 17:26:04.682126",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-02 17:46:07.268056",
-          "url": "https://d1d0juxqjonmwb.cloudfront.net"
+          "updated_at": "2024-09-03 18:30:07.381345",
+          "url": "https://d3oil1grygn8ic.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
