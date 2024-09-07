@@ -1170,7 +1170,15 @@
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-09-07 22:20:13.136778",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-09-07 21:58:10.220047",
+          "url": "https://d1y7jumirq6wv1.cloudfront.net"
+        }
+      ],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
@@ -1200,11 +1208,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-06 21:40:06.080193",
+          "created_at": "2024-09-07 22:28:06.619495",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-05 22:12:07.785393",
-          "url": "https://d1v7oo3po1lf76.cloudfront.net"
+          "updated_at": "2024-09-07 00:05:07.562459",
+          "url": "https://d2d7t8fapil2ed.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
