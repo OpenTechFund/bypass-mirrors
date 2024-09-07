@@ -808,11 +808,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-09-06 10:44:04.485948",
+          "created_at": "2024-09-07 11:50:04.255127",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-05 15:42:06.182109",
-          "url": "https://d1haz2eaz8fbqo.cloudfront.net"
+          "updated_at": "2024-09-06 17:13:13.396865",
+          "url": "https://d2u0klmt4w8548.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
