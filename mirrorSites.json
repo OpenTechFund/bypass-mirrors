@@ -1172,25 +1172,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-07 22:20:13.136778",
+          "created_at": "2024-09-08 22:46:07.409124",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-07 21:58:10.220047",
-          "url": "https://d1y7jumirq6wv1.cloudfront.net"
+          "updated_at": "2024-09-07 23:12:06.620689",
+          "url": "https://d1hvfniyk2cicj.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-09-07 21:09:10.565793",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-09-06 21:58:07.234337",
-          "url": "https://d3a54q1btpcit.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-hls-ns.akamaized.net"
     },
     {
