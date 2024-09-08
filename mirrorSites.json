@@ -906,13 +906,6 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-        },
-        {
-          "created_at": "2024-09-03 01:47:00.432037",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-31 10:48:06.735059",
-          "url": "https://dd3ndmy6omv9q.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1200,11 +1193,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-07 22:28:06.619495",
+          "created_at": "2024-09-08 23:03:07.272499",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-07 00:05:07.562459",
-          "url": "https://d2d7t8fapil2ed.cloudfront.net"
+          "updated_at": "2024-09-08 01:00:10.329259",
+          "url": "https://d2s38glb6wx5s2.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
