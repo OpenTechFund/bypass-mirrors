@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-09 18:22:06.867956",
+          "created_at": "2024-09-10 19:47:09.058199",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-09 18:04:11.373981",
-          "url": "https://d2iqf8adsgj3lr.cloudfront.net"
+          "updated_at": "2024-09-10 18:49:06.923840",
+          "url": "https://d2ic601t82yqd3.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -560,11 +560,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-09-09 18:30:04.465399",
+          "created_at": "2024-09-10 19:51:05.224766",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-09 09:46:05.717256",
-          "url": "https://d27m3316elo93o.cloudfront.net"
+          "updated_at": "2024-09-10 10:49:05.636554",
+          "url": "https://d2w0uqa0b3l700.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
