@@ -689,11 +689,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-09 22:13:05.693401",
+          "created_at": "2024-09-10 23:58:06.115922",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-08 23:22:07.682570",
-          "url": "https://d1zybvyz6a2hwx.cloudfront.net"
+          "updated_at": "2024-09-10 00:49:06.518205",
+          "url": "https://d2urd3vlq6mdpv.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
