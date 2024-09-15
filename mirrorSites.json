@@ -1218,15 +1218,7 @@
       "main_domain": "voa-video-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-09-14 07:52:05.277869",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-09-14 06:42:06.778799",
-          "url": "https://ds2yfp1owd6uu.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video.voanews.eu"
     },
     {
