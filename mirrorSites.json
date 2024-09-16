@@ -789,11 +789,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-15 04:19:04.727042",
+          "created_at": "2024-09-16 05:45:06.408698",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-14 07:10:07.027059",
-          "url": "https://d1hcoqlyje9421.cloudfront.net"
+          "updated_at": "2024-09-15 08:00:09.867931",
+          "url": "https://d589ewcax88a4.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
