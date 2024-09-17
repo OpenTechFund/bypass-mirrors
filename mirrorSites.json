@@ -653,11 +653,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-16 09:41:08.458834",
+          "created_at": "2024-09-17 11:54:06.367139",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-15 08:50:09.427868",
-          "url": "https://d31zp5vlmrctmb.cloudfront.net"
+          "updated_at": "2024-09-16 10:29:12.129140",
+          "url": "https://dqcj5edp44xfi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
