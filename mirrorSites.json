@@ -394,11 +394,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-17 00:31:09.149873",
+          "created_at": "2024-09-18 01:18:03.956230",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-16 23:53:09.799247",
-          "url": "https://db2yp7sze5gk4.cloudfront.net"
+          "updated_at": "2024-09-17 00:31:16.040897",
+          "url": "https://d3gsq5ul14z9wq.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -804,11 +804,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-09-16 23:05:04.365982",
+          "created_at": "2024-09-18 01:20:04.968874",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-15 23:48:06.965916",
-          "url": "https://d1kyflsgzfsf8j.cloudfront.net"
+          "updated_at": "2024-09-17 01:08:06.454266",
+          "url": "https://d1re1x401dc3t8.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
