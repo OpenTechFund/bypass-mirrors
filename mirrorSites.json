@@ -641,11 +641,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-18 10:30:08.615144",
+          "created_at": "2024-09-19 10:46:05.344218",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-17 12:22:10.122366",
-          "url": "https://d3ky62trfzix1j.cloudfront.net"
+          "updated_at": "2024-09-18 12:33:12.484797",
+          "url": "https://ds750gs3ehmuf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -789,11 +789,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-18 08:28:04.388597",
+          "created_at": "2024-09-19 10:50:04.557757",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-17 11:13:07.796672",
-          "url": "https://d3un4bergfby41.cloudfront.net"
+          "updated_at": "2024-09-18 12:25:07.058365",
+          "url": "https://d13v4n8fg3e2z9.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -851,11 +851,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-18 09:42:05.297471",
+          "created_at": "2024-09-19 10:44:06.624157",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-17 09:37:06.793005",
-          "url": "https://d2xnr2j655je7i.cloudfront.net"
+          "updated_at": "2024-09-18 10:40:12.112743",
+          "url": "https://d1xnwf0pyb76iw.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
