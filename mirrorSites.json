@@ -1182,15 +1182,7 @@
       "main_domain": "voa-audio.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-09-19 09:15:04.767640",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-09-19 07:50:07.026095",
-          "url": "https://d2v8etxxvrf98i.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-hls-ns.akamaized.net"
     },
     {
