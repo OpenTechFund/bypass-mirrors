@@ -641,11 +641,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-21 12:38:05.799562",
+          "created_at": "2024-09-22 14:31:05.549028",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-20 16:40:08.712716",
-          "url": "https://dk26d5bcua673.cloudfront.net"
+          "updated_at": "2024-09-21 17:53:07.394093",
+          "url": "https://dqnhc25gek9yz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -663,15 +663,7 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-09-21 12:32:07.511101",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-09-20 12:50:07.069766",
-          "url": "https://d3t64fikv5wz81.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -789,11 +781,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-21 12:38:05.011237",
+          "created_at": "2024-09-22 14:39:05.046195",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-20 14:24:07.581142",
-          "url": "https://d3d1ipi7lstufr.cloudfront.net"
+          "updated_at": "2024-09-21 15:37:07.265873",
+          "url": "https://d1dwbandxhjrx6.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1196,11 +1188,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-21 13:44:07.603316",
+          "created_at": "2024-09-22 14:31:05.205732",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-20 16:30:06.679602",
-          "url": "https://dlbldynbegnp0.cloudfront.net"
+          "updated_at": "2024-09-21 17:25:06.948760",
+          "url": "https://d3nzf7yclwi5w6.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
