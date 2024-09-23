@@ -1172,11 +1172,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-22 13:31:05.429360",
+          "created_at": "2024-09-23 15:46:05.521086",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-21 15:33:08.937836",
-          "url": "https://d151orjnjb09li.cloudfront.net"
+          "updated_at": "2024-09-22 16:20:07.668700",
+          "url": "https://d2zimejtzswzxx.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
