@@ -665,11 +665,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-23 14:46:05.998130",
+          "created_at": "2024-09-24 15:52:05.681811",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-22 14:37:09.056281",
-          "url": "https://d2zbon6ztqon3e.cloudfront.net"
+          "updated_at": "2024-09-23 15:56:07.176208",
+          "url": "https://d2fe0xafm9r72o.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
