@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-09-23 11:52:04.593364",
+          "created_at": "2024-09-24 13:21:03.868563",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-22 12:57:08.295402",
-          "url": "https://d2467jv4zcdzl3.cloudfront.net"
+          "updated_at": "2024-09-23 14:12:06.392750",
+          "url": "https://d3egsx8k9tsvlz.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -629,11 +629,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-23 11:40:05.428169",
+          "created_at": "2024-09-24 13:23:05.115122",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-23 10:35:08.980185",
-          "url": "https://d31fqinkkjz5lw.cloudfront.net"
+          "updated_at": "2024-09-24 10:43:08.720559",
+          "url": "https://d1i6h4sh5d71ow.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
