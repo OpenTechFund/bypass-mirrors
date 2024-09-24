@@ -1220,11 +1220,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-23 19:09:08.331489",
+          "created_at": "2024-09-24 19:15:15.703822",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-22 18:02:08.357195",
-          "url": "https://d29c8wbbx1wvqm.cloudfront.net"
+          "updated_at": "2024-09-23 19:15:07.635954",
+          "url": "https://dqvxpzboh33fg.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
