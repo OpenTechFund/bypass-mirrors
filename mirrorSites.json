@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-09-29 16:19:08.391520",
+          "created_at": "2024-09-30 17:02:07.156032",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-28 15:12:06.891620",
-          "url": "https://d1jz3qibh036en.cloudfront.net"
+          "updated_at": "2024-09-29 16:19:09.352799",
+          "url": "https://d1ms7xfkyiv4m5.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1167,11 +1167,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-09-29 16:53:04.697276",
+          "created_at": "2024-09-30 17:00:06.708398",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-28 19:35:06.317653",
-          "url": "https://di97tukdjia8s.cloudfront.net"
+          "updated_at": "2024-09-29 20:42:06.908204",
+          "url": "https://d1xzr7bpc0yoph.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
