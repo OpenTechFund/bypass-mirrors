@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-01 01:22:04.924004",
+          "created_at": "2024-10-02 02:09:06.464417",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-09-30 01:31:07.568097",
-          "url": "https://d1utm8yq4h6m01.cloudfront.net"
+          "updated_at": "2024-10-01 02:42:08.795070",
+          "url": "https://d3izex5zsujqll.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
