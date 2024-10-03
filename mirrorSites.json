@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-10-02 06:20:05.483537",
+          "created_at": "2024-10-03 06:56:06.682763",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-02 05:00:07.527666",
-          "url": "https://d2w5ehhgk8mu4d.cloudfront.net"
+          "updated_at": "2024-10-03 05:28:08.463717",
+          "url": "https://dmghroith5sla.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-02 05:14:07.179748",
+          "created_at": "2024-10-03 06:58:09.146062",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-01 22:24:06.869123",
-          "url": "https://d34za6je9r04g9.cloudfront.net"
+          "updated_at": "2024-10-02 23:57:08.287397",
+          "url": "https://d3tj55w3vyq5p3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
