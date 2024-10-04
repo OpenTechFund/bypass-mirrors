@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-02 21:11:04.626053",
+          "created_at": "2024-10-04 00:14:05.708726",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-02 12:07:08.639991",
-          "url": "https://d3ttnctzj2gj8y.cloudfront.net"
+          "updated_at": "2024-10-03 13:24:06.584384",
+          "url": "https://d1vjkejl36frev.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-03 00:13:05.157939",
+          "created_at": "2024-10-04 00:22:05.955181",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-02 03:14:10.324873",
-          "url": "https://dm0b19ugds5dx.cloudfront.net"
+          "updated_at": "2024-10-03 03:52:11.312292",
+          "url": "https://d2hr4fkg8rusj1.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
