@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-04 00:14:05.708726",
+          "created_at": "2024-10-05 02:13:05.314551",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-03 13:24:06.584384",
-          "url": "https://d1vjkejl36frev.cloudfront.net"
+          "updated_at": "2024-10-04 14:40:05.690600",
+          "url": "https://d2chhxn286o44m.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-04 01:54:06.321214",
+          "created_at": "2024-10-05 02:21:07.191806",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-03 03:42:15.336536",
-          "url": "https://dvgx5narbx2y9.cloudfront.net"
+          "updated_at": "2024-10-04 04:40:12.108215",
+          "url": "https://d22n6o35cedjm7.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
