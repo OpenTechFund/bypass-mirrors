@@ -348,11 +348,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-10-05 22:46:04.671840",
+          "created_at": "2024-10-06 23:37:04.734733",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-04 22:21:07.976928",
-          "url": "https://df06fmtzl2f5f.cloudfront.net"
+          "updated_at": "2024-10-06 00:06:07.371172",
+          "url": "https://d3lelpjgy0jgw9.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -1179,11 +1179,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-05 22:42:06.106917",
+          "created_at": "2024-10-06 23:33:11.248935",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-05 07:12:09.335662",
-          "url": "https://d1pkn6fzdpgo2p.cloudfront.net"
+          "updated_at": "2024-10-06 09:03:09.774440",
+          "url": "https://d26edt7dkmc8e1.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
