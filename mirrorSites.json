@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-05 02:39:08.014936",
+          "created_at": "2024-10-06 03:42:09.713235",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-05 00:27:08.397778",
-          "url": "https://d2hyhk74lkhmrc.cloudfront.net"
+          "updated_at": "2024-10-06 01:18:07.054516",
+          "url": "https://d2lzi9g0jhq9zb.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -808,11 +808,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-05 03:15:05.057745",
+          "created_at": "2024-10-06 03:46:06.228136",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-04 07:36:06.726792",
-          "url": "https://d2bxmcw7bx2nyo.cloudfront.net"
+          "updated_at": "2024-10-05 09:25:09.871391",
+          "url": "https://d3so6j5mofb0g1.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
