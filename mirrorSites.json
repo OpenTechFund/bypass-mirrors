@@ -660,11 +660,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-05 04:17:07.422624",
+          "created_at": "2024-10-06 05:53:05.202427",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-04 06:24:08.291852",
-          "url": "https://d3n58zxva8r81g.cloudfront.net"
+          "updated_at": "2024-10-05 06:28:08.938086",
+          "url": "https://depfgnqct3emy.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-05 05:14:08.898023",
+          "created_at": "2024-10-06 05:53:04.865338",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-04 08:14:40.427629",
-          "url": "https://d3rv2eictu0hdd.cloudfront.net"
+          "updated_at": "2024-10-05 09:08:16.821996",
+          "url": "https://d2tlv1gpn9rnua.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-05 05:24:06.582656",
+          "created_at": "2024-10-06 05:45:07.498758",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-05 05:18:10.519649",
-          "url": "https://d2m0tdjj4wa1ti.cloudfront.net"
+          "updated_at": "2024-10-05 05:56:10.446729",
+          "url": "https://d36desxcpuzskv.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
