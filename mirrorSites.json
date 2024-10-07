@@ -839,11 +839,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-06 09:53:06.114449",
+          "created_at": "2024-10-07 10:21:04.510085",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-06 07:05:08.636449",
-          "url": "https://d1opueq1tcfo6i.cloudfront.net"
+          "updated_at": "2024-10-07 08:59:07.066533",
+          "url": "https://d5vuhlisxlick.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
