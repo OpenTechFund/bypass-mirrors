@@ -889,11 +889,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-08 10:27:07.514486",
+          "created_at": "2024-10-09 11:33:09.284194",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-08 02:04:07.860733",
-          "url": "https://ds1ijf9xv0ftt.cloudfront.net"
+          "updated_at": "2024-10-09 03:07:15.417251",
+          "url": "https://d3vl1c71bj2drv.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
