@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-08 02:42:10.817307",
+          "created_at": "2024-10-09 02:59:07.432702",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-07 07:49:08.044735",
-          "url": "https://d2u9fbt9te987l.cloudfront.net"
+          "updated_at": "2024-10-08 08:41:06.968930",
+          "url": "https://ddmkcbzm2c59w.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
