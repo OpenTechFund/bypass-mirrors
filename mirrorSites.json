@@ -925,6 +925,13 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2024-10-11 18:48:03.692958",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-10 13:26:06.138990",
+          "url": "https://dl9qh227g3945.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -2205,6 +2212,13 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:32.883525",
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2024-10-11 18:48:04.435841",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-10 13:26:06.597140",
+          "url": "https://d2peexzbq1jrz1.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
