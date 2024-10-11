@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-10 02:25:06.715322",
+          "created_at": "2024-10-11 02:54:05.700953",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-10 01:25:06.210101",
-          "url": "https://d3rh53bvndslh5.cloudfront.net"
+          "updated_at": "2024-10-10 02:25:07.426790",
+          "url": "https://d2qhea7mgyaarn.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
