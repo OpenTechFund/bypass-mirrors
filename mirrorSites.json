@@ -46,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2024-10-13 16:54:04.994845",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-13 16:52:06.025979",
+          "url": "https://d2i8upf9ont9bl.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -639,7 +646,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-10-13 17:08:12.595520",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-13 16:50:06.192386",
+          "url": "https://d24bst2x5tk74r.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
