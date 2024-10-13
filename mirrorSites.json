@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-12 15:12:08.021537",
+          "created_at": "2024-10-13 17:00:04.915364",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-12 12:49:08.323997",
-          "url": "https://dduxx41rdqd6n.cloudfront.net"
+          "updated_at": "2024-10-13 13:10:07.893546",
+          "url": "https://d156zzbwmbx4db.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
