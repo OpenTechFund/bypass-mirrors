@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-13 09:35:06.694972",
+          "created_at": "2024-10-14 10:18:06.940190",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-12 10:58:07.564824",
-          "url": "https://d2c4l0bgiozjua.cloudfront.net"
+          "updated_at": "2024-10-13 11:40:13.426628",
+          "url": "https://d32iqgpcaix9o5.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1167,11 +1167,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-13 08:49:05.334023",
+          "created_at": "2024-10-14 10:26:04.072530",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-12 13:23:06.894232",
-          "url": "https://d1p4h1dt109h55.cloudfront.net"
+          "updated_at": "2024-10-13 13:48:06.008665",
+          "url": "https://d1nt8qmzxkm6fo.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
