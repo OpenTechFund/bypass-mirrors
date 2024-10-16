@@ -177,13 +177,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-10-15 10:31:03.802057",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-15 10:27:06.861602",
-          "url": "https://d3jpvocriq7r3s.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -684,11 +677,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-15 10:53:07.306310",
+          "created_at": "2024-10-16 11:26:05.638071",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-14 13:28:07.472514",
-          "url": "https://d2se9qi6zk5out.cloudfront.net"
+          "updated_at": "2024-10-15 14:21:10.848263",
+          "url": "https://dha3or3gmw170.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1167,11 +1160,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-15 10:45:08.031618",
+          "created_at": "2024-10-16 11:26:04.320176",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-14 14:29:17.413303",
-          "url": "https://d1i2y9d72n198d.cloudfront.net"
+          "updated_at": "2024-10-15 15:46:08.504750",
+          "url": "https://d312t39mbn6p2u.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
