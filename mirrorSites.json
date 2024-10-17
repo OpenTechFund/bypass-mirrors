@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-16 11:30:08.315624",
+          "created_at": "2024-10-17 12:25:06.054466",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-15 10:51:06.246455",
-          "url": "https://d3skctqsqu7iqq.cloudfront.net"
+          "updated_at": "2024-10-16 11:54:08.118631",
+          "url": "https://d1hkjlxg3j2cin.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -439,15 +439,7 @@
       "main_domain": "guardianproject.info"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-16 11:12:20.228066",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-16 10:13:10.324676",
-          "url": "https://d30eh6714y34ar.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
@@ -1167,11 +1159,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-16 11:26:04.320176",
+          "created_at": "2024-10-17 12:23:06.193569",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-15 15:46:08.504750",
-          "url": "https://d312t39mbn6p2u.cloudfront.net"
+          "updated_at": "2024-10-16 16:26:07.747715",
+          "url": "https://d1cbgefp7i32rt.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
