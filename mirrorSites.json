@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-18 09:01:06.133025",
+          "created_at": "2024-10-19 11:05:05.142393",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-17 17:34:06.419828",
-          "url": "https://d2qnh9gd5o276e.cloudfront.net"
+          "updated_at": "2024-10-18 18:53:05.959863",
+          "url": "https://d36t1wrrdech3k.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-10-19 10:59:07.274379",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-19 10:32:06.648953",
+          "url": "https://d3fto1bv9q8mtu.cloudfront.net"
+        }
+      ],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -571,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-18 10:24:04.693222",
+          "created_at": "2024-10-19 11:09:04.885176",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-18 01:09:07.999572",
-          "url": "https://d3n22jxtcucq28.cloudfront.net"
+          "updated_at": "2024-10-19 02:25:06.092904",
+          "url": "https://d396t87neo5en6.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
