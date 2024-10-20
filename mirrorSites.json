@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-19 00:24:05.139516",
+          "created_at": "2024-10-20 00:57:07.021039",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-18 14:52:06.618393",
-          "url": "https://d39d5hnmluvoz6.cloudfront.net"
+          "updated_at": "2024-10-19 16:27:09.838756",
+          "url": "https://dnt7z2epu0ng4.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
