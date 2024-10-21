@@ -808,11 +808,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-20 20:11:06.567607",
+          "created_at": "2024-10-21 21:27:05.004935",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-19 22:43:09.672950",
-          "url": "https://di7nwph0d62qy.cloudfront.net"
+          "updated_at": "2024-10-20 23:30:06.545247",
+          "url": "https://d2849lbtjwi5oy.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-20 21:07:14.115081",
+          "created_at": "2024-10-21 21:25:04.768145",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-19 22:31:06.384943",
-          "url": "https://d2sk4sk0vgkpr5.cloudfront.net"
+          "updated_at": "2024-10-20 23:00:13.562534",
+          "url": "https://dhoing91url7h.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
