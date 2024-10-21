@@ -648,11 +648,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-20 00:37:06.472194",
+          "created_at": "2024-10-21 01:02:05.548262",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-19 23:32:06.936195",
-          "url": "https://d1pokwwewg4c0z.cloudfront.net"
+          "updated_at": "2024-10-20 00:37:07.600713",
+          "url": "https://d2v2oynoszpfcc.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -870,11 +870,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-19 23:32:05.152598",
+          "created_at": "2024-10-21 00:54:07.673868",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-19 17:59:08.986834",
-          "url": "https://d2f4tjp1y893mu.cloudfront.net"
+          "updated_at": "2024-10-20 19:31:09.693948",
+          "url": "https://d2dx8yysjwizpw.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
