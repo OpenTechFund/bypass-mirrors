@@ -1045,11 +1045,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-08-04 17:14:13.452359",
+          "created_at": "2024-10-24 21:20:05.616064",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-24 21:05:12.305681",
-          "url": "https://d354dxqauwo7a0.cloudfront.net"
+          "updated_at": "2024-08-15 12:46:10.063039",
+          "url": "https://d35iiuibo7gcgn.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2731,11 +2731,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2024-08-04 17:14:11.625606",
+          "created_at": "2024-10-24 21:16:09.076620",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-30 13:30:04.851762",
-          "url": "https://d2qiiow1iz098e.cloudfront.net"
+          "updated_at": "2024-10-24 18:07:16.792354",
+          "url": "https://d3ruko5n6cu6e.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
@@ -2798,15 +2798,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-09-24 19:43:07.431295",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-08-27 15:34:07.894521",
-          "url": "https://d33ch7koibuipg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
