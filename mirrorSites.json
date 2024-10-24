@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-24 20:40:05.759224",
+          "created_at": "2024-10-24 23:46:07.734236",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 20:38:06.108053",
-          "url": "https://daw7fj9g04m54.cloudfront.net"
+          "updated_at": "2024-10-24 21:02:06.471442",
+          "url": "https://dvr9evn8gebfi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-23 23:11:05.149632",
+          "created_at": "2024-10-24 23:44:07.083171",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-23 03:29:07.012124",
-          "url": "https://d3rvjg6wagquw4.cloudfront.net"
+          "updated_at": "2024-10-24 04:24:16.858486",
+          "url": "https://d12reyrdurd1xm.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
