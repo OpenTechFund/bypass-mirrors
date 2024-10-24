@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-24 18:40:10.700657",
+          "created_at": "2024-10-24 21:48:07.596754",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 04:24:16.136521",
-          "url": "https://d2aaicwk6p4qgi.cloudfront.net"
+          "updated_at": "2024-10-24 21:02:06.456908",
+          "url": "https://dwqcanqomw6g2.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -2806,7 +2806,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-10-24 21:18:06.426146",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-24 21:16:18.778230",
+          "url": "https://dfm4mpajp10fv.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
