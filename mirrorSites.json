@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-24 04:24:14.151617",
+          "created_at": "2024-10-24 18:40:10.700657",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 00:52:07.564481",
-          "url": "https://d14ukdlq1jyq5h.cloudfront.net"
+          "updated_at": "2024-10-24 04:24:16.136521",
+          "url": "https://d2aaicwk6p4qgi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-23 18:44:09.771162",
+          "created_at": "2024-10-24 18:48:08.376449",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-22 22:43:21.622440",
-          "url": "https://d122a17o5jza64.cloudfront.net"
+          "updated_at": "2024-10-24 00:04:08.868700",
+          "url": "https://d3lkpupo00s88w.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1422,11 +1422,11 @@
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2024-10-19 15:51:07.087650",
+          "created_at": "2024-10-24 18:48:07.478843",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-19 10:10:10.147319",
-          "url": "https://d1lo7wybjmkmmy.cloudfront.net"
+          "updated_at": "2024-10-24 18:07:18.474623",
+          "url": "https://d30n87do8pme4i.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
