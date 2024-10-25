@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-24 13:22:05.484912",
+          "created_at": "2024-10-25 15:13:11.036599",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 12:06:08.274122",
-          "url": "https://d18kytaa7h2fuw.cloudfront.net"
+          "updated_at": "2024-10-25 12:53:05.730445",
+          "url": "https://d3k21wi2ndfjnq.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2024-10-24 14:38:08.491835",
+          "created_at": "2024-10-25 15:15:07.956804",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 04:20:07.889495",
-          "url": "https://d3j8djunandayf.cloudfront.net"
+          "updated_at": "2024-10-25 04:58:06.587174",
+          "url": "https://dd57s0y8jau8n.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
