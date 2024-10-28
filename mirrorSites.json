@@ -1203,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-27 06:13:08.564876",
+          "created_at": "2024-10-28 07:12:07.593223",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-26 20:37:08.547507",
-          "url": "https://d2rqzpmfttxeli.cloudfront.net"
+          "updated_at": "2024-10-27 22:18:09.748635",
+          "url": "https://d18t3o60g2727k.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
