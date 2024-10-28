@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-10-27 04:11:06.057892",
+          "created_at": "2024-10-28 05:28:04.502591",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-26 07:59:12.430571",
-          "url": "https://d21ul3sz3qx5he.cloudfront.net"
+          "updated_at": "2024-10-27 08:46:10.809139",
+          "url": "https://d2yqu1wagyqb3.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -648,11 +648,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-27 04:31:05.067932",
+          "created_at": "2024-10-28 05:30:06.213047",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-27 01:38:09.258497",
-          "url": "https://d4c2hy8kb23jk.cloudfront.net"
+          "updated_at": "2024-10-28 03:47:06.650409",
+          "url": "https://d1nlmirk9czc8m.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
