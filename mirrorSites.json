@@ -646,27 +646,11 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-29 11:02:07.919491",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 11:00:17.609443",
-          "url": "https://dhp81nyfhaybb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-29 11:02:08.093352",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 11:00:18.396743",
-          "url": "https://d3csb0qigqewyg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -682,39 +666,15 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-29 11:02:08.065121",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 11:00:18.379607",
-          "url": "https://d2cio6cqbiu3g8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-29 11:02:07.975295",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 11:00:17.637704",
-          "url": "https://d3a0wa26y4ov4k.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-29 11:02:08.031422",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 11:00:18.362458",
-          "url": "https://d3malj5symoe0e.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -2808,11 +2768,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-29 11:08:09.717668",
+          "created_at": "2024-10-29 14:10:07.940467",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 21:18:08.394789",
-          "url": "https://d31nvy7dqytj3l.cloudfront.net"
+          "updated_at": "2024-10-29 11:24:15.100026",
+          "url": "https://d2826iaom9wb0z.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
