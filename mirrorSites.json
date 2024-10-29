@@ -415,6 +415,13 @@
           "type": "eotk",
           "updated_at": "2024-09-30 08:27:14.015824",
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
+        },
+        {
+          "created_at": "2024-10-29 16:27:05.668783",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-10-29 16:19:08.444068",
+          "url": "https://d2hh0eq2rj03rs.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
@@ -1082,13 +1089,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2024-10-29 13:34:06.097583",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 13:32:07.475197",
-          "url": "https://dchf84mpst9kk.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
