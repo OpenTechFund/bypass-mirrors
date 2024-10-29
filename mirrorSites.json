@@ -870,11 +870,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-28 08:32:07.226315",
+          "created_at": "2024-10-29 09:27:14.299528",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-28 04:05:07.521775",
-          "url": "https://dx21uxgsws3zl.cloudfront.net"
+          "updated_at": "2024-10-29 05:39:08.163605",
+          "url": "https://d31nqsrrh6pwc1.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
