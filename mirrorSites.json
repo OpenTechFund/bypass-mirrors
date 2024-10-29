@@ -656,11 +656,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-29 11:16:08.364564",
+          "created_at": "2024-10-29 14:18:10.313366",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-29 10:44:10.888811",
-          "url": "https://d29b56fgti4iad.cloudfront.net"
+          "updated_at": "2024-10-29 13:46:16.227454",
+          "url": "https://d10utx0n3srub3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -2001,13 +2001,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2024-10-29 11:16:08.392227",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-29 11:00:17.897255",
-          "url": "https://d2ykldau0b86uw.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
