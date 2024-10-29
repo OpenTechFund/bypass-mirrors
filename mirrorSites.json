@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-28 02:33:04.177077",
+          "created_at": "2024-10-29 04:20:03.171733",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-28 01:27:06.455230",
-          "url": "https://d2y6lobwf0prhe.cloudfront.net"
+          "updated_at": "2024-10-29 02:46:10.494038",
+          "url": "https://d1sro5fxqh054u.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-28 02:03:05.275629",
+          "created_at": "2024-10-29 04:20:05.510494",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-27 06:21:09.050053",
-          "url": "https://d2ovay522a2g2v.cloudfront.net"
+          "updated_at": "2024-10-28 07:04:07.614960",
+          "url": "https://d1sp3dgjwp6iql.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
