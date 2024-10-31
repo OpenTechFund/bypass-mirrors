@@ -827,11 +827,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-10-30 14:59:07.406839",
+          "created_at": "2024-10-31 16:25:11.349832",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-30 02:57:06.729085",
-          "url": "https://d2aajr72ahtyk0.cloudfront.net"
+          "updated_at": "2024-10-31 04:38:08.123062",
+          "url": "https://d3tcpshha8qz5y.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
