@@ -2033,6 +2033,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2024-11-04 08:00:07.531657",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-04 07:38:06.886343",
+          "url": "https://d314udd9lxp60w.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2199,11 +2206,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-10-29 11:24:10.448319",
+          "created_at": "2024-11-04 08:08:05.761112",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-27 16:59:11.870357",
-          "url": "https://d1lvyi1qa190q2.cloudfront.net"
+          "updated_at": "2024-11-03 12:00:10.092045",
+          "url": "https://d81x73o2ptc1s.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
