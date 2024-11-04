@@ -646,75 +646,35 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-03 21:12:04.954202",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-03 04:52:12.705955",
-          "url": "https://d9f6jigrroqd9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-03 23:10:06.779208",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-03 18:15:07.560097",
-          "url": "https://d2rej0ndapvbpw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-03 18:15:05.767612",
+          "created_at": "2024-11-04 07:36:05.973895",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-03 18:13:08.637399",
-          "url": "https://d1k3hyc49f2e2c.cloudfront.net"
+          "updated_at": "2024-11-04 05:03:06.105233",
+          "url": "https://d2qsz559ketdad.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-04 00:48:09.910339",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-03 21:14:08.661121",
-          "url": "https://d256gowkjzg28e.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-03 21:12:04.986160",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-02 21:11:10.397960",
-          "url": "https://d1rh6clqgf7osq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-03 21:12:05.019960",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-02 22:51:16.331048",
-          "url": "https://d8a16218lk492.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
