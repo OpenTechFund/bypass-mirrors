@@ -887,11 +887,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2024-10-29 11:08:07.439799",
+          "created_at": "2024-11-04 07:44:04.916437",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-23 14:31:08.391236",
-          "url": "https://d3jto1mrqanzfi.cloudfront.net"
+          "updated_at": "2024-11-02 14:29:08.265687",
+          "url": "https://d3bw9x5y1uu67c.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1011,15 +1011,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-03 12:16:05.998388",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-03 09:09:08.899383",
-          "url": "https://dhfwscc2yp0x8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1211,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-10-29 11:24:12.111453",
+          "created_at": "2024-11-04 07:44:07.370459",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-10-24 21:40:09.547985",
-          "url": "https://dc0x4kiklonc5.cloudfront.net"
+          "updated_at": "2024-10-29 11:24:13.894384",
+          "url": "https://d269b69dug8s7r.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -2766,15 +2758,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-03 16:33:05.155375",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-03 13:26:06.707993",
-          "url": "https://d2685jh1x6tj2x.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
