@@ -1213,7 +1213,15 @@
       "main_domain": "voa-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-05 18:45:10.521907",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-05 18:25:09.409690",
+          "url": "https://d37bsese58ptf0.cloudfront.net"
+        }
+      ],
       "main_domain": "voa-video-hls.voanews.eu"
     },
     {
@@ -2128,13 +2136,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:02:10.828755",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
-        },
-        {
-          "created_at": "2024-10-20 17:25:04.647625",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-18 19:27:06.547749",
-          "url": "https://d2eatk7qjzmh0m.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
