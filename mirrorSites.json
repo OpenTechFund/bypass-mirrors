@@ -379,11 +379,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-06 03:11:04.957759",
+          "created_at": "2024-11-07 05:56:11.059461",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-06 01:36:07.476135",
-          "url": "https://d2n6boz7kkx5w2.cloudfront.net"
+          "updated_at": "2024-11-07 02:47:06.188165",
+          "url": "https://d2n5kax3pb2pqy.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-06 04:53:18.479545",
+          "created_at": "2024-11-07 05:56:13.211384",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-05 22:17:08.592526",
-          "url": "https://d25z8c78a8wfx2.cloudfront.net"
+          "updated_at": "2024-11-06 23:38:10.093282",
+          "url": "https://d35oicidomby3x.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -648,11 +648,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-06 05:11:07.022724",
+          "created_at": "2024-11-07 05:52:08.065979",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-05 18:09:11.345528",
-          "url": "https://d3w3ezj6tuz56z.cloudfront.net"
+          "updated_at": "2024-11-06 19:16:10.105640",
+          "url": "https://d1x8r58d640n09.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
