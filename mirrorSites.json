@@ -653,11 +653,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-08 01:00:54.491462",
+          "created_at": "2024-11-08 10:00:07.571144",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-07 08:20:07.143038",
-          "url": "https://dvf7s6sf3wdhr.cloudfront.net"
+          "updated_at": "2024-11-08 08:50:08.276955",
+          "url": "https://dct72msob2s56.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
