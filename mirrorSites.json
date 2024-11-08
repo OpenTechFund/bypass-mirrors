@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-07 04:37:05.561098",
+          "created_at": "2024-11-08 06:01:38.562972",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-07 02:53:07.720296",
-          "url": "https://dwyq6ultfvtv.cloudfront.net"
+          "updated_at": "2024-11-08 04:45:07.257018",
+          "url": "https://d2x8lzpzd3oduu.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -1179,11 +1179,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-07 05:48:05.640116",
+          "created_at": "2024-11-08 06:09:06.246000",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-06 16:22:09.847692",
-          "url": "https://d2uscga0daydey.cloudfront.net"
+          "updated_at": "2024-11-07 17:09:09.803460",
+          "url": "https://d23cussvx7fkgt.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
