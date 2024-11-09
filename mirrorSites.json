@@ -1208,11 +1208,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-08T22:49:05.710237",
+          "created_at": "2024-11-09T23:41:06.411342",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-08T22:15:16.189184",
-          "url": "https://d1wrr0zul91law.cloudfront.net"
+          "updated_at": "2024-11-09T22:59:14.014141",
+          "url": "https://d5rvocxqugd5m.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -2036,11 +2036,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2024-11-09T10:31:07.245313",
+          "created_at": "2024-11-09T23:45:06.123111",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-08T18:01:15.756716",
-          "url": "https://d1oee2f7emdnyn.cloudfront.net"
+          "updated_at": "2024-11-09T10:31:11.108049",
+          "url": "https://d1io7u9wt0v99k.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
