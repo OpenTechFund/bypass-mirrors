@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-09T03:41:11.380174",
+          "created_at": "2024-11-10T04:36:07.469825",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-08T13:24:12.329178",
-          "url": "https://d2swzqyus9egdm.cloudfront.net"
+          "updated_at": "2024-11-09T14:40:08.040205",
+          "url": "https://dn28cet9c2prn.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -1051,15 +1051,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-09T07:28:06.025130",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-09T07:26:10.991160",
-          "url": "https://d2aw5nvzux9uj.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
