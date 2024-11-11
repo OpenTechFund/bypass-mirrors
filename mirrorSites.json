@@ -196,13 +196,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:52:24.428630",
           "url": "https://burmese.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2024-08-18T08:10:08.064905",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-30T15:38:54.516523",
-          "url": "https://d3uesdcli4eqh2.cloudfront.net"
         }
       ],
       "main_domain": "burmese.voanews.com"
