@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-11T15:17:04.919354",
+          "created_at": "2024-11-12T17:42:05.371060",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-10T18:01:10.600416",
-          "url": "https://d19c3fktwp6k5d.cloudfront.net"
+          "updated_at": "2024-11-11T18:24:14.646728",
+          "url": "https://d10qnr17oj5lt8.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
