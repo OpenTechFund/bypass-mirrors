@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-12T02:49:09.352825",
+          "created_at": "2024-11-13T03:34:06.539519",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-12T01:33:18.109071",
-          "url": "https://d13bmceiq8gcq9.cloudfront.net"
+          "updated_at": "2024-11-13T02:26:11.598025",
+          "url": "https://d3hihk72jjamry.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
