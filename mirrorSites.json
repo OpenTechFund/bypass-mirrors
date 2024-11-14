@@ -808,11 +808,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-13T19:25:07.699076",
+          "created_at": "2024-11-14T20:44:05.275047",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-13T03:14:23.871100",
-          "url": "https://d2bijm4uxw5165.cloudfront.net"
+          "updated_at": "2024-11-14T05:30:11.390538",
+          "url": "https://d28spy9usfs6ja.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1167,11 +1167,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-13T19:13:04.031268",
+          "created_at": "2024-11-14T20:42:04.692050",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-12T22:21:13.816141",
-          "url": "https://d2foug7rk7zhc.cloudfront.net"
+          "updated_at": "2024-11-13T22:42:08.012652",
+          "url": "https://d3ojozv78pmg7z.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
