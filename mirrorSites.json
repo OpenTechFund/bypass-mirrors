@@ -646,15 +646,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-13T10:31:27.902126",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-13T09:51:16.392112",
-          "url": "https://d2vjibe1hx2q2t.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -2043,11 +2035,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2024-11-13T14:54:05.902106",
+          "created_at": "2024-11-14T10:18:08.247400",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-13T11:47:16.579468",
-          "url": "https://d5swn08ubwfbp.cloudfront.net"
+          "updated_at": "2024-11-13T14:54:09.208753",
+          "url": "https://d2tznlw5hs9t22.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
