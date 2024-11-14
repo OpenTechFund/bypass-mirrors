@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-13T00:19:14.565300",
+          "created_at": "2024-11-14T02:26:11.385433",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-12T22:53:09.984639",
-          "url": "https://d3dx6yfylury27.cloudfront.net"
+          "updated_at": "2024-11-14T00:34:13.059599",
+          "url": "https://d19rsy0rz033bg.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
