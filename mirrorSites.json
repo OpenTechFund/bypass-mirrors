@@ -1213,15 +1213,7 @@
       "main_domain": "voa-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-14T03:41:05.015660",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-14T03:31:09.339175",
-          "url": "https://d1gjisk5i77r1x.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-hls.voanews.eu"
     },
     {
