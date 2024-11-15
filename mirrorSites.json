@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2024-11-14T12:58:05.142824",
+          "created_at": "2024-11-15T13:21:05.076899",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-14T06:26:16.150020",
-          "url": "https://d31pi4yy76qcvc.cloudfront.net"
+          "updated_at": "2024-11-15T07:46:13.356032",
+          "url": "https://dud3ub2mqvndl.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-14T11:46:06.282222",
+          "created_at": "2024-11-15T13:21:05.656267",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-14T10:20:11.243785",
-          "url": "https://d3ihnnnc5bupt.cloudfront.net"
+          "updated_at": "2024-11-15T11:21:12.073633",
+          "url": "https://d9gg4zya54suv.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
