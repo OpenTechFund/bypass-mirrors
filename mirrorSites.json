@@ -1508,6 +1508,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:28.388375",
           "url": "https://www.benarnbltxd2z2uhr3adq62fkyxwx6multgy3o4celj3gqzo4glfbhqd.onion"
+        },
+        {
+          "created_at": "2024-11-16T12:14:04.948709",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-16T12:12:12.043791",
+          "url": "https://d34z76ud51hcl7.cloudfront.net"
         }
       ],
       "main_domain": "benarnews.org"
@@ -2072,6 +2079,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2024-11-16T12:14:04.927799",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-16T12:12:12.015045",
+          "url": "https://d1ddqnvx14hpfr.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
