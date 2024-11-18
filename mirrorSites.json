@@ -27,13 +27,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2024-11-17T19:11:14.756430",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-16T17:07:07.022291",
-          "url": "https://d3lbyrnbevp8eg.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -641,15 +634,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-17T19:13:07.813587",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-16T15:04:11.847448",
-          "url": "https://doei0a3to2fys.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -792,15 +777,7 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-17T19:13:06.598695",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-17T19:11:28.156799",
-          "url": "https://d2y9801v5fnzaa.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
@@ -823,15 +800,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-17T19:15:05.597562",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-17T19:11:28.137027",
-          "url": "https://d1fi95i1eoonh5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
@@ -2036,11 +2005,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2024-11-18T15:31:22.466106",
+          "created_at": "2024-11-18T20:35:06.878454",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T10:32:09.626994",
-          "url": "https://d2gnew1op58e92.cloudfront.net"
+          "updated_at": "2024-11-18T15:31:27.358291",
+          "url": "https://d1t4bjtvt1fiu.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
