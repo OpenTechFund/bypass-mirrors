@@ -39,13 +39,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2024-11-17T19:13:05.654027",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-17T19:11:23.557556",
-          "url": "https://dkkayqdu7bfp9.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1078,15 +1071,7 @@
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-17T19:15:06.022990",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-17T19:11:28.097494",
-          "url": "https://d32kwv69wa4tlb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
