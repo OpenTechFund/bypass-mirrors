@@ -327,13 +327,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:17.310518",
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-11-17T19:15:04.289395",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-16T16:41:10.156488",
-          "url": "https://d1uy63h4o091hd.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -751,13 +744,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:14:58.556663",
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-11-17T19:13:06.532642",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-17T19:11:28.058061",
-          "url": "https://d3tet9rd5up49a.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -792,11 +778,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-17T19:13:06.566390",
+          "created_at": "2024-11-18T20:57:07.777151",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-17T19:11:28.077722",
-          "url": "https://djcpoek36hep5.cloudfront.net"
+          "updated_at": "2024-11-17T19:13:13.766711",
+          "url": "https://d2kwhaxsmqnu5k.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1070,11 +1056,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-17T19:13:05.574122",
+          "created_at": "2024-11-18T21:01:04.601969",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-17T19:11:23.519365",
-          "url": "https://d2dvct6rxyqpp1.cloudfront.net"
+          "updated_at": "2024-11-18T19:35:10.709938",
+          "url": "https://d2ezwpvs4i4lcr.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
