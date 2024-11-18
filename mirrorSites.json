@@ -27,6 +27,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:27:04.966121",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:21:07.297136",
+          "url": "https://d5h0di8wp6nt4.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -39,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2024-11-18T21:15:04.921845",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:27:09.935327",
+          "url": "https://d2yez0lpg768dw.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -63,6 +77,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:38.853493",
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:47:04.860039",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:19:07.193980",
+          "url": "https://d20cf1v1dob971.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -137,6 +158,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:21:04.096703",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T19:57:12.980671",
+          "url": "https://d223jd0fctdwxj.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -149,6 +177,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:17:05.126085",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T19:57:12.937610",
+          "url": "https://dcrzjmy6urdv4.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -173,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-18T20:23:06.144084",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T19:59:08.931066",
+          "url": "https://dogci3gupnwzn.cloudfront.net"
+        }
+      ],
       "main_domain": "corp.kaltura.com"
     },
     {
@@ -215,6 +258,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:21:03.903001",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T19:59:09.616285",
+          "url": "https://d39klf0jwv7oto.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -320,6 +370,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:17.310518",
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:59:04.254651",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T19:57:10.441691",
+          "url": "https://d2rfc3zg1djzzl.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -606,7 +663,15 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-18T20:33:06.025143",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:19:08.275073",
+          "url": "https://d1h2kao1dzav84.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -622,7 +687,15 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-18T20:23:06.236313",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:01:11.501739",
+          "url": "https://d18c2pdnz1zzf3.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -726,7 +799,15 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-18T20:11:04.577357",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:03:15.522095",
+          "url": "https://d823t1si1k9f5.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-audio-ns.akamaized.net"
     },
     {
@@ -737,12 +818,27 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:14:58.556663",
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-11-18T20:59:05.601517",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:13:11.192166",
+          "url": "https://d2223pcbner3mp.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-18T20:35:06.667006",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-18T20:15:10.528334",
+          "url": "https://d28301o6efkjy6.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
