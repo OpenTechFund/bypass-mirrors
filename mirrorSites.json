@@ -46,13 +46,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2024-11-18T21:15:04.921845",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-18T20:27:09.935327",
-          "url": "https://d2yez0lpg768dw.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -79,11 +72,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-18T20:47:04.860039",
+          "created_at": "2024-11-19T22:58:06.121591",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T20:19:07.193980",
-          "url": "https://d20cf1v1dob971.cloudfront.net"
+          "updated_at": "2024-11-19T21:00:08.450917",
+          "url": "https://d1m9ow29jcsfyz.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
