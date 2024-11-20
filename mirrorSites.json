@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-11-19T21:18:03.928742",
+          "created_at": "2024-11-20T22:13:05.333964",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T20:27:09.777642",
-          "url": "https://d1ln4lnsx2tmfk.cloudfront.net"
+          "updated_at": "2024-11-19T22:02:08.703612",
+          "url": "https://d2c95fuuykm73o.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-19T20:48:06.954094",
+          "created_at": "2024-11-20T22:17:06.134067",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T20:15:08.140290",
-          "url": "https://d1tbij7qlc5lbz.cloudfront.net"
+          "updated_at": "2024-11-20T21:27:09.431661",
+          "url": "https://d2zu3sptbnzo7x.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -596,13 +596,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
-        },
-        {
-          "created_at": "2024-11-19T21:14:08.620173",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-18T20:21:05.762743",
-          "url": "https://d2zzxl9o15obny.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -706,15 +699,7 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-11-19T21:24:06.886448",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-19T21:02:11.804309",
-          "url": "https://d3880go7m5t1pp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -889,11 +874,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-19T21:44:05.708749",
+          "created_at": "2024-11-20T22:21:07.229215",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T21:05:11.339575",
-          "url": "https://d2f34m8thqkuq.cloudfront.net"
+          "updated_at": "2024-11-19T22:56:14.496402",
+          "url": "https://d29g20673ntms3.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
