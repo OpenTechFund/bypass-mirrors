@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-11-20T22:13:05.333964",
+          "created_at": "2024-11-21T23:48:05.469531",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-19T22:02:08.703612",
-          "url": "https://d2c95fuuykm73o.cloudfront.net"
+          "updated_at": "2024-11-20T23:20:08.945287",
+          "url": "https://d7k57j2qb5otr.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-11-20T22:51:04.418791",
+          "created_at": "2024-11-21T23:54:06.260717",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-20T22:41:07.946139",
-          "url": "https://d3kmz84wlljtz0.cloudfront.net"
+          "updated_at": "2024-11-20T23:12:13.489437",
+          "url": "https://d2qfm94pdd7eac.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2024-11-20T22:31:08.472916",
+          "created_at": "2024-11-21T23:50:05.862180",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-19T21:52:09.078703",
-          "url": "https://dm3oki896rin8.cloudfront.net"
+          "updated_at": "2024-11-20T22:41:09.476262",
+          "url": "https://d2h52i0egvq449.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -598,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-11-20T22:19:08.209924",
+          "created_at": "2024-11-21T23:54:07.736049",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-20T22:01:10.125723",
-          "url": "https://d3b3r7vow1hwrx.cloudfront.net"
+          "updated_at": "2024-11-21T22:44:08.129479",
+          "url": "https://d3ul9d0pbw1pho.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-20T22:55:07.011619",
+          "created_at": "2024-11-21T23:52:07.903011",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-19T23:35:09.623821",
-          "url": "https://d4o21eiiolbhl.cloudfront.net"
+          "updated_at": "2024-11-21T01:40:14.538321",
+          "url": "https://dn3ysk5lre1jh.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
