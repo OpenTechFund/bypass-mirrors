@@ -1203,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-21T21:56:10.826295",
+          "created_at": "2024-11-22T23:24:05.380234",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-20T22:19:14.359681",
-          "url": "https://d1o9a17l1d3v70.cloudfront.net"
+          "updated_at": "2024-11-21T23:16:16.275616",
+          "url": "https://d37e6nlgt9x3yk.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-21T21:52:07.617689",
+          "created_at": "2024-11-22T23:26:05.855640",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-21T21:36:12.001861",
-          "url": "https://d21tf3fco6w7mt.cloudfront.net"
+          "updated_at": "2024-11-22T23:04:09.575884",
+          "url": "https://dea9lcfyuomcq.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
