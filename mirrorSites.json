@@ -258,13 +258,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-11-21T23:34:05.606807",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-20T23:05:10.605942",
-          "url": "https://d1ihtwiihso4ub.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -396,6 +389,13 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2024-11-23T00:24:14.906877",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-23T00:20:08.872085",
+          "url": "https://dvl7byb99emzt.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -677,11 +677,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-21T22:38:07.813300",
+          "created_at": "2024-11-23T00:40:06.597601",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-21T02:26:19.634545",
-          "url": "https://d3tanxzhyixtul.cloudfront.net"
+          "updated_at": "2024-11-22T03:43:16.360197",
+          "url": "https://dwsissrnqpg5n.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -689,11 +689,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-21T23:52:07.903011",
+          "created_at": "2024-11-23T00:46:07.331822",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-21T01:40:14.538321",
-          "url": "https://dn3ysk5lre1jh.cloudfront.net"
+          "updated_at": "2024-11-22T03:09:10.635186",
+          "url": "https://dbqailw6u0dhc.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -801,11 +801,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-21T23:34:06.606963",
+          "created_at": "2024-11-23T00:40:05.560857",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-21T20:44:18.448297",
-          "url": "https://d77n3vt1xhd02.cloudfront.net"
+          "updated_at": "2024-11-22T20:57:10.633571",
+          "url": "https://d2ocpvusa6a9gf.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -2034,6 +2034,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2024-11-23T00:38:06.686956",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-23T00:08:09.096808",
+          "url": "https://d19c1sv12kbsh5.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2124,11 +2131,11 @@
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
         },
         {
-          "created_at": "2024-11-18T13:14:12.086402",
+          "created_at": "2024-11-23T00:46:06.386170",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T11:26:14.700503",
-          "url": "https://d1l7jt7pnymbgi.cloudfront.net"
+          "updated_at": "2024-11-22T22:00:16.599865",
+          "url": "https://d2wcoi54byzkc2.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
@@ -2200,11 +2207,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-11-18T04:17:08.502620",
+          "created_at": "2024-11-23T00:46:06.095091",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-18T02:44:09.245519",
-          "url": "https://d1t3l68gqp8i6g.cloudfront.net"
+          "updated_at": "2024-11-22T22:00:14.817024",
+          "url": "https://d3fwu852w0eka1.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
