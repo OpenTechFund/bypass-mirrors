@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-22T01:30:06.820604",
+          "created_at": "2024-11-23T02:43:08.126616",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-22T01:18:08.966596",
-          "url": "https://d2uzdy7e3b6sh9.cloudfront.net"
+          "updated_at": "2024-11-23T02:10:07.230769",
+          "url": "https://d1datipeubx79c.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -358,7 +358,15 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-11-23T02:22:09.115130",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-11-23T01:38:08.620958",
+          "url": "https://d3cxhby80excsk.cloudfront.net"
+        }
+      ],
       "main_domain": "gdb.martinoticias.com"
     },
     {
