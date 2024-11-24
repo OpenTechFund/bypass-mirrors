@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-11-23T00:22:07.561276",
+          "created_at": "2024-11-24T02:27:08.088976",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-22T00:08:08.854617",
-          "url": "https://d14u7hm72c6mxp.cloudfront.net"
+          "updated_at": "2024-11-24T01:47:07.393493",
+          "url": "https://d5815djzczwr7.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -258,13 +258,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-11-23T00:48:04.080219",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-23T00:44:07.810918",
-          "url": "https://d2vsfxzj1wf6kx.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -808,11 +801,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-23T00:40:05.560857",
+          "created_at": "2024-11-24T02:33:04.850864",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-22T20:57:10.633571",
-          "url": "https://d2ocpvusa6a9gf.cloudfront.net"
+          "updated_at": "2024-11-23T21:34:10.092769",
+          "url": "https://d2s7unq486uizl.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
