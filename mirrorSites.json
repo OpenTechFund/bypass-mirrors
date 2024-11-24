@@ -396,13 +396,6 @@
           "type": "eotk",
           "updated_at": "2022-05-27 10:02:56.717300",
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2024-11-23T00:24:14.906877",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-23T00:20:08.872085",
-          "url": "https://dvl7byb99emzt.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -2119,11 +2112,11 @@
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
         },
         {
-          "created_at": "2024-11-20T14:56:09.630686",
+          "created_at": "2024-11-24T01:21:04.533338",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-20T13:17:09.115673",
-          "url": "https://d2g7qpjnuy9hka.cloudfront.net"
+          "updated_at": "2024-11-23T19:22:09.770015",
+          "url": "https://d2ot21pdmmbfn1.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
