@@ -27,13 +27,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2024-11-25T03:02:05.431874",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-25T02:36:07.606369",
-          "url": "https://d2777cqfdss7yz.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -48,11 +41,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-11-25T03:40:04.926792",
+          "created_at": "2024-11-26T04:29:04.416314",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-24T03:11:08.116235",
-          "url": "https://d1upqmeh3m8ary.cloudfront.net"
+          "updated_at": "2024-11-25T04:50:09.178734",
+          "url": "https://d14p9u49fw2li7.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
