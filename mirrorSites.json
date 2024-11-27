@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-26T06:09:06.032896",
+          "created_at": "2024-11-27T06:46:09.529857",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T05:29:07.364693",
-          "url": "https://ddb6l2ugpme60.cloudfront.net"
+          "updated_at": "2024-11-26T06:09:10.919168",
+          "url": "https://d1uhnqk7h5uxe2.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -827,11 +827,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-26T06:17:04.721836",
+          "created_at": "2024-11-27T06:40:04.754710",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T04:25:10.742897",
-          "url": "https://d2l19dida3xhds.cloudfront.net"
+          "updated_at": "2024-11-27T04:52:14.894998",
+          "url": "https://d3s7duovt2ec3j.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-26T06:17:05.046878",
+          "created_at": "2024-11-27T06:42:05.216396",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T04:09:10.794998",
-          "url": "https://dvprjsjafyow8.cloudfront.net"
+          "updated_at": "2024-11-27T06:16:10.311023",
+          "url": "https://d3qnbgqa35w10r.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
