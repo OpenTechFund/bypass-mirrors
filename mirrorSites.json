@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-26T04:51:03.955643",
+          "created_at": "2024-11-27T05:40:04.542211",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T03:09:09.694059",
-          "url": "https://d1jz1byln0sjr4.cloudfront.net"
+          "updated_at": "2024-11-27T03:50:08.343770",
+          "url": "https://d1jj0lsvvyxp2e.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -1203,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-26T04:33:05.977755",
+          "created_at": "2024-11-27T05:44:07.014874",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T02:51:14.523067",
-          "url": "https://d17ud2edh42lyt.cloudfront.net"
+          "updated_at": "2024-11-27T03:38:10.448562",
+          "url": "https://d1qub3zmf0di0t.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
