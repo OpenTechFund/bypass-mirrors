@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-11-27T04:12:05.626104",
+          "created_at": "2024-11-28T05:47:15.075909",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T04:03:17.433037",
-          "url": "https://d1aesh81n5tzmh.cloudfront.net"
+          "updated_at": "2024-11-28T04:31:08.762801",
+          "url": "https://dvu54v7epltgm.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-27T04:14:08.274537",
+          "created_at": "2024-11-28T05:53:07.297827",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-26T06:41:11.265898",
-          "url": "https://d2al7nxhe0c50s.cloudfront.net"
+          "updated_at": "2024-11-27T07:32:09.528662",
+          "url": "https://d1nsx9jqb01oj3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-27T05:24:15.456626",
+          "created_at": "2024-11-28T05:51:05.938686",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-27T04:34:11.120673",
-          "url": "https://d1zejylg7lq3fy.cloudfront.net"
+          "updated_at": "2024-11-27T05:24:25.205495",
+          "url": "https://dadt5mmuxhd4m.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -808,11 +808,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-27T05:00:05.394356",
+          "created_at": "2024-11-28T05:53:06.373063",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-27T01:03:10.586329",
-          "url": "https://dmxrw2dt0ko0c.cloudfront.net"
+          "updated_at": "2024-11-28T01:41:10.687453",
+          "url": "https://d20sy3xnbuidyj.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
