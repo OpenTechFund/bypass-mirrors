@@ -642,63 +642,23 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:10.209662",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T05:11:20.250044",
-          "url": "https://d2ocdynj9zmynz.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:10.048281",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T09:07:11.115163",
-          "url": "https://d2aow1seu8ljzg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:10.177126",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T10:27:27.963017",
-          "url": "https://d1knha8vkls54a.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:10.080333",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T09:14:14.895220",
-          "url": "https://d1u9jqms9u2b2j.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:10.141934",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T06:43:13.640296",
-          "url": "https://d1wbykinngxaxv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1073,13 +1033,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2024-12-02T10:29:08.820760",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T12:05:12.219915",
-          "url": "https://d15984h8t9ieve.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
