@@ -470,15 +470,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-10-14T18:25:06.211625",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-10-04T18:36:10.271493",
-          "url": "https://dc93ardik7vw5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -2814,11 +2806,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-27T13:05:07.192407",
+          "created_at": "2024-12-02T12:23:06.727631",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-27T02:03:10.919850",
-          "url": "https://d3ujwe3u0rl5ct.cloudfront.net"
+          "updated_at": "2024-11-27T13:05:12.084474",
+          "url": "https://d18r0kjyfl25c3.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
