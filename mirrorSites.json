@@ -630,27 +630,75 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-02T14:16:06.769972",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:14.894208",
+          "url": "https://dtqpv4xwzgpe2.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-02T13:36:07.085987",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:17.347119",
+          "url": "https://d2gcf7w0ohcgsf.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-02T13:36:07.003811",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:15.017611",
+          "url": "https://d6tsh2hos4qd7.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-02T13:36:07.066270",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:17.196997",
+          "url": "https://d3djbxzper8lzi.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-02T13:36:07.018619",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:15.178064",
+          "url": "https://d2eai7e65lwngd.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-02T13:36:07.050830",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:17.047990",
+          "url": "https://dopavc0dsar54.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1017,6 +1065,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2024-12-02T13:36:06.096530",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-02T10:29:15.714780",
+          "url": "https://d24n5fhmzokkpy.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
