@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:09.252736",
+          "created_at": "2024-12-03T10:49:05.244502",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T08:05:09.568418",
-          "url": "https://d3me09m5uurbgp.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:15.547401",
+          "url": "https://d1lowfnq93691d.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -598,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:09.790839",
+          "created_at": "2024-12-03T10:51:05.546426",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T08:59:08.733610",
-          "url": "https://d3540ny31b7p0k.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:11.446302",
+          "url": "https://d1o8wnkua9y6ud.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-02T10:29:09.511537",
+          "created_at": "2024-12-03T10:57:05.096418",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T05:07:10.803493",
-          "url": "https://d1ieps3mphldjx.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:16.853849",
+          "url": "https://d2xh07clcuvfqd.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-02T10:29:09.534470",
+          "created_at": "2024-12-03T10:55:06.347506",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T05:11:19.538458",
-          "url": "https://dz2s8akb82etf.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:16.912812",
+          "url": "https://d2s36f6o1rkd0p.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
