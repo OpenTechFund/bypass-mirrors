@@ -648,11 +648,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-02T14:16:06.769972",
+          "created_at": "2024-12-03T16:07:06.747986",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-02T10:29:14.894208",
-          "url": "https://dtqpv4xwzgpe2.cloudfront.net"
+          "updated_at": "2024-12-03T11:15:09.084053",
+          "url": "https://d14jt7l1aeq0qt.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
