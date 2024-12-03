@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:07.826146",
+          "created_at": "2024-12-03T11:27:03.564808",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T06:47:08.377420",
-          "url": "https://d2agm2ehma3qps.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:13.762127",
+          "url": "https://d10mqe6nsf87nd.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:07.790609",
+          "created_at": "2024-12-03T11:23:04.827827",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T09:05:17.965442",
-          "url": "https://d3cli5cei73dr8.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:13.748301",
+          "url": "https://dw6wdc0ii6r2p.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -348,11 +348,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:08.363139",
+          "created_at": "2024-12-03T11:19:05.594653",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T07:07:07.315773",
-          "url": "https://d3ks07f69o88oj.cloudfront.net"
+          "updated_at": "2024-12-03T10:49:08.080406",
+          "url": "https://dsl2yribidn36.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:08.311602",
+          "created_at": "2024-12-03T11:23:05.244760",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T07:39:08.789465",
-          "url": "https://d334h93ccj9sa4.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:14.182581",
+          "url": "https://d1nulcs656wsvd.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -806,15 +806,7 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:08.940916",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T08:21:10.991145",
-          "url": "https://d24a2nwxi3whxd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-audio-ns.akamaized.net"
     },
     {
@@ -868,15 +860,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-02T10:29:08.895317",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-11-29T10:29:10.992546",
-          "url": "https://d19zphs07qwtqq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
@@ -889,11 +873,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:08.873685",
+          "created_at": "2024-12-03T11:25:05.976963",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T10:18:04.164122",
-          "url": "https://d3nrllnhgp9xg0.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:16.828483",
+          "url": "https://d1s83bdwd027rt.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1239,11 +1223,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-02T10:29:09.305459",
+          "created_at": "2024-12-03T11:27:04.556993",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T08:49:16.617539",
-          "url": "https://dlik5fz19ofzd.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:29.609687",
+          "url": "https://dfmceyzpiikjp.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
