@@ -379,11 +379,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-02T10:29:07.162019",
+          "created_at": "2024-12-03T11:29:03.707094",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-29T11:15:09.358929",
-          "url": "https://d2zm2leyun7zlq.cloudfront.net"
+          "updated_at": "2024-12-02T10:29:11.463688",
+          "url": "https://d2aj1iouk2y2ma.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -806,7 +806,15 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-03T11:23:05.924012",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-03T11:13:09.736463",
+          "url": "https://d3fgsjv6hc7xpp.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-audio-ns.akamaized.net"
     },
     {
@@ -860,7 +868,15 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-03T11:27:04.232236",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-03T11:09:12.505243",
+          "url": "https://d1k42irnboqoad.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
