@@ -848,13 +848,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:17:38.534049",
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-12-03T12:39:04.699129",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-03T11:37:07.972079",
-          "url": "https://drvk3bxrvldau.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
