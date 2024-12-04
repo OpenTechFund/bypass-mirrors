@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-12-03T11:03:07.248074",
+          "created_at": "2024-12-04T11:58:03.557126",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-02T10:29:13.828913",
-          "url": "https://d2aag3w5g5e0rk.cloudfront.net"
+          "updated_at": "2024-12-03T11:25:10.241712",
+          "url": "https://dgjer923oxodc.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -598,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-12-03T10:51:05.546426",
+          "created_at": "2024-12-04T11:58:04.683374",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-02T10:29:11.446302",
-          "url": "https://d1o8wnkua9y6ud.cloudfront.net"
+          "updated_at": "2024-12-03T10:51:06.027295",
+          "url": "https://d3knrrni9ea4qz.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
