@@ -346,6 +346,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 14:44:57.781103",
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-12-04T12:34:05.415127",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-04T12:32:11.602252",
+          "url": "https://d125sv7oq3bzv6.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -830,15 +837,7 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-03T12:09:05.691047",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-03T11:17:10.572085",
-          "url": "https://d1ub7g7nh8p4jn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
@@ -880,13 +879,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:16:08.751334",
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-12-03T11:25:05.976963",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-02T10:29:16.828483",
-          "url": "https://d1s83bdwd027rt.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1172,11 +1164,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-03T12:35:07.153176",
+          "created_at": "2024-12-04T13:16:05.179217",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-03T10:37:10.138780",
-          "url": "https://d2jcytt5sbzfbj.cloudfront.net"
+          "updated_at": "2024-12-04T12:06:10.348379",
+          "url": "https://dcx26lstg76c.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
@@ -1232,11 +1224,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-03T11:27:04.556993",
+          "created_at": "2024-12-04T13:16:04.999559",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-02T10:29:29.609687",
-          "url": "https://dfmceyzpiikjp.cloudfront.net"
+          "updated_at": "2024-12-04T12:20:08.776500",
+          "url": "https://d2ul7u1dzgvt44.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
