@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-12-04T11:58:03.557126",
+          "created_at": "2024-12-05T13:14:04.477926",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-03T11:25:10.241712",
-          "url": "https://dgjer923oxodc.cloudfront.net"
+          "updated_at": "2024-12-04T12:16:06.982844",
+          "url": "https://d13mu18pb7jlro.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -868,15 +868,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-04T12:16:04.434535",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-04T11:50:11.921719",
-          "url": "https://dxo7als74riew.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
@@ -1227,11 +1219,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-04T12:10:07.384096",
+          "created_at": "2024-12-05T13:14:05.785017",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-03T11:25:14.174580",
-          "url": "https://d1pvu2ra0obkid.cloudfront.net"
+          "updated_at": "2024-12-04T12:32:14.694848",
+          "url": "https://db7vys5g28yqh.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
