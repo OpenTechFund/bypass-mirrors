@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-04T12:10:07.909787",
+          "created_at": "2024-12-05T13:26:06.930555",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-03T10:59:07.101957",
-          "url": "https://d2rs2277tjrho5.cloudfront.net"
+          "updated_at": "2024-12-04T12:10:09.336921",
+          "url": "https://d1h1vk51wsvnzi.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -598,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-12-04T11:58:04.683374",
+          "created_at": "2024-12-05T13:26:06.747896",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-03T10:51:06.027295",
-          "url": "https://d3knrrni9ea4qz.cloudfront.net"
+          "updated_at": "2024-12-04T11:58:05.120491",
+          "url": "https://d54upm2r501lt.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -839,11 +839,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-04T13:14:05.281844",
+          "created_at": "2024-12-05T13:26:05.733589",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-04T13:06:10.765631",
-          "url": "https://d12pyolgjo5y3n.cloudfront.net"
+          "updated_at": "2024-12-04T13:14:10.455582",
+          "url": "https://df3sm1plppjh8.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -868,7 +868,15 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-05T13:12:04.294610",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-05T13:00:10.661336",
+          "url": "https://d1jrftqmvnx3sw.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
