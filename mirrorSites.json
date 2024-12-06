@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-05T14:31:03.885582",
+          "created_at": "2024-12-06T15:49:35.855586",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-05T13:06:08.806770",
-          "url": "https://d33oa8ilejhfjj.cloudfront.net"
+          "updated_at": "2024-12-06T13:33:10.192521",
+          "url": "https://d3k3cbop6gih9x.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-05T15:03:06.032168",
+          "created_at": "2024-12-06T15:43:08.077112",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-05T14:13:09.058591",
-          "url": "https://d1ps3mny1xu8ot.cloudfront.net"
+          "updated_at": "2024-12-06T15:31:08.416437",
+          "url": "https://d3jzyagemsl23r.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-05T15:31:06.513166",
+          "created_at": "2024-12-06T15:51:06.539362",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-05T12:48:08.095966",
-          "url": "https://deu6odx1k5tc9.cloudfront.net"
+          "updated_at": "2024-12-06T13:53:09.627718",
+          "url": "https://d12k5u4x6dlmp1.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
@@ -2095,11 +2095,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2024-12-06T10:48:05.453183",
+          "created_at": "2024-12-06T15:49:37.033039",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-05T23:39:13.824490",
-          "url": "https://d3cxi8o735cuv7.cloudfront.net"
+          "updated_at": "2024-12-06T10:48:10.012535",
+          "url": "https://d1617t5pg4awqm.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
