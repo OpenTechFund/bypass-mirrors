@@ -158,13 +158,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2024-12-06T14:17:06.061594",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-06T13:27:07.295639",
-          "url": "https://d3nuyrmdat0rey.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -179,11 +172,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-06T12:44:03.821196",
+          "created_at": "2024-12-07T15:24:08.024410",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-05T13:18:10.746206",
-          "url": "https://d3lytb6lyjkc60.cloudfront.net"
+          "updated_at": "2024-12-07T14:52:07.176878",
+          "url": "https://d36dq8qg2am6jl.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
