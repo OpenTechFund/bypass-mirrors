@@ -1165,13 +1165,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2024-12-06T14:21:05.390818",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-05T13:57:06.464008",
-          "url": "https://d22cpgnwmflabo.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1203,11 +1196,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-06T15:07:04.865931",
+          "created_at": "2024-12-07T16:14:05.873682",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-05T14:39:09.287536",
-          "url": "https://d1s1z66fgfnaw8.cloudfront.net"
+          "updated_at": "2024-12-07T15:52:09.407675",
+          "url": "https://dyu5224qzyixs.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
