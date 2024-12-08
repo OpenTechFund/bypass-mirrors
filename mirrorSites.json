@@ -870,11 +870,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-07T17:06:04.909922",
+          "created_at": "2024-12-08T17:55:07.722736",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-07T16:06:21.151721",
-          "url": "https://d2evlbgj1jdty1.cloudfront.net"
+          "updated_at": "2024-12-08T16:53:10.468434",
+          "url": "https://d1bdzrmqtyahan.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
@@ -1189,15 +1189,7 @@
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-07T16:06:12.011580",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-06T15:11:10.017759",
-          "url": "https://dwiplebryl7vg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
