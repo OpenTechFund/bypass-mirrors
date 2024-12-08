@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-12-07T15:30:03.633681",
+          "created_at": "2024-12-08T16:05:05.674873",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-07T15:08:07.460257",
-          "url": "https://d2b7z1e7sz94rk.cloudfront.net"
+          "updated_at": "2024-12-08T15:27:07.683929",
+          "url": "https://dmprfzlztlgs3.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-07T14:54:08.255583",
+          "created_at": "2024-12-08T16:05:07.141240",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-06T13:57:10.552524",
-          "url": "https://d3c849qx7j32n.cloudfront.net"
+          "updated_at": "2024-12-07T14:54:09.826106",
+          "url": "https://d2dxyt5iv93sn2.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -348,11 +348,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-12-07T15:50:04.516035",
+          "created_at": "2024-12-08T16:01:04.871732",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-06T15:29:08.201093",
-          "url": "https://d99itm3yyikz0.cloudfront.net"
+          "updated_at": "2024-12-07T17:28:12.977720",
+          "url": "https://d2vd59de0vw0bn.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
