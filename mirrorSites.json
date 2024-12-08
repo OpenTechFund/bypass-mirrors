@@ -46,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2024-12-08T16:51:05.716940",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-08T16:41:16.704609",
+          "url": "https://d3ms3x5e01wmk9.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1196,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-07T16:14:05.873682",
+          "created_at": "2024-12-08T17:15:04.811324",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-07T15:52:09.407675",
-          "url": "https://dyu5224qzyixs.cloudfront.net"
+          "updated_at": "2024-12-08T16:35:09.868264",
+          "url": "https://d2b1xpxc9ztozu.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
