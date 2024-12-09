@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-08T16:27:05.938043",
+          "created_at": "2024-12-09T19:11:06.139090",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-07T16:10:09.562683",
-          "url": "https://d27d6aft6eg5s6.cloudfront.net"
+          "updated_at": "2024-12-09T17:47:07.487932",
+          "url": "https://d9e0ilrkujxyp.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-09T09:32:07.321077",
+          "created_at": "2024-12-09T19:15:07.480561",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-08T18:59:11.311105",
-          "url": "https://d15bb2kkr7vr0f.cloudfront.net"
+          "updated_at": "2024-12-09T09:32:11.690221",
+          "url": "https://d1r33ll5lr8jm5.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
