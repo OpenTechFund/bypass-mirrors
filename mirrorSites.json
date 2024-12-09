@@ -151,7 +151,15 @@
       "main_domain": "ba.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-09T21:48:02.158452+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-09T21:48:02.158458+00:00",
+          "url": "https://d3iq4241xd9t5j.cloudfront.net"
+        }
+      ],
       "main_domain": "blog.torproject.org"
     },
     {
@@ -1086,7 +1094,15 @@
       "main_domain": "stage.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-09T21:48:02.111156+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-09T21:48:02.111170+00:00",
+          "url": "https://d3vbyoh6ks9ytt.cloudfront.net"
+        }
+      ],
       "main_domain": "support.torproject.org"
     },
     {
