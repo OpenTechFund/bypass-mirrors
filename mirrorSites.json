@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2024-12-08T16:59:04.428498",
+          "created_at": "2024-12-09T17:23:03.909135",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-08T16:17:09.398952",
-          "url": "https://d3deypl3rnttyz.cloudfront.net"
+          "updated_at": "2024-12-09T16:59:10.102015",
+          "url": "https://d2nhn2buslftud.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-09T14:25:05.874983",
+          "created_at": "2024-12-09T17:27:05.355362",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-09T00:36:14.051817",
-          "url": "https://d2uy5f7pyjzyn2.cloudfront.net"
+          "updated_at": "2024-12-09T16:55:11.421876",
+          "url": "https://d3qo3t5jbryw64.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
