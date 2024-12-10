@@ -153,11 +153,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-09T21:48:02.158452+00:00",
+          "created_at": "2024-12-10T23:37:03.694917+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-09T21:48:02.158458+00:00",
-          "url": "https://d3iq4241xd9t5j.cloudfront.net"
+          "updated_at": "2024-12-09T21:48:13.218942+00:00",
+          "url": "https://d2e58wcm8o9l0r.cloudfront.net"
         }
       ],
       "main_domain": "blog.torproject.org"
