@@ -172,11 +172,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-12-09T18:45:03.897556+00:00",
+          "created_at": "2024-12-10T19:32:03.780360+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-09T17:17:07.563821+00:00",
-          "url": "https://d19zyqu3067cpe.cloudfront.net"
+          "updated_at": "2024-12-10T17:52:07.581923+00:00",
+          "url": "https://d2ehx6acge9arc.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -1225,15 +1225,7 @@
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-09T19:01:05.248827+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-09T18:19:08.906885+00:00",
-          "url": "https://d1uy6ahfhrj028.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
@@ -1275,11 +1267,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-09T19:27:05.854874+00:00",
+          "created_at": "2024-12-10T19:38:04.666372+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-09T16:31:10.221943+00:00",
-          "url": "https://d2wqjjvn9p85lm.cloudfront.net"
+          "updated_at": "2024-12-10T17:32:09.282290+00:00",
+          "url": "https://d1hl0hwy8k070b.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
