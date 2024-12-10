@@ -682,15 +682,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-09T17:27:05.355362+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-09T16:55:11.421876+00:00",
-          "url": "https://d3qo3t5jbryw64.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
