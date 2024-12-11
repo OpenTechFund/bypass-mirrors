@@ -372,11 +372,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-10T22:25:13.164939+00:00",
+          "created_at": "2024-12-11T23:28:07.955441+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-10T18:38:09.627838+00:00",
-          "url": "https://d1dstelrufv7sp.cloudfront.net"
+          "updated_at": "2024-12-11T20:17:11.095951+00:00",
+          "url": "https://dl8zxnrykehfi.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -546,11 +546,11 @@
           "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2024-07-18T17:15:06.803847+00:00",
+          "created_at": "2024-12-11T23:34:08.948005+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-07-14T02:50:08.396837+00:00",
-          "url": "https://d2o1zpq7c600bo.cloudfront.net"
+          "updated_at": "2024-12-11T20:55:13.139601+00:00",
+          "url": "https://dkmxnucmglm0k.cloudfront.net"
         }
       ],
       "main_domain": "ktat.krymr.com"
