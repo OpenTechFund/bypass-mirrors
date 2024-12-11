@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-10T10:43:44.268942+00:00",
+          "created_at": "2024-12-11T12:08:02.929753+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-10T10:43:10.482151+00:00",
-          "url": "https://dkiozqt8l08hs.cloudfront.net"
+          "updated_at": "2024-12-10T10:43:52.945159+00:00",
+          "url": "https://d1tk7qweoibyn3.cloudfront.net"
         }
       ],
       "main_domain": "gitlab.torproject.org"
@@ -1127,11 +1127,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2024-12-10T10:45:07.520207+00:00",
+          "created_at": "2024-12-11T12:10:04.767750+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-10T09:47:09.586002+00:00",
-          "url": "https://d3nnd7lejpsl8d.cloudfront.net"
+          "updated_at": "2024-12-10T12:51:21.325343+00:00",
+          "url": "https://d18yacwzp3i2im.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
