@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-11T20:31:06.676898+00:00",
+          "created_at": "2024-12-12T20:49:05.454443+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-11T20:11:11.824996+00:00",
-          "url": "https://d2l6hls4jch9q4.cloudfront.net"
+          "updated_at": "2024-12-11T20:31:09.107775+00:00",
+          "url": "https://d1qm4qu5ebq78b.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-11T19:31:04.472417+00:00",
+          "created_at": "2024-12-12T20:45:05.260300+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-11T19:19:07.046174+00:00",
-          "url": "https://dly3r2m6wp9lk.cloudfront.net"
+          "updated_at": "2024-12-12T19:53:10.263570+00:00",
+          "url": "https://dww56g0fox5b6.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -191,11 +191,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-11T19:41:04.089633+00:00",
+          "created_at": "2024-12-12T20:51:05.144885+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-11T19:27:12.719282+00:00",
-          "url": "https://d30gri4v7muowp.cloudfront.net"
+          "updated_at": "2024-12-12T20:25:07.977309+00:00",
+          "url": "https://d3831hhufevj3e.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-11T18:39:03.852109+00:00",
+          "created_at": "2024-12-12T20:45:05.551175+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-10T18:12:08.314972+00:00",
-          "url": "https://d2hbsf9m0nufrl.cloudfront.net"
+          "updated_at": "2024-12-12T19:33:08.726869+00:00",
+          "url": "https://d8gdo8oi5ojis.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
