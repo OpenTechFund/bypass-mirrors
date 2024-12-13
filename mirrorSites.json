@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-12-12T22:05:04.630590+00:00",
+          "created_at": "2024-12-13T23:19:06.348446+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-12T21:13:07.637155+00:00",
-          "url": "https://dclxh2oj2p5u1.cloudfront.net"
+          "updated_at": "2024-12-13T21:37:08.906905+00:00",
+          "url": "https://d182pn15pecry5.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1203,11 +1203,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-12T23:11:04.372047+00:00",
+          "created_at": "2024-12-13T23:21:07.174829+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-12T22:21:07.859055+00:00",
-          "url": "https://d23vjthgubg76l.cloudfront.net"
+          "updated_at": "2024-12-12T23:11:08.373810+00:00",
+          "url": "https://dzdw1eziwja2r.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
