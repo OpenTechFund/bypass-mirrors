@@ -861,7 +861,15 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-13T22:13:04.992356+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-13T22:05:14.102164+00:00",
+          "url": "https://d2dbp61f6j8rqk.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
@@ -872,6 +880,13 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:17:38.534049+00:00",
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2024-12-13T22:33:05.016303+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-13T22:09:08.247784+00:00",
+          "url": "https://d1v8qfihckefmm.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
