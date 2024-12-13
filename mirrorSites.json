@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-12T03:05:07.856666+00:00",
+          "created_at": "2024-12-13T03:55:08.362242+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-11T18:41:13.210830+00:00",
-          "url": "https://d341q14mp6rk9q.cloudfront.net"
+          "updated_at": "2024-12-12T20:57:11.909100+00:00",
+          "url": "https://daztibwzuhiux.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
