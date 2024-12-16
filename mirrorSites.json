@@ -863,11 +863,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-14T23:24:05.857052+00:00",
+          "created_at": "2024-12-15T23:55:11.094513+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-13T22:13:10.832429+00:00",
-          "url": "https://d1ytd7mfa6plga.cloudfront.net"
+          "updated_at": "2024-12-14T23:56:17.272994+00:00",
+          "url": "https://dd3ym86ixuewb.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-14T22:28:09.930996+00:00",
+          "created_at": "2024-12-16T00:01:05.913995+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-13T23:03:10.921284+00:00",
-          "url": "https://d2vg84qqftbrhn.cloudfront.net"
+          "updated_at": "2024-12-15T00:36:13.271312+00:00",
+          "url": "https://dc4a8mzq6an4a.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
