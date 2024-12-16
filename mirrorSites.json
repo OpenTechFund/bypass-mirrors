@@ -372,11 +372,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-15T03:15:07.648448+00:00",
+          "created_at": "2024-12-16T04:02:10.834323+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-14T23:20:17.045666+00:00",
-          "url": "https://djjk7573h5q8k.cloudfront.net"
+          "updated_at": "2024-12-16T00:19:09.173702+00:00",
+          "url": "https://d1jdb5sssyr8y3.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-12-15T02:37:06.994498+00:00",
+          "created_at": "2024-12-16T03:58:06.379594+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-14T01:22:07.330490+00:00",
-          "url": "https://d33xfw77w17d96.cloudfront.net"
+          "updated_at": "2024-12-15T02:37:07.399412+00:00",
+          "url": "https://d187dhcdpllcy8.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-15T01:53:09.896370+00:00",
+          "created_at": "2024-12-16T03:56:06.050727+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-14T23:32:16.391794+00:00",
-          "url": "https://d21n6oh9053wxm.cloudfront.net"
+          "updated_at": "2024-12-15T23:47:15.557727+00:00",
+          "url": "https://d3fk2z8n0qe1pf.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
