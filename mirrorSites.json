@@ -170,6 +170,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684+00:00",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-12-17T00:05:07.643178+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-16T23:41:15.014758+00:00",
+          "url": "https://d3h7b10w1y6m9m.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -844,11 +851,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-16T00:05:07.353874+00:00",
+          "created_at": "2024-12-17T00:23:05.200313+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-15T22:49:11.764107+00:00",
-          "url": "https://d11qvvi1x2630k.cloudfront.net"
+          "updated_at": "2024-12-16T23:41:21.075365+00:00",
+          "url": "https://d26039zc4crav6.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1256,11 +1263,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-15T23:21:08.005101+00:00",
+          "created_at": "2024-12-17T00:27:07.924712+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-14T22:46:20.065564+00:00",
-          "url": "https://d22vgqaukq6neb.cloudfront.net"
+          "updated_at": "2024-12-16T00:15:20.305328+00:00",
+          "url": "https://dknk0ts0f2g6o.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
