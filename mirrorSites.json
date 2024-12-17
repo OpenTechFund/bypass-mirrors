@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-16T00:19:05.002053+00:00",
+          "created_at": "2024-12-17T01:23:07.463250+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-15T22:01:21.451004+00:00",
-          "url": "https://d1e44qyosbhltl.cloudfront.net"
+          "updated_at": "2024-12-16T22:58:08.181198+00:00",
+          "url": "https://d3rjzfix31fxx0.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -863,11 +863,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-15T23:55:11.094513+00:00",
+          "created_at": "2024-12-17T01:25:05.728501+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-14T23:56:17.272994+00:00",
-          "url": "https://dd3ym86ixuewb.cloudfront.net"
+          "updated_at": "2024-12-16T01:35:13.818516+00:00",
+          "url": "https://d2a94kgwdzb6te.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-15T23:47:07.168620+00:00",
+          "created_at": "2024-12-17T01:23:09.521733+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-15T22:11:13.227067+00:00",
-          "url": "https://dw0uacipht78c.cloudfront.net"
+          "updated_at": "2024-12-16T22:50:15.501156+00:00",
+          "url": "https://d15zicta3uzdk3.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
