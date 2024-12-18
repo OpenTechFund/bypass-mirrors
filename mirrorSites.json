@@ -170,6 +170,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684+00:00",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2024-12-18T01:51:04.863720+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-18T01:07:11.451490+00:00",
+          "url": "https://d10kz20dgxa88o.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -215,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-17T00:53:07.971314+00:00",
+          "created_at": "2024-12-18T01:55:06.074320+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-15T23:17:07.446619+00:00",
-          "url": "https://d1au66g4bb75xi.cloudfront.net"
+          "updated_at": "2024-12-17T00:53:09.991964+00:00",
+          "url": "https://dwyvhq0bdtea6.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1232,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-17T00:55:07.654005+00:00",
+          "created_at": "2024-12-18T02:01:06.893071+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-16T01:01:12.099630+00:00",
-          "url": "https://d2f1okngjzz6cr.cloudfront.net"
+          "updated_at": "2024-12-17T02:59:17.832946+00:00",
+          "url": "https://d2125xd22d4vc.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
