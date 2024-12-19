@@ -391,11 +391,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-18T06:36:05.945212+00:00",
+          "created_at": "2024-12-19T07:14:03.089795+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-18T05:32:06.228909+00:00",
-          "url": "https://d10ox63tmr9l5h.cloudfront.net"
+          "updated_at": "2024-12-19T06:50:09.890201+00:00",
+          "url": "https://d2447qqyqhfium.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -2131,11 +2131,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2024-12-19T02:04:06.669228+00:00",
+          "created_at": "2024-12-19T07:08:07.610608+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-18T20:58:38.789489+00:00",
-          "url": "https://d2hpqzofo93b2w.cloudfront.net"
+          "updated_at": "2024-12-19T02:04:15.234815+00:00",
+          "url": "https://d19d579m7jk5ke.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
