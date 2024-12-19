@@ -2131,11 +2131,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2024-12-19T07:08:07.610608+00:00",
+          "created_at": "2024-12-19T12:10:17.883595+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-19T02:04:15.234815+00:00",
-          "url": "https://d19d579m7jk5ke.cloudfront.net"
+          "updated_at": "2024-12-19T07:08:17.170503+00:00",
+          "url": "https://d3qkvazsdd9slp.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
