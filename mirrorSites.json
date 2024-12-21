@@ -1077,11 +1077,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-17T14:11:07.000386+00:00",
+          "created_at": "2024-12-21T18:26:09.158891+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-17T14:09:10.678701+00:00",
-          "url": "https://d2pxf3x3bywqvy.cloudfront.net"
+          "updated_at": "2024-12-18T02:59:10.699724+00:00",
+          "url": "https://dohrd6ah52o8v.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1772,11 +1772,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-25T18:43:06.808048+00:00",
+          "created_at": "2024-12-21T18:26:09.214033+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-23T01:18:10.410221+00:00",
-          "url": "https://da4qnc6ddhar5.cloudfront.net"
+          "updated_at": "2024-12-13T12:01:44.450212+00:00",
+          "url": "https://d3hp23jgnxshxf.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1803,11 +1803,11 @@
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
         },
         {
-          "created_at": "2024-12-17T14:09:05.188842+00:00",
+          "created_at": "2024-12-21T18:26:06.031125+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-17T13:30:11.608665+00:00",
-          "url": "https://d301igbxzlgbzu.cloudfront.net"
+          "updated_at": "2024-12-20T23:24:09.460799+00:00",
+          "url": "https://d3vmq53e6ha43q.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -2868,15 +2868,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-17T14:09:07.434076+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-15T15:22:12.355698+00:00",
-          "url": "https://dbf0inrcl7z5r.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
