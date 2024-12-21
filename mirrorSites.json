@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-19T23:19:03.611234+00:00",
+          "created_at": "2024-12-21T00:35:04.222420+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-18T22:16:15.483892+00:00",
-          "url": "https://d387aughy6gtz2.cloudfront.net"
+          "updated_at": "2024-12-19T23:19:11.941969+00:00",
+          "url": "https://deefy7y6jx9cw.cloudfront.net"
         }
       ],
       "main_domain": "gitlab.torproject.org"
