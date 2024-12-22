@@ -272,11 +272,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-21T05:49:04.976263+00:00",
+          "created_at": "2024-12-22T06:44:04.556013+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-21T04:53:08.951397+00:00",
-          "url": "https://dh1fodkhlxaiy.cloudfront.net"
+          "updated_at": "2024-12-22T06:10:08.159992+00:00",
+          "url": "https://d2dwwech3agmxs.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -861,7 +861,15 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-22T06:26:06.399741+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-22T06:18:14.251890+00:00",
+          "url": "https://d16o3znggwtpnd.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
@@ -886,11 +894,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-21T05:45:04.661210+00:00",
+          "created_at": "2024-12-22T06:40:06.232324+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-20T06:38:14.750261+00:00",
-          "url": "https://dyn14m6izppdr.cloudfront.net"
+          "updated_at": "2024-12-21T08:01:18.033523+00:00",
+          "url": "https://d3ij6r322xg7o2.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
