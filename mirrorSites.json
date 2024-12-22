@@ -913,11 +913,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-21T08:32:06.684643+00:00",
+          "created_at": "2024-12-22T08:56:05.716370+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-21T05:29:09.901509+00:00",
-          "url": "https://d1y4u4helm2eta.cloudfront.net"
+          "updated_at": "2024-12-22T07:08:12.625613+00:00",
+          "url": "https://d21hii9a7hlnd0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
