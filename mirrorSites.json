@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2024-12-22T08:06:07.238070+00:00",
+          "created_at": "2024-12-23T09:11:05.603113+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-21T07:35:06.314277+00:00",
-          "url": "https://d1r8we3wao1s9z.cloudfront.net"
+          "updated_at": "2024-12-22T08:06:07.648748+00:00",
+          "url": "https://d10p1js3duexid.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1261,7 +1261,15 @@
       "main_domain": "voa-video-hls.voanews.eu"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-23T09:07:04.904908+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-23T08:53:10.525508+00:00",
+          "url": "https://d2pwk8l3789gse.cloudfront.net"
+        }
+      ],
       "main_domain": "voa-video-ns.akamaized.net"
     },
     {
