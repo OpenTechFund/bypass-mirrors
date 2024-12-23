@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-17T14:09:07.457520+00:00",
+          "created_at": "2024-12-23T18:48:08.797453+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-02T12:25:10.287468+00:00",
-          "url": "https://d1zzjbbqpu0w30.cloudfront.net"
+          "updated_at": "2024-12-17T14:09:13.550845+00:00",
+          "url": "https://d1gyw5ia7nhi3h.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -682,15 +682,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-22T23:35:06.224886+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-22T18:52:27.567348+00:00",
-          "url": "https://d1fyl6tsu8mse7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -718,15 +710,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-22T22:27:07.628270+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-22T21:49:10.803427+00:00",
-          "url": "https://d1k4c29zju918i.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -1287,11 +1271,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-11-25T18:43:06.720815+00:00",
+          "created_at": "2024-12-23T18:48:08.717350+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-11-23T00:16:07.489248+00:00",
-          "url": "https://d10acv9zufzb2y.cloudfront.net"
+          "updated_at": "2024-11-25T18:43:10.765108+00:00",
+          "url": "https://dddruuguwkjfh.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -2169,11 +2153,11 @@
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
         },
         {
-          "created_at": "2024-12-21T17:46:06.421844+00:00",
+          "created_at": "2024-12-23T18:48:05.891855+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-20T23:24:09.366871+00:00",
-          "url": "https://d1eh76a0eqwz5r.cloudfront.net"
+          "updated_at": "2024-12-23T13:45:06.495428+00:00",
+          "url": "https://dsqv352q8vrln.cloudfront.net"
         }
       ],
       "main_domain": "severreal.org"
@@ -2188,11 +2172,11 @@
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
         },
         {
-          "created_at": "2024-12-21T17:46:08.476878+00:00",
+          "created_at": "2024-12-23T18:48:07.348425+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-20T23:24:12.405204+00:00",
-          "url": "https://d1zk9zv8l5wu8t.cloudfront.net"
+          "updated_at": "2024-12-23T13:45:09.304921+00:00",
+          "url": "https://d17nh0h13hz1t7.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
