@@ -1225,7 +1225,15 @@
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2024-12-24T12:08:06.189600+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2024-12-24T11:56:16.760080+00:00",
+          "url": "https://dkvgdrttp6xd8.cloudfront.net"
+        }
+      ],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
