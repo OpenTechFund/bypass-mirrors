@@ -882,11 +882,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-24T10:40:07.998267+00:00",
+          "created_at": "2024-12-25T11:50:04.348122+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T07:18:14.054989+00:00",
-          "url": "https://d2r6ejw6t9keqb.cloudfront.net"
+          "updated_at": "2024-12-25T07:59:14.993482+00:00",
+          "url": "https://d22ckx8wbq8p8e.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
