@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2024-12-25T08:59:03.845832+00:00",
+          "created_at": "2024-12-26T10:44:04.574929+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T11:10:09.954757+00:00",
-          "url": "https://d2gr9axykn2e7q.cloudfront.net"
+          "updated_at": "2024-12-25T12:24:22.922821+00:00",
+          "url": "https://d3gg9huw73ub3t.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T08:53:06.745861+00:00",
+          "created_at": "2024-12-26T10:48:06.103054+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T13:37:17.895147+00:00",
-          "url": "https://dvm5rh221cb47.cloudfront.net"
+          "updated_at": "2024-12-25T15:06:15.372619+00:00",
+          "url": "https://d3uj9vnkcqspka.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T09:43:07.803559+00:00",
+          "created_at": "2024-12-26T10:44:05.858855+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T09:14:09.901067+00:00",
-          "url": "https://d3hg5539rwyr2.cloudfront.net"
+          "updated_at": "2024-12-26T10:26:10.142242+00:00",
+          "url": "https://d3henlp6558k4f.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
