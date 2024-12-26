@@ -360,11 +360,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2024-12-25T11:08:07.279409+00:00",
+          "created_at": "2024-12-26T11:57:05.651505+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T12:10:13.009166+00:00",
-          "url": "https://dywuyz5i77ct3.cloudfront.net"
+          "updated_at": "2024-12-25T13:22:12.241336+00:00",
+          "url": "https://d3ginkpscaou3g.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -863,11 +863,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T10:22:12.116354+00:00",
+          "created_at": "2024-12-26T12:03:06.641255+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-25T09:07:18.240754+00:00",
-          "url": "https://d37wgl06dea6es.cloudfront.net"
+          "updated_at": "2024-12-26T10:00:15.053515+00:00",
+          "url": "https://d2wkp53hpzosml.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
