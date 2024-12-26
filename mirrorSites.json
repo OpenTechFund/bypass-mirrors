@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T08:57:07.667887+00:00",
+          "created_at": "2024-12-26T09:38:08.271025+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T08:00:06.836044+00:00",
-          "url": "https://d3q077wyb0niuf.cloudfront.net"
+          "updated_at": "2024-12-25T08:57:09.362204+00:00",
+          "url": "https://d3mm8joxouuxk6.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T09:17:07.440352+00:00",
+          "created_at": "2024-12-26T09:40:07.499463+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T11:54:16.150117+00:00",
-          "url": "https://d3kp6zyu5zdjz6.cloudfront.net"
+          "updated_at": "2024-12-25T12:32:30.357762+00:00",
+          "url": "https://d3ubjm69wgaedy.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
