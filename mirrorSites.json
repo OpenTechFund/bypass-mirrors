@@ -882,11 +882,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-25T11:50:04.348122+00:00",
+          "created_at": "2024-12-26T12:31:04.498313+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-25T07:59:14.993482+00:00",
-          "url": "https://d22ckx8wbq8p8e.cloudfront.net"
+          "updated_at": "2024-12-26T08:25:10.685415+00:00",
+          "url": "https://d1ne34e6p7gv40.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
@@ -894,11 +894,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T10:52:12.382275+00:00",
+          "created_at": "2024-12-26T12:35:06.799230+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T12:18:11.155451+00:00",
-          "url": "https://d2qckgwsyzncyv.cloudfront.net"
+          "updated_at": "2024-12-25T12:46:15.006975+00:00",
+          "url": "https://dbfpyt3b46hp0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
