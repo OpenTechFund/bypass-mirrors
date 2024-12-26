@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-25T12:48:08.443510+00:00",
+          "created_at": "2024-12-26T14:29:06.455287+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-24T12:08:11.934517+00:00",
-          "url": "https://dm9dsaoa80ixk.cloudfront.net"
+          "updated_at": "2024-12-26T13:05:11.571246+00:00",
+          "url": "https://d6elf66m3p6sx.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
