@@ -191,11 +191,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2024-12-26T13:43:06.924846+00:00",
+          "created_at": "2024-12-27T15:06:08.301025+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-26T10:00:11.347094+00:00",
-          "url": "https://d2ar8abqllle.cloudfront.net"
+          "updated_at": "2024-12-27T10:19:12.075168+00:00",
+          "url": "https://d308a4w37uwt6r.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2024-12-26T14:29:06.455287+00:00",
+          "created_at": "2024-12-27T15:08:07.021453+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-26T13:05:11.571246+00:00",
-          "url": "https://d6elf66m3p6sx.cloudfront.net"
+          "updated_at": "2024-12-27T13:26:17.445722+00:00",
+          "url": "https://d3uqfmtk7nq75l.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
