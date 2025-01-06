@@ -901,13 +901,6 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796+00:00",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-        },
-        {
-          "created_at": "2024-12-26T22:32:05.682769+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-26T09:24:08.572020+00:00",
-          "url": "https://d2eb0cxw279le7.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1738,13 +1731,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:40:51.109293+00:00",
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
-        },
-        {
-          "created_at": "2024-12-28T07:51:07.851515+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-28T00:07:08.722121+00:00",
-          "url": "https://d3l04uz6pcccb4.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -2763,15 +2749,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-21T18:28:07.245264+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-21T18:26:16.875583+00:00",
-          "url": "https://dp55htf9g0d31.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
