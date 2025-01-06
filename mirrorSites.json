@@ -2196,13 +2196,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:32.883525+00:00",
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2024-12-28T10:37:07.639000+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-28T00:07:10.674902+00:00",
-          "url": "https://d3eknz8b4fkn6s.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
