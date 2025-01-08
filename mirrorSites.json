@@ -670,25 +670,17 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-07T21:05:05.719130+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-07T13:03:14.459704+00:00",
-          "url": "https://d23dj99r8cwkw9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-07T21:07:08.431153+00:00",
+          "created_at": "2025-01-08T00:14:05.693670+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T21:05:10.060623+00:00",
-          "url": "https://d2lnxhbv2122l3.cloudfront.net"
+          "updated_at": "2025-01-07T21:36:10.482309+00:00",
+          "url": "https://d2w7lylyks80u0.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -706,25 +698,17 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-07T21:07:08.391111+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-07T21:05:09.974874+00:00",
-          "url": "https://d22155a4kmd2w1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-07T21:05:05.759050+00:00",
+          "created_at": "2025-01-08T00:14:05.599864+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T13:03:14.724982+00:00",
-          "url": "https://d3j8mye9pf8pdc.cloudfront.net"
+          "updated_at": "2025-01-07T21:36:08.898324+00:00",
+          "url": "https://d35fhpt1ljrii8.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -2093,11 +2077,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-01-07T21:07:08.299706+00:00",
+          "created_at": "2025-01-08T00:14:05.621785+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T21:05:09.100753+00:00",
-          "url": "https://d1050gngdnlrie.cloudfront.net"
+          "updated_at": "2025-01-07T21:36:09.508493+00:00",
+          "url": "https://d2qgnvqiin1tll.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
