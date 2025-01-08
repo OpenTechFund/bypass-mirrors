@@ -46,6 +46,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493+00:00",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
+        },
+        {
+          "created_at": "2025-01-08T14:49:05.782654+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-08T14:41:19.808267+00:00",
+          "url": "https://d28kn2ti3q1lx1.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1188,11 +1195,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-07T13:01:52.413207+00:00",
+          "created_at": "2025-01-08T15:09:04.554909+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-28T12:44:12.168875+00:00",
-          "url": "https://d1debf4pwtpjct.cloudfront.net"
+          "updated_at": "2025-01-08T14:09:07.955482+00:00",
+          "url": "https://d80f7guzemezq.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1236,11 +1243,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-07T13:01:54.678330+00:00",
+          "created_at": "2025-01-08T15:13:06.303809+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-28T11:50:15.257043+00:00",
-          "url": "https://d571xiv2j8zro.cloudfront.net"
+          "updated_at": "2025-01-08T14:33:09.998761+00:00",
+          "url": "https://dshj2d1yfdzy0.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
