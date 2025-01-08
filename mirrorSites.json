@@ -718,25 +718,17 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-08T03:17:05.707082+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-08T00:38:08.781174+00:00",
-          "url": "https://d4v3pidh1w6tf.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-08T04:21:07.451503+00:00",
+          "created_at": "2025-01-08T07:29:06.048352+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T00:46:11.494004+00:00",
-          "url": "https://d3v5fdcu1qa99b.cloudfront.net"
+          "updated_at": "2025-01-08T04:21:12.445359+00:00",
+          "url": "https://dqlx4aeyv6who.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2091,13 +2083,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-01-08T03:17:05.730323+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-08T00:38:09.277948+00:00",
-          "url": "https://d2lmabv1yrur5f.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2129,13 +2114,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-01-08T02:33:07.942743+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-08T02:31:20.727181+00:00",
-          "url": "https://d3jsam2l82hhcd.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
