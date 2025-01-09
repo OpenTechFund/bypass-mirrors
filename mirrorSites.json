@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-08T14:17:04.033905+00:00",
+          "created_at": "2025-01-09T16:00:04.119231+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T13:51:08.624790+00:00",
-          "url": "https://d3w4uch9x52jn8.cloudfront.net"
+          "updated_at": "2025-01-09T15:50:08.508359+00:00",
+          "url": "https://d3cy22vs1mgzb4.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -270,6 +270,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750+00:00",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-09T15:58:04.812253+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-09T15:32:10.254728+00:00",
+          "url": "https://d3se6wueh507ip.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -353,11 +360,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-01-08T14:23:05.579622+00:00",
+          "created_at": "2025-01-09T16:02:04.358903+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T13:01:58.865212+00:00",
-          "url": "https://dqje91gy6ngpe.cloudfront.net"
+          "updated_at": "2025-01-08T14:41:20.324891+00:00",
+          "url": "https://d2g9hpucopxf21.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -434,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-08T14:51:03.601593+00:00",
+          "created_at": "2025-01-09T16:00:03.390457+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T13:02:01.514274+00:00",
-          "url": "https://d3bgxqffnxnxc4.cloudfront.net"
+          "updated_at": "2025-01-08T14:51:11.041203+00:00",
+          "url": "https://d3ormh5aqqbeaz.cloudfront.net"
         }
       ],
       "main_domain": "gitlab.torproject.org"
@@ -906,11 +913,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-08T14:41:14.447498+00:00",
+          "created_at": "2025-01-09T16:02:04.796506+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T13:02:01.023692+00:00",
-          "url": "https://d2rytad97zys5s.cloudfront.net"
+          "updated_at": "2025-01-08T14:55:10.124615+00:00",
+          "url": "https://d107s95s4prv0s.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
