@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-01-08T14:49:05.782654+00:00",
+          "created_at": "2025-01-09T15:22:04.007257+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T14:41:19.808267+00:00",
-          "url": "https://d28kn2ti3q1lx1.cloudfront.net"
+          "updated_at": "2025-01-08T14:49:09.607176+00:00",
+          "url": "https://d3m38y7idaljs5.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-08T14:55:05.834037+00:00",
+          "created_at": "2025-01-09T15:30:07.213956+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-07T13:01:57.736365+00:00",
-          "url": "https://d2nx901q8wokwu.cloudfront.net"
+          "updated_at": "2025-01-08T14:55:07.146435+00:00",
+          "url": "https://d1lollisgq1gzq.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-08T14:45:04.941281+00:00",
+          "created_at": "2025-01-09T15:22:04.769552+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T14:27:10.585730+00:00",
-          "url": "https://d1j7n5laut7g6l.cloudfront.net"
+          "updated_at": "2025-01-08T14:45:10.132175+00:00",
+          "url": "https://d2ih3gkcpqbe17.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -880,13 +880,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:17:38.534049+00:00",
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-01-08T14:29:05.741653+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-08T14:23:11.407358+00:00",
-          "url": "https://d14r4i5kz86ic1.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
