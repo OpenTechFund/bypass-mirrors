@@ -887,11 +887,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-08T14:15:04.393545+00:00",
+          "created_at": "2025-01-09T15:32:05.869388+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T13:41:18.742348+00:00",
-          "url": "https://d117ahc0u241et.cloudfront.net"
+          "updated_at": "2025-01-09T14:50:11.148423+00:00",
+          "url": "https://d2s8bbwa81i090.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
