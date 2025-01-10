@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-01-09T15:22:04.007257+00:00",
+          "created_at": "2025-01-10T15:51:03.986441+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T14:49:09.607176+00:00",
-          "url": "https://d3m38y7idaljs5.cloudfront.net"
+          "updated_at": "2025-01-09T15:42:07.959726+00:00",
+          "url": "https://d2uymr34gtrct.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -189,13 +189,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365+00:00",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-01-09T14:22:05.915964+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-08T13:57:08.605808+00:00",
-          "url": "https://d1r27h4t3apots.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -880,13 +873,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:17:38.534049+00:00",
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-01-09T15:24:03.989240+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-09T15:12:08.683193+00:00",
-          "url": "https://d2kjekzn2e6i6s.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
