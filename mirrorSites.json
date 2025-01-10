@@ -27,13 +27,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:18.640227+00:00",
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2025-01-09T15:02:04.881489+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-08T14:29:09.916795+00:00",
-          "url": "https://d1jduitxdhb7rq.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -189,6 +182,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365+00:00",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-10T15:55:03.612988+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-10T15:33:08.766788+00:00",
+          "url": "https://d1d4iz0tnszwwf.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -615,11 +615,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-01-09T14:28:05.765117+00:00",
+          "created_at": "2025-01-10T16:07:05.970671+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-08T13:45:07.303802+00:00",
-          "url": "https://dglbsaglge2z0.cloudfront.net"
+          "updated_at": "2025-01-09T14:28:06.151314+00:00",
+          "url": "https://d20j69tqlrv7qp.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
