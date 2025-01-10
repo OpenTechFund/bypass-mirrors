@@ -894,11 +894,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-09T15:32:05.869388+00:00",
+          "created_at": "2025-01-10T17:27:07.530686+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-09T14:50:11.148423+00:00",
-          "url": "https://d2s8bbwa81i090.cloudfront.net"
+          "updated_at": "2025-01-10T15:43:14.780463+00:00",
+          "url": "https://d39rhy2ftgmcf9.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
