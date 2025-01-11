@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-10T14:41:20.094005+00:00",
+          "created_at": "2025-01-11T15:27:05.384906+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-09T16:30:09.663646+00:00",
-          "url": "https://d36spejisddqy8.cloudfront.net"
+          "updated_at": "2025-01-10T18:17:12.524841+00:00",
+          "url": "https://ddwqx5350f2yf.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
