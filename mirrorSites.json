@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-10T15:27:05.643652+00:00",
+          "created_at": "2025-01-11T16:20:07.673730+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-09T16:24:16.341676+00:00",
-          "url": "https://d1ng8wwyaxwbg1.cloudfront.net"
+          "updated_at": "2025-01-10T17:53:10.374963+00:00",
+          "url": "https://dkeflb9qnrtpf.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
