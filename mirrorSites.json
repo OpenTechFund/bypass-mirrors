@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-10T15:29:05.754483+00:00",
+          "created_at": "2025-01-11T16:10:05.233089+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-09T15:36:09.013111+00:00",
-          "url": "https://d3q8m0mluwidxd.cloudfront.net"
+          "updated_at": "2025-01-10T16:31:08.635024+00:00",
+          "url": "https://d2zbdpwrbdgfbz.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-10T15:49:08.006819+00:00",
+          "created_at": "2025-01-11T16:06:05.075471+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-09T16:40:12.016615+00:00",
-          "url": "https://d1dqdel6m0yt6u.cloudfront.net"
+          "updated_at": "2025-01-10T18:01:15.055780+00:00",
+          "url": "https://d1qxcinyjhhkc1.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
