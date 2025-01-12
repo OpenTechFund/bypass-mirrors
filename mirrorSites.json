@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-01-11T16:24:04.871322+00:00",
+          "created_at": "2025-01-12T17:41:04.110312+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-10T16:25:08.284780+00:00",
-          "url": "https://d2tlaxbbwuss2.cloudfront.net"
+          "updated_at": "2025-01-11T17:50:08.160455+00:00",
+          "url": "https://dzowdytoms6eg.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -410,11 +410,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2025-01-11T15:37:11.590047+00:00",
+          "created_at": "2025-01-12T17:33:12.031208+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-10T16:35:14.702172+00:00",
-          "url": "https://d3tnozlhm36a6e.cloudfront.net"
+          "updated_at": "2025-01-11T17:18:08.677868+00:00",
+          "url": "https://d1fmmu4tpdqjt1.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-12T14:18:07.470778+00:00",
+          "created_at": "2025-01-12T17:39:06.464441+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-12T00:11:08.282433+00:00",
-          "url": "https://d3tquxdrvx403h.cloudfront.net"
+          "updated_at": "2025-01-12T14:18:11.625482+00:00",
+          "url": "https://dc8qkluaw3f85.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-11T22:19:06.527460+00:00",
+          "created_at": "2025-01-12T17:39:06.492152+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-10T22:12:14.758564+00:00",
-          "url": "https://d2x47l56ugbf0h.cloudfront.net"
+          "updated_at": "2025-01-11T23:23:16.234291+00:00",
+          "url": "https://dc49abxltjjby.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-11T16:36:05.218362+00:00",
+          "created_at": "2025-01-12T17:31:09.867037+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-10T16:27:10.706233+00:00",
-          "url": "https://d3ijp59g0mkisr.cloudfront.net"
+          "updated_at": "2025-01-11T17:28:03.163124+00:00",
+          "url": "https://d28vcd3t20vqy5.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
