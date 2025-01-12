@@ -851,11 +851,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-11T18:38:05.414197+00:00",
+          "created_at": "2025-01-12T19:58:07.813951+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-11T15:46:25.666255+00:00",
-          "url": "https://d3sijhv9yyfn49.cloudfront.net"
+          "updated_at": "2025-01-12T17:17:10.394328+00:00",
+          "url": "https://d3si00agklfdk.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -2129,6 +2129,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-01-12T19:50:05.448850+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-12T14:46:31.460744+00:00",
+          "url": "https://d3jclt8qhz0nzu.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
