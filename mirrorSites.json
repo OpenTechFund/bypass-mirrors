@@ -172,11 +172,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-01-11T15:58:05.936271+00:00",
+          "created_at": "2025-01-12T16:30:04.922369+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-10T16:13:09.870727+00:00",
-          "url": "https://dc2difxegzynf.cloudfront.net"
+          "updated_at": "2025-01-11T18:16:07.511547+00:00",
+          "url": "https://dreeke0qy271p.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-11T15:27:05.384906+00:00",
+          "created_at": "2025-01-12T16:36:10.597342+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-10T18:17:12.524841+00:00",
-          "url": "https://ddwqx5350f2yf.cloudfront.net"
+          "updated_at": "2025-01-11T19:38:10.780828+00:00",
+          "url": "https://dt4ke6arl8nvu.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
