@@ -389,6 +389,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:17.310518+00:00",
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-12T19:21:04.675673+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-12T19:17:10.484774+00:00",
+          "url": "https://d2fe8kj2x1voyi.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -1244,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-11T18:18:05.145568+00:00",
+          "created_at": "2025-01-12T19:48:06.294051+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-11T18:04:14.865724+00:00",
-          "url": "https://dpxrhk56l3te.cloudfront.net"
+          "updated_at": "2025-01-12T19:23:11.089561+00:00",
+          "url": "https://d26zw6to69km53.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -2122,13 +2129,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-01-12T14:46:23.787514+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-12T04:05:11.161484+00:00",
-          "url": "https://d24amwumf3ky76.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
