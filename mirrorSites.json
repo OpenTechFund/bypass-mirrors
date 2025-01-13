@@ -1125,13 +1125,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2025-01-12T08:55:13.705723+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-12T04:43:15.230110+00:00",
-          "url": "https://d3gx4tyeqzzvgh.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
