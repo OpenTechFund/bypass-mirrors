@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-12T19:03:04.044732+00:00",
+          "created_at": "2025-01-13T19:38:03.923488+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-11T19:12:11.708660+00:00",
-          "url": "https://d132q3smz1rbuc.cloudfront.net"
+          "updated_at": "2025-01-12T20:28:08.213241+00:00",
+          "url": "https://d16elm3qmctyu5.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-01-12T18:15:11.923059+00:00",
+          "created_at": "2025-01-13T19:38:05.524683+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-11T17:24:15.676472+00:00",
-          "url": "https://dhl6y4bt360xu.cloudfront.net"
+          "updated_at": "2025-01-12T18:15:13.143939+00:00",
+          "url": "https://du27b1s5uuo1f.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -913,11 +913,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-12T18:03:04.941552+00:00",
+          "created_at": "2025-01-13T19:38:04.638925+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-11T18:26:13.321862+00:00",
-          "url": "https://d353y8lhrwluuv.cloudfront.net"
+          "updated_at": "2025-01-12T19:39:20.424425+00:00",
+          "url": "https://d1q7vozo1nb91t.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
