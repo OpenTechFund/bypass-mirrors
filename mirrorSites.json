@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-13T17:44:07.197725+00:00",
+          "created_at": "2025-01-14T17:48:05.065180+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-12T18:41:10.617968+00:00",
-          "url": "https://d2rtepiety0edd.cloudfront.net"
+          "updated_at": "2025-01-13T21:38:13.469644+00:00",
+          "url": "https://d17bhp8t2zotvm.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-13T17:24:05.032952+00:00",
+          "created_at": "2025-01-14T17:48:05.668914+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-12T19:31:13.509298+00:00",
-          "url": "https://d3e8ihosn0znym.cloudfront.net"
+          "updated_at": "2025-01-13T20:12:22.746440+00:00",
+          "url": "https://d2ol5q7otdp9xf.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
