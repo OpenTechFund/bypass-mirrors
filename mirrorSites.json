@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-14T20:13:02.750904+00:00",
+          "created_at": "2025-01-15T21:04:04.612719+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-13T19:00:10.877959+00:00",
-          "url": "https://d2unw5l8kqednv.cloudfront.net"
+          "updated_at": "2025-01-14T20:13:09.636961+00:00",
+          "url": "https://d262348umm4r3l.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-14T17:48:05.065180+00:00",
+          "created_at": "2025-01-15T21:08:04.281005+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-13T21:38:13.469644+00:00",
-          "url": "https://d17bhp8t2zotvm.cloudfront.net"
+          "updated_at": "2025-01-14T22:27:12.605902+00:00",
+          "url": "https://d1854xe2iad6zj.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-14T19:39:05.693958+00:00",
+          "created_at": "2025-01-15T21:08:04.922932+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-13T22:06:10.165918+00:00",
-          "url": "https://d1kfmsdj38cdwx.cloudfront.net"
+          "updated_at": "2025-01-14T23:15:18.905331+00:00",
+          "url": "https://d33kfgobvcot1u.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
