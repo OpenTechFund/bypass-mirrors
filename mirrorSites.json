@@ -372,11 +372,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-15T21:28:07.873740+00:00",
+          "created_at": "2025-01-16T22:53:10.692455+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-15T21:04:13.576031+00:00",
-          "url": "https://d8jsph6ho0gha.cloudfront.net"
+          "updated_at": "2025-01-16T21:37:08.138795+00:00",
+          "url": "https://d2khz73u055m4s.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-15T21:48:06.364312+00:00",
+          "created_at": "2025-01-16T22:53:07.554888+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-15T20:32:05.627470+00:00",
-          "url": "https://d2l232k8tpm6.cloudfront.net"
+          "updated_at": "2025-01-16T21:59:08.132657+00:00",
+          "url": "https://d3hpf0gir1yg3m.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
