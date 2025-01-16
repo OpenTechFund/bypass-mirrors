@@ -391,11 +391,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-15T21:14:03.107748+00:00",
+          "created_at": "2025-01-16T21:46:04.239142+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-14T21:59:06.981194+00:00",
-          "url": "https://d3qqwls2wapxnf.cloudfront.net"
+          "updated_at": "2025-01-15T22:54:08.706221+00:00",
+          "url": "https://d314gnrtoopbwb.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-15T21:04:04.612719+00:00",
+          "created_at": "2025-01-16T21:39:02.903864+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-14T20:13:09.636961+00:00",
-          "url": "https://d262348umm4r3l.cloudfront.net"
+          "updated_at": "2025-01-15T21:04:17.956561+00:00",
+          "url": "https://d2tft3ytgbpbz5.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-15T21:08:04.922932+00:00",
+          "created_at": "2025-01-16T21:46:08.421536+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-14T23:15:18.905331+00:00",
-          "url": "https://d33kfgobvcot1u.cloudfront.net"
+          "updated_at": "2025-01-16T00:06:11.440674+00:00",
+          "url": "https://dr7hkq6hgsb90.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-15T19:59:05.224868+00:00",
+          "created_at": "2025-01-16T21:41:06.623148+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-14T22:05:10.563646+00:00",
-          "url": "https://d21yrzwwybtxfp.cloudfront.net"
+          "updated_at": "2025-01-15T23:10:15.246683+00:00",
+          "url": "https://dbptnwwd5ue65.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
