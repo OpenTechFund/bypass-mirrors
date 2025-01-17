@@ -1273,7 +1273,15 @@
       "main_domain": "voa-video-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-01-17T23:04:06.467576+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-17T22:36:13.967185+00:00",
+          "url": "https://d1604293te4uqc.cloudfront.net"
+        }
+      ],
       "main_domain": "voa-video.voanews.eu"
     },
     {
@@ -2123,11 +2131,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-01-17T18:06:10.474918+00:00",
+          "created_at": "2025-01-17T23:07:27.336865+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-17T13:01:12.511067+00:00",
-          "url": "https://d1vb2l46bwemjn.cloudfront.net"
+          "updated_at": "2025-01-17T18:06:20.389714+00:00",
+          "url": "https://dr6xx0dlbf4lh.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
