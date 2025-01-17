@@ -1770,7 +1770,15 @@
       "main_domain": "golosameriki.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-01-17T15:10:49.698314+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-17T15:10:19.618605+00:00",
+          "url": "https://d3k5hkb61k8c5o.cloudfront.net"
+        }
+      ],
       "main_domain": "groza.media"
     },
     {
