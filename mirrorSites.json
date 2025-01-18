@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T02:24:03.281206+00:00",
+          "created_at": "2025-01-18T03:07:03.449146+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T00:50:13.475478+00:00",
-          "url": "https://dxiv8xqcok2tx.cloudfront.net"
+          "updated_at": "2025-01-17T02:24:10.824864+00:00",
+          "url": "https://d3jd5h0gg3q6kn.cloudfront.net"
         }
       ],
       "main_domain": "gitlab.torproject.org"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T01:57:06.771993+00:00",
+          "created_at": "2025-01-18T03:11:05.534408+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T11:53:19.892992+00:00",
-          "url": "https://d26u5dbi9sczmk.cloudfront.net"
+          "updated_at": "2025-01-17T13:11:10.004576+00:00",
+          "url": "https://d146fcr79eq6vo.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
