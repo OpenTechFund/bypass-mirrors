@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T22:22:03.531366+00:00",
+          "created_at": "2025-01-18T23:16:03.355306+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T21:39:09.873592+00:00",
-          "url": "https://d22aylroolc1vm.cloudfront.net"
+          "updated_at": "2025-01-17T22:22:11.068865+00:00",
+          "url": "https://d1oy3hd9bj9ffk.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T22:14:07.239431+00:00",
+          "created_at": "2025-01-18T23:06:07.273483+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-17T00:43:11.414149+00:00",
-          "url": "https://d2wbtk3814ebyf.cloudfront.net"
+          "updated_at": "2025-01-18T03:35:10.480691+00:00",
+          "url": "https://d1er75dumoyd8m.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
