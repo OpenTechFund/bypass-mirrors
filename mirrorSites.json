@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T21:56:06.889241+00:00",
+          "created_at": "2025-01-18T22:52:05.163675+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T22:19:09.317060+00:00",
-          "url": "https://d366f85353f7u3.cloudfront.net"
+          "updated_at": "2025-01-17T23:21:07.890147+00:00",
+          "url": "https://d2n6i5s1i8w1nn.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
