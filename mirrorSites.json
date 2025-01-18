@@ -601,6 +601,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513+00:00",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-17T23:47:04.780889+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-17T23:43:08.393895+00:00",
+          "url": "https://d8qi0q30vcf3l.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -2868,15 +2875,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-13T06:53:13.248160+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-13T06:51:19.663845+00:00",
-          "url": "https://d2kwa0kkfvk5do.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
