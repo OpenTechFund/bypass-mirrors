@@ -191,11 +191,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-17T22:08:03.936319+00:00",
+          "created_at": "2025-01-18T23:21:19.155384+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T21:51:14.285484+00:00",
-          "url": "https://d38hssvcfvvxo4.cloudfront.net"
+          "updated_at": "2025-01-17T22:42:08.994472+00:00",
+          "url": "https://d3qmuqea77ycap.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -410,11 +410,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2025-01-17T22:30:05.801996+00:00",
+          "created_at": "2025-01-18T23:23:06.104320+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T23:23:13.870655+00:00",
-          "url": "https://d29wp3yhyedbgy.cloudfront.net"
+          "updated_at": "2025-01-18T00:45:10.536190+00:00",
+          "url": "https://d1em1kuqdw2l39.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -863,11 +863,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T22:26:06.459192+00:00",
+          "created_at": "2025-01-18T23:20:06.582226+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-16T21:31:10.594278+00:00",
-          "url": "https://d21co8gbvszyjb.cloudfront.net"
+          "updated_at": "2025-01-17T23:09:12.772178+00:00",
+          "url": "https://d1vcz1fjt4hdx0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
