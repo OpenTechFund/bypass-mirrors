@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-17T23:41:05.287313+00:00",
+          "created_at": "2025-01-19T01:00:04.373100+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-17T02:57:08.761654+00:00",
-          "url": "https://dlr8ixtxrkuz5.cloudfront.net"
+          "updated_at": "2025-01-18T04:22:08.408796+00:00",
+          "url": "https://d1p0qqk0fcxtdp.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -601,6 +601,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513+00:00",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-19T00:38:05.709075+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-19T00:30:09.321417+00:00",
+          "url": "https://d1c07kqmh659mx.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
