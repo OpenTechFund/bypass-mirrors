@@ -372,11 +372,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-17T23:29:11.501153+00:00",
+          "created_at": "2025-01-19T00:13:06.126875+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-17T22:12:13.114068+00:00",
-          "url": "https://d3onsqb174jgl3.cloudfront.net"
+          "updated_at": "2025-01-18T23:45:07.661688+00:00",
+          "url": "https://dv61mrdy0ok0k.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -882,11 +882,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-17T23:29:08.794215+00:00",
+          "created_at": "2025-01-19T00:15:10.208292+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-17T22:42:09.962560+00:00",
-          "url": "https://d24fr7ek2u3lvn.cloudfront.net"
+          "updated_at": "2025-01-18T23:12:09.776103+00:00",
+          "url": "https://d2qun5cf7c8loa.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
