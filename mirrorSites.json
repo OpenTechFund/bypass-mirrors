@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-19T04:02:03.221567+00:00",
+          "created_at": "2025-01-20T05:21:04.815060+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-18T03:07:13.383953+00:00",
-          "url": "https://d22wqakasc83yv.cloudfront.net"
+          "updated_at": "2025-01-19T04:02:11.791373+00:00",
+          "url": "https://d24azd2lvn2seo.cloudfront.net"
         }
       ],
       "main_domain": "gitlab.torproject.org"
@@ -1263,11 +1263,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-19T03:56:06.485345+00:00",
+          "created_at": "2025-01-20T05:19:06.654079+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-18T22:52:10.135065+00:00",
-          "url": "https://dolvme8lwwhyn.cloudfront.net"
+          "updated_at": "2025-01-20T00:15:10.520706+00:00",
+          "url": "https://d34fsdombuw966.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
