@@ -601,6 +601,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513+00:00",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-20T01:26:04.565969+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-20T01:22:12.988227+00:00",
+          "url": "https://d18wlgfz74ya2s.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -875,11 +882,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-19T00:15:10.208292+00:00",
+          "created_at": "2025-01-20T01:47:06.626597+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-18T23:12:09.776103+00:00",
-          "url": "https://d2qun5cf7c8loa.cloudfront.net"
+          "updated_at": "2025-01-19T23:49:15.950255+00:00",
+          "url": "https://d277k9nel42zop.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
@@ -1196,11 +1203,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-19T01:22:04.329082+00:00",
+          "created_at": "2025-01-20T01:47:06.176916+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-18T01:39:09.310712+00:00",
-          "url": "https://d143mq376rsup3.cloudfront.net"
+          "updated_at": "2025-01-19T02:54:08.262782+00:00",
+          "url": "https://d3ti1hgo92ijm7.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -2124,11 +2131,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-01-19T20:45:05.738550+00:00",
+          "created_at": "2025-01-20T01:49:05.378806+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-19T15:41:25.223262+00:00",
-          "url": "https://d26363t85094jf.cloudfront.net"
+          "updated_at": "2025-01-19T20:45:12.115143+00:00",
+          "url": "https://d1fqctbznxkyk4.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
