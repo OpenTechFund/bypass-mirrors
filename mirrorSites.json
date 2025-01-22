@@ -863,11 +863,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-21T02:17:07.668853+00:00",
+          "created_at": "2025-01-22T02:29:08.613871+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-20T02:47:10.850813+00:00",
-          "url": "https://d2wh129wyd4991.cloudfront.net"
+          "updated_at": "2025-01-21T03:26:14.330973+00:00",
+          "url": "https://d3gss3xn8uil79.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
