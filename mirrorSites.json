@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-22T04:02:07.567286+00:00",
+          "created_at": "2025-01-23T04:45:04.797148+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-21T08:00:08.127125+00:00",
-          "url": "https://dftldecr2av9g.cloudfront.net"
+          "updated_at": "2025-01-22T09:15:08.584876+00:00",
+          "url": "https://d90ppccfrah9w.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-22T03:54:05.355624+00:00",
+          "created_at": "2025-01-23T04:49:05.566400+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-21T03:06:15.947798+00:00",
-          "url": "https://d17ob40n5ef9xd.cloudfront.net"
+          "updated_at": "2025-01-22T03:54:06.930806+00:00",
+          "url": "https://d31uvdfrsyruzf.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
