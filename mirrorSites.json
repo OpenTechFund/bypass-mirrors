@@ -858,15 +858,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-15T03:45:07.141476+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-14T10:57:11.777438+00:00",
-          "url": "https://d3h4juc8w46ewz.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1008,11 +1000,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-07T13:01:54.912687+00:00",
+          "created_at": "2025-01-29T10:27:05.648568+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2024-12-23T18:48:12.742898+00:00",
-          "url": "https://dqoxvx04lhcxb.cloudfront.net"
+          "updated_at": "2025-01-07T13:01:59.004210+00:00",
+          "url": "https://d1q6w4lczdu341.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
