@@ -2066,13 +2066,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-01-29T09:37:05.325626+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-29T09:35:23.441838+00:00",
-          "url": "https://d2zejetam12wxb.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
