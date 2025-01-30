@@ -670,27 +670,11 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-29T22:52:05.777920+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-29T22:50:08.879547+00:00",
-          "url": "https://d23yu5rsk7zoed.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-01-29T22:52:05.944115+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-29T22:50:10.739874+00:00",
-          "url": "https://d2taap6s39pogv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -720,11 +704,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-29T22:52:05.832000+00:00",
+          "created_at": "2025-01-30T14:29:05.824085+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-29T22:50:09.099024+00:00",
-          "url": "https://d2awpwzqy6s8et.cloudfront.net"
+          "updated_at": "2025-01-29T22:52:08.879392+00:00",
+          "url": "https://d3kbdjuzdrt81n.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -732,11 +716,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-29T22:52:05.889679+00:00",
+          "created_at": "2025-01-30T14:29:05.883076+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-29T22:50:10.529258+00:00",
-          "url": "https://d3nrdl91fj4d11.cloudfront.net"
+          "updated_at": "2025-01-29T22:52:10.337117+00:00",
+          "url": "https://dby914s80lrft.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2091,13 +2075,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-01-29T22:52:05.854907+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-29T22:50:09.644228+00:00",
-          "url": "https://d3ivc6jovr2ijp.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
