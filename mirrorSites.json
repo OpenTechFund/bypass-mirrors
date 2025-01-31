@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-01-29T09:30:07.423474+00:00",
+          "created_at": "2025-01-31T11:11:05.177588+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-27T10:00:44.500001+00:00",
-          "url": "https://d1hs432zatcjmd.cloudfront.net"
+          "updated_at": "2025-01-29T09:30:11.915854+00:00",
+          "url": "https://d24hxu63fi0i9f.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -263,13 +263,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750+00:00",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-01-29T09:30:07.095520+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-27T10:00:44.405579+00:00",
-          "url": "https://dj1zu7k7729fp.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -2086,11 +2079,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-01-30T14:31:05.860144+00:00",
+          "created_at": "2025-01-31T11:13:06.615419+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-30T14:29:09.597702+00:00",
-          "url": "https://d2inqejzsikony.cloudfront.net"
+          "updated_at": "2025-01-30T14:53:09.817742+00:00",
+          "url": "https://dyxv8x3lqsy1h.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
