@@ -77,6 +77,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:38.853493+00:00",
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-31T10:55:04.079541+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-31T10:49:09.263401+00:00",
+          "url": "https://d2pi64mshpfo5y.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -163,6 +170,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684+00:00",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
+        },
+        {
+          "created_at": "2025-01-31T11:25:03.656973+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-31T10:39:10.567479+00:00",
+          "url": "https://d2ugq1uii84ek1.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -256,6 +270,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750+00:00",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-01-31T11:11:04.867197+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-01-31T10:53:08.299307+00:00",
+          "url": "https://d245vvg0f1dtof.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -1206,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-29T09:32:11.134464+00:00",
+          "created_at": "2025-01-31T11:35:11.145983+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-29T09:30:14.245250+00:00",
-          "url": "https://d1he3yioxiqfhp.cloudfront.net"
+          "updated_at": "2025-01-29T09:32:18.909515+00:00",
+          "url": "https://d2as1c9u1ltsa5.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
