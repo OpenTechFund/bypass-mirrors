@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-01-31T11:11:05.177588+00:00",
+          "created_at": "2025-02-02T12:14:03.683818+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-29T09:30:11.915854+00:00",
-          "url": "https://d24hxu63fi0i9f.cloudfront.net"
+          "updated_at": "2025-01-31T13:05:11.205164+00:00",
+          "url": "https://dqkerg70pjwtf.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-31T10:21:08.707435+00:00",
+          "created_at": "2025-02-02T12:12:06.474103+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-29T09:30:11.201380+00:00",
-          "url": "https://d1a81k2hjhkxpx.cloudfront.net"
+          "updated_at": "2025-01-31T10:21:10.991785+00:00",
+          "url": "https://dtyfgrc2h3prf.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
