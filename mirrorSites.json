@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-01-31T10:55:04.079541+00:00",
+          "created_at": "2025-02-02T16:29:04.310251+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-31T10:49:09.263401+00:00",
-          "url": "https://d2pi64mshpfo5y.cloudfront.net"
+          "updated_at": "2025-02-02T14:42:07.851190+00:00",
+          "url": "https://di4a2dn1sfvr9.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -149,18 +149,6 @@
         }
       ],
       "main_domain": "ba.voanews.com"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-17T05:38:03.027293+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-16T04:44:12.766365+00:00",
-          "url": "https://d3vy3wtffz4rru.cloudfront.net"
-        }
-      ],
-      "main_domain": "blog.torproject.org"
     },
     {
       "available_alternatives": [
@@ -441,18 +429,6 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-02T15:50:03.439035+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-01-31T10:51:12.422911+00:00",
-          "url": "https://dham6hzo2rm95.cloudfront.net"
-        }
-      ],
-      "main_domain": "gitlab.torproject.org"
-    },
-    {
-      "available_alternatives": [
-        {
           "created_at": "2023-05-08T00:10:19.318707+00:00",
           "proto": "https",
           "type": "mirror",
@@ -465,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-01-31T14:32:03.349652+00:00",
+          "created_at": "2025-02-02T16:33:03.419126+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-01-29T09:30:14.042183+00:00",
-          "url": "https://d2pxcrhw9s8cps.cloudfront.net"
+          "updated_at": "2025-01-31T14:32:10.317637+00:00",
+          "url": "https://dkid4calp51hg.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -1104,18 +1080,6 @@
         }
       ],
       "main_domain": "stage.rferl.org"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-17T04:44:03.046795+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-16T03:36:13.547118+00:00",
-          "url": "https://d13yy5vbcdupx6.cloudfront.net"
-        }
-      ],
-      "main_domain": "support.torproject.org"
     },
     {
       "available_alternatives": [
