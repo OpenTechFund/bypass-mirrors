@@ -925,6 +925,13 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796+00:00",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2025-02-03T18:52:06.091678+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-03T13:35:08.495587+00:00",
+          "url": "https://d2q3d8tzfhttjn.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -2143,6 +2150,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:02:10.828755+00:00",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+        },
+        {
+          "created_at": "2025-02-03T18:52:07.757465+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-02T22:10:12.359613+00:00",
+          "url": "https://d18nh5r35m7d02.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
