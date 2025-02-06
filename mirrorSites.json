@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2025-02-04T14:43:05.121347+00:00",
+          "created_at": "2025-02-06T18:05:04.269692+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-02T15:10:08.231823+00:00",
-          "url": "https://d3oqow9awi5i6f.cloudfront.net"
+          "updated_at": "2025-02-04T16:03:10.395598+00:00",
+          "url": "https://d17scfrwwzcjv.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-06T08:00:06.668471+00:00",
+          "created_at": "2025-02-06T18:09:07.059622+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-06T02:41:10.537075+00:00",
-          "url": "https://d2bqs4kb2w9s12.cloudfront.net"
+          "updated_at": "2025-02-06T14:11:12.612583+00:00",
+          "url": "https://d2bb9il03n0m8y.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -696,25 +696,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-06T05:56:09.279934+00:00",
+          "created_at": "2025-02-06T18:09:06.984603+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-06T05:01:10.410210+00:00",
-          "url": "https://d1ggtd9hdf9zew.cloudfront.net"
+          "updated_at": "2025-02-06T08:08:16.130218+00:00",
+          "url": "https://drhj6akyf2i5l.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-06T06:34:06.927115+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-06T03:33:21.891760+00:00",
-          "url": "https://d31kkm2vf6w65t.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
