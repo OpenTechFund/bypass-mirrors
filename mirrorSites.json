@@ -694,11 +694,27 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-07T05:48:06.647755+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-07T05:46:13.502645+00:00",
+          "url": "https://d2gs94ir9wb8mx.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-07T05:48:06.720740+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-07T05:46:16.083188+00:00",
+          "url": "https://d1di41gbf2ewua.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -2823,7 +2839,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-07T05:56:05.843324+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-07T05:54:10.820489+00:00",
+          "url": "https://dbpv2ce4ulp.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
