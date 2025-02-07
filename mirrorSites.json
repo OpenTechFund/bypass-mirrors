@@ -2055,6 +2055,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-02-07T06:51:09.603247+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-07T06:49:11.425496+00:00",
+          "url": "https://d36znigy5e0xar.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
