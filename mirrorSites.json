@@ -658,7 +658,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-08T07:16:06.763477+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-08T07:14:11.847817+00:00",
+          "url": "https://d1m10wc2asir20.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -2085,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-02-08T07:16:05.510793+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-08T07:14:10.451247+00:00",
+          "url": "https://dy5pbrrqcczfc.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
