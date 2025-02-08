@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-06T19:33:05.868184+00:00",
+          "created_at": "2025-02-08T22:51:06.564350+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-04T15:13:10.907608+00:00",
-          "url": "https://dbodd2uicc1jp.cloudfront.net"
+          "updated_at": "2025-02-06T19:33:07.488003+00:00",
+          "url": "https://d1vbaiz3vsk7d2.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -827,11 +827,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-06T20:05:04.788951+00:00",
+          "created_at": "2025-02-08T22:47:07.453223+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-06T19:01:10.183707+00:00",
-          "url": "https://d23vpvo71m7cse.cloudfront.net"
+          "updated_at": "2025-02-06T20:05:11.163683+00:00",
+          "url": "https://d2h213rw4l7f5s.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1179,11 +1179,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-06T20:57:06.824739+00:00",
+          "created_at": "2025-02-08T22:55:07.053652+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-06T18:27:11.191022+00:00",
-          "url": "https://d7r5v4ptieort.cloudfront.net"
+          "updated_at": "2025-02-08T22:22:11.794576+00:00",
+          "url": "https://dt846kbrsxxlq.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
