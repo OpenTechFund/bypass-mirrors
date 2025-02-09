@@ -1287,13 +1287,6 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
-        },
-        {
-          "created_at": "2025-02-03T13:43:07.812896+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-03T13:41:17.662301+00:00",
-          "url": "https://dp5ys5gcwf0sv.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
@@ -2841,11 +2834,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-08T22:41:06.204587+00:00",
+          "created_at": "2025-02-09T02:29:10.049861+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-08T15:36:11.512106+00:00",
-          "url": "https://d14spv5h3b3rv6.cloudfront.net"
+          "updated_at": "2025-02-09T00:31:13.060119+00:00",
+          "url": "https://d3piqxpwkz6n0p.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
