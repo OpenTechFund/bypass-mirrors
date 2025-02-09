@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-07T01:01:05.705362+00:00",
+          "created_at": "2025-02-09T02:45:07.666340+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-07T00:15:10.743798+00:00",
-          "url": "https://d3had8rqfa6m8i.cloudfront.net"
+          "updated_at": "2025-02-07T01:01:07.952917+00:00",
+          "url": "https://d3kc9prvuhl1jj.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1287,6 +1287,13 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
+        },
+        {
+          "created_at": "2025-02-09T02:31:07.905438+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-09T02:29:14.963656+00:00",
+          "url": "https://d14itwgol11a6j.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
