@@ -1287,13 +1287,6 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
-        },
-        {
-          "created_at": "2025-02-09T02:31:07.905438+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-09T02:29:14.963656+00:00",
-          "url": "https://d14itwgol11a6j.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
@@ -2055,6 +2048,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-02-10T02:54:13.385610+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-09T18:04:14.151439+00:00",
+          "url": "https://d5x1g1i4b468o.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
