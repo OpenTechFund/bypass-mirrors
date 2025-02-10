@@ -646,25 +646,17 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-10T06:41:05.519448+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-10T06:39:13.153875+00:00",
-          "url": "https://d1syvhkay9iueq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-10T06:41:05.646600+00:00",
+          "created_at": "2025-02-10T09:48:07.669258+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-10T06:39:15.767294+00:00",
-          "url": "https://d1k0vy9zfbi5sm.cloudfront.net"
+          "updated_at": "2025-02-10T06:41:10.995734+00:00",
+          "url": "https://dojvfs9xda4pa.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -694,15 +686,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-10T06:41:05.565716+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-10T06:39:13.437528+00:00",
-          "url": "https://d3k8cxsd63zrra.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
