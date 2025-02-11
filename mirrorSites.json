@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-11T09:39:07.230155+00:00",
+          "created_at": "2025-02-11T20:13:09.975572+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-11T09:37:10.807420+00:00",
-          "url": "https://d1h4x4xcl8464j.cloudfront.net"
+          "updated_at": "2025-02-11T09:39:10.525530+00:00",
+          "url": "https://dy330uhokgche.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1287,13 +1287,6 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
-        },
-        {
-          "created_at": "2025-02-10T13:22:07.034760+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-10T13:20:11.471757+00:00",
-          "url": "https://duvaoe8tuzpbq.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
