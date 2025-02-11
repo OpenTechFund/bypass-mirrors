@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-10T23:35:11.682843+00:00",
+          "created_at": "2025-02-11T02:41:16.246337+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-10T11:54:16.055339+00:00",
-          "url": "https://d1mvqqymajb71s.cloudfront.net"
+          "updated_at": "2025-02-10T23:35:20.285850+00:00",
+          "url": "https://dh9p9tpb0nxaz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1089,6 +1089,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-02-11T02:37:05.130789+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-11T02:35:09.653215+00:00",
+          "url": "https://d3rdsu9g2g1sww.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2834,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-10T23:43:07.239688+00:00",
+          "created_at": "2025-02-11T02:49:08.664227+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-10T12:32:20.147856+00:00",
-          "url": "https://d3nq4qbgn9o801.cloudfront.net"
+          "updated_at": "2025-02-11T01:01:14.211018+00:00",
+          "url": "https://d1vnys3t14pxgs.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
