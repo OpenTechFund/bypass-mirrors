@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-08T23:55:06.289395+00:00",
+          "created_at": "2025-02-11T00:53:04.865734+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-06T22:47:08.354134+00:00",
-          "url": "https://d3rw3cjqb7xzwo.cloudfront.net"
+          "updated_at": "2025-02-09T00:11:08.276415+00:00",
+          "url": "https://d39cnn662wslhs.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-10T16:07:06.540841+00:00",
+          "created_at": "2025-02-11T00:45:07.345703+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-10T10:20:11.311448+00:00",
-          "url": "https://d316d0baag6i7b.cloudfront.net"
+          "updated_at": "2025-02-10T23:35:17.398493+00:00",
+          "url": "https://d1or0kktbz6fzr.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
