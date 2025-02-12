@@ -646,15 +646,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-12T04:10:11.991772+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-12T04:08:17.159784+00:00",
-          "url": "https://d34ykkkveai1cn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -682,39 +674,23 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-12T08:43:06.394066+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-12T00:36:14.084188+00:00",
-          "url": "https://d2z65lr78vy936.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-12T08:19:12.734017+00:00",
+          "created_at": "2025-02-12T11:44:24.814856+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-12T06:47:18.633631+00:00",
-          "url": "https://d3giuba4xfz1s5.cloudfront.net"
+          "updated_at": "2025-02-12T09:54:11.843930+00:00",
+          "url": "https://d3irzf92tmrdna.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-12T08:43:06.362420+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-12T06:47:21.275806+00:00",
-          "url": "https://d2nm0jru9nc48h.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -2093,13 +2069,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-02-12T08:35:10.592006+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-12T04:15:37.859380+00:00",
-          "url": "https://d3vjehe6o6j4zn.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
