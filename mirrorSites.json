@@ -646,7 +646,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-12T11:46:06.264257+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-12T11:44:28.501651+00:00",
+          "url": "https://d14ggs03c1pmnk.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -690,7 +698,15 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-12T11:52:10.903487+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-12T09:54:14.276002+00:00",
+          "url": "https://d2q592a0ovhzpd.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1029,11 +1045,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-12T08:51:06.477776+00:00",
+          "created_at": "2025-02-12T12:00:05.137297+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-12T06:55:08.169095+00:00",
-          "url": "https://d2xc4skq689q0y.cloudfront.net"
+          "updated_at": "2025-02-12T10:40:10.700366+00:00",
+          "url": "https://dyck5aff6dxcr.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2069,6 +2085,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-02-12T11:46:05.428262+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-12T11:44:29.264673+00:00",
+          "url": "https://d32zfjn55psi7f.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
@@ -2810,11 +2833,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-12T08:51:06.510003+00:00",
+          "created_at": "2025-02-12T12:00:05.165351+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-12T08:19:20.070684+00:00",
-          "url": "https://d2f458lfeh8n9.cloudfront.net"
+          "updated_at": "2025-02-12T11:20:15.946352+00:00",
+          "url": "https://d3tiv6iyt81xz9.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
