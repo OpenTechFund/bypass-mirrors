@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-13T22:30:05.488334+00:00",
+          "created_at": "2025-02-14T07:00:08.718589+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T14:33:09.767885+00:00",
-          "url": "https://d18vbmx9sq4e17.cloudfront.net"
+          "updated_at": "2025-02-13T22:30:09.048196+00:00",
+          "url": "https://d2m75bq3c7oj45.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-14T00:38:07.162291+00:00",
+          "created_at": "2025-02-14T07:00:08.835684+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T14:33:11.713666+00:00",
-          "url": "https://d3118u96z2zevi.cloudfront.net"
+          "updated_at": "2025-02-14T00:38:13.260208+00:00",
+          "url": "https://d3cdx4k543e7jd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-13T22:30:05.518732+00:00",
+          "created_at": "2025-02-14T07:00:08.750968+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T14:33:09.914265+00:00",
-          "url": "https://dixalvub8v3l2.cloudfront.net"
+          "updated_at": "2025-02-14T00:38:11.264779+00:00",
+          "url": "https://d1nilpxie6de6f.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-13T22:30:05.566451+00:00",
+          "created_at": "2025-02-14T07:00:08.804215+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T14:33:11.570234+00:00",
-          "url": "https://d2vrfcob4b6881.cloudfront.net"
+          "updated_at": "2025-02-14T00:38:13.109162+00:00",
+          "url": "https://d3a7ud0pdmpyne.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2093,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-02-14T06:52:06.691571+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-14T01:46:48.495145+00:00",
+          "url": "https://d3agjq4n649w2g.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
