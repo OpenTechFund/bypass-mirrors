@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-16T17:44:07.102964+00:00",
+          "created_at": "2025-02-16T20:46:14.492626+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-16T14:13:10.278860+00:00",
-          "url": "https://d1psa4xl2x0e8e.cloudfront.net"
+          "updated_at": "2025-02-16T17:44:10.793639+00:00",
+          "url": "https://djjrddzmgovmp.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-16T17:44:07.152381+00:00",
+          "created_at": "2025-02-16T20:46:14.587916+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-16T14:13:11.929916+00:00",
-          "url": "https://d3lw5sosxzrs4w.cloudfront.net"
+          "updated_at": "2025-02-16T17:44:12.549624+00:00",
+          "url": "https://d2xfbqxomoho5j.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-16T15:39:09.157078+00:00",
+          "created_at": "2025-02-16T20:46:14.004597+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-16T12:31:15.059638+00:00",
-          "url": "https://dqkt46xcz84kr.cloudfront.net"
+          "updated_at": "2025-02-16T15:39:14.350426+00:00",
+          "url": "https://d17szjm14bgz0t.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-16T14:21:10.023696+00:00",
+          "created_at": "2025-02-16T20:46:14.055281+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-16T12:31:18.479643+00:00",
-          "url": "https://d2ftvz65qxej1a.cloudfront.net"
+          "updated_at": "2025-02-16T17:28:13.518312+00:00",
+          "url": "https://dualfe2gwlcev.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
