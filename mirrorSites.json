@@ -2772,11 +2772,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-02-15T13:11:36.428373+00:00",
+          "created_at": "2025-02-16T14:21:05.755673+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-15T11:54:07.734739+00:00",
-          "url": "https://d3ie6jxrfgytri.cloudfront.net"
+          "updated_at": "2025-02-15T13:11:39.911349+00:00",
+          "url": "https://d2ig4v9ot1w9sy.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-16T09:47:08.333378+00:00",
+          "created_at": "2025-02-16T14:21:10.023696+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-15T21:00:11.798232+00:00",
-          "url": "https://d196ylf40o8u3.cloudfront.net"
+          "updated_at": "2025-02-16T12:31:18.479643+00:00",
+          "url": "https://d2ftvz65qxej1a.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
