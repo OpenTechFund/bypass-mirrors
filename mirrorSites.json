@@ -1736,11 +1736,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-15T13:49:08.149537+00:00",
+          "created_at": "2025-02-17T14:52:06.085688+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T13:15:12.797154+00:00",
-          "url": "https://d19y8y83f5l3mo.cloudfront.net"
+          "updated_at": "2025-02-15T13:49:14.118927+00:00",
+          "url": "https://d3n8lrj7gfrmm1.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1767,11 +1767,11 @@
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
         },
         {
-          "created_at": "2025-02-15T13:49:05.357987+00:00",
+          "created_at": "2025-02-17T14:52:03.767267+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T11:56:07.125009+00:00",
-          "url": "https://d36wlsj9hj3v99.cloudfront.net"
+          "updated_at": "2025-02-16T13:19:06.372892+00:00",
+          "url": "https://d3gs3qcn04vx0k.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
