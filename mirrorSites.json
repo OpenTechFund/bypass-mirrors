@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-02-15T06:23:04.097322+00:00",
+          "created_at": "2025-02-17T08:47:07.509573+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T05:01:08.404588+00:00",
-          "url": "https://d3e4ijknskw0l4.cloudfront.net"
+          "updated_at": "2025-02-15T07:49:11.654140+00:00",
+          "url": "https://d192bfrejqu3j3.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-15T05:59:12.628557+00:00",
+          "created_at": "2025-02-17T08:51:05.194564+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T04:59:11.136837+00:00",
-          "url": "https://dab1rclnxzzzv.cloudfront.net"
+          "updated_at": "2025-02-17T08:25:19.806102+00:00",
+          "url": "https://d2dyyb29vua4zl.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
