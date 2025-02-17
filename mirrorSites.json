@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-15T07:03:04.880444+00:00",
+          "created_at": "2025-02-17T10:42:58.003489+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T03:25:08.860222+00:00",
-          "url": "https://de9rvogh9eodj.cloudfront.net"
+          "updated_at": "2025-02-17T07:37:08.033851+00:00",
+          "url": "https://dudzkazfs6h90.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-15T04:53:06.321250+00:00",
+          "created_at": "2025-02-17T10:41:07.302732+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-14T23:19:15.582314+00:00",
-          "url": "https://d15c3fy4xc0npt.cloudfront.net"
+          "updated_at": "2025-02-17T02:24:23.878968+00:00",
+          "url": "https://d8pplc4wtx9pe.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
