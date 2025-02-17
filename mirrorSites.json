@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-15T09:14:08.867246+00:00",
+          "created_at": "2025-02-17T10:29:07.789182+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-15T08:48:11.323870+00:00",
-          "url": "https://d28spc6eil0fpj.cloudfront.net"
+          "updated_at": "2025-02-15T09:14:15.831830+00:00",
+          "url": "https://d34s7pr8ypv4dr.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -441,11 +441,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-15T08:50:03.247476+00:00",
+          "created_at": "2025-02-17T10:33:03.901481+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-13T07:09:10.771829+00:00",
-          "url": "https://d22acsepigtb6w.cloudfront.net"
+          "updated_at": "2025-02-15T08:50:11.142126+00:00",
+          "url": "https://d38s3vh22gmv8u.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-17T07:23:07.479601+00:00",
+          "created_at": "2025-02-17T10:31:09.440701+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-16T23:55:12.132947+00:00",
-          "url": "https://d11kf4tp1edg1l.cloudfront.net"
+          "updated_at": "2025-02-17T09:13:11.215315+00:00",
+          "url": "https://duwas7irv7ufs.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
