@@ -660,11 +660,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-17T22:28:20.713610+00:00",
+          "created_at": "2025-02-18T10:46:07.288655+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-17T17:45:12.863033+00:00",
-          "url": "https://d32uyiaof3yikd.cloudfront.net"
+          "updated_at": "2025-02-17T22:28:32.868596+00:00",
+          "url": "https://d1u755dzap7236.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
