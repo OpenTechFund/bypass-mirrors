@@ -658,7 +658,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-19T18:06:07.534790+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-19T17:42:13.457111+00:00",
+          "url": "https://d17dbmmu8bkp82.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1281,11 +1289,11 @@
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
         },
         {
-          "created_at": "2025-02-19T06:35:05.268178+00:00",
+          "created_at": "2025-02-19T18:14:05.534023+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T06:33:10.453022+00:00",
-          "url": "https://d2yqeijtg6xhoa.cloudfront.net"
+          "updated_at": "2025-02-19T17:50:11.633347+00:00",
+          "url": "https://d2ablf6qsgscva.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
@@ -2833,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-19T13:01:07.747026+00:00",
+          "created_at": "2025-02-19T18:14:06.013267+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T10:31:13.126745+00:00",
-          "url": "https://d2u6zk042jysho.cloudfront.net"
+          "updated_at": "2025-02-19T13:01:15.927066+00:00",
+          "url": "https://dbnwgq5u3dcnr.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
