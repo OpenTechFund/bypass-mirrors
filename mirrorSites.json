@@ -660,11 +660,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-19T05:05:07.701836+00:00",
+          "created_at": "2025-02-19T10:23:06.457400+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T00:23:20.604890+00:00",
-          "url": "https://d1fb3jsj4rqwg8.cloudfront.net"
+          "updated_at": "2025-02-19T09:04:11.695199+00:00",
+          "url": "https://d1tuela18os188.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-19T02:53:06.761586+00:00",
+          "created_at": "2025-02-19T10:23:06.418224+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-18T23:45:15.266735+00:00",
-          "url": "https://dxml7atrubucw.cloudfront.net"
+          "updated_at": "2025-02-19T09:51:24.131250+00:00",
+          "url": "https://dq8o01diqajm1.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-19T06:33:06.470607+00:00",
+          "created_at": "2025-02-19T10:31:06.791867+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T00:31:10.823063+00:00",
-          "url": "https://d1kgb1ouuikdrs.cloudfront.net"
+          "updated_at": "2025-02-19T06:33:09.578083+00:00",
+          "url": "https://d2hsfelnaif9cu.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1203,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-17T09:11:06.169625+00:00",
+          "created_at": "2025-02-19T10:29:05.415290+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-17T02:30:12.422725+00:00",
-          "url": "https://d1gqoe9if9fqpg.cloudfront.net"
+          "updated_at": "2025-02-19T04:23:11.581963+00:00",
+          "url": "https://d22f8r1yfhtilr.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
