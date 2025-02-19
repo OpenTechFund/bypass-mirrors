@@ -360,11 +360,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-17T10:29:07.789182+00:00",
+          "created_at": "2025-02-19T12:57:05.501046+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-15T09:14:15.831830+00:00",
-          "url": "https://d34s7pr8ypv4dr.cloudfront.net"
+          "updated_at": "2025-02-19T12:09:09.152281+00:00",
+          "url": "https://d3ry1a11v1pfgz.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-17T08:51:05.194564+00:00",
+          "created_at": "2025-02-19T12:47:16.719472+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-17T08:25:19.806102+00:00",
-          "url": "https://d2dyyb29vua4zl.cloudfront.net"
+          "updated_at": "2025-02-19T09:59:10.522119+00:00",
+          "url": "https://dgcmgtc4ewv9w.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
@@ -2057,11 +2057,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-02-19T09:51:12.282981+00:00",
+          "created_at": "2025-02-19T12:53:05.485617+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T05:05:11.826715+00:00",
-          "url": "https://d1lxtawkzvvo6y.cloudfront.net"
+          "updated_at": "2025-02-19T09:51:22.065764+00:00",
+          "url": "https://d2ucepm1unkl4t.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
