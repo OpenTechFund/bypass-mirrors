@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-17T09:27:06.074744+00:00",
+          "created_at": "2025-02-19T09:43:06.440275+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-15T04:59:11.409386+00:00",
-          "url": "https://d395fqtnpucklw.cloudfront.net"
+          "updated_at": "2025-02-17T09:27:07.613082+00:00",
+          "url": "https://d25kx8nzr7rcqt.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -670,15 +670,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-19T03:55:09.277237+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-18T23:45:13.105003+00:00",
-          "url": "https://dptpkj9780zgp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -706,15 +698,7 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-19T05:05:07.527114+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-18T23:45:15.111715+00:00",
-          "url": "https://d2t0zqzaa45p7s.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -889,11 +873,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-17T06:09:05.699377+00:00",
+          "created_at": "2025-02-19T09:43:05.348224+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-15T09:58:48.489198+00:00",
-          "url": "https://d1afn1u7oz5yqs.cloudfront.net"
+          "updated_at": "2025-02-17T12:34:13.020525+00:00",
+          "url": "https://d3krjsx68d9j8h.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -2055,13 +2039,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-02-19T05:05:07.487228+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-18T23:45:14.029174+00:00",
-          "url": "https://d4m36h0ebwt0l.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
