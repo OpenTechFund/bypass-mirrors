@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-19T09:59:05.153744+00:00",
+          "created_at": "2025-02-21T11:41:06.617054+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-17T16:57:08.801092+00:00",
-          "url": "https://dpwu8jtwwm921.cloudfront.net"
+          "updated_at": "2025-02-19T18:46:16.626431+00:00",
+          "url": "https://d3w59m4e1tkatq.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -598,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-02-19T09:59:05.268160+00:00",
+          "created_at": "2025-02-21T11:43:08.312687+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-17T07:21:06.684179+00:00",
-          "url": "https://d2vzcpti2jww2m.cloudfront.net"
+          "updated_at": "2025-02-19T09:59:05.784543+00:00",
+          "url": "https://d26dvvho161fd7.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-21T06:04:06.667192+00:00",
+          "created_at": "2025-02-21T11:43:08.251044+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-21T05:07:11.708326+00:00",
-          "url": "https://d2p3szq191ouyu.cloudfront.net"
+          "updated_at": "2025-02-21T08:08:13.527913+00:00",
+          "url": "https://d1my5ssu81g7mc.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
