@@ -670,7 +670,15 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-02-21T11:59:06.035590+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-21T08:32:14.268180+00:00",
+          "url": "https://d1yyjn7t45nydq.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -1195,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-19T10:29:05.415290+00:00",
+          "created_at": "2025-02-21T12:01:06.134194+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T04:23:11.581963+00:00",
-          "url": "https://d22f8r1yfhtilr.cloudfront.net"
+          "updated_at": "2025-02-21T08:16:12.397769+00:00",
+          "url": "https://d182415awoo0zd.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
