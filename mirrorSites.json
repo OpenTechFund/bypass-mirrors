@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-21T23:23:10.003037+00:00",
+          "created_at": "2025-02-22T02:24:08.517891+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-21T20:14:11.474961+00:00",
-          "url": "https://d1oj7ah2jm73iw.cloudfront.net"
+          "updated_at": "2025-02-21T23:23:18.915504+00:00",
+          "url": "https://d702qcshfxled.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1091,11 +1091,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-02-21T18:58:06.335578+00:00",
+          "created_at": "2025-02-22T02:24:07.147430+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-21T18:56:12.909045+00:00",
-          "url": "https://d8r33jqxywykm.cloudfront.net"
+          "updated_at": "2025-02-22T02:00:12.556005+00:00",
+          "url": "https://dyrj79kq8easp.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
