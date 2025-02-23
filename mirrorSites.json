@@ -837,15 +837,7 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-21T15:37:04.823351+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-21T10:30:13.475781+00:00",
-          "url": "https://d193aa0wtxpfle.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
@@ -2095,11 +2087,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-02-23T13:16:38.846118+00:00",
+          "created_at": "2025-02-23T16:19:07.907895+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-23T07:43:11.550092+00:00",
-          "url": "https://d3cmr397468hig.cloudfront.net"
+          "updated_at": "2025-02-23T13:16:44.481686+00:00",
+          "url": "https://d3oem3vylxaljq.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
