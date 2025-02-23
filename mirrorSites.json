@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-21T13:55:07.465238+00:00",
+          "created_at": "2025-02-23T17:49:08.222743+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-19T09:43:08.082898+00:00",
-          "url": "https://d2rgq6d85bkwcs.cloudfront.net"
+          "updated_at": "2025-02-21T13:55:09.160660+00:00",
+          "url": "https://d2y2sl269lz7y1.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1289,11 +1289,11 @@
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
         },
         {
-          "created_at": "2025-02-23T14:51:08.502073+00:00",
+          "created_at": "2025-02-23T17:53:06.606105+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-23T05:31:10.127902+00:00",
-          "url": "https://d3mppem2586lpq.cloudfront.net"
+          "updated_at": "2025-02-23T17:45:11.723217+00:00",
+          "url": "https://d242ng47uf6uia.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
