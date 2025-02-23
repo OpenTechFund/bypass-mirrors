@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-21T20:55:06.740982+00:00",
+          "created_at": "2025-02-23T22:38:04.581258+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-21T20:46:10.028875+00:00",
-          "url": "https://d1i13icxfhu76j.cloudfront.net"
+          "updated_at": "2025-02-21T20:55:13.742209+00:00",
+          "url": "https://d3747s8itzpcnf.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -2093,13 +2093,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-02-23T16:19:07.907895+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-23T13:16:44.481686+00:00",
-          "url": "https://d3oem3vylxaljq.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
