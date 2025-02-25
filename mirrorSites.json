@@ -196,6 +196,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:52:24.428630+00:00",
           "url": "https://burmese.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2025-02-25T15:14:09.917170+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-25T15:14:09.917183+00:00",
+          "url": "https://d2wbddkyw175hl.cloudfront.net"
         }
       ],
       "main_domain": "burmese.voanews.com"
@@ -1394,6 +1401,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-02-25T15:14:06.872384+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-25T15:12:14.061918+00:00",
+          "url": "https://d29j8su2aazlrj.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
@@ -2079,13 +2093,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-02-25T08:49:07.760902+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-25T08:47:15.149970+00:00",
-          "url": "https://dyi9lk8qf49tb.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
