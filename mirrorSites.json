@@ -1089,6 +1089,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-02-26T06:03:07.090735+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-26T06:01:14.023368+00:00",
+          "url": "https://d14zshjgu68nfj.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1282,11 +1289,11 @@
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
         },
         {
-          "created_at": "2025-02-25T23:14:05.613937+00:00",
+          "created_at": "2025-02-26T06:33:07.412979+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-25T16:38:14.562504+00:00",
-          "url": "https://dv8urzzlseks.cloudfront.net"
+          "updated_at": "2025-02-25T23:14:11.110645+00:00",
+          "url": "https://d2occ7nogbeo4c.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
