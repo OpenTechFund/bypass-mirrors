@@ -858,11 +858,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-25T19:06:08.313146+00:00",
+          "created_at": "2025-02-27T21:52:06.603888+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-25T13:34:10.879841+00:00",
-          "url": "https://db8jdh09dh2v9.cloudfront.net"
+          "updated_at": "2025-02-27T15:49:12.044020+00:00",
+          "url": "https://d1vpsxnjs39xw.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
@@ -1089,13 +1089,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2025-02-27T10:35:07.405864+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-27T10:33:13.372621+00:00",
-          "url": "https://d3goadztpfzdoe.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2093,13 +2086,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-02-27T18:25:56.280685+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-27T11:23:11.733824+00:00",
-          "url": "https://d3iflstmw57ejw.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
