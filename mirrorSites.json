@@ -1287,6 +1287,13 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
+        },
+        {
+          "created_at": "2025-02-27T22:20:05.685193+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-02-27T22:18:12.410021+00:00",
+          "url": "https://dvix6j44je7d5.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
