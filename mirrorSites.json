@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-28T07:22:07.250229+00:00",
+          "created_at": "2025-02-28T11:20:05.896958+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-28T01:48:16.279789+00:00",
-          "url": "https://d3ogb3vurayns1.cloudfront.net"
+          "updated_at": "2025-02-28T08:30:11.209446+00:00",
+          "url": "https://d7wok8yhhh3vn.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-28T07:22:07.431268+00:00",
+          "created_at": "2025-02-28T11:20:06.003452+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-28T05:26:14.229643+00:00",
-          "url": "https://d1t250x6qk7agi.cloudfront.net"
+          "updated_at": "2025-02-28T08:30:13.435312+00:00",
+          "url": "https://d527kug1f4asm.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-28T07:22:07.307601+00:00",
+          "created_at": "2025-02-28T11:20:05.930206+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-28T02:50:20.490905+00:00",
-          "url": "https://d36gwriq5km4vu.cloudfront.net"
+          "updated_at": "2025-02-28T08:30:11.397054+00:00",
+          "url": "https://d35r2k24cg4dgf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1289,11 +1289,11 @@
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
         },
         {
-          "created_at": "2025-02-27T22:20:05.685193+00:00",
+          "created_at": "2025-02-28T11:26:15.553169+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-27T22:18:12.410021+00:00",
-          "url": "https://dvix6j44je7d5.cloudfront.net"
+          "updated_at": "2025-02-28T11:04:11.431248+00:00",
+          "url": "https://dcdkr07u32qnl.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
