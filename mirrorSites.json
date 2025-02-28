@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-27T20:12:09.841033+00:00",
+          "created_at": "2025-02-28T00:14:14.549148+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-27T14:09:15.141308+00:00",
-          "url": "https://dj4i4h9r22bn.cloudfront.net"
+          "updated_at": "2025-02-27T22:10:14.972414+00:00",
+          "url": "https://d1jzijanoxgg96.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-27T20:12:09.789963+00:00",
+          "created_at": "2025-02-28T00:14:14.095295+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-27T14:09:14.907169+00:00",
-          "url": "https://d3mf651sujbxz7.cloudfront.net"
+          "updated_at": "2025-02-27T22:10:14.794691+00:00",
+          "url": "https://d1b198os380l4r.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-25T23:02:06.304503+00:00",
+          "created_at": "2025-02-28T00:16:06.051050+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-25T16:52:13.364626+00:00",
-          "url": "https://d39yfrjbl5iwqp.cloudfront.net"
+          "updated_at": "2025-02-27T20:42:12.333041+00:00",
+          "url": "https://d3fs3vobkw0jc8.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-02-25T21:00:08.631845+00:00",
+          "created_at": "2025-02-28T00:18:06.293282+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-25T09:37:12.352194+00:00",
-          "url": "https://d2o5ma0czpecur.cloudfront.net"
+          "updated_at": "2025-02-27T12:29:12.247116+00:00",
+          "url": "https://d3mtg1rq7ddn47.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
