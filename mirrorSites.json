@@ -258,13 +258,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:53.353750+00:00",
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-02-27T15:21:08.105308+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-27T15:09:08.589702+00:00",
-          "url": "https://d15e68yqzejfzl.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -849,11 +842,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-27T13:35:07.131195+00:00",
+          "created_at": "2025-03-01T18:16:05.676054+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-25T22:02:18.455394+00:00",
-          "url": "https://d2goa608o94lgu.cloudfront.net"
+          "updated_at": "2025-02-28T00:10:15.425002+00:00",
+          "url": "https://d2yeaq2zo5a5ay.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
