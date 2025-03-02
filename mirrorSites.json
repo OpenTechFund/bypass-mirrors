@@ -172,11 +172,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-02-27T23:06:06.986752+00:00",
+          "created_at": "2025-03-02T00:53:03.964124+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-02-25T22:52:12.027307+00:00",
-          "url": "https://d32vzvmhnk58wa.cloudfront.net"
+          "updated_at": "2025-02-28T00:22:10.764265+00:00",
+          "url": "https://d2kysy93i51755.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -800,15 +800,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-02-27T22:20:05.250736+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-27T15:45:21.567858+00:00",
-          "url": "https://d1zz49rki56uuk.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
