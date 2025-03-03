@@ -518,13 +518,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 16:18:57.399975+00:00",
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
-        },
-        {
-          "created_at": "2025-03-01T18:04:05.612228+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-27T16:03:08.867802+00:00",
-          "url": "https://d1111pnc1l8ynf.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -738,13 +731,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:16:08.751334+00:00",
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-03-01T18:16:05.676054+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-28T00:10:15.425002+00:00",
-          "url": "https://d2yeaq2zo5a5ay.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
