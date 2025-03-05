@@ -658,39 +658,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-05T07:54:08.900502+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-05T07:46:11.404263+00:00",
-          "url": "https://d25iylmw2488sy.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-05T07:54:08.478046+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-05T07:46:09.457446+00:00",
-          "url": "https://d2z815z8ci310i.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-05T07:54:08.846153+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-05T07:46:11.278839+00:00",
-          "url": "https://d9gqqjrv1ls37.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -2055,13 +2031,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-03-05T07:54:08.551525+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-05T07:46:10.174636+00:00",
-          "url": "https://d113iabn8b3nf9.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2839,15 +2808,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-05T07:54:08.175485+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-05T07:46:10.885218+00:00",
-          "url": "https://d1ip74wwzpqy1r.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
