@@ -648,11 +648,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-04T23:00:05.440671+00:00",
+          "created_at": "2025-03-05T02:08:07.671009+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-04T22:58:10.499029+00:00",
-          "url": "https://d3rs5493odonf2.cloudfront.net"
+          "updated_at": "2025-03-05T02:00:09.984801+00:00",
+          "url": "https://dqjv0k6xq51xo.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-04T23:06:06.162925+00:00",
+          "created_at": "2025-03-05T02:08:07.398746+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-04T22:36:10.236721+00:00",
-          "url": "https://d1hnm0a8a87ci1.cloudfront.net"
+          "updated_at": "2025-03-05T01:44:09.337516+00:00",
+          "url": "https://d3mhn1f20d3mrh.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2093,13 +2093,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-03-04T23:08:06.779560+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-04T22:26:26.522701+00:00",
-          "url": "https://d2if97rrjjorci.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
