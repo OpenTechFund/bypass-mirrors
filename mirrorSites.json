@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-05T07:46:05.947457+00:00",
+          "created_at": "2025-03-05T10:54:08.701572+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-05T04:45:11.695419+00:00",
-          "url": "https://dv763kjk5cgqa.cloudfront.net"
+          "updated_at": "2025-03-05T07:54:14.757710+00:00",
+          "url": "https://d2jclhr6stv4ml.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
