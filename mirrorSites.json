@@ -808,11 +808,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-06T13:10:06.019845+00:00",
+          "created_at": "2025-03-08T15:03:06.768066+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-06T09:03:21.669455+00:00",
-          "url": "https://d2wmgztm1zowiy.cloudfront.net"
+          "updated_at": "2025-03-08T10:10:13.938002+00:00",
+          "url": "https://d2c0neb17cc7zj.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
