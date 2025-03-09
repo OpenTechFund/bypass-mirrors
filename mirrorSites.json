@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-07T19:31:05.782814+00:00",
+          "created_at": "2025-03-09T20:34:06.661839+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-06T05:45:09.863314+00:00",
-          "url": "https://dlhn1sagoij36.cloudfront.net"
+          "updated_at": "2025-03-08T09:04:16.379670+00:00",
+          "url": "https://d1947mv4p5i71v.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-09T17:11:10.246869+00:00",
+          "created_at": "2025-03-09T20:34:08.776470+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-09T13:41:15.499916+00:00",
-          "url": "https://d36wt996edrsmt.cloudfront.net"
+          "updated_at": "2025-03-09T17:11:17.074633+00:00",
+          "url": "https://dcr0bm8pjnlsd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-09T17:11:10.189629+00:00",
+          "created_at": "2025-03-09T20:34:08.741933+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-09T13:41:15.297024+00:00",
-          "url": "https://d1wreen7dw1ysw.cloudfront.net"
+          "updated_at": "2025-03-09T17:11:16.917515+00:00",
+          "url": "https://dkfe3uc5b08jt.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
