@@ -658,63 +658,23 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-07T23:16:07.679909+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-07T21:09:12.514539+00:00",
-          "url": "https://d66ohdez1kwpi.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-07T23:16:07.380343+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-07T21:48:13.008293+00:00",
-          "url": "https://d1ezx9u6mbdklq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-07T23:16:07.644884+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-07T21:48:14.851620+00:00",
-          "url": "https://djgdo1tpqzngk.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-07T23:16:07.544386+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-07T21:48:13.103055+00:00",
-          "url": "https://d3ajde2toc9ieo.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-07T23:16:07.612523+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-07T21:09:12.363864+00:00",
-          "url": "https://d2x6di8496m7ws.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
