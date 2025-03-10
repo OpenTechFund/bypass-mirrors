@@ -417,11 +417,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-03-08T04:57:07.976286+00:00",
+          "created_at": "2025-03-10T08:03:10.159177+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-08T01:46:11.115875+00:00",
-          "url": "https://d24ev6kw49jin6.cloudfront.net"
+          "updated_at": "2025-03-08T04:57:14.562658+00:00",
+          "url": "https://d3iloxjc26xnjt.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
