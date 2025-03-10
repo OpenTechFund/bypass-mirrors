@@ -1089,6 +1089,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-03-10T02:00:06.648280+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-10T01:58:12.936048+00:00",
+          "url": "https://d2eus91hx9ljlh.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2832,7 +2839,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-10T01:52:08.946941+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-10T01:50:20.913916+00:00",
+          "url": "https://ddtco0grcogjd.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
