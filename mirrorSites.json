@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-08T11:56:07.021421+00:00",
+          "created_at": "2025-03-10T14:06:05.141167+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-06T09:53:09.306591+00:00",
-          "url": "https://d37gtwz5ygp1ct.cloudfront.net"
+          "updated_at": "2025-03-08T12:24:15.843812+00:00",
+          "url": "https://d3vtstwr2je1q1.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -1091,11 +1091,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-03-10T02:00:06.648280+00:00",
+          "created_at": "2025-03-10T14:12:06.291272+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-10T01:58:12.936048+00:00",
-          "url": "https://d2eus91hx9ljlh.cloudfront.net"
+          "updated_at": "2025-03-10T13:24:11.414987+00:00",
+          "url": "https://dslakbwxp10xt.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
