@@ -670,7 +670,15 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-11T08:46:07.030025+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-11T08:44:13.397346+00:00",
+          "url": "https://d9c3mhwnyat15.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -1045,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-10T01:50:11.965292+00:00",
+          "created_at": "2025-03-11T08:52:09.436323+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-09T23:34:24.015552+00:00",
-          "url": "https://dqpf1v1r9hrdm.cloudfront.net"
+          "updated_at": "2025-03-10T13:26:10.418883+00:00",
+          "url": "https://d2qeob93b8x6ic.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2085,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-03-11T08:38:08.490209+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-11T08:36:20.645951+00:00",
+          "url": "https://dkob28fezmfqw.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
