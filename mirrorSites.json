@@ -579,11 +579,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-09T20:34:06.661839+00:00",
+          "created_at": "2025-03-11T23:39:04.543202+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-08T09:04:16.379670+00:00",
-          "url": "https://d1947mv4p5i71v.cloudfront.net"
+          "updated_at": "2025-03-10T12:02:15.794629+00:00",
+          "url": "https://dwqdi19jrgrmc.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
