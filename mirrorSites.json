@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-12T10:43:07.187503+00:00",
+          "created_at": "2025-03-12T15:02:07.541441+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-12T05:58:09.965828+00:00",
-          "url": "https://d1p3nkpl2qnjwc.cloudfront.net"
+          "updated_at": "2025-03-12T10:43:10.424758+00:00",
+          "url": "https://d3jzn3nza4ie5b.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2086,6 +2086,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-03-12T14:54:05.652834+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-12T06:22:12.441485+00:00",
+          "url": "https://d3nyveyyuwssd2.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
@@ -2827,11 +2834,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-12T03:44:11.377795+00:00",
+          "created_at": "2025-03-12T15:02:07.595599+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-12T03:28:12.100890+00:00",
-          "url": "https://d2sk8zm4d10gum.cloudfront.net"
+          "updated_at": "2025-03-12T06:30:11.825443+00:00",
+          "url": "https://d3l1r2p9wqbs35.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
