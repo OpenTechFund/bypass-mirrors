@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-03-12T11:57:04.829217+00:00",
+          "created_at": "2025-03-14T14:42:06.558742+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-10T11:38:10.926065+00:00",
-          "url": "https://d1n9lfzu0bsehc.cloudfront.net"
+          "updated_at": "2025-03-12T14:46:10.317081+00:00",
+          "url": "https://d1e3p58ej196wp.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -870,11 +870,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-12T12:52:06.953199+00:00",
+          "created_at": "2025-03-14T14:40:07.186474+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-10T09:50:12.452150+00:00",
-          "url": "https://d1c3p9tnt3u83f.cloudfront.net"
+          "updated_at": "2025-03-12T13:54:12.464696+00:00",
+          "url": "https://d1xuzi7xrwscry.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
