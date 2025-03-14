@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2025-03-12T09:17:05.504075+00:00",
+          "created_at": "2025-03-14T15:42:08.603176+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-12T00:23:10.913485+00:00",
-          "url": "https://d7zv4kvtorkg3.cloudfront.net"
+          "updated_at": "2025-03-14T03:27:09.302148+00:00",
+          "url": "https://d3mjbglxv0delp.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
