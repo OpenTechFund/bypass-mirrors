@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-14T22:57:08.521480+00:00",
+          "created_at": "2025-03-15T12:46:17.082678+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-14T18:28:21.778360+00:00",
-          "url": "https://d3oelstxskqpty.cloudfront.net"
+          "updated_at": "2025-03-15T00:56:11.686694+00:00",
+          "url": "https://d2rv3eqpc0hfb.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-14T18:36:06.843704+00:00",
+          "created_at": "2025-03-15T12:54:06.165526+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-14T18:14:08.665101+00:00",
-          "url": "https://dtq9up1jtohl4.cloudfront.net"
+          "updated_at": "2025-03-14T23:05:09.747401+00:00",
+          "url": "https://d2lx9nia1mzy1c.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
