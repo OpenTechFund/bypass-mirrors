@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-14T06:28:05.150704+00:00",
+          "created_at": "2025-03-16T10:00:04.172465+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-14T02:37:23.579927+00:00",
-          "url": "https://d304ywz70xw1od.cloudfront.net"
+          "updated_at": "2025-03-16T06:05:09.030899+00:00",
+          "url": "https://dq7dzn8zvk343.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-16T07:02:08.831476+00:00",
+          "created_at": "2025-03-16T10:04:08.149732+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-16T02:19:13.366493+00:00",
-          "url": "https://d2pvh3s6z1a7nb.cloudfront.net"
+          "updated_at": "2025-03-16T07:02:13.661823+00:00",
+          "url": "https://d1alqm8e07otlv.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
