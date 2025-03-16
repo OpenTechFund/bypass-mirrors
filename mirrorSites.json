@@ -1051,15 +1051,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-16T19:10:05.498448+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-16T10:04:12.713543+00:00",
-          "url": "https://d2rt7ixuo9j6n0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1287,13 +1279,6 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
-        },
-        {
-          "created_at": "2025-03-16T03:33:05.747629+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-16T03:31:12.252061+00:00",
-          "url": "https://dbzlj5gpycdci.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
