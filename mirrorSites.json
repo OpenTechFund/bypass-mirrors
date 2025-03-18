@@ -1051,7 +1051,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-18T07:00:11.268709+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-18T06:58:14.020349+00:00",
+          "url": "https://dqlfe8knpu2uk.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -2087,11 +2095,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-03-18T04:26:05.175860+00:00",
+          "created_at": "2025-03-18T07:28:06.180691+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-18T01:17:12.826469+00:00",
-          "url": "https://d2tewxrforsxr1.cloudfront.net"
+          "updated_at": "2025-03-18T04:26:10.328265+00:00",
+          "url": "https://d2cq57a4ko0ora.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
