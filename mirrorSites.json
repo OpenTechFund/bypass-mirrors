@@ -1089,6 +1089,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-03-19T16:07:19.629788+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-19T16:05:18.942955+00:00",
+          "url": "https://d2e3onp9l9tiep.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1160,11 +1167,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-17T11:09:12.005487+00:00",
+          "created_at": "2025-03-19T16:21:13.199566+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-16T14:29:10.937416+00:00",
-          "url": "https://d2jpmam96y0b06.cloudfront.net"
+          "updated_at": "2025-03-18T15:34:10.721975+00:00",
+          "url": "https://d2ilwaoptb725i.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
