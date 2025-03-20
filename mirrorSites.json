@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T08:15:10.696776+00:00",
+          "created_at": "2025-03-20T14:17:08.699137+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T06:49:19.669174+00:00",
-          "url": "https://d23zxaprugqp4g.cloudfront.net"
+          "updated_at": "2025-03-20T09:57:15.584347+00:00",
+          "url": "https://d2dbbr92sinsxv.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T09:41:17.024527+00:00",
+          "created_at": "2025-03-20T14:25:06.822703+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T06:57:11.363226+00:00",
-          "url": "https://d1h186sedaq2k4.cloudfront.net"
+          "updated_at": "2025-03-20T09:41:21.917606+00:00",
+          "url": "https://d2wbkslhkb6996.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2095,11 +2095,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-03-20T11:15:05.505698+00:00",
+          "created_at": "2025-03-20T14:17:07.412357+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T06:03:17.805085+00:00",
-          "url": "https://dng1v5eifg6fu.cloudfront.net"
+          "updated_at": "2025-03-20T11:15:11.377344+00:00",
+          "url": "https://domt2ddza5yqo.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
