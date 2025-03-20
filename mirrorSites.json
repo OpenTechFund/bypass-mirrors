@@ -660,11 +660,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T14:49:09.670886+00:00",
+          "created_at": "2025-03-20T22:09:08.385556+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T14:17:15.799641+00:00",
-          "url": "https://d2e2f0qdzf1adt.cloudfront.net"
+          "updated_at": "2025-03-20T19:02:18.611847+00:00",
+          "url": "https://d1ei6s833c73jd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T17:18:09.335066+00:00",
+          "created_at": "2025-03-20T22:09:08.350105+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T14:17:15.599639+00:00",
-          "url": "https://d5phxedz18pso.cloudfront.net"
+          "updated_at": "2025-03-20T17:18:18.079022+00:00",
+          "url": "https://d1phdqb7zxsmtw.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T14:49:09.483975+00:00",
+          "created_at": "2025-03-20T22:09:08.254366+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T14:17:13.250325+00:00",
-          "url": "https://d39qldyt3z7emx.cloudfront.net"
+          "updated_at": "2025-03-20T17:26:11.533457+00:00",
+          "url": "https://d3w28k75852znk.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T17:26:07.802896+00:00",
+          "created_at": "2025-03-20T22:09:08.314611+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T14:25:13.030535+00:00",
-          "url": "https://d3rbjxx6e6rdrr.cloudfront.net"
+          "updated_at": "2025-03-20T17:26:13.277317+00:00",
+          "url": "https://d3hc4iyqbrlp2e.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T17:26:07.398299+00:00",
+          "created_at": "2025-03-20T22:09:07.889405+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T14:25:10.489929+00:00",
-          "url": "https://d1qpe01ciqmxzh.cloudfront.net"
+          "updated_at": "2025-03-20T17:26:10.713065+00:00",
+          "url": "https://d1l06q81h825e6.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2095,11 +2095,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-03-20T17:18:07.839548+00:00",
+          "created_at": "2025-03-20T22:01:09.429250+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T14:17:13.829970+00:00",
-          "url": "https://dq0iyb5gnleqc.cloudfront.net"
+          "updated_at": "2025-03-20T17:18:15.809078+00:00",
+          "url": "https://d1woc3w195uus0.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
