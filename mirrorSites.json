@@ -660,11 +660,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T11:47:05.819546+00:00",
+          "created_at": "2025-03-20T14:49:09.670886+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T08:39:25.353362+00:00",
-          "url": "https://db3pw7e7eedf8.cloudfront.net"
+          "updated_at": "2025-03-20T14:17:15.799641+00:00",
+          "url": "https://d2e2f0qdzf1adt.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T11:23:09.713841+00:00",
+          "created_at": "2025-03-20T14:49:09.427352+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T08:39:21.151102+00:00",
-          "url": "https://d3nd1z5a7m7f4i.cloudfront.net"
+          "updated_at": "2025-03-20T11:47:09.285214+00:00",
+          "url": "https://d39a0iy2w3zjm1.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T11:47:05.681195+00:00",
+          "created_at": "2025-03-20T14:49:09.483975+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T08:39:21.486517+00:00",
-          "url": "https://d2c25iz9qy6ttp.cloudfront.net"
+          "updated_at": "2025-03-20T14:17:13.250325+00:00",
+          "url": "https://d39qldyt3z7emx.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -2057,11 +2057,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-03-20T11:47:05.714481+00:00",
+          "created_at": "2025-03-20T14:49:09.533110+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T08:15:16.699981+00:00",
-          "url": "https://d39zn7qmh3o106.cloudfront.net"
+          "updated_at": "2025-03-20T11:47:10.105384+00:00",
+          "url": "https://d1s38iav6rojbd.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-20T11:55:07.016319+00:00",
+          "created_at": "2025-03-20T14:57:12.069074+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-20T08:23:20.973614+00:00",
-          "url": "https://d2xj0uz25lxnjp.cloudfront.net"
+          "updated_at": "2025-03-20T11:55:14.269560+00:00",
+          "url": "https://d3umncnb100lf4.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
