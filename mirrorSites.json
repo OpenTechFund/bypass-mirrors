@@ -646,15 +646,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-22T09:24:08.055774+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-22T06:47:09.979685+00:00",
-          "url": "https://ddtyadqjdvxsn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -1287,6 +1279,13 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
+        },
+        {
+          "created_at": "2025-03-22T18:08:06.933825+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-22T18:06:14.265625+00:00",
+          "url": "https://d3r4ckraf74jck.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
