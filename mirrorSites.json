@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-23T13:54:12.915770+00:00",
+          "created_at": "2025-03-23T19:41:07.912875+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-23T05:39:16.600055+00:00",
-          "url": "https://d55sprzxu3f29.cloudfront.net"
+          "updated_at": "2025-03-23T13:54:18.531044+00:00",
+          "url": "https://d2w22r8zn25kuw.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-23T13:54:13.045622+00:00",
+          "created_at": "2025-03-23T19:41:08.201597+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-23T05:39:19.743006+00:00",
-          "url": "https://d3s90sid5yr1jj.cloudfront.net"
+          "updated_at": "2025-03-23T16:24:11.160891+00:00",
+          "url": "https://d9phumm2hstid.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-23T14:26:06.736586+00:00",
+          "created_at": "2025-03-23T19:41:07.533339+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-23T05:47:08.888062+00:00",
-          "url": "https://d3cgi5rksgg5j9.cloudfront.net"
+          "updated_at": "2025-03-23T14:26:10.878138+00:00",
+          "url": "https://d2oe3wsk8pnqf3.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-23T14:26:06.780502+00:00",
+          "created_at": "2025-03-23T19:41:07.588346+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-23T05:47:11.099316+00:00",
-          "url": "https://dhyvt73q5dheu.cloudfront.net"
+          "updated_at": "2025-03-23T14:26:13.840779+00:00",
+          "url": "https://d3jif7ftmc4xqg.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
