@@ -1508,6 +1508,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:28.388375+00:00",
           "url": "https://www.benarnbltxd2z2uhr3adq62fkyxwx6multgy3o4celj3gqzo4glfbhqd.onion"
+        },
+        {
+          "created_at": "2025-03-23T21:13:05.198280+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-05T00:24:10.194449+00:00",
+          "url": "https://dpteuf4xibcg4.cloudfront.net"
         }
       ],
       "main_domain": "benarnews.org"
