@@ -348,11 +348,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-03-22T06:47:04.314850+00:00",
+          "created_at": "2025-03-24T07:57:06.498364+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-21T01:34:29.395635+00:00",
-          "url": "https://d11wxphlmnmt32.cloudfront.net"
+          "updated_at": "2025-03-23T03:59:09.821526+00:00",
+          "url": "https://dbkyb5j1crikz.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -1051,15 +1051,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-23T19:41:07.533339+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-23T14:26:10.878138+00:00",
-          "url": "https://d2oe3wsk8pnqf3.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
