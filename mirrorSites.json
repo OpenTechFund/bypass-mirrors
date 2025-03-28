@@ -646,7 +646,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-28T09:42:06.910519+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-28T09:40:09.301724+00:00",
+          "url": "https://d2gtrnus92gujk.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -1081,6 +1089,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-03-28T09:34:08.680508+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-28T09:32:23.988799+00:00",
+          "url": "https://d36ju0ensvcvu9.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
