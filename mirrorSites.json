@@ -598,11 +598,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-03-27T04:11:05.636484+00:00",
+          "created_at": "2025-03-29T06:10:06.308651+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-25T02:37:10.585985+00:00",
-          "url": "https://db8z2lymcfg9r.cloudfront.net"
+          "updated_at": "2025-03-27T04:11:06.279226+00:00",
+          "url": "https://d2zhwy59btnbvb.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -2093,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-03-29T05:42:07.070420+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-29T05:40:13.014322+00:00",
+          "url": "https://d1wyzga9f691av.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
