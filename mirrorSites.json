@@ -415,13 +415,6 @@
           "type": "eotk",
           "updated_at": "2024-09-30 08:27:14.015824+00:00",
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
-        },
-        {
-          "created_at": "2025-03-27T05:53:06.172182+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-25T03:41:20.450206+00:00",
-          "url": "https://dv5u51dp9x4j2.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
