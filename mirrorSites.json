@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-30T06:35:15.067092+00:00",
+          "created_at": "2025-03-30T09:43:12.000098+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-30T03:20:10.456324+00:00",
-          "url": "https://d36tia0xc21qir.cloudfront.net"
+          "updated_at": "2025-03-30T07:05:12.534716+00:00",
+          "url": "https://d1eteqdcuyqcgi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-30T06:27:07.121277+00:00",
+          "created_at": "2025-03-30T09:35:09.247207+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-30T03:20:12.589795+00:00",
-          "url": "https://d29s2mtlghk4vw.cloudfront.net"
+          "updated_at": "2025-03-30T06:27:12.689986+00:00",
+          "url": "https://d4z69okqqr5qe.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-30T06:35:15.254199+00:00",
+          "created_at": "2025-03-30T09:43:12.135616+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-30T03:20:12.442584+00:00",
-          "url": "https://d26ujw7e3w9zo8.cloudfront.net"
+          "updated_at": "2025-03-30T06:35:27.050068+00:00",
+          "url": "https://dpy2iond7p448.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2093,13 +2093,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-03-30T03:06:06.888527+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-30T03:04:15.018369+00:00",
-          "url": "https://d39lc66s88jkgt.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
