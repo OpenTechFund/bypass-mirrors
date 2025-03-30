@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-28T20:52:04.862316+00:00",
+          "created_at": "2025-03-30T22:50:04.528111+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-28T18:29:13.078722+00:00",
-          "url": "https://d2kqjjzka582bo.cloudfront.net"
+          "updated_at": "2025-03-30T22:08:14.310627+00:00",
+          "url": "https://d3q07ev3k3c3y3.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-30T12:52:07.529681+00:00",
+          "created_at": "2025-03-30T22:52:06.698276+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-30T09:43:21.691385+00:00",
-          "url": "https://d3cxg1chwxkgsi.cloudfront.net"
+          "updated_at": "2025-03-30T22:12:25.241086+00:00",
+          "url": "https://d3bqubye177cmw.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-30T12:52:07.491009+00:00",
+          "created_at": "2025-03-30T22:52:06.640345+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-30T09:43:21.283191+00:00",
-          "url": "https://d2ekcdxo4z7z3z.cloudfront.net"
+          "updated_at": "2025-03-30T12:52:13.393452+00:00",
+          "url": "https://d3xovlgu8ephd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
