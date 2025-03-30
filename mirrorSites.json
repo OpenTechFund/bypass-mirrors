@@ -684,35 +684,27 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-29T11:55:07.316802+00:00",
+          "created_at": "2025-03-30T03:20:06.692203+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-29T05:18:11.740691+00:00",
-          "url": "https://dsycgtx7xbzkg.cloudfront.net"
+          "updated_at": "2025-03-29T11:55:12.961630+00:00",
+          "url": "https://d3u2lhtqrrolga.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-29T07:22:08.343631+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-29T05:16:12.148480+00:00",
-          "url": "https://d5djm3a894yv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-29T08:18:08.186342+00:00",
+          "created_at": "2025-03-30T03:20:06.653874+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-29T06:58:14.177120+00:00",
-          "url": "https://d3gdlisyld3olq.cloudfront.net"
+          "updated_at": "2025-03-29T23:21:20.975832+00:00",
+          "url": "https://d1n85nzr2p39q0.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2055,13 +2047,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-03-29T11:55:07.244295+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-29T08:18:12.891225+00:00",
-          "url": "https://d2vjy4d2o9d0ky.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
