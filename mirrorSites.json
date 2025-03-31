@@ -1003,15 +1003,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-30T13:08:10.923785+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-30T09:51:10.129400+00:00",
-          "url": "https://d20l8t02vmba0h.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1239,13 +1231,6 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
-        },
-        {
-          "created_at": "2025-03-30T11:26:05.419489+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-30T10:23:17.923854+00:00",
-          "url": "https://d129u0gomkmrta.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
@@ -2038,6 +2023,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-03-31T06:57:07.022757+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T06:55:11.742622+00:00",
+          "url": "https://d1lrhn3xi3ivfr.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
@@ -2777,15 +2769,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-03-30T10:25:07.305394+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-03-30T10:23:20.292340+00:00",
-          "url": "https://d1o6vzswq9skso.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
