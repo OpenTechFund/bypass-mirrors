@@ -1051,7 +1051,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-31T07:13:07.966607+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T07:11:10.818309+00:00",
+          "url": "https://d8ro2q3vmojqn.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -1279,6 +1287,13 @@
           "type": "eotk",
           "updated_at": "2022-07-01 14:14:04.054397+00:00",
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
+        },
+        {
+          "created_at": "2025-03-31T07:13:07.299293+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T07:11:11.731290+00:00",
+          "url": "https://d1uv8xh2o6t6ka.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
@@ -2824,7 +2839,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-31T07:13:08.028356+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T07:11:13.243642+00:00",
+          "url": "https://d1gc4q1bdub1a1.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
