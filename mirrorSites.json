@@ -398,11 +398,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2025-03-29T01:23:11.816795+00:00",
+          "created_at": "2025-03-31T04:53:06.547750+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-27T06:13:23.869714+00:00",
-          "url": "https://d2o2iyjfipkkep.cloudfront.net"
+          "updated_at": "2025-03-29T07:44:10.999599+00:00",
+          "url": "https://d2sybfmk06kyer.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
