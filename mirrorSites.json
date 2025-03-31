@@ -646,15 +646,39 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-31T10:12:07.534415+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T07:05:12.238449+00:00",
+          "url": "https://d33tai6qkss4v6.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-31T10:12:07.986232+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T07:05:15.154481+00:00",
+          "url": "https://d3sufe2jexmxdu.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-03-31T10:12:07.744928+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T07:05:12.411798+00:00",
+          "url": "https://d9fz5976bu2zb.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -2061,6 +2085,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-03-31T10:06:05.267093+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-03-31T10:04:12.903839+00:00",
+          "url": "https://d17szwm9p3qe3l.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
