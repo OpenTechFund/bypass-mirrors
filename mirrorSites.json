@@ -646,15 +646,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-01T10:13:16.891658+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-01T10:11:15.826978+00:00",
-          "url": "https://d2xwjbludhwn9n.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -684,11 +676,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-01T10:13:17.478820+00:00",
+          "created_at": "2025-04-01T14:32:06.922685+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-01T10:11:19.840496+00:00",
-          "url": "https://diptjmvo6lg1n.cloudfront.net"
+          "updated_at": "2025-04-01T10:13:29.014788+00:00",
+          "url": "https://d2ogicf2t1m1nr.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -696,11 +688,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-01T10:13:17.117186+00:00",
+          "created_at": "2025-04-01T14:32:06.794356+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-01T10:11:16.291474+00:00",
-          "url": "https://dr7yhqlqmqlxf.cloudfront.net"
+          "updated_at": "2025-04-01T13:44:14.346939+00:00",
+          "url": "https://d3st750f1l3y7c.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -708,11 +700,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-01T10:13:17.357187+00:00",
+          "created_at": "2025-04-01T14:32:06.865955+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-01T10:11:19.550472+00:00",
-          "url": "https://dz497jkxmakcw.cloudfront.net"
+          "updated_at": "2025-04-01T10:13:28.735008+00:00",
+          "url": "https://dylqtoa6sh5i.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
