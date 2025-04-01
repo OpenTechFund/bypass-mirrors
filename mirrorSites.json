@@ -2055,6 +2055,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-04-01T13:21:06.312073+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-01T13:13:23.557953+00:00",
+          "url": "https://d3dp8xq458ncya.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2086,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-04-01T13:15:07.193699+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-01T13:13:23.083197+00:00",
+          "url": "https://d1o5w7wgfom6hq.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
