@@ -670,7 +670,15 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-02T08:31:06.497604+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-02T08:29:12.609577+00:00",
+          "url": "https://d392ffrnq9yusd.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -686,7 +694,15 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-02T08:31:06.536093+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-02T08:29:12.761478+00:00",
+          "url": "https://d17yatc51sggq7.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -2039,6 +2055,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-04-02T08:31:06.568723+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-02T08:29:13.446069+00:00",
+          "url": "https://d3ro08m4aogwy6.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2070,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-04-02T08:23:05.207966+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-02T08:21:19.324046+00:00",
+          "url": "https://d2ihdzlsxovieq.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
