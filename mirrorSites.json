@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-31T13:39:09.145076+00:00",
+          "created_at": "2025-04-02T15:37:07.498754+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-29T17:46:11.812968+00:00",
-          "url": "https://d1kwq99ftyt3vr.cloudfront.net"
+          "updated_at": "2025-03-31T21:26:14.964475+00:00",
+          "url": "https://d3hd1p2u6r56uf.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -1289,11 +1289,11 @@
           "url": "https://www.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion"
         },
         {
-          "created_at": "2025-04-02T12:28:07.716691+00:00",
+          "created_at": "2025-04-02T15:29:06.361993+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-02T09:01:12.530578+00:00",
-          "url": "https://d224c5ydqp53qt.cloudfront.net"
+          "updated_at": "2025-04-02T12:28:14.712799+00:00",
+          "url": "https://d65kvntk7yjo.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.com"
