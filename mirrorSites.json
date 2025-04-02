@@ -889,11 +889,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-03-31T01:00:06.901233+00:00",
+          "created_at": "2025-04-02T03:58:06.522131+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-29T00:53:11.233052+00:00",
-          "url": "https://d2m6gi2h6yo6nr.cloudfront.net"
+          "updated_at": "2025-03-31T02:59:13.385718+00:00",
+          "url": "https://dyvu60r6a6cgs.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1203,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-31T03:17:06.855701+00:00",
+          "created_at": "2025-04-02T04:04:06.168839+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-30T23:30:16.305101+00:00",
-          "url": "https://d157ih638uwwc3.cloudfront.net"
+          "updated_at": "2025-04-02T02:28:21.289891+00:00",
+          "url": "https://d16mjk7dw2j0a.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-31T03:33:12.393842+00:00",
+          "created_at": "2025-04-02T03:58:07.465370+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-29T05:28:21.617912+00:00",
-          "url": "https://dh9v6f30lve5r.cloudfront.net"
+          "updated_at": "2025-03-31T08:04:12.649561+00:00",
+          "url": "https://d1av5xx2w6dd73.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
