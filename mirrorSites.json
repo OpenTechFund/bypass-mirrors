@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-03-31T14:11:06.253788+00:00",
+          "created_at": "2025-04-02T17:09:06.095730+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-31T10:38:14.380453+00:00",
-          "url": "https://dxkl8tdru1c00.cloudfront.net"
+          "updated_at": "2025-04-02T11:18:15.523072+00:00",
+          "url": "https://d36nbzdh9mrlcu.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
@@ -2093,6 +2093,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-04-02T16:59:05.979655+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-02T16:57:12.814736+00:00",
+          "url": "https://dx2lqy9a5v2f5.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
