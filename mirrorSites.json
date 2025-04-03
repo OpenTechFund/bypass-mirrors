@@ -682,15 +682,39 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-03T11:37:08.839505+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-03T11:35:14.973046+00:00",
+          "url": "https://d10axw34crpsii.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-03T11:37:08.681047+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-03T11:35:12.624472+00:00",
+          "url": "https://d3a3awvglinje5.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-03T11:37:08.780374+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-03T11:35:14.816694+00:00",
+          "url": "https://d1cl9xw0ojw243.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1027,7 +1051,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-03T11:37:08.174308+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-03T11:35:11.723717+00:00",
+          "url": "https://d1roivy18mp8fp.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -2023,6 +2055,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-04-03T11:37:08.727168+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-03T11:35:13.336887+00:00",
+          "url": "https://d23s7yna2xuq9z.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2800,7 +2839,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-03T11:37:08.229722+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-03T11:35:14.386789+00:00",
+          "url": "https://d2xuat7dhl1jbj.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
