@@ -2817,11 +2817,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-03T15:37:06.091567+00:00",
+          "created_at": "2025-04-03T18:40:07.637651+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-03T11:37:15.692347+00:00",
-          "url": "https://d39juut3wx04ce.cloudfront.net"
+          "updated_at": "2025-04-03T16:32:24.976661+00:00",
+          "url": "https://d1ifl38oj9i2w5.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
