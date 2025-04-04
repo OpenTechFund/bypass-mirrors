@@ -862,11 +862,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-02T10:40:04.853318+00:00",
+          "created_at": "2025-04-04T15:14:08.160079+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-31T13:49:12.105479+00:00",
-          "url": "https://drxcrz17hnhct.cloudfront.net"
+          "updated_at": "2025-04-02T14:45:17.915038+00:00",
+          "url": "https://dlt1h5z25p3y5.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
