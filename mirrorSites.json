@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-04T13:18:09.571980+00:00",
+          "created_at": "2025-04-04T16:36:13.340830+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-04T10:15:10.180253+00:00",
-          "url": "https://d20hqfvsstceqs.cloudfront.net"
+          "updated_at": "2025-04-04T13:18:16.455248+00:00",
+          "url": "https://d3dlrkwj00byac.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-04T13:34:08.750841+00:00",
+          "created_at": "2025-04-04T16:36:13.528690+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-04T10:15:12.508699+00:00",
-          "url": "https://d1xd16uh526el2.cloudfront.net"
+          "updated_at": "2025-04-04T13:34:17.177195+00:00",
+          "url": "https://d34jb2phaq3tzo.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-04T13:42:06.503660+00:00",
+          "created_at": "2025-04-04T16:44:07.483309+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-04T10:39:12.206920+00:00",
-          "url": "https://d3limbqi6d57fj.cloudfront.net"
+          "updated_at": "2025-04-04T16:12:14.031090+00:00",
+          "url": "https://d1dgpqlgxaj2d7.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
