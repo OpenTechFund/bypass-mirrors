@@ -1091,11 +1091,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-04-05T07:19:06.849356+00:00",
+          "created_at": "2025-04-05T20:12:07.164910+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-05T07:17:17.414648+00:00",
-          "url": "https://d1qmnj667q16ha.cloudfront.net"
+          "updated_at": "2025-04-05T07:19:15.759164+00:00",
+          "url": "https://d3uyayaiqdkxcu.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2093,13 +2093,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-04-05T12:48:05.551951+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-05T12:46:13.525110+00:00",
-          "url": "https://d1jlmm556hnyqu.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
