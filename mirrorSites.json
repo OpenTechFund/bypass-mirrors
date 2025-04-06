@@ -2833,11 +2833,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-06T00:05:06.213766+00:00",
+          "created_at": "2025-04-06T08:55:13.039296+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-05T20:58:14.689217+00:00",
-          "url": "https://d3abzbesncexji.cloudfront.net"
+          "updated_at": "2025-04-06T00:05:14.036266+00:00",
+          "url": "https://d2uzr2xkll76x4.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
