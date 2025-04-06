@@ -927,11 +927,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2025-04-01T10:11:04.987418+00:00",
+          "created_at": "2025-04-06T14:10:06.890255+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-03-29T13:21:10.753931+00:00",
-          "url": "https://d2wfash4r6xewc.cloudfront.net"
+          "updated_at": "2025-04-01T10:11:11.739389+00:00",
+          "url": "https://d6bmldu2vtj4j.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-06T08:32:12.518941+00:00",
+          "created_at": "2025-04-06T14:10:10.836611+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-06T00:13:09.807302+00:00",
-          "url": "https://dydv7l1upa0bj.cloudfront.net"
+          "updated_at": "2025-04-06T09:49:11.439581+00:00",
+          "url": "https://dp240248npn4t.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-06T08:55:13.039296+00:00",
+          "created_at": "2025-04-06T14:10:10.919326+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-06T00:05:14.036266+00:00",
-          "url": "https://d2uzr2xkll76x4.cloudfront.net"
+          "updated_at": "2025-04-06T08:55:22.811466+00:00",
+          "url": "https://d3ivlcvv2947p2.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
