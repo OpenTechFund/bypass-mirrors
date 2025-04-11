@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-11T02:41:08.231670+00:00",
+          "created_at": "2025-04-11T05:50:05.949464+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-10T22:36:13.966060+00:00",
-          "url": "https://d7fed1l7ajm29.cloudfront.net"
+          "updated_at": "2025-04-11T02:41:16.601625+00:00",
+          "url": "https://dkv97be3yvlo.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
