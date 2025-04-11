@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-04-09T06:58:05.957010+00:00",
+          "created_at": "2025-04-11T09:35:04.599626+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-08T14:49:14.094964+00:00",
-          "url": "https://d7g5wvwkpmm8u.cloudfront.net"
+          "updated_at": "2025-04-10T17:39:08.768622+00:00",
+          "url": "https://d2chvl55he0ed2.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -682,39 +682,15 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-11T05:18:16.724598+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-11T05:12:12.849972+00:00",
-          "url": "https://d3w0109whhv5ya.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-11T05:18:16.327413+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-11T05:12:10.834895+00:00",
-          "url": "https://d2pvg40hi4n92a.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-11T05:18:16.607913+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-11T05:12:12.700859+00:00",
-          "url": "https://d2zas6l4bl27hq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
