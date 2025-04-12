@@ -646,7 +646,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-12T10:22:35.174100+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-12T10:21:10.111659+00:00",
+          "url": "https://d1x6mfg0ncji59.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -1043,7 +1051,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-12T10:07:08.444862+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-12T10:05:14.990906+00:00",
+          "url": "https://ddt8f5oeajtmg.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -2823,7 +2839,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-12T10:07:08.502672+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-12T10:05:18.471055+00:00",
+          "url": "https://d1bk9bkpw54zz2.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
