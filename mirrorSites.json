@@ -470,15 +470,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-13T08:28:06.104866+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-13T08:26:18.038694+00:00",
-          "url": "https://dc2t6kzjvhfm0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1529,11 +1521,11 @@
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-04-10T13:55:08.968326+00:00",
+          "created_at": "2025-04-13T13:41:06.922343+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-09T19:02:09.886463+00:00",
-          "url": "https://d1z7vh331gpnx4.cloudfront.net"
+          "updated_at": "2025-04-11T18:06:12.425519+00:00",
+          "url": "https://duixcy6ze293m.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
@@ -1767,11 +1759,11 @@
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
         },
         {
-          "created_at": "2025-04-07T19:37:03.709091+00:00",
+          "created_at": "2025-04-13T13:41:05.816849+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-07T17:47:08.094265+00:00",
-          "url": "https://d30b4k8gy3plyw.cloudfront.net"
+          "updated_at": "2025-04-11T18:06:10.255320+00:00",
+          "url": "https://dc1ri8vlcm6za.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -1805,11 +1797,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2025-04-06T19:11:05.269803+00:00",
+          "created_at": "2025-04-13T13:41:06.065574+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-05T11:50:09.583196+00:00",
-          "url": "https://d1asywdwbarljf.cloudfront.net"
+          "updated_at": "2025-04-11T18:06:10.989591+00:00",
+          "url": "https://dvvsngdl0ch8j.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -2152,11 +2144,11 @@
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
         },
         {
-          "created_at": "2025-04-08T17:56:04.708779+00:00",
+          "created_at": "2025-04-13T13:41:07.133544+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-08T17:24:10.795547+00:00",
-          "url": "https://dnzjr8l5xhho2.cloudfront.net"
+          "updated_at": "2025-04-11T18:06:13.902886+00:00",
+          "url": "https://d2nl9xxsawoicx.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
@@ -2228,11 +2220,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-04-08T17:16:08.180914+00:00",
+          "created_at": "2025-04-13T13:41:06.863444+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-07T17:47:09.939632+00:00",
-          "url": "https://d2ptouyxhq8vzp.cloudfront.net"
+          "updated_at": "2025-04-12T13:12:09.644847+00:00",
+          "url": "https://d53jyfrprlp1y.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
@@ -2772,11 +2764,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-04-08T17:16:06.612043+00:00",
+          "created_at": "2025-04-13T13:41:05.627526+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-04T15:48:08.445003+00:00",
-          "url": "https://d22xobo59lisw1.cloudfront.net"
+          "updated_at": "2025-04-08T17:16:11.658345+00:00",
+          "url": "https://d1hbul25io7tv0.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
