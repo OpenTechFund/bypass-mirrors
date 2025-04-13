@@ -1051,7 +1051,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-13T14:37:09.861897+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-13T14:29:09.296844+00:00",
+          "url": "https://d2wz41g2az9ado.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -2831,7 +2839,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-13T14:37:09.921697+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-13T14:29:11.585201+00:00",
+          "url": "https://d3iu8o7lgshcql.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
