@@ -470,15 +470,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-12T17:27:17.443426+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-12T17:25:22.522284+00:00",
-          "url": "https://dmsj802o3w1jd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -791,11 +783,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-11T06:24:05.617437+00:00",
+          "created_at": "2025-04-13T08:26:08.573050+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-10T17:59:11.859586+00:00",
-          "url": "https://d1ubz3c8ahflq8.cloudfront.net"
+          "updated_at": "2025-04-12T21:08:14.163948+00:00",
+          "url": "https://d1cgc8ob4hjic.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1003,15 +995,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-12T10:07:08.444862+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-12T10:05:14.990906+00:00",
-          "url": "https://ddt8f5oeajtmg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2784,15 +2768,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-12T10:07:08.502672+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-12T10:05:18.471055+00:00",
-          "url": "https://d1bk9bkpw54zz2.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
