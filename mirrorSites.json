@@ -472,11 +472,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-14T04:27:12.735875+00:00",
+          "created_at": "2025-04-14T12:16:06.445126+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-13T17:27:22.593654+00:00",
-          "url": "https://d10vbt9f5gyaew.cloudfront.net"
+          "updated_at": "2025-04-14T04:27:23.236404+00:00",
+          "url": "https://d142ygc9rgoy62.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1051,15 +1051,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-13T23:34:10.907183+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-13T17:35:16.023148+00:00",
-          "url": "https://d26dr6fnqycejq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2839,15 +2831,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-13T23:34:10.977689+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-13T17:35:18.755724+00:00",
-          "url": "https://d1hcqufyhmj3x0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
