@@ -827,11 +827,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-04-14T17:03:05.799756+00:00",
+          "created_at": "2025-04-16T17:41:09.158263+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-14T13:07:15.124051+00:00",
-          "url": "https://d3icf4kkqauto3.cloudfront.net"
+          "updated_at": "2025-04-16T14:20:12.738180+00:00",
+          "url": "https://d16kh0zf452vti.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1053,11 +1053,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-16T14:30:08.429227+00:00",
+          "created_at": "2025-04-16T17:35:05.430303+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-16T06:21:11.034441+00:00",
-          "url": "https://d1ymxxkgoxnhzb.cloudfront.net"
+          "updated_at": "2025-04-16T14:30:12.229704+00:00",
+          "url": "https://d3qqz9vrgzl6jm.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2841,11 +2841,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-16T14:30:08.475721+00:00",
+          "created_at": "2025-04-16T17:35:05.469071+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-16T06:23:19.166800+00:00",
-          "url": "https://d116rayrprldq8.cloudfront.net"
+          "updated_at": "2025-04-16T17:03:12.682180+00:00",
+          "url": "https://d2y0fuizpllj2w.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
