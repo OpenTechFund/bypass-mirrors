@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2025-04-15T08:53:05.266298+00:00",
+          "created_at": "2025-04-17T10:00:04.638203+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-15T04:24:12.630165+00:00",
-          "url": "https://dlphdzkjhs3ol.cloudfront.net"
+          "updated_at": "2025-04-17T07:04:15.057381+00:00",
+          "url": "https://d3ttlf61mr2uw5.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-15T08:49:09.072628+00:00",
+          "created_at": "2025-04-17T10:06:10.271618+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-15T01:33:18.308392+00:00",
-          "url": "https://d1o9ldxo1otee4.cloudfront.net"
+          "updated_at": "2025-04-17T03:47:12.018043+00:00",
+          "url": "https://df3wswjgzv6tx.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
