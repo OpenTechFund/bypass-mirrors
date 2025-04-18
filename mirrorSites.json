@@ -1736,11 +1736,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-14T20:26:08.683229+00:00",
+          "created_at": "2025-04-18T18:37:07.675949+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-13T08:26:17.922119+00:00",
-          "url": "https://d26kxn8y9b4epu.cloudfront.net"
+          "updated_at": "2025-04-16T19:48:18.351898+00:00",
+          "url": "https://d10jwua1ftcab.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
