@@ -472,11 +472,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-14T12:16:06.445126+00:00",
+          "created_at": "2025-04-18T20:03:07.137640+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-14T04:27:23.236404+00:00",
-          "url": "https://d142ygc9rgoy62.cloudfront.net"
+          "updated_at": "2025-04-14T12:16:13.407539+00:00",
+          "url": "https://d1tg6as73suy0x.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
