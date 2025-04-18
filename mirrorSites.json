@@ -660,11 +660,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-17T22:35:06.845332+00:00",
+          "created_at": "2025-04-18T08:33:10.816458+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-17T20:12:29.278805+00:00",
-          "url": "https://d3tbot4ifn0vsw.cloudfront.net"
+          "updated_at": "2025-04-18T05:26:14.515869+00:00",
+          "url": "https://d3hag5sqseddx7.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1091,11 +1091,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-04-18T05:20:06.126919+00:00",
+          "created_at": "2025-04-18T08:25:07.385180+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-17T10:22:15.062613+00:00",
-          "url": "https://d3fpn7bh4nnlnm.cloudfront.net"
+          "updated_at": "2025-04-18T05:50:11.142014+00:00",
+          "url": "https://d19n7eclkisk1k.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
