@@ -158,11 +158,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-04-17T13:12:04.351022+00:00",
+          "created_at": "2025-04-19T18:06:05.662533+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-17T03:03:12.981805+00:00",
-          "url": "https://d1itaa9seuw018.cloudfront.net"
+          "updated_at": "2025-04-19T06:11:16.404465+00:00",
+          "url": "https://d2eczmsocv9bq6.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -554,6 +554,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:19:06.439970+00:00",
           "url": "https://moldova.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
+        },
+        {
+          "created_at": "2025-04-19T17:29:04.513646+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-19T17:29:04.513657+00:00",
+          "url": "https://d20tukwvbi0omk.cloudfront.net"
         }
       ],
       "main_domain": "moldova.europalibera.org"
@@ -1288,11 +1295,11 @@
           "url": "https://www.azattykniqsficisrmyoqv3orh77t3qgj364y4tl6zrdjgjptzev2kyd.onion"
         },
         {
-          "created_at": "2023-05-09T17:35:04.264498+00:00",
+          "created_at": "2025-04-19T18:14:04.068816+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-05-09T17:35:04.264508+00:00",
-          "url": "https://dczuo40mifw0m.cloudfront.net"
+          "updated_at": "2025-04-17T16:10:11.241324+00:00",
+          "url": "https://dbahfgkjcyibv.cloudfront.net"
         }
       ],
       "main_domain": "azattyk.org"
@@ -1324,6 +1331,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:06:05.772710+00:00",
           "url": "https://www.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
+        },
+        {
+          "created_at": "2025-04-19T17:21:04.833352+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-19T17:11:32.807013+00:00",
+          "url": "https://d51cr5kt4drjg.cloudfront.net"
         }
       ],
       "main_domain": "azatutyun.am"
