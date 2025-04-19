@@ -53,11 +53,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-17T11:26:10.586000+00:00",
+          "created_at": "2025-04-19T14:43:06.825179+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-15T20:03:11.944223+00:00",
-          "url": "https://d28ayx1djzjma.cloudfront.net"
+          "updated_at": "2025-04-17T21:01:11.395225+00:00",
+          "url": "https://d1gr4k2fl98z0e.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
