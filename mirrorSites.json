@@ -220,18 +220,6 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2023-06-01T09:20:04.828306+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-06-01T09:20:04.828318+00:00",
-          "url": "https://d2xeon47kcqmy3.cloudfront.net"
-        }
-      ],
-      "main_domain": "dl9960ihly6v8.cloudfront.net"
-    },
-    {
-      "available_alternatives": [
-        {
           "created_at": "2022-05-25 15:11:53.354808+00:00",
           "proto": "tor",
           "type": "eotk",
@@ -404,18 +392,6 @@
         }
       ],
       "main_domain": "gdb.votvot.tv"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2023-05-08T00:10:19.318707+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-08T00:10:19.318717+00:00",
-          "url": "https://d29jgqlyx17mle.cloudfront.net"
-        }
-      ],
-      "main_domain": "guardianproject.info"
     },
     {
       "available_alternatives": [
@@ -776,11 +752,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-17T10:44:06.676772+00:00",
+          "created_at": "2025-04-19T13:01:07.477399+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-17T05:21:12.577515+00:00",
-          "url": "https://d3mw1f0gzldxwh.cloudfront.net"
+          "updated_at": "2025-04-19T06:25:12.355411+00:00",
+          "url": "https://d2zx5ijgm06ber.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -2112,18 +2088,6 @@
         }
       ],
       "main_domain": "szabadeuropa.hu"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2024-12-09T21:25:23.727966+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2024-12-09T21:25:23.727975+00:00",
-          "url": "https://d3orxo7791yq64.cloudfront.net"
-        }
-      ],
-      "main_domain": "torproject.org"
     },
     {
       "available_alternatives": [
