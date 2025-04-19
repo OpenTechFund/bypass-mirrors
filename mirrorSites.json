@@ -2046,6 +2046,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:55:10.422554+00:00",
           "url": "https://www.szabadaa4cnxxkikgr4hufwxlsqty36t24yaml4omuglt3e5nvdaj3qd.onion"
+        },
+        {
+          "created_at": "2025-04-19T22:42:04.285833+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-19T22:42:04.285843+00:00",
+          "url": "https://dkp39iwjshox7.cloudfront.net"
         }
       ],
       "main_domain": "szabadeuropa.hu"
