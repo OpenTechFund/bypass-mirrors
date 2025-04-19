@@ -358,15 +358,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-19T04:43:09.250053+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-18T17:03:13.250825+00:00",
-          "url": "https://d11vwrq8mtjcyb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -646,15 +638,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-18T17:03:09.567627+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-18T13:40:10.907704+00:00",
-          "url": "https://d1pyiuujylzqp2.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -670,15 +654,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-18T21:13:07.243134+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-18T17:03:14.907351+00:00",
-          "url": "https://d2qxp6gxxp47oy.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -694,15 +670,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-18T17:03:09.662278+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-18T16:16:12.422447+00:00",
-          "url": "https://dr5qvwleezak1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -1051,15 +1019,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-18T19:33:06.604389+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-18T17:11:12.269922+00:00",
-          "url": "https://d118jbqti4u5oc.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
