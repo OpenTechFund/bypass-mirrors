@@ -604,11 +604,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-19T19:32:06.893475+00:00",
+          "created_at": "2025-04-19T22:40:07.993771+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T08:15:15.401824+00:00",
-          "url": "https://d1i53xlrpemind.cloudfront.net"
+          "updated_at": "2025-04-19T19:32:15.121973+00:00",
+          "url": "https://d2m4zdxrzer5lf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -616,11 +616,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-19T12:27:05.731989+00:00",
+          "created_at": "2025-04-19T22:40:07.735579+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T08:15:12.936461+00:00",
-          "url": "https://d2lfbnrjkcvda6.cloudfront.net"
+          "updated_at": "2025-04-19T22:00:12.074836+00:00",
+          "url": "https://dmqa6nbf3nstp.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1639,11 +1639,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-19T12:27:05.799034+00:00",
+          "created_at": "2025-04-19T22:40:07.799835+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T08:15:14.680349+00:00",
-          "url": "https://d39kqf9xzyqbf2.cloudfront.net"
+          "updated_at": "2025-04-19T12:27:12.726054+00:00",
+          "url": "https://d1zuwo5ug45c3q.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
@@ -1846,11 +1846,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-04-19T12:27:05.773402+00:00",
+          "created_at": "2025-04-19T22:40:07.774448+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T08:15:13.923009+00:00",
-          "url": "https://d2n2q0apsbe73j.cloudfront.net"
+          "updated_at": "2025-04-19T12:27:11.888112+00:00",
+          "url": "https://d19fz55tcgdr37.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2046,13 +2046,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:55:10.422554+00:00",
           "url": "https://www.szabadaa4cnxxkikgr4hufwxlsqty36t24yaml4omuglt3e5nvdaj3qd.onion"
-        },
-        {
-          "created_at": "2023-05-09T14:35:05.404129+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09T14:35:05.404140+00:00",
-          "url": "https://du6yi5hmmqsb7.cloudfront.net"
         }
       ],
       "main_domain": "szabadeuropa.hu"
