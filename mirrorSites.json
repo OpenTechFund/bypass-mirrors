@@ -966,11 +966,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-19T07:53:07.185380+00:00",
+          "created_at": "2025-04-19T20:28:07.226431+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T04:51:20.112402+00:00",
-          "url": "https://d1gy1bco703z2v.cloudfront.net"
+          "updated_at": "2025-04-19T08:23:15.839556+00:00",
+          "url": "https://d2mhgdl2s6gou6.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
