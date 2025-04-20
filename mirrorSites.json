@@ -2443,11 +2443,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-19T22:16:14.574509+00:00",
+          "created_at": "2025-04-20T01:17:07.748720+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T11:01:12.933995+00:00",
-          "url": "https://d2tl8n0n20v0em.cloudfront.net"
+          "updated_at": "2025-04-19T23:35:34.250013+00:00",
+          "url": "https://db08awp7h9q84.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
