@@ -566,15 +566,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-19T23:19:10.619202+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-19T22:00:11.723567+00:00",
-          "url": "https://d12pxjs2zysgnw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -590,15 +582,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-19T23:19:10.685289+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-19T22:40:14.285019+00:00",
-          "url": "https://d2z8u869yfj2o5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -626,15 +610,7 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-19T23:19:11.003312+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-19T22:40:16.824174+00:00",
-          "url": "https://d3bwxfjtwkfc72.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -964,15 +940,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-19T23:35:13.491462+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-19T22:16:23.991652+00:00",
-          "url": "https://d2f1dne1zc8xqa.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1844,13 +1812,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-04-20T01:41:09.029617+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-19T22:40:15.428777+00:00",
-          "url": "https://d2l2aj9qw5i5yj.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2443,11 +2404,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-20T01:17:07.748720+00:00",
+          "created_at": "2025-04-20T06:36:09.740104+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T23:35:34.250013+00:00",
-          "url": "https://db08awp7h9q84.cloudfront.net"
+          "updated_at": "2025-04-20T01:17:18.451241+00:00",
+          "url": "https://dokk25an3p8m0.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
