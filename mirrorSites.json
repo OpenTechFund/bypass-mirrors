@@ -1970,6 +1970,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:45:19.056357+00:00",
           "url": "https://www.slobodn2k7zvbkxz3k4f5uo4hbzofhznawg7houh4n6cy62drryxrvid.onion"
+        },
+        {
+          "created_at": "2025-04-20T07:22:04.870501+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-20T07:22:04.870511+00:00",
+          "url": "https://d1m45c4rwg4yvt.cloudfront.net"
         }
       ],
       "main_domain": "slobodnaevropa.org"
