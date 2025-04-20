@@ -604,11 +604,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-20T05:18:06.965450+00:00",
+          "created_at": "2025-04-20T08:26:11.499756+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T22:40:17.016389+00:00",
-          "url": "https://d3t85yiw4ccnfi.cloudfront.net"
+          "updated_at": "2025-04-20T06:36:28.248117+00:00",
+          "url": "https://db84r5xelokwh.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
