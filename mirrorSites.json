@@ -1497,6 +1497,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:59:50.459883+00:00",
           "url": "https://www.evropaebzunsfpzrct37ntka2luzjtayw7j7notqzmh7aypwsm5lqpid.onion"
+        },
+        {
+          "created_at": "2025-04-19T23:45:05.552463+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-19T23:43:13.015981+00:00",
+          "url": "https://d3v19cfgxp75dk.cloudfront.net"
         }
       ],
       "main_domain": "evropaelire.org"
