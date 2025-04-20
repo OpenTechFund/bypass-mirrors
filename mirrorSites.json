@@ -604,11 +604,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-19T22:40:07.993771+00:00",
+          "created_at": "2025-04-20T05:18:06.965450+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T19:32:15.121973+00:00",
-          "url": "https://d2m4zdxrzer5lf.cloudfront.net"
+          "updated_at": "2025-04-19T22:40:17.016389+00:00",
+          "url": "https://d3t85yiw4ccnfi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -819,13 +819,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:54:56.587356+00:00",
           "url": "https://romania.eurolibaoxh6xnxcms7egvag474qnjeca5m6rvomwhmmkw2jkascwhqd.onion"
-        },
-        {
-          "created_at": "2023-05-09T17:25:04.772567+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-05-09T17:25:04.772578+00:00",
-          "url": "https://datykpn29f6r5.cloudfront.net"
         }
       ],
       "main_domain": "romania.europalibera.org"
