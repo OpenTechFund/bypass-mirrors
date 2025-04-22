@@ -156,6 +156,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:57.369365+00:00",
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-04-22T10:02:04.763315+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:54:29.362243+00:00",
+          "url": "https://d1f1anpodxoco7.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -318,7 +325,15 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-22T12:27:07.914943+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:54:29.704958+00:00",
+          "url": "https://d3c96n9dd724v.cloudfront.net"
+        }
+      ],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -482,6 +497,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513+00:00",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-04-22T10:00:05.872754+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:56:28.237260+00:00",
+          "url": "https://d1vddlq88o6g0g.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -537,7 +559,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-22T12:27:07.955892+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:54:31.714511+00:00",
+          "url": "https://d1s63ym977kr19.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -573,7 +603,15 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-22T09:56:20.324006+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:54:35.738621+00:00",
+          "url": "https://d1jg5dhptyhk9o.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -658,7 +696,15 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-22T10:16:04.742901+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T10:04:13.771673+00:00",
+          "url": "https://d16fxrchcxs5sz.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-audio-ns.akamaized.net"
     },
     {
@@ -669,6 +715,13 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:14:58.556663+00:00",
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-04-22T10:10:09.821140+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:56:34.175733+00:00",
+          "url": "https://d3w1o63nb6a6yg.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -693,12 +746,27 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:17:38.534049+00:00",
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-04-22T10:04:05.223240+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:58:14.010904+00:00",
+          "url": "https://d3m9eoj418eze8.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-22T10:14:04.755720+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:56:34.293481+00:00",
+          "url": "https://d13btjqe725bml.cloudfront.net"
+        }
+      ],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
@@ -873,7 +941,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-22T09:56:19.083604+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:54:30.696157+00:00",
+          "url": "https://d280pifnbmgbmr.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -903,6 +979,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-04-22T09:56:18.177847+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T09:54:33.076277+00:00",
+          "url": "https://d2v4xrsl00lpgy.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -965,6 +1048,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309+00:00",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2025-04-22T10:24:04.458779+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-22T10:02:09.867476+00:00",
+          "url": "https://d37u4e868eo7b7.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1508,15 +1598,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-20T06:52:11.158247+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-20T06:50:35.377859+00:00",
-          "url": "https://daly4rolpoavd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
