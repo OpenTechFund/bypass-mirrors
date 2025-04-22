@@ -583,27 +583,11 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-22T19:08:05.941328+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-22T16:56:19.344301+00:00",
-          "url": "https://dsccitaq434si.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-22T19:08:06.212149+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-22T18:36:15.114660+00:00",
-          "url": "https://d31c0xim5p9po6.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -1821,13 +1805,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-04-22T19:08:06.006897+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-22T16:56:21.620342+00:00",
-          "url": "https://d1bktxppfgc9rz.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2411,15 +2388,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-22T19:08:05.717799+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-22T18:44:15.784963+00:00",
-          "url": "https://d2kijd134ih5aq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
