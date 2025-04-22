@@ -577,25 +577,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-22T09:54:23.176667+00:00",
+          "created_at": "2025-04-22T12:59:05.706256+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-20T13:32:17.641061+00:00",
-          "url": "https://d21l2n143dwiqx.cloudfront.net"
+          "updated_at": "2025-04-22T09:54:32.004947+00:00",
+          "url": "https://d19q1wgsq18sty.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-22T09:54:23.460730+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-20T11:56:19.392992+00:00",
-          "url": "https://dbsyknf2tojnl.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -1799,11 +1791,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-04-22T09:54:23.245581+00:00",
+          "created_at": "2025-04-22T12:59:05.770843+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-20T13:32:19.077346+00:00",
-          "url": "https://dpkmsasd43sv3.cloudfront.net"
+          "updated_at": "2025-04-22T09:54:33.430879+00:00",
+          "url": "https://d310pzbjp807og.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2394,15 +2386,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-22T09:54:22.930269+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-20T13:48:15.547832+00:00",
-          "url": "https://d112r6vmf433.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
