@@ -585,11 +585,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-22T22:10:06.096792+00:00",
+          "created_at": "2025-04-23T01:18:07.099448+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-22T20:02:20.843626+00:00",
-          "url": "https://dh3ws7lzq0a93.cloudfront.net"
+          "updated_at": "2025-04-22T23:04:16.233563+00:00",
+          "url": "https://d1dwmomfypuusr.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -597,11 +597,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-22T22:10:06.382635+00:00",
+          "created_at": "2025-04-23T01:18:07.407313+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-22T21:38:20.882216+00:00",
-          "url": "https://d1yqm17mhxjgmw.cloudfront.net"
+          "updated_at": "2025-04-23T00:40:14.900157+00:00",
+          "url": "https://d1xe95yqnilb3j.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1823,11 +1823,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-04-22T22:10:06.167251+00:00",
+          "created_at": "2025-04-23T01:18:07.186819+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-22T20:02:22.921652+00:00",
-          "url": "https://d2cznjo9u4lc13.cloudfront.net"
+          "updated_at": "2025-04-22T23:04:17.552173+00:00",
+          "url": "https://d1yncwjpg1caus.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2413,11 +2413,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-22T22:10:05.844524+00:00",
+          "created_at": "2025-04-23T01:18:06.861110+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-22T21:46:13.831012+00:00",
-          "url": "https://d27p2w7cuxfuxs.cloudfront.net"
+          "updated_at": "2025-04-23T00:48:17.056610+00:00",
+          "url": "https://d3kaqf9v63j6u.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
