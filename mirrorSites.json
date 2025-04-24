@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-04-22T10:02:04.763315+00:00",
+          "created_at": "2025-04-24T12:28:05.251047+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-22T09:54:29.362243+00:00",
-          "url": "https://d1f1anpodxoco7.cloudfront.net"
+          "updated_at": "2025-04-22T10:02:09.849589+00:00",
+          "url": "https://d3bsgy6n6sfrep.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -336,11 +336,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-04-22T09:58:06.283263+00:00",
+          "created_at": "2025-04-24T12:24:04.177975+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-19T09:37:09.280134+00:00",
-          "url": "https://dbhjpp8jkaqgr.cloudfront.net"
+          "updated_at": "2025-04-22T10:04:10.488497+00:00",
+          "url": "https://d26tlkmz7vbyst.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -1022,11 +1022,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-23T05:22:15.238081+00:00",
+          "created_at": "2025-04-24T12:28:06.371812+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-23T04:20:18.029791+00:00",
-          "url": "https://d3pal2u1y1g7x7.cloudfront.net"
+          "updated_at": "2025-04-23T07:21:11.781871+00:00",
+          "url": "https://d377x21xapib9w.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
