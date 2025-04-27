@@ -1029,11 +1029,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T05:19:06.872527+00:00",
+          "created_at": "2025-04-27T08:22:11.034910+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T04:31:10.941923+00:00",
-          "url": "https://d11hg115hit4m6.cloudfront.net"
+          "updated_at": "2025-04-27T07:36:14.985123+00:00",
+          "url": "https://d265x0qgv9tpdp.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1191,11 +1191,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-25T07:02:05.844471+00:00",
+          "created_at": "2025-04-27T08:28:06.376987+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-24T11:26:16.688241+00:00",
-          "url": "https://d38u188d7p5deq.cloudfront.net"
+          "updated_at": "2025-04-26T14:52:15.899922+00:00",
+          "url": "https://d2m5zl4s351ns7.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -2805,11 +2805,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T05:19:06.915700+00:00",
+          "created_at": "2025-04-27T08:22:11.102609+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T04:31:13.349680+00:00",
-          "url": "https://d3rhoqpzos5mkt.cloudfront.net"
+          "updated_at": "2025-04-27T07:36:18.796196+00:00",
+          "url": "https://d2ei9plvi6ripl.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
