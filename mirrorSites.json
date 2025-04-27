@@ -348,11 +348,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T08:16:06.045280+00:00",
+          "created_at": "2025-04-27T11:24:12.086192+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T07:36:14.100574+00:00",
-          "url": "https://d12s2jpzgvqqhz.cloudfront.net"
+          "updated_at": "2025-04-27T10:38:09.272652+00:00",
+          "url": "https://dyp8p5hkkjtt.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1029,11 +1029,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T08:22:11.034910+00:00",
+          "created_at": "2025-04-27T11:24:11.681195+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T07:36:14.985123+00:00",
-          "url": "https://d265x0qgv9tpdp.cloudfront.net"
+          "updated_at": "2025-04-27T10:38:09.803913+00:00",
+          "url": "https://d25khjijv33g0u.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
