@@ -636,11 +636,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T18:03:06.546871+00:00",
+          "created_at": "2025-04-28T13:22:05.518332+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T14:19:25.769117+00:00",
-          "url": "https://d2xjem2h1ks1of.cloudfront.net"
+          "updated_at": "2025-04-27T23:29:10.633491+00:00",
+          "url": "https://dzap7u5ik4vzn.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -648,37 +648,21 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T21:29:07.347086+00:00",
+          "created_at": "2025-04-28T13:22:05.954782+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T14:51:21.680943+00:00",
-          "url": "https://d2cdbv88x7jzpg.cloudfront.net"
+          "updated_at": "2025-04-27T21:29:16.601908+00:00",
+          "url": "https://dq3pvklymy7qs.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-27T14:19:16.970566+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-27T13:31:13.590407+00:00",
-          "url": "https://d38xs42umic4yi.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-27T14:51:09.470969+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-27T13:39:21.365151+00:00",
-          "url": "https://d19b93d29aw0v7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -694,15 +678,7 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-04-27T14:51:09.402510+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-27T13:39:21.183345+00:00",
-          "url": "https://d1kas8wmd9ymct.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1824,11 +1800,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T14:27:07.123133+00:00",
+          "created_at": "2025-04-28T13:22:05.662261+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T13:31:15.194537+00:00",
-          "url": "https://d1exwwggmmv8fm.cloudfront.net"
+          "updated_at": "2025-04-27T18:51:15.186305+00:00",
+          "url": "https://dkzt4kg0iwxsh.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
@@ -2045,11 +2021,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-04-27T23:29:05.708697+00:00",
+          "created_at": "2025-04-28T13:22:05.634953+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T18:51:14.097636+00:00",
-          "url": "https://d327x8k7apvpym.cloudfront.net"
+          "updated_at": "2025-04-27T23:29:11.779655+00:00",
+          "url": "https://dh2r9agylqiwv.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
