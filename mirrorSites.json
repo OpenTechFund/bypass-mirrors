@@ -858,11 +858,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-26T15:39:06.944311+00:00",
+          "created_at": "2025-04-28T19:57:05.357902+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-26T13:02:15.622438+00:00",
-          "url": "https://d3ftntdaumz1up.cloudfront.net"
+          "updated_at": "2025-04-28T17:12:15.782123+00:00",
+          "url": "https://d3favntgkrw7ti.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
