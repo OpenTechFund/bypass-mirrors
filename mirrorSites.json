@@ -114,7 +114,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T16:15:04.254766+00:00",
-          "url": "https://d11pzamp0x90u5.cloudfront.net"
+          "url": "https://d34pjxrwx65qe1.cloudfront.net"
         }
       ],
       "main_domain": "azathab.github.io"
@@ -126,7 +126,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T14:10:04.261019+00:00",
-          "url": "https://d161gnmpm04lh5.cloudfront.net"
+          "url": "https://dox7c2iio0osu.cloudfront.net"
         }
       ],
       "main_domain": "azathab.gitlab.io"
@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-04-27T19:53:07.288074+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T19:53:07.288085+00:00",
+          "url": "https://d2bnmhl51hlx87.cloudfront.net"
+        }
+      ],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -268,7 +276,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-07T22:40:03.440073+00:00",
-          "url": "https://djgfpsm3aesii.cloudfront.net"
+          "url": "https://d1c9pzf3wg04yu.cloudfront.net"
         }
       ],
       "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
@@ -287,7 +295,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T13:00:04.136134+00:00",
-          "url": "https://d3cha6o27gpye5.cloudfront.net"
+          "url": "https://d1upajqxtyuybj.cloudfront.net"
         }
       ],
       "main_domain": "en.currenttime.tv"
@@ -544,7 +552,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.483409+00:00",
-          "url": "https://dptvtyj3lcm3g.cloudfront.net"
+          "url": "https://dn2eychiquhge.cloudfront.net"
         }
       ],
       "main_domain": "learningenglish.voanews.com"
@@ -595,6 +603,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:26:58.061785+00:00",
           "url": "https://mk.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2025-04-27T21:29:08.008541+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T21:29:08.008549+00:00",
+          "url": "https://d3d1beoy15f4fk.cloudfront.net"
         }
       ],
       "main_domain": "mk.voanews.com"
@@ -697,7 +712,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-07T22:30:03.280769+00:00",
-          "url": "https://dev3h914vzzw0.cloudfront.net"
+          "url": "https://d2c3nw2eqmtbzm.cloudfront.net"
         }
       ],
       "main_domain": "OpenTechFund.github.io"
@@ -735,7 +750,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T14:20:03.452170+00:00",
-          "url": "https://d1lllnd122slwm.cloudfront.net"
+          "url": "https://d1424on907m4wa.cloudfront.net"
         }
       ],
       "main_domain": "pressroom.rferl.org"
@@ -773,7 +788,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-09-28T15:55:03.616109+00:00",
-          "url": "https://d2ustnmnxbnb3b.cloudfront.net"
+          "url": "https://d1852h3mkc91qm.cloudfront.net"
         }
       ],
       "main_domain": "qa.rferl.org"
@@ -1049,7 +1064,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-09-28T15:55:03.629164+00:00",
-          "url": "https://dxq3leh9uhnb4.cloudfront.net"
+          "url": "https://d2g2lb5xc10jhh.cloudfront.net"
         }
       ],
       "main_domain": "stage.rferl.org"
@@ -1247,7 +1262,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T18:10:04.834573+00:00",
-          "url": "https://d2o2c2l595zwxn.cloudfront.net"
+          "url": "https://d23p9h8lca7xbq.cloudfront.net"
         }
       ],
       "main_domain": "alhurra.com"
@@ -1285,7 +1300,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.679474+00:00",
-          "url": "https://d15ewa2zdwfwx9.cloudfront.net"
+          "url": "https://dkanounl6jusn.cloudfront.net"
         }
       ],
       "main_domain": "amerikaninsesi.org"
@@ -1323,7 +1338,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.491900+00:00",
-          "url": "https://d1ljpqgw4b8heb.cloudfront.net"
+          "url": "https://d3ag56cw11yaph.cloudfront.net"
         }
       ],
       "main_domain": "amerikayidzayn.com"
@@ -1342,7 +1357,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T17:45:04.860096+00:00",
-          "url": "https://d2w3yl7nfolq3e.cloudfront.net"
+          "url": "https://dv407ichic5zp.cloudfront.net"
         }
       ],
       "main_domain": "amerikiskhma.com"
@@ -1519,6 +1534,13 @@
           "type": "eotk",
           "updated_at": "2023-12-01 15:25:12.706523+00:00",
           "url": "https://www.darivoaw7yax3xqupowgqshowtkunw3xhwtwz7pxhwdtlur47jzawzad.onion"
+        },
+        {
+          "created_at": "2025-04-27T21:21:06.768352+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T21:21:06.768365+00:00",
+          "url": "https://d1n0i3gs1qgy5.cloudfront.net"
         }
       ],
       "main_domain": "darivoa.com"
@@ -1606,7 +1628,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T18:32:14.631339+00:00",
-          "url": "https://d1o4mkyg3xpmvy.cloudfront.net"
+          "url": "https://dw8afz3giozga.cloudfront.net"
         }
       ],
       "main_domain": "elsaha.com"
@@ -1625,7 +1647,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T16:15:04.456976+00:00",
-          "url": "https://devrr651gu2n7.cloudfront.net"
+          "url": "https://d1z3tf5wuc5ufl.cloudfront.net"
         }
       ],
       "main_domain": "europalibera.org"
@@ -1756,7 +1778,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T14:15:04.434371+00:00",
-          "url": "https://d2t1z1w0tu8ncy.cloudfront.net"
+          "url": "https://dvmhgsc98ysdj.cloudfront.net"
         }
       ],
       "main_domain": "irfaasawtak.com"
@@ -1794,7 +1816,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T13:20:04.832482+00:00",
-          "url": "https://doju7fkjdzak5.cloudfront.net"
+          "url": "https://d2v8y8z2m0g7px.cloudfront.net"
         }
       ],
       "main_domain": "maghrebvoices.com"
@@ -1837,7 +1859,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-08T00:15:04.082845+00:00",
-          "url": "https://d2w0svsrcnldbm.cloudfront.net"
+          "url": "https://d2utueq9hm7ozv.cloudfront.net"
         }
       ],
       "main_domain": "opentech.fund"
@@ -1913,7 +1935,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:53.849239+00:00",
-          "url": "https://dq70uxqmns2c6.cloudfront.net"
+          "url": "https://d1dehw1mw9g0yx.cloudfront.net"
         }
       ],
       "main_domain": "polygraph.info"
@@ -1970,7 +1992,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-09T14:55:05.001368+00:00",
-          "url": "https://dcu22hikrvarw.cloudfront.net"
+          "url": "https://d1f1oakjkl8ifm.cloudfront.net"
         }
       ],
       "main_domain": "radiosawa.com"
@@ -2021,6 +2043,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-04-27T23:29:05.708697+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T18:51:14.097636+00:00",
+          "url": "https://d327x8k7apvpym.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2267,7 +2296,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.191734+00:00",
-          "url": "https://d1823s0e681j1k.cloudfront.net"
+          "url": "https://d38xihc8qmdhvi.cloudfront.net"
         }
       ],
       "main_domain": "voaafaanoromoo.com"
@@ -2305,7 +2334,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:53.703679+00:00",
-          "url": "https://d3082myiwx1sc6.cloudfront.net"
+          "url": "https://d3htdxm6fw69g3.cloudfront.net"
         }
       ],
       "main_domain": "voabambara.com"
@@ -2343,7 +2372,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.687001+00:00",
-          "url": "https://d3n7f0mowpm3wb.cloudfront.net"
+          "url": "https://d3j4pfemb1wxrl.cloudfront.net"
         }
       ],
       "main_domain": "voacambodia.com"
@@ -2375,6 +2404,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:27:59.099944+00:00",
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
+        },
+        {
+          "created_at": "2025-04-27T21:55:07.225537+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T21:53:12.708615+00:00",
+          "url": "https://d2kf0owfc8hccd.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
@@ -2393,7 +2429,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.694635+00:00",
-          "url": "https://d1yb9q2j8wv7cw.cloudfront.net"
+          "url": "https://d2o7zv8tfibtvp.cloudfront.net"
         }
       ],
       "main_domain": "voadeewanews.com"
@@ -2406,6 +2442,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:04:38.320603+00:00",
           "url": "https://www.hausawglwpwzr4svrerazwxt7mqpcw3hfoxp5r7jjrkttqc3qrs5syid.onion"
+        },
+        {
+          "created_at": "2025-04-27T22:09:07.101658+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T22:09:07.101667+00:00",
+          "url": "https://d2u5ddzqv4zi57.cloudfront.net"
         }
       ],
       "main_domain": "voahausa.com"
@@ -2418,6 +2461,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 14:28:35.248518+00:00",
           "url": "https://www.voaindou2k54buiv5yksvpjo3iahb3uwtjmpm4it6j2kdok4hncu2xyd.onion"
+        },
+        {
+          "created_at": "2025-04-27T21:29:08.046367+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T21:29:08.046371+00:00",
+          "url": "https://d372zcvhdccz3r.cloudfront.net"
         }
       ],
       "main_domain": "voaindonesia.com"
@@ -2455,7 +2505,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.606624+00:00",
-          "url": "https://d8s8wvkcrxzjj.cloudfront.net"
+          "url": "https://d1iwgtre08ixcm.cloudfront.net"
         }
       ],
       "main_domain": "voalingala.com"
@@ -2493,7 +2543,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.532268+00:00",
-          "url": "https://d3sghvpyzgeiyi.cloudfront.net"
+          "url": "https://d2c72hkaqrcfxm.cloudfront.net"
         }
       ],
       "main_domain": "voanews.com"
@@ -2588,7 +2638,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.183122+00:00",
-          "url": "https://d17jxaf00a7nij.cloudfront.net"
+          "url": "https://d3rnk3sicb75yi.cloudfront.net"
         }
       ],
       "main_domain": "voaswahili.com"
@@ -2658,6 +2708,13 @@
           "type": "eotk",
           "updated_at": "2022-09-16 14:19:59.353671+00:00",
           "url": "https://www.voaturkqgmfs6ufdxthgkboec6fsadctaacqceksiji25r4id2xdl2ad.onion"
+        },
+        {
+          "created_at": "2025-04-27T22:17:06.558371+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-04-27T21:47:12.142516+00:00",
+          "url": "https://d2n44lybpcv5ja.cloudfront.net"
         }
       ],
       "main_domain": "voaturkce.com"
@@ -2714,7 +2771,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2023-05-30T15:38:54.343302+00:00",
-          "url": "https://d2reovsujie58y.cloudfront.net"
+          "url": "https://dwamkj2pkxqff.cloudfront.net"
         }
       ],
       "main_domain": "vozdeamerica.com"
