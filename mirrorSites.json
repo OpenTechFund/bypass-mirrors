@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2025-04-26T16:21:08.473156+00:00",
+          "created_at": "2025-04-28T16:46:05.585267+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-24T13:06:08.559329+00:00",
-          "url": "https://d1zunpdz5ad05u.cloudfront.net"
+          "updated_at": "2025-04-26T18:05:16.083845+00:00",
+          "url": "https://d3hsdluv3sxhb9.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-26T13:44:05.775556+00:00",
+          "created_at": "2025-04-28T16:46:07.496723+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-24T12:32:14.423301+00:00",
-          "url": "https://d7j5k0n6kwvwe.cloudfront.net"
+          "updated_at": "2025-04-28T15:26:10.072531+00:00",
+          "url": "https://dfrauwwwe20pa.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -827,11 +827,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-26T15:02:05.276239+00:00",
+          "created_at": "2025-04-28T16:38:05.588347+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-26T12:36:24.921345+00:00",
-          "url": "https://d3051vu67cc42u.cloudfront.net"
+          "updated_at": "2025-04-28T15:42:19.733030+00:00",
+          "url": "https://d2x8y6dpdtn4jp.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1041,11 +1041,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-28T13:30:05.292643+00:00",
+          "created_at": "2025-04-28T16:38:05.897647+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T18:35:09.069809+00:00",
-          "url": "https://d6m0y2qf3cgv5.cloudfront.net"
+          "updated_at": "2025-04-28T13:30:09.943217+00:00",
+          "url": "https://d25fpmdlf9b89z.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
