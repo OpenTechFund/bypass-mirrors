@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-27T12:59:11.413525+00:00",
+          "created_at": "2025-04-29T14:27:06.696489+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-26T14:12:13.616107+00:00",
-          "url": "https://d1zt61bobvtbf6.cloudfront.net"
+          "updated_at": "2025-04-28T17:18:13.889713+00:00",
+          "url": "https://d3jesn6fq38vtt.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
