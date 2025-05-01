@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-01T14:00:10.432064+00:00",
+          "created_at": "2025-05-01T17:03:06.046901+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-01T09:59:12.217149+00:00",
-          "url": "https://d1ffwhm2fxfqek.cloudfront.net"
+          "updated_at": "2025-05-01T14:00:19.282942+00:00",
+          "url": "https://d3p92es0kxjh7m.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -648,11 +648,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-01T13:54:05.490650+00:00",
+          "created_at": "2025-05-01T17:03:06.926695+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-01T09:51:14.789240+00:00",
-          "url": "https://d1013ttt0xtbcj.cloudfront.net"
+          "updated_at": "2025-05-01T13:54:12.532446+00:00",
+          "url": "https://d3f7ffa8h6kqwk.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1041,11 +1041,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-01T14:00:10.387110+00:00",
+          "created_at": "2025-05-01T17:03:06.012271+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-01T09:59:10.944216+00:00",
-          "url": "https://d2kt500ijdilzy.cloudfront.net"
+          "updated_at": "2025-05-01T14:00:17.452528+00:00",
+          "url": "https://dj0rc3efp41ga.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1215,11 +1215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-04-29T14:27:06.696489+00:00",
+          "created_at": "2025-05-01T16:57:06.060251+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-28T17:18:13.889713+00:00",
-          "url": "https://d3jesn6fq38vtt.cloudfront.net"
+          "updated_at": "2025-04-30T23:35:13.502464+00:00",
+          "url": "https://d2tn20rd2vh9ip.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
