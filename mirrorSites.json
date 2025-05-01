@@ -636,11 +636,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-01T09:51:06.740931+00:00",
+          "created_at": "2025-05-01T12:58:12.591998+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-01T00:13:10.498015+00:00",
-          "url": "https://d1annhsdvng37v.cloudfront.net"
+          "updated_at": "2025-05-01T09:51:11.977822+00:00",
+          "url": "https://d2w4r8p1rnp24n.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
