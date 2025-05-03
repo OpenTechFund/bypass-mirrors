@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-03T13:08:06.646001+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-03T10:01:11.554076+00:00",
+          "url": "https://d2ydexzrxpmu7l.cloudfront.net"
+        }
+      ],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -1195,11 +1203,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-01T12:20:11.926203+00:00",
+          "created_at": "2025-05-03T13:18:06.385767+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-30T23:05:17.123621+00:00",
-          "url": "https://d16djaf8khu7s3.cloudfront.net"
+          "updated_at": "2025-05-03T00:39:13.559870+00:00",
+          "url": "https://dio0wl8mxbtvq.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
