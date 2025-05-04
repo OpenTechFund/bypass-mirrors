@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-03T13:08:06.646001+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-03T10:01:11.554076+00:00",
-          "url": "https://d2ydexzrxpmu7l.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -646,23 +638,63 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-04T18:24:06.034622+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-04T18:22:16.107068+00:00",
+          "url": "https://dqjfzgmltys9j.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-04T18:24:05.689715+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-04T18:22:13.297348+00:00",
+          "url": "https://d33sxbj4r5cthy.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-04T18:24:05.993741+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-04T18:22:15.939552+00:00",
+          "url": "https://d2fkhf0l1dm7q0.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-04T18:24:05.732757+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-04T18:22:13.482876+00:00",
+          "url": "https://d3a9w7xno4lkxd.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-04T18:24:05.948872+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-04T18:22:15.766991+00:00",
+          "url": "https://d2klvouacaqan3.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -999,15 +1031,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-03T11:27:05.951952+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-03T08:25:23.689843+00:00",
-          "url": "https://d1ntfnlguvzlf9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2003,6 +2027,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-05-04T18:24:05.895999+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-04T18:22:14.449367+00:00",
+          "url": "https://dp6tx0812ob1z.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2768,15 +2799,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-03T14:42:04.869802+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-03T12:29:13.386739+00:00",
-          "url": "https://dmasqzlwyrhfb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
