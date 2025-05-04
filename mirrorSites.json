@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-02T18:54:06.197278+00:00",
+          "created_at": "2025-05-04T22:10:04.763927+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-30T19:51:32.997629+00:00",
-          "url": "https://d1b681ziaeh411.cloudfront.net"
+          "updated_at": "2025-05-02T20:56:19.595944+00:00",
+          "url": "https://d3930955foj895.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -815,11 +815,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-02T17:34:07.659481+00:00",
+          "created_at": "2025-05-04T22:14:04.651451+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-01T00:51:21.918829+00:00",
-          "url": "https://d16u4kvnod8jf4.cloudfront.net"
+          "updated_at": "2025-05-03T02:47:19.792896+00:00",
+          "url": "https://d100nwd7yq66d0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
