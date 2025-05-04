@@ -825,15 +825,7 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-02T19:54:13.999743+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-30T17:42:20.142091+00:00",
-          "url": "https://d3ucxd8a05bi7s.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
