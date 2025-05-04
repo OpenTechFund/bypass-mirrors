@@ -458,15 +458,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-04T10:38:08.555948+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-04T06:56:23.133866+00:00",
-          "url": "https://dbgdrbw4wiz45.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1793,11 +1785,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2025-05-03T14:42:03.327399+00:00",
+          "created_at": "2025-05-04T16:39:03.721163+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-02T15:13:24.884876+00:00",
-          "url": "https://ddq5682woslog.cloudfront.net"
+          "updated_at": "2025-05-03T17:44:09.287986+00:00",
+          "url": "https://dfpjk5ofw408c.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
