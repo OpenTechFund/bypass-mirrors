@@ -491,11 +491,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-03T20:37:05.319120+00:00",
+          "created_at": "2025-05-04T06:32:06.528467+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-03T20:31:10.735239+00:00",
-          "url": "https://d8yyntofnklcp.cloudfront.net"
+          "updated_at": "2025-05-04T05:32:17.665433+00:00",
+          "url": "https://d5r25ni36kush.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
