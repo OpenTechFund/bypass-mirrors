@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-05T13:41:05.593120+00:00",
+          "created_at": "2025-05-05T23:13:08.162621+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-05T13:39:13.120451+00:00",
-          "url": "https://dy5oa966zbj09.cloudfront.net"
+          "updated_at": "2025-05-05T21:47:19.218058+00:00",
+          "url": "https://djs2qpdhoxqy6.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -2817,11 +2817,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-05T13:41:05.631410+00:00",
+          "created_at": "2025-05-05T23:13:08.203150+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-05T13:39:14.327924+00:00",
-          "url": "https://dvp2o61qsvp76.cloudfront.net"
+          "updated_at": "2025-05-05T21:47:21.266140+00:00",
+          "url": "https://diupf3yv8davk.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
