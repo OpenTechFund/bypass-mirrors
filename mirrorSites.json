@@ -1724,11 +1724,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-03T14:10:12.144356+00:00",
+          "created_at": "2025-05-05T16:09:09.406784+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-02T16:25:13.665935+00:00",
-          "url": "https://d1iqhrnd5eqfh8.cloudfront.net"
+          "updated_at": "2025-05-03T14:10:31.038826+00:00",
+          "url": "https://d1b2x2ulnt4zsn.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1969,11 +1969,11 @@
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
         },
         {
-          "created_at": "2025-05-03T16:24:05.184787+00:00",
+          "created_at": "2025-05-05T16:09:07.336407+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-04-27T12:43:16.370531+00:00",
-          "url": "https://d1iynvzb4f9ayy.cloudfront.net"
+          "updated_at": "2025-05-03T16:24:10.193946+00:00",
+          "url": "https://d1ujs8tn52vegl.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
