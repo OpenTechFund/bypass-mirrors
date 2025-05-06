@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-06T20:09:06.227674+00:00",
+          "created_at": "2025-05-06T23:10:07.297392+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-06T07:29:08.171075+00:00",
-          "url": "https://d2bx0izvzzlr6h.cloudfront.net"
+          "updated_at": "2025-05-06T22:48:11.379170+00:00",
+          "url": "https://de1qbk5cohz7r.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -863,11 +863,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-04T22:14:04.651451+00:00",
+          "created_at": "2025-05-06T23:12:06.978484+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-03T02:47:19.792896+00:00",
-          "url": "https://d100nwd7yq66d0.cloudfront.net"
+          "updated_at": "2025-05-05T04:41:12.595976+00:00",
+          "url": "https://d26wpjtf5nf8fj.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
