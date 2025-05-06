@@ -286,6 +286,10 @@
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
+      "available_alternatives": [],
+      "main_domain": "dwvod-rwrtr.akamaized.net"
+    },
+    {
       "available_alternatives": [
         {
           "created_at": "2022-03-10 14:51:56.274799+00:00",
@@ -429,6 +433,10 @@
         }
       ],
       "main_domain": "gdb.votvot.tv"
+    },
+    {
+      "available_alternatives": [],
+      "main_domain": "hlsvod.dw.com"
     },
     {
       "available_alternatives": [
@@ -796,6 +804,10 @@
         }
       ],
       "main_domain": "qa.rferl.org"
+    },
+    {
+      "available_alternatives": [],
+      "main_domain": "radiodownloaddw-a.akamaihd.net"
     },
     {
       "available_alternatives": [
