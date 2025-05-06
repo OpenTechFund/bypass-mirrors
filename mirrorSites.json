@@ -282,11 +282,27 @@
       "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-06T15:46:06.571198+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-06T15:46:06.571212+00:00",
+          "url": "https://d23c5pjk851i34.cloudfront.net"
+        }
+      ],
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-06T15:52:03.435383+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-06T15:52:03.435395+00:00",
+          "url": "https://d1bp1ikosuuba3.cloudfront.net"
+        }
+      ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
     },
     {
@@ -435,7 +451,15 @@
       "main_domain": "gdb.votvot.tv"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-06T15:48:06.566221+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-06T15:48:06.566233+00:00",
+          "url": "https://d1bsf235v7hzby.cloudfront.net"
+        }
+      ],
       "main_domain": "hlsvod.dw.com"
     },
     {
@@ -806,7 +830,15 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-06T15:50:04.281130+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-06T15:50:04.281144+00:00",
+          "url": "https://d1929brhc6ajo8.cloudfront.net"
+        }
+      ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
     },
     {
@@ -1086,7 +1118,15 @@
       "main_domain": "stage.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-06T15:44:03.464737+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-06T15:44:03.464747+00:00",
+          "url": "https://d2xo2kxsjrd9jv.cloudfront.net"
+        }
+      ],
       "main_domain": "static.dw.com"
     },
     {
