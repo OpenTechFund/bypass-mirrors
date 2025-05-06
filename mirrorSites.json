@@ -282,6 +282,10 @@
       "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
     },
     {
+      "available_alternatives": [],
+      "main_domain": "dwvod-pckgr.akamaized.net"
+    },
+    {
       "available_alternatives": [
         {
           "created_at": "2022-03-10 14:51:56.274799+00:00",
@@ -1068,6 +1072,10 @@
         }
       ],
       "main_domain": "stage.rferl.org"
+    },
+    {
+      "available_alternatives": [],
+      "main_domain": "static.dw.com"
     },
     {
       "available_alternatives": [
