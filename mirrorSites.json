@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-06T23:02:12.307169+00:00",
+          "created_at": "2025-05-07T16:32:05.181612+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-06T20:57:19.872013+00:00",
-          "url": "https://d2gk3mjysk7acd.cloudfront.net"
+          "updated_at": "2025-05-07T00:42:13.089007+00:00",
+          "url": "https://d232q2bg9p1yyj.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-06T20:59:18.217606+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-06T20:57:22.028033+00:00",
-          "url": "https://d15xt9cua7xk0k.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1089,11 +1081,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-06T23:02:12.260826+00:00",
+          "created_at": "2025-05-07T16:32:05.144258+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-06T20:57:18.128923+00:00",
-          "url": "https://d28byphads5399.cloudfront.net"
+          "updated_at": "2025-05-07T00:42:11.570252+00:00",
+          "url": "https://d1g3ligfzdou1.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2868,15 +2860,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-07T00:04:06.885847+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-06T20:57:21.731509+00:00",
-          "url": "https://d31xgcolsbaprb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
