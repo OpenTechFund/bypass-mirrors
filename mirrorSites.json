@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-04T22:10:04.763927+00:00",
+          "created_at": "2025-05-07T00:30:04.951631+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-02T20:56:19.595944+00:00",
-          "url": "https://d3930955foj895.cloudfront.net"
+          "updated_at": "2025-05-06T23:44:09.643027+00:00",
+          "url": "https://d3l4rua35bxzoq.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-06T04:34:08.726914+00:00",
+          "created_at": "2025-05-07T00:26:07.073046+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-05T23:29:12.472391+00:00",
-          "url": "https://dhpc51uvu9127.cloudfront.net"
+          "updated_at": "2025-05-06T20:41:15.512953+00:00",
+          "url": "https://d2i5emrnw2w3qp.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
