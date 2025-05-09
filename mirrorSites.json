@@ -1263,11 +1263,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-07T18:24:07.251570+00:00",
+          "created_at": "2025-05-09T20:02:06.069643+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-07T04:43:12.704534+00:00",
-          "url": "https://d2i7xj3d4pafc1.cloudfront.net"
+          "updated_at": "2025-05-09T07:11:12.052997+00:00",
+          "url": "https://dbkvq3m71azyc.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
