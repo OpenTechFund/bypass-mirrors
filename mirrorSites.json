@@ -382,15 +382,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-11T20:01:13.002095+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-11T06:40:11.719797+00:00",
-          "url": "https://d3gov8k2xs5exo.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -682,15 +674,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-11T20:01:14.563031+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-11T06:40:16.348481+00:00",
-          "url": "https://dfjij92kim2x4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1087,15 +1071,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-11T20:17:05.348545+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-11T04:58:15.910167+00:00",
-          "url": "https://d4u93ocl3gks8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1882,15 +1858,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-11T20:01:14.066637+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-11T13:30:13.469761+00:00",
-          "url": "https://d24s3s2u9pbac4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
