@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-09T03:34:06.140859+00:00",
+          "created_at": "2025-05-11T04:28:05.680614+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-07T06:05:10.392317+00:00",
-          "url": "https://d3b4e8ux1hzsob.cloudfront.net"
+          "updated_at": "2025-05-09T07:03:21.708285+00:00",
+          "url": "https://d2supuiuwaabne.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -894,11 +894,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-09T03:26:05.869258+00:00",
+          "created_at": "2025-05-11T04:24:06.492599+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-07T08:50:20.059234+00:00",
-          "url": "https://d25tstjklszzd1.cloudfront.net"
+          "updated_at": "2025-05-09T11:50:10.901135+00:00",
+          "url": "https://d3jj7uuzvu8a5p.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
