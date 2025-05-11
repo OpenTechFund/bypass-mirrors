@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-11T01:11:06.391437+00:00",
+          "created_at": "2025-05-11T04:58:09.214950+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-10T11:53:17.799615+00:00",
-          "url": "https://d7ktn8cef33uz.cloudfront.net"
+          "updated_at": "2025-05-11T01:11:12.834786+00:00",
+          "url": "https://d1tn5yj1k8p9aq.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-11T01:11:06.340247+00:00",
+          "created_at": "2025-05-11T04:58:09.176910+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-10T12:17:11.124392+00:00",
-          "url": "https://d1yt3es5ev08bw.cloudfront.net"
+          "updated_at": "2025-05-11T01:11:11.491636+00:00",
+          "url": "https://dj804dv7fj2fj.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
