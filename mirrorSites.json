@@ -906,11 +906,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-09T11:08:04.864744+00:00",
+          "created_at": "2025-05-11T13:56:06.289170+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-09T07:37:13.751998+00:00",
-          "url": "https://d2rqtmk5iupan0.cloudfront.net"
+          "updated_at": "2025-05-11T12:10:23.026237+00:00",
+          "url": "https://d2tnqu3whlcwg5.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
@@ -963,11 +963,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2025-05-05T16:33:03.517995+00:00",
+          "created_at": "2025-05-11T14:02:04.290435+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-03T14:10:17.965730+00:00",
-          "url": "https://d1p08aaetn70df.cloudfront.net"
+          "updated_at": "2025-05-09T20:06:07.361303+00:00",
+          "url": "https://d1sqg24qnx8992.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1853,11 +1853,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2025-05-04T16:39:03.721163+00:00",
+          "created_at": "2025-05-11T14:02:04.536714+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-03T17:44:09.287986+00:00",
-          "url": "https://dfpjk5ofw408c.cloudfront.net"
+          "updated_at": "2025-05-11T12:10:16.094519+00:00",
+          "url": "https://d25kac22vl8i3s.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -2808,11 +2808,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-05-05T16:33:03.258047+00:00",
+          "created_at": "2025-05-11T14:02:04.056490+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-03T17:28:08.683727+00:00",
-          "url": "https://d3q68lg4mk4fyt.cloudfront.net"
+          "updated_at": "2025-05-11T12:10:14.169705+00:00",
+          "url": "https://d378xi6ojwuezj.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
