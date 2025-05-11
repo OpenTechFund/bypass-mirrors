@@ -372,11 +372,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-05-09T06:49:05.208472+00:00",
+          "created_at": "2025-05-11T07:17:04.626033+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-07T05:27:11.150872+00:00",
-          "url": "https://dze1uj7wk1il4.cloudfront.net"
+          "updated_at": "2025-05-09T09:03:12.255768+00:00",
+          "url": "https://d1y3tpop9mkrc8.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -863,11 +863,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-09T03:40:05.439956+00:00",
+          "created_at": "2025-05-11T07:11:05.483853+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-07T06:47:21.898328+00:00",
-          "url": "https://dtwcihyxduhgf.cloudfront.net"
+          "updated_at": "2025-05-09T08:45:13.964388+00:00",
+          "url": "https://d1rxsn015pikdf.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
