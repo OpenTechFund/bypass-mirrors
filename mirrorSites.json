@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-12T07:25:15.144333+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-12T02:59:24.330579+00:00",
-          "url": "https://d18a3vmg7g9kaf.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -494,15 +486,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-12T07:25:15.361984+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-12T02:59:26.698422+00:00",
-          "url": "https://d64ve102mriag.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -708,11 +692,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-12T10:34:08.681799+00:00",
+          "created_at": "2025-05-12T13:51:08.264077+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-12T04:41:14.283111+00:00",
-          "url": "https://d2n1eldfr5phob.cloudfront.net"
+          "updated_at": "2025-05-12T10:34:17.416464+00:00",
+          "url": "https://dyojrf7j0f287.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1087,15 +1071,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-12T04:17:05.370057+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-12T03:39:16.917641+00:00",
-          "url": "https://d237l0kdht4q7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2875,15 +2851,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-12T07:25:15.257971+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-12T02:59:26.395580+00:00",
-          "url": "https://dxbu22rczuvdb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
