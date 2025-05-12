@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-12T11:38:07.039808+00:00",
+          "created_at": "2025-05-12T21:42:07.155978+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-12T05:11:19.759959+00:00",
-          "url": "https://d3fjwb88ih4mze.cloudfront.net"
+          "updated_at": "2025-05-12T12:16:18.941138+00:00",
+          "url": "https://d1lnqabl5ab3ii.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -830,15 +830,7 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-10T18:36:03.312391+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-08T19:47:13.899501+00:00",
-          "url": "https://deppurcctqfpt.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
     },
     {
