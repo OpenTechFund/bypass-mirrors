@@ -830,7 +830,15 @@
       "main_domain": "qa.rferl.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-12T21:50:04.324037+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-12T21:46:19.867714+00:00",
+          "url": "https://d24gh7dfxczbl3.cloudfront.net"
+        }
+      ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
     },
     {
