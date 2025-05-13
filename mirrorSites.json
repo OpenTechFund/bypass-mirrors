@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-11T06:12:05.598304+00:00",
+          "created_at": "2025-05-13T08:36:07.914804+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-11T02:04:12.954244+00:00",
-          "url": "https://d1to8h3efnmc2v.cloudfront.net"
+          "updated_at": "2025-05-13T05:18:10.284255+00:00",
+          "url": "https://diei8fblaauol.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -1882,15 +1882,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-13T04:38:13.290492+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-12T14:47:12.640997+00:00",
-          "url": "https://d170idn0cdeanb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
