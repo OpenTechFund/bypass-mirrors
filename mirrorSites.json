@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-15T05:17:07.399176+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-14T20:17:15.328318+00:00",
-          "url": "https://d13cda98vqtq9w.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -863,11 +855,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-13T07:52:04.760672+00:00",
+          "created_at": "2025-05-15T10:14:06.940693+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-11T11:42:32.584437+00:00",
-          "url": "https://d2rq2u71i26tgj.cloudfront.net"
+          "updated_at": "2025-05-13T13:52:51.616326+00:00",
+          "url": "https://d2w0eli3wl9qra.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1087,15 +1079,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-15T01:23:05.505654+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-14T20:17:12.307789+00:00",
-          "url": "https://d1etc5ipyj8812.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
