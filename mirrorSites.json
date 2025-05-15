@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-13T00:21:05.137454+00:00",
+          "created_at": "2025-05-15T02:05:03.076125+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-10T22:09:13.732204+00:00",
-          "url": "https://d1zz4n5q67unmf.cloudfront.net"
+          "updated_at": "2025-05-13T01:13:16.506811+00:00",
+          "url": "https://d236tqz6c4n44m.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-11T13:38:07.429332+00:00",
+          "created_at": "2025-05-15T02:01:05.431277+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-03T14:10:22.259929+00:00",
-          "url": "https://d3gjfaekupx9rj.cloudfront.net"
+          "updated_at": "2025-05-15T00:35:24.943621+00:00",
+          "url": "https://d2gs8eeq6hlzj5.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
