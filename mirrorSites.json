@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-16T04:08:08.836689+00:00",
+          "created_at": "2025-05-16T08:59:04.960121+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T16:38:15.257719+00:00",
-          "url": "https://d3jgcq9ercr6zh.cloudfront.net"
+          "updated_at": "2025-05-16T04:08:18.573149+00:00",
+          "url": "https://d29wmm07w7ghjk.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -670,11 +670,27 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-16T08:51:15.715188+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-16T04:38:11.254762+00:00",
+          "url": "https://d4dryn4020q58.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-16T08:51:16.867868+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-15T16:54:13.249637+00:00",
+          "url": "https://d1cl0qyho90acg.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -2861,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-15T15:35:08.910478+00:00",
+          "created_at": "2025-05-16T08:59:04.915579+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T14:15:29.112089+00:00",
-          "url": "https://d374j923jropvr.cloudfront.net"
+          "updated_at": "2025-05-15T17:16:15.151208+00:00",
+          "url": "https://dcsfke4ml8l0t.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
