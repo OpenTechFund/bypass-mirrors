@@ -682,7 +682,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-16T11:59:06.911295+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-16T08:51:40.629592+00:00",
+          "url": "https://d2u2p7261f13ye.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1874,7 +1882,15 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-16T11:59:06.800785+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-16T08:51:36.703582+00:00",
+          "url": "https://d2b7b7j0bktfvd.cloudfront.net"
+        }
+      ],
       "main_domain": "martinoticias.com"
     },
     {
