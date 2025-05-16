@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-16T02:58:06.797595+00:00",
+          "created_at": "2025-05-16T09:13:06.296569+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T16:30:09.800442+00:00",
-          "url": "https://dc83excim361b.cloudfront.net"
+          "updated_at": "2025-05-16T02:58:09.840259+00:00",
+          "url": "https://d3ejucosj7iu5l.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-16T04:08:09.235768+00:00",
+          "created_at": "2025-05-16T09:13:06.786681+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T16:30:12.362350+00:00",
-          "url": "https://d3v1mcc1p5yjwm.cloudfront.net"
+          "updated_at": "2025-05-16T06:46:17.292913+00:00",
+          "url": "https://d3586emxpprlje.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -1087,15 +1087,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-16T04:08:08.744495+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-15T16:38:12.191776+00:00",
-          "url": "https://d8i0c2z7znqv1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
