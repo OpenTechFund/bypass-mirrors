@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-15T15:39:11.007022+00:00",
+          "created_at": "2025-05-17T20:49:06.522531+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-13T11:55:09.056679+00:00",
-          "url": "https://d82us6xlzi6n8.cloudfront.net"
+          "updated_at": "2025-05-15T15:39:15.648580+00:00",
+          "url": "https://d34f9rju3vf52a.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-05-15T18:40:05.947181+00:00",
+          "created_at": "2025-05-17T20:53:06.303708+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-13T15:12:11.738725+00:00",
-          "url": "https://d33fl3mgsnepzq.cloudfront.net"
+          "updated_at": "2025-05-15T18:40:07.515971+00:00",
+          "url": "https://d3qxmb5l4wgiam.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
