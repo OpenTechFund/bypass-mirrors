@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-18T06:12:08.939247+00:00",
+          "created_at": "2025-05-18T19:48:05.705387+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-18T05:48:10.105037+00:00",
-          "url": "https://d20ywa932l37nv.cloudfront.net"
+          "updated_at": "2025-05-18T09:04:11.150615+00:00",
+          "url": "https://d3le5tidjfc31c.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-18T08:02:11.065923+00:00",
+          "created_at": "2025-05-18T19:48:06.185095+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-18T05:24:13.596330+00:00",
-          "url": "https://d20zfo3t0ues9g.cloudfront.net"
+          "updated_at": "2025-05-18T10:39:17.397261+00:00",
+          "url": "https://d148auc9azxsn3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
