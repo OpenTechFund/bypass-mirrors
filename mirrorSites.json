@@ -925,11 +925,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-17T17:17:05.589120+00:00",
+          "created_at": "2025-05-19T21:02:05.139528+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-17T14:57:16.898288+00:00",
-          "url": "https://d13uqwuyui4yx1.cloudfront.net"
+          "updated_at": "2025-05-19T16:47:12.813012+00:00",
+          "url": "https://d7aq8legglju7.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1853,11 +1853,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2025-05-11T14:02:04.536714+00:00",
+          "created_at": "2025-05-19T21:00:03.518814+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-11T12:10:16.094519+00:00",
-          "url": "https://d25kac22vl8i3s.cloudfront.net"
+          "updated_at": "2025-05-17T19:11:12.685434+00:00",
+          "url": "https://d3btcjcee2zngw.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
