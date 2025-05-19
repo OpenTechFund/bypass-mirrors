@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-17T13:27:05.390702+00:00",
+          "created_at": "2025-05-19T16:27:06.961371+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T14:11:09.252076+00:00",
-          "url": "https://dwx24hpxlo3ss.cloudfront.net"
+          "updated_at": "2025-05-17T16:57:11.444465+00:00",
+          "url": "https://d3ao7qeb4p239v.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -2105,11 +2105,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-05-19T11:14:07.510304+00:00",
+          "created_at": "2025-05-19T16:23:06.955549+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-19T04:26:15.286594+00:00",
-          "url": "https://d2bwpqxr630t7k.cloudfront.net"
+          "updated_at": "2025-05-19T11:14:13.629432+00:00",
+          "url": "https://d3eenujntpxj8f.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2875,15 +2875,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-19T10:50:07.295886+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-19T01:16:16.576599+00:00",
-          "url": "https://d3602ti0n6z79p.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
