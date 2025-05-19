@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-17T12:02:04.324655+00:00",
+          "created_at": "2025-05-19T12:44:03.923429+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T21:13:21.505896+00:00",
-          "url": "https://duiplvz9e727u.cloudfront.net"
+          "updated_at": "2025-05-17T23:47:10.346161+00:00",
+          "url": "https://df8931tbw7o2l.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-19T09:23:07.757676+00:00",
+          "created_at": "2025-05-19T12:40:07.646464+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-18T21:04:21.332485+00:00",
-          "url": "https://d1rnqnjm99ntma.cloudfront.net"
+          "updated_at": "2025-05-19T10:11:14.207707+00:00",
+          "url": "https://d2wj70e9xvazhq.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
