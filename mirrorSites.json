@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-17T03:08:04.852827+00:00",
+          "created_at": "2025-05-19T08:05:04.324011+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T03:37:13.387266+00:00",
-          "url": "https://dkgs9cr78bpqr.cloudfront.net"
+          "updated_at": "2025-05-17T05:53:18.493045+00:00",
+          "url": "https://d3vo3zyq0ff5gv.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -382,15 +382,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-18T21:04:09.614510+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-18T14:18:13.487678+00:00",
-          "url": "https://d38um9dl7tf0sd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -1882,15 +1874,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-19T00:44:08.992206+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-18T14:34:13.804550+00:00",
-          "url": "https://d27xlg32jjcfoa.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
