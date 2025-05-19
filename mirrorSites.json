@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-17T07:13:05.367995+00:00",
+          "created_at": "2025-05-19T09:35:08.406508+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-17T02:38:13.880766+00:00",
-          "url": "https://d2rfynu7x1nolq.cloudfront.net"
+          "updated_at": "2025-05-19T03:30:23.376032+00:00",
+          "url": "https://d3bjki0avymvvh.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-19T00:12:06.983192+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-18T20:34:13.025857+00:00",
-          "url": "https://ddx1og69o81am.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -894,11 +886,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-17T08:38:04.410805+00:00",
+          "created_at": "2025-05-19T09:35:12.327520+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T16:58:10.457407+00:00",
-          "url": "https://d1pap5evc81zv4.cloudfront.net"
+          "updated_at": "2025-05-17T19:43:21.666144+00:00",
+          "url": "https://d2wnnukh030cj0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
