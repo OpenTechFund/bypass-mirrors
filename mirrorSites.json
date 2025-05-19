@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-18T13:47:07.372106+00:00",
+          "created_at": "2025-05-19T01:08:07.155761+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-18T13:01:13.708599+00:00",
-          "url": "https://d21sf6q4kftx2s.cloudfront.net"
+          "updated_at": "2025-05-19T00:12:15.280744+00:00",
+          "url": "https://d3hepbdshpokvz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-17T00:04:03.432683+00:00",
+          "created_at": "2025-05-19T01:14:03.897541+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-15T01:31:13.336131+00:00",
-          "url": "https://d3anazvk9yl0dp.cloudfront.net"
+          "updated_at": "2025-05-17T04:41:16.122593+00:00",
+          "url": "https://del0k0zw60mhl.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-18T19:54:23.964694+00:00",
+          "created_at": "2025-05-19T01:16:07.307107+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-18T13:01:10.061264+00:00",
-          "url": "https://d28r6xbxzoycz5.cloudfront.net"
+          "updated_at": "2025-05-18T21:12:11.991504+00:00",
+          "url": "https://d3p6jw6e7wyyr6.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
