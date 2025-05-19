@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-19T11:22:06.358560+00:00",
+          "created_at": "2025-05-19T20:36:09.401868+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-19T10:50:13.647512+00:00",
-          "url": "https://d3t5qvob7h59cc.cloudfront.net"
+          "updated_at": "2025-05-19T14:48:13.694752+00:00",
+          "url": "https://dmi8aapnidz5z.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-19T10:19:09.111255+00:00",
+          "created_at": "2025-05-19T20:36:09.477512+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-19T09:31:19.594241+00:00",
-          "url": "https://d25bfezurnpsfw.cloudfront.net"
+          "updated_at": "2025-05-19T12:32:14.263010+00:00",
+          "url": "https://d2itva7m4cgoye.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -963,11 +963,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2025-05-11T14:02:04.290435+00:00",
+          "created_at": "2025-05-19T20:36:06.749394+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-09T20:06:07.361303+00:00",
-          "url": "https://d1sqg24qnx8992.cloudfront.net"
+          "updated_at": "2025-05-17T00:46:09.208246+00:00",
+          "url": "https://dk3tyhiculrod.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-19T11:22:06.330109+00:00",
+          "created_at": "2025-05-19T20:36:09.365172+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-19T09:55:20.726997+00:00",
-          "url": "https://d2sznj4zreiuyi.cloudfront.net"
+          "updated_at": "2025-05-19T16:31:18.837470+00:00",
+          "url": "https://d3btibx69qguwf.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1470,11 +1470,11 @@
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-05-10T14:47:06.127839+00:00",
+          "created_at": "2025-05-19T20:36:08.785213+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-09T20:06:10.617786+00:00",
-          "url": "https://d2mv3crxg17615.cloudfront.net"
+          "updated_at": "2025-05-17T19:11:16.620023+00:00",
+          "url": "https://d23oxzudwpzg4s.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
