@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-05-19T21:52:04.894943+00:00",
+          "created_at": "2025-05-21T23:40:04.948989+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-19T11:22:09.934669+00:00",
-          "url": "https://dj6u0905xu3ob.cloudfront.net"
+          "updated_at": "2025-05-21T13:48:19.801045+00:00",
+          "url": "https://d1n79el3atsfu9.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-21T17:41:07.386833+00:00",
+          "created_at": "2025-05-21T23:44:07.016605+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-21T13:12:15.321153+00:00",
-          "url": "https://d3uhlavzhp8q0g.cloudfront.net"
+          "updated_at": "2025-05-21T18:53:18.209520+00:00",
+          "url": "https://d10lpcnji6n9el.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-21T18:53:07.286366+00:00",
+          "created_at": "2025-05-21T23:44:06.970783+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-21T13:12:15.095137+00:00",
-          "url": "https://d2gfr9bnrybowh.cloudfront.net"
+          "updated_at": "2025-05-21T22:03:24.365499+00:00",
+          "url": "https://d251r0t5oa0l9e.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
