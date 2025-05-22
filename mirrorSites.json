@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-22T01:10:13.923155+00:00",
+          "created_at": "2025-05-22T10:06:07.616145+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-21T20:27:12.493747+00:00",
-          "url": "https://d3daolb6f61lhy.cloudfront.net"
+          "updated_at": "2025-05-22T01:10:21.810853+00:00",
+          "url": "https://di6ut9l5sv8je.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -2105,11 +2105,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-05-22T01:58:09.563554+00:00",
+          "created_at": "2025-05-22T10:06:07.919627+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-21T20:27:15.164974+00:00",
-          "url": "https://d1m9dbnajw7jke.cloudfront.net"
+          "updated_at": "2025-05-22T01:58:16.444000+00:00",
+          "url": "https://d2jr1t5k7ozmqa.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
