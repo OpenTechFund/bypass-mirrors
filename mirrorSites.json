@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-23T08:56:08.627473+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-23T01:56:14.399491+00:00",
-          "url": "https://d1l1ujygtc0gnm.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -494,15 +486,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-23T08:56:08.748541+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-23T03:46:20.943644+00:00",
-          "url": "https://d10qpsbtx562oh.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -672,11 +656,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-23T05:28:06.238134+00:00",
+          "created_at": "2025-05-23T14:46:06.567821+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-23T00:52:15.484912+00:00",
-          "url": "https://d1uliz3xv6j1qs.cloudfront.net"
+          "updated_at": "2025-05-23T05:28:11.592342+00:00",
+          "url": "https://d27rzvo1rlml8o.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -708,11 +692,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-23T08:48:06.388436+00:00",
+          "created_at": "2025-05-23T14:46:07.050235+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-23T03:46:22.648053+00:00",
-          "url": "https://d279ahcbnw6tgs.cloudfront.net"
+          "updated_at": "2025-05-23T08:48:14.724478+00:00",
+          "url": "https://d17yt4z1vm8och.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -732,11 +716,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-23T05:12:06.376896+00:00",
+          "created_at": "2025-05-23T14:46:07.000086+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-23T01:48:17.596826+00:00",
-          "url": "https://d2ks6z41aspfap.cloudfront.net"
+          "updated_at": "2025-05-23T05:52:31.058325+00:00",
+          "url": "https://dnds2h52qrt9z.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2875,15 +2859,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-23T05:36:14.656154+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-23T01:56:16.016831+00:00",
-          "url": "https://ds57i4yfgwdgw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
