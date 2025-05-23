@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-21T17:59:05.210857+00:00",
+          "created_at": "2025-05-23T20:03:06.047417+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-19T18:21:10.606943+00:00",
-          "url": "https://d14a2xerzlh130.cloudfront.net"
+          "updated_at": "2025-05-21T19:33:14.955332+00:00",
+          "url": "https://d2b4bmwsfwjtpg.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -525,7 +525,15 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-23T19:55:05.696090+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-23T14:46:09.805137+00:00",
+          "url": "https://d3lu0ib98kjtbm.cloudfront.net"
+        }
+      ],
       "main_domain": "kloop.kg"
     },
     {
@@ -710,7 +718,15 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-05-23T19:55:06.277578+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-05-23T14:46:13.546939+00:00",
+          "url": "https://d1m9pup36mtjeb.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -1073,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-23T08:56:08.584026+00:00",
+          "created_at": "2025-05-23T20:03:06.109268+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-23T05:52:24.443205+00:00",
-          "url": "https://dfsfdkjqtj3o1.cloudfront.net"
+          "updated_at": "2025-05-23T08:56:16.729258+00:00",
+          "url": "https://dxqria6mfindu.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
