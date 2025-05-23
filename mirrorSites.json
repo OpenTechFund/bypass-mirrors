@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-23T08:48:05.737216+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-23T05:28:08.996474+00:00",
-          "url": "https://d27xy7oy9o4pgx.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -718,15 +710,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-23T07:12:06.139655+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-23T05:28:12.032791+00:00",
-          "url": "https://dwq884qsda1s0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
