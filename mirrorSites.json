@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-24T09:29:05.625518+00:00",
+          "created_at": "2025-05-24T18:59:11.599058+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-24T01:50:19.215504+00:00",
-          "url": "https://d1a6657lkjt18z.cloudfront.net"
+          "updated_at": "2025-05-24T11:42:16.634558+00:00",
+          "url": "https://d2ha9rbcn1do3m.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1297,15 +1297,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-19T15:14:07.516042+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-19T15:12:10.266925+00:00",
-          "url": "https://d3qz21j5028ujf.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
