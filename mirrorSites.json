@@ -694,15 +694,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-25T08:52:05.491389+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-25T05:53:30.841445+00:00",
-          "url": "https://dffx9uz6k1fnt.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -1137,13 +1129,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2025-05-25T13:53:07.050699+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-24T13:56:26.024546+00:00",
-          "url": "https://d12hyfx0l96g1i.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1884,11 +1869,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-25T06:09:08.016293+00:00",
+          "created_at": "2025-05-25T17:00:16.016137+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-25T05:53:34.266825+00:00",
-          "url": "https://dwg9sdalbukul.cloudfront.net"
+          "updated_at": "2025-05-25T09:16:13.304358+00:00",
+          "url": "https://d24f0w8pzlho0d.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
@@ -2105,11 +2090,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-05-25T12:01:12.543474+00:00",
+          "created_at": "2025-05-25T17:00:15.956907+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-25T05:53:32.729734+00:00",
-          "url": "https://d2wle340r25kxo.cloudfront.net"
+          "updated_at": "2025-05-25T14:49:18.747352+00:00",
+          "url": "https://d3ie1v4z1m94r.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
