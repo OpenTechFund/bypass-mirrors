@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-24T19:31:07.324486+00:00",
+          "created_at": "2025-05-25T05:53:19.224786+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-24T16:47:21.882133+00:00",
-          "url": "https://d3ofspdw1igypd.cloudfront.net"
+          "updated_at": "2025-05-24T19:31:11.498936+00:00",
+          "url": "https://d2rq3elcvxhys0.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-23T03:40:03.010985+00:00",
+          "created_at": "2025-05-25T05:53:10.411725+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-21T11:07:20.440273+00:00",
-          "url": "https://d14znrzkn5we6f.cloudfront.net"
+          "updated_at": "2025-05-23T12:29:17.454581+00:00",
+          "url": "https://d12gcldfsh1mkd.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-24T19:39:08.446830+00:00",
+          "created_at": "2025-05-25T06:01:05.885006+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-24T15:22:21.598570+00:00",
-          "url": "https://d37eh2ojl2ubnn.cloudfront.net"
+          "updated_at": "2025-05-24T23:50:15.509065+00:00",
+          "url": "https://d1a208oxjwab5h.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
