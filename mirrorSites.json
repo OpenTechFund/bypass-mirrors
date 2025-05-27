@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-27T19:04:07.522256+00:00",
+          "created_at": "2025-05-27T22:32:09.451600+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-27T12:46:13.899943+00:00",
-          "url": "https://d2qgp42t1tfx20.cloudfront.net"
+          "updated_at": "2025-05-27T19:04:14.052775+00:00",
+          "url": "https://d3roqb2bkvcytu.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-25T18:46:07.888969+00:00",
+          "created_at": "2025-05-27T22:30:03.770955+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-25T12:35:13.236040+00:00",
-          "url": "https://d2d9t6kq1wefp6.cloudfront.net"
+          "updated_at": "2025-05-27T13:42:17.372808+00:00",
+          "url": "https://d3iwym8ir66lt.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-27T19:28:07.635642+00:00",
+          "created_at": "2025-05-27T22:32:09.571723+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-27T12:46:15.691362+00:00",
-          "url": "https://d17tsvyz8cckjk.cloudfront.net"
+          "updated_at": "2025-05-27T20:48:25.327772+00:00",
+          "url": "https://d3u27tgn9nqm7.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-27T19:04:07.488760+00:00",
+          "created_at": "2025-05-27T22:32:09.410517+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-27T12:46:12.467106+00:00",
-          "url": "https://d10nup7ze866r7.cloudfront.net"
+          "updated_at": "2025-05-27T19:04:12.627942+00:00",
+          "url": "https://du470ux9o3loe.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
