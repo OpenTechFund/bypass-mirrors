@@ -382,15 +382,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-27T16:44:07.717753+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-27T13:34:12.060152+00:00",
-          "url": "https://dn7rsihrttcnf.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -672,11 +664,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-27T19:44:08.375122+00:00",
+          "created_at": "2025-05-28T02:13:16.536582+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-27T14:14:24.154243+00:00",
-          "url": "https://d1vhuv9cn0yhf1.cloudfront.net"
+          "updated_at": "2025-05-27T21:12:13.348625+00:00",
+          "url": "https://d30av517ch1j6u.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
