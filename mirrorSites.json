@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-27T20:26:05.065074+00:00",
+          "created_at": "2025-05-29T21:56:14.546744+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-26T02:35:09.338722+00:00",
-          "url": "https://d2hmq7lrbep6zo.cloudfront.net"
+          "updated_at": "2025-05-28T04:05:15.006505+00:00",
+          "url": "https://d15hrvcbtw7jot.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-27T20:54:06.072137+00:00",
+          "created_at": "2025-05-29T21:56:17.847982+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-25T21:20:22.887522+00:00",
-          "url": "https://dzqezm825ic4r.cloudfront.net"
+          "updated_at": "2025-05-27T23:26:17.050897+00:00",
+          "url": "https://d28oamvkvc9rnq.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
