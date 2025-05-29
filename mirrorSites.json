@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-28T20:04:06.856826+00:00",
+          "created_at": "2025-05-29T06:06:07.612914+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-28T14:35:10.362355+00:00",
-          "url": "https://debcm6vyvabgc.cloudfront.net"
+          "updated_at": "2025-05-29T00:09:17.466524+00:00",
+          "url": "https://d1xetrxq30d00j.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1884,11 +1884,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-28T22:03:06.592313+00:00",
+          "created_at": "2025-05-29T06:06:07.981364+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-28T15:06:19.017669+00:00",
-          "url": "https://dmz2h50ns3eh2.cloudfront.net"
+          "updated_at": "2025-05-29T00:33:16.197180+00:00",
+          "url": "https://d26zkl17rmm92n.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
