@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-05-29T14:00:06.929915+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-29T12:24:11.566063+00:00",
-          "url": "https://dtixiv64sp2hq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -684,11 +676,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-29T20:19:09.081301+00:00",
+          "created_at": "2025-05-30T00:28:09.803383+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-29T17:39:31.486047+00:00",
-          "url": "https://d36lg8x4s3x20d.cloudfront.net"
+          "updated_at": "2025-05-29T20:19:19.526359+00:00",
+          "url": "https://d38tj5cm65s0c5.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -732,11 +724,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-29T18:51:09.901676+00:00",
+          "created_at": "2025-05-30T00:28:09.875689+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-29T15:10:20.177022+00:00",
-          "url": "https://d3h5agxv1h5bm6.cloudfront.net"
+          "updated_at": "2025-05-29T22:08:21.020974+00:00",
+          "url": "https://d34e5ke1a3oeff.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2103,13 +2095,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-05-29T17:01:10.238182+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-05-29T15:10:17.517348+00:00",
-          "url": "https://dzvz0j5ystehn.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2877,11 +2862,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-29T20:27:05.288076+00:00",
+          "created_at": "2025-05-30T00:28:09.171909+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-29T12:32:22.103560+00:00",
-          "url": "https://d3q60ccyceuqu6.cloudfront.net"
+          "updated_at": "2025-05-29T22:08:19.591307+00:00",
+          "url": "https://d2egclb52aiy04.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
