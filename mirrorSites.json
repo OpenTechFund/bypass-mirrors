@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-27T22:20:05.583764+00:00",
+          "created_at": "2025-05-30T01:06:13.566155+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-26T10:29:10.289027+00:00",
-          "url": "https://d2o3dzivqoxsw8.cloudfront.net"
+          "updated_at": "2025-05-28T13:21:15.153809+00:00",
+          "url": "https://d1jc3022nqzolw.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-29T22:08:10.121402+00:00",
+          "created_at": "2025-05-30T01:14:07.447453+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-29T15:58:13.179866+00:00",
-          "url": "https://drz2jru29v5l1.cloudfront.net"
+          "updated_at": "2025-05-30T00:28:16.065738+00:00",
+          "url": "https://d2gz8tj9oe7p9j.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
