@@ -925,11 +925,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-28T01:47:05.497124+00:00",
+          "created_at": "2025-05-30T05:39:07.523119+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-26T01:41:18.279676+00:00",
-          "url": "https://d1p5us0950hc58.cloudfront.net"
+          "updated_at": "2025-05-28T03:49:15.914862+00:00",
+          "url": "https://dypaambi1hscf.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-30T01:38:07.662435+00:00",
+          "created_at": "2025-05-30T05:37:12.559192+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-29T18:35:16.358895+00:00",
-          "url": "https://d1lgfn55uwpukr.cloudfront.net"
+          "updated_at": "2025-05-30T02:01:12.922277+00:00",
+          "url": "https://d1dm87cb3atg3u.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
