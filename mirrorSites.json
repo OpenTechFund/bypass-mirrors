@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-28T21:35:08.528168+00:00",
+          "created_at": "2025-05-31T00:47:11.033443+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-28T00:39:19.235225+00:00",
-          "url": "https://d2y8cjpt5hpiha.cloudfront.net"
+          "updated_at": "2025-05-30T04:55:18.603851+00:00",
+          "url": "https://d1tad28fbvj2el.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-30T05:37:12.559192+00:00",
+          "created_at": "2025-05-31T00:43:07.883558+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-30T02:01:12.922277+00:00",
-          "url": "https://d1dm87cb3atg3u.cloudfront.net"
+          "updated_at": "2025-05-30T05:37:21.938803+00:00",
+          "url": "https://dxg476k1tyk56.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
