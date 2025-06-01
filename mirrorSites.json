@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-05-30T09:28:05.166501+00:00",
+          "created_at": "2025-06-01T13:42:05.150365+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-29T22:16:10.800364+00:00",
-          "url": "https://d15hrzbe7384s9.cloudfront.net"
+          "updated_at": "2025-06-01T00:26:12.271492+00:00",
+          "url": "https://d1de5cup1yrt5m.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-05-30T08:48:04.692136+00:00",
+          "created_at": "2025-06-01T13:46:06.836558+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-28T13:23:19.513880+00:00",
-          "url": "https://d2qj9uh46zyb7f.cloudfront.net"
+          "updated_at": "2025-05-30T14:09:14.997197+00:00",
+          "url": "https://d1gnjhk9khe5wx.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
