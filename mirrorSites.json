@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-05-30T06:23:08.615483+00:00",
+          "created_at": "2025-06-01T09:05:09.092974+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-28T05:06:09.716033+00:00",
-          "url": "https://d2r7i39868lhgg.cloudfront.net"
+          "updated_at": "2025-05-30T06:23:11.467326+00:00",
+          "url": "https://d1mco512jsa5le.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1432,11 +1432,11 @@
           "url": "https://www.azadlip7uny6g37ob7prppu5ypbvn6dewn6ttlcewxli3x2ajmsdsmid.onion"
         },
         {
-          "created_at": "2023-10-29T04:15:03.559159+00:00",
+          "created_at": "2025-06-01T09:05:06.688315+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2023-10-28T11:25:04.139647+00:00",
-          "url": "https://d2og7u96tv72u0.cloudfront.net"
+          "updated_at": "2025-06-01T06:11:13.238087+00:00",
+          "url": "https://daa4synzf5ju3.cloudfront.net"
         }
       ],
       "main_domain": "azadliq.org"
