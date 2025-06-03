@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-01T13:46:06.836558+00:00",
+          "created_at": "2025-06-03T15:52:04.629000+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-30T14:09:14.997197+00:00",
-          "url": "https://d1gnjhk9khe5wx.cloudfront.net"
+          "updated_at": "2025-06-01T19:40:11.936110+00:00",
+          "url": "https://d1iknnahnzntl0.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -875,11 +875,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-01T15:17:05.667460+00:00",
+          "created_at": "2025-06-03T15:54:04.926510+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-01T10:28:18.021278+00:00",
-          "url": "https://d2l7nkjdmli7qb.cloudfront.net"
+          "updated_at": "2025-06-03T12:56:14.206534+00:00",
+          "url": "https://d1nr39bqz1hvt3.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1215,11 +1215,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-01T11:42:05.923881+00:00",
+          "created_at": "2025-06-03T15:56:04.403869+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-05-30T11:10:20.802558+00:00",
-          "url": "https://d2a8itxal98dns.cloudfront.net"
+          "updated_at": "2025-06-01T14:33:10.391294+00:00",
+          "url": "https://d2hzu4ajzrb8bj.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
