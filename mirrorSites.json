@@ -2835,15 +2835,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-03T00:59:15.095263+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-03T00:27:18.891380+00:00",
-          "url": "https://d2wqm3yqrf43c4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
