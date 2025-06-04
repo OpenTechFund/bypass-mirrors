@@ -682,7 +682,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-06-04T10:18:04.517228+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-06-03T21:58:32.425517+00:00",
+          "url": "https://d3osqwbpwtepa9.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -710,7 +718,15 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-06-04T10:18:04.498269+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-06-03T21:58:28.022625+00:00",
+          "url": "https://dgm5ugy34ggte.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -1433,6 +1449,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-06-04T10:18:04.218470+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-06-04T02:43:11.212058+00:00",
+          "url": "https://dxhagsgq776gf.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
@@ -2042,6 +2065,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:50:22.738691+00:00",
           "url": "https://www.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion"
+        },
+        {
+          "created_at": "2025-06-04T10:18:04.255041+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-06-04T02:43:12.503131+00:00",
+          "url": "https://d2atura77nmi6t.cloudfront.net"
         }
       ],
       "main_domain": "radiosvoboda.org"
