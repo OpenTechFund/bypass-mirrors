@@ -439,15 +439,7 @@
       "main_domain": "hlsvod.dw.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-03T05:43:07.133363+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-02T19:06:17.274939+00:00",
-          "url": "https://d2f923ebj3cos7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ichef.bbci.co.uk"
     },
     {
