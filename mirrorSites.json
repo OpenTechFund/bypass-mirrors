@@ -39,13 +39,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493+00:00",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2025-06-03T18:19:05.831082+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-03T12:46:09.323794+00:00",
-          "url": "https://d1ga6waihx5ib7.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
