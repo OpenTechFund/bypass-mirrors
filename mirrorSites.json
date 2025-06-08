@@ -672,35 +672,27 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-07T10:42:05.709197+00:00",
+          "created_at": "2025-06-08T21:57:03.278893+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-07T07:41:07.798141+00:00",
-          "url": "https://d2uyyo63fg526w.cloudfront.net"
+          "updated_at": "2025-06-08T00:23:06.675590+00:00",
+          "url": "https://d16zki2b8b1uhf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-07T07:41:04.055713+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-07T06:31:09.603388+00:00",
-          "url": "https://d75lm6s9zwwnc.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-07T07:43:04.112918+00:00",
+          "created_at": "2025-06-08T21:57:03.290321+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-07T07:41:07.917874+00:00",
-          "url": "https://dqd7uw5o3hjs.cloudfront.net"
+          "updated_at": "2025-06-08T20:52:10.581195+00:00",
+          "url": "https://d1lcdmy5rix4rn.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -720,11 +712,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-07T06:07:04.740329+00:00",
+          "created_at": "2025-06-08T21:57:03.300509+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-07T05:43:10.901461+00:00",
-          "url": "https://d2tws13151eabs.cloudfront.net"
+          "updated_at": "2025-06-07T08:51:08.651081+00:00",
+          "url": "https://d3222m9vb95ktz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1239,11 +1231,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-06T21:19:05.700657+00:00",
+          "created_at": "2025-06-08T22:01:03.341828+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-06T07:23:09.057510+00:00",
-          "url": "https://daxyrmiyhh561.cloudfront.net"
+          "updated_at": "2025-06-08T11:01:10.112408+00:00",
+          "url": "https://d35t5lpgf0hpt1.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
