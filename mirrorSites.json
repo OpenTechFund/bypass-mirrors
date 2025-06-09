@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-07T06:31:03.616875+00:00",
+          "created_at": "2025-06-09T07:16:03.838380+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-05T13:27:06.439629+00:00",
-          "url": "https://d1waml494py62t.cloudfront.net"
+          "updated_at": "2025-06-07T15:23:05.876026+00:00",
+          "url": "https://d2fm0h23rp6xp4.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -1884,11 +1884,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-09T02:42:03.687730+00:00",
+          "created_at": "2025-06-09T07:20:05.982109+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-08T23:57:10.460168+00:00",
-          "url": "https://dwkpo9hnw44b1.cloudfront.net"
+          "updated_at": "2025-06-09T02:42:09.489789+00:00",
+          "url": "https://d39fy00jz84d1x.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
