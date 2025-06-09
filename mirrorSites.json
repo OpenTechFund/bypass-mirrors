@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-09T02:01:08.870898+00:00",
+          "created_at": "2025-06-09T05:04:04.340912+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-08T23:57:11.091148+00:00",
-          "url": "https://dyj786tvqrx3m.cloudfront.net"
+          "updated_at": "2025-06-09T03:06:11.907008+00:00",
+          "url": "https://d196zhisomzik3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-09T02:01:08.797228+00:00",
+          "created_at": "2025-06-09T05:04:04.313156+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-08T23:57:08.546166+00:00",
-          "url": "https://df93zhrsye3ia.cloudfront.net"
+          "updated_at": "2025-06-09T03:06:09.109767+00:00",
+          "url": "https://d1tncrnpeom6rd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-09T02:01:08.911884+00:00",
+          "created_at": "2025-06-09T05:04:04.356592+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-08T23:01:09.978639+00:00",
-          "url": "https://d2k7r7v83m9d6l.cloudfront.net"
+          "updated_at": "2025-06-09T02:01:26.342212+00:00",
+          "url": "https://d1bpbwr5g1copi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -894,11 +894,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-07T03:21:02.872131+00:00",
+          "created_at": "2025-06-09T05:08:03.214035+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-05T14:29:07.000809+00:00",
-          "url": "https://d1u6cu3hjj0yia.cloudfront.net"
+          "updated_at": "2025-06-07T19:55:07.667413+00:00",
+          "url": "https://d33rx3w9pv0i7r.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
