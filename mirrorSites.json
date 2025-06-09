@@ -682,15 +682,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-09T13:58:06.074999+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-09T05:04:09.889012+00:00",
-          "url": "https://d3rmyrqfc0w1d9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1087,15 +1079,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-09T04:40:10.411773+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-09T04:02:06.990040+00:00",
-          "url": "https://dlyc1xw3l8c7x.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2103,13 +2087,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-06-09T10:16:03.757870+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-09T04:32:09.612225+00:00",
-          "url": "https://dzey6wb0ryj0o.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
