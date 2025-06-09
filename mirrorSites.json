@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-09T03:54:03.385174+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-09T03:52:06.794751+00:00",
-          "url": "https://d3kxq77hi2cjqd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -2105,11 +2097,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-06-09T04:32:05.031298+00:00",
+          "created_at": "2025-06-09T10:16:03.757870+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-09T03:54:07.722717+00:00",
-          "url": "https://d2h7mol8vaxzxp.cloudfront.net"
+          "updated_at": "2025-06-09T04:32:09.612225+00:00",
+          "url": "https://dzey6wb0ryj0o.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
