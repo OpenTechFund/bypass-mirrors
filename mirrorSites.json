@@ -1770,6 +1770,13 @@
           "type": "eotk",
           "updated_at": "2022-09-27 08:42:51.452037+00:00",
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
+        },
+        {
+          "created_at": "2025-06-10T19:00:03.526927+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-06-10T05:08:09.987895+00:00",
+          "url": "https://d37wcjzn11a7f5.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
