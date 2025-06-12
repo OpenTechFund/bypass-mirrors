@@ -670,15 +670,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-11T14:20:03.607264+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-11T12:20:09.534772+00:00",
-          "url": "https://d3i3qna9u8or86.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -1882,15 +1874,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-11T15:00:03.704288+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-11T12:20:11.242730+00:00",
-          "url": "https://d6fyy1bwpipob.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
