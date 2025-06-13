@@ -838,11 +838,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-11T08:30:03.129871+00:00",
+          "created_at": "2025-06-13T09:36:04.680087+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-09T22:00:06.612260+00:00",
-          "url": "https://d37fb9egayfba6.cloudfront.net"
+          "updated_at": "2025-06-12T01:02:07.202037+00:00",
+          "url": "https://d28w7xb7fy6kst.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
