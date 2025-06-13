@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-13T08:48:05.244396+00:00",
+          "created_at": "2025-06-13T18:47:04.769037+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-13T00:35:06.068053+00:00",
-          "url": "https://dwfbkc1d8nmo5.cloudfront.net"
+          "updated_at": "2025-06-13T17:11:07.556730+00:00",
+          "url": "https://d2hp0ugoqz409m.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-13T13:20:04.564848+00:00",
+          "created_at": "2025-06-13T18:47:04.816191+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-13T10:16:09.376082+00:00",
-          "url": "https://d2r9vw0yxf1fiv.cloudfront.net"
+          "updated_at": "2025-06-13T14:23:10.707190+00:00",
+          "url": "https://d16uqpbcs7fh7.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-13T15:43:04.468670+00:00",
+          "created_at": "2025-06-13T18:47:04.784921+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-13T11:52:07.368363+00:00",
-          "url": "https://d1ie5izlij21js.cloudfront.net"
+          "updated_at": "2025-06-13T16:39:11.447256+00:00",
+          "url": "https://d2qi8u56a5gfdd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -2008,13 +2008,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:55:49.556741+00:00",
           "url": "https://www.farda7tcb3bmdtmsmwx7wofkxxjrcw4iiizin7zzcju2oega74cnzbid.onion"
-        },
-        {
-          "created_at": "2023-10-29T07:35:03.468624+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-28T18:05:03.834075+00:00",
-          "url": "https://dcr7jg53fywp4.cloudfront.net"
         }
       ],
       "main_domain": "radiofarda.com"
