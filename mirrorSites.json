@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-11T12:40:03.129362+00:00",
+          "created_at": "2025-06-13T15:17:02.903234+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-09T18:42:07.326290+00:00",
-          "url": "https://d3tnasy1pdvvhi.cloudfront.net"
+          "updated_at": "2025-06-11T22:42:05.898635+00:00",
+          "url": "https://d1mcixtki0vjlv.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-11T13:12:04.602368+00:00",
+          "created_at": "2025-06-13T15:11:04.984423+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-11T09:34:07.963348+00:00",
-          "url": "https://drze0dm76dy2a.cloudfront.net"
+          "updated_at": "2025-06-13T10:30:13.487136+00:00",
+          "url": "https://d3bvrmpewj8ijt.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
