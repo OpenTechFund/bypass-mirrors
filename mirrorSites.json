@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-13T15:17:02.903234+00:00",
+          "created_at": "2025-06-15T16:45:04.318796+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-11T22:42:05.898635+00:00",
-          "url": "https://d1mcixtki0vjlv.cloudfront.net"
+          "updated_at": "2025-06-14T01:49:08.706980+00:00",
+          "url": "https://d3gymc025j3k3x.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-13T15:53:02.868281+00:00",
+          "created_at": "2025-06-15T16:47:09.258207+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-13T06:20:12.505009+00:00",
-          "url": "https://d1k1k2av3d8fjo.cloudfront.net"
+          "updated_at": "2025-06-15T09:45:09.280601+00:00",
+          "url": "https://d2f28qle9bncjs.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-13T15:11:04.984423+00:00",
+          "created_at": "2025-06-15T16:49:06.254721+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-13T10:30:13.487136+00:00",
-          "url": "https://d3bvrmpewj8ijt.cloudfront.net"
+          "updated_at": "2025-06-15T11:59:21.661638+00:00",
+          "url": "https://dluxm8zm9jgcz.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
