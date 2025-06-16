@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-15T20:03:06.957387+00:00",
+          "created_at": "2025-06-16T03:12:03.061624+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-15T13:23:07.099019+00:00",
-          "url": "https://d2s5pwiibzhwcz.cloudfront.net"
+          "updated_at": "2025-06-15T22:02:08.353435+00:00",
+          "url": "https://d351slvy0n7txb.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-16T00:08:04.397268+00:00",
+          "created_at": "2025-06-16T03:12:03.001048+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-15T13:39:08.878302+00:00",
-          "url": "https://d26d6i3vruvynz.cloudfront.net"
+          "updated_at": "2025-06-16T00:08:07.711437+00:00",
+          "url": "https://d1ull6bx7eaeaq.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
