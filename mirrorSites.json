@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-16T16:18:04.439763+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-16T16:16:14.656118+00:00",
-          "url": "https://d36h5j2cbwbxwk.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -720,11 +712,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-17T10:45:05.454012+00:00",
+          "created_at": "2025-06-17T16:49:05.154369+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-16T16:16:11.765338+00:00",
-          "url": "https://d3r81hkaunxagd.cloudfront.net"
+          "updated_at": "2025-06-17T12:19:10.749480+00:00",
+          "url": "https://d3r79gn1jiuxgg.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1087,15 +1079,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-17T04:03:07.219770+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-16T16:16:10.570433+00:00",
-          "url": "https://d3dy79dust8w5g.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
