@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-15T07:37:02.986647+00:00",
+          "created_at": "2025-06-17T09:49:06.090299+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-13T22:07:09.079451+00:00",
-          "url": "https://d2hrsmpahom9h3.cloudfront.net"
+          "updated_at": "2025-06-15T22:30:14.108465+00:00",
+          "url": "https://d3bhewqf0hay8g.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
