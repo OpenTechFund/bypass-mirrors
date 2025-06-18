@@ -925,11 +925,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-16T00:06:03.030481+00:00",
+          "created_at": "2025-06-18T02:49:04.218584+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-14T02:05:14.775615+00:00",
-          "url": "https://d2yzigtq4xczpb.cloudfront.net"
+          "updated_at": "2025-06-16T08:06:16.738253+00:00",
+          "url": "https://d1o194g8q25bso.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-17T18:47:05.805407+00:00",
+          "created_at": "2025-06-18T02:49:04.292752+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-17T13:31:11.300696+00:00",
-          "url": "https://d3gwb6wyv7furj.cloudfront.net"
+          "updated_at": "2025-06-18T01:45:17.988412+00:00",
+          "url": "https://d2fg0w6ahtghxo.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
