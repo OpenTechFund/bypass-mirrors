@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-18T17:21:05.279905+00:00",
+          "created_at": "2025-06-18T21:49:05.319795+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-18T01:45:18.248127+00:00",
-          "url": "https://dlw5u501qoygi.cloudfront.net"
+          "updated_at": "2025-06-18T18:01:12.440012+00:00",
+          "url": "https://dmoi75t0z5j9u.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1287,11 +1287,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-16T19:24:04.382982+00:00",
+          "created_at": "2025-06-18T21:45:04.389063+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-16T04:08:08.279357+00:00",
-          "url": "https://d36dlcxhpktfct.cloudfront.net"
+          "updated_at": "2025-06-18T11:03:19.910966+00:00",
+          "url": "https://dbbh2dogggabf.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
