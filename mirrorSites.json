@@ -706,27 +706,11 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-19T18:08:04.767685+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-19T17:05:11.507096+00:00",
-          "url": "https://d1ddch1n19gugo.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-19T18:08:04.728088+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-19T17:05:08.691799+00:00",
-          "url": "https://d1jwrqb9m9w9b3.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -2103,13 +2087,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-06-19T17:45:03.764515+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-19T17:05:09.473496+00:00",
-          "url": "https://d1o1hag3qquian.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
