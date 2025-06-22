@@ -682,15 +682,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-22T14:10:04.973106+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-21T20:37:11.028051+00:00",
-          "url": "https://d2es27d3rsqsyn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1215,11 +1207,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-06-20T15:24:05.457968+00:00",
+          "created_at": "2025-06-22T17:08:04.014266+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-20T11:52:06.110549+00:00",
-          "url": "https://d160hm5pcsrrxz.cloudfront.net"
+          "updated_at": "2025-06-22T14:32:07.252782+00:00",
+          "url": "https://d10eb76k852a0v.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
