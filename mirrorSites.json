@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-20T08:12:03.872992+00:00",
+          "created_at": "2025-06-22T09:44:05.491427+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-18T05:03:09.575204+00:00",
-          "url": "https://d2dacw6lu2z2sx.cloudfront.net"
+          "updated_at": "2025-06-20T08:12:06.439546+00:00",
+          "url": "https://d2ll10r210ucse.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -906,11 +906,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-20T07:48:04.792941+00:00",
+          "created_at": "2025-06-22T09:38:03.685248+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-18T13:09:10.137018+00:00",
-          "url": "https://dqdpymw7hdhpu.cloudfront.net"
+          "updated_at": "2025-06-20T14:18:15.146277+00:00",
+          "url": "https://d3mth0kmk2cygr.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
