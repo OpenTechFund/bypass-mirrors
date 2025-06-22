@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-20T06:22:02.915476+00:00",
+          "created_at": "2025-06-22T06:56:04.199358+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-19T14:03:08.146754+00:00",
-          "url": "https://d1aohvso3sfm32.cloudfront.net"
+          "updated_at": "2025-06-21T17:01:07.504389+00:00",
+          "url": "https://d11tt9yw3vcjdz.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-21T22:58:04.558978+00:00",
+          "created_at": "2025-06-22T06:54:05.130081+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-21T03:02:07.562065+00:00",
-          "url": "https://d2x87nas899cnt.cloudfront.net"
+          "updated_at": "2025-06-22T01:44:09.721014+00:00",
+          "url": "https://d239o6ocm1em3j.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
