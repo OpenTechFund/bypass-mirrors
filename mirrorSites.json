@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-22T14:50:03.406633+00:00",
+          "created_at": "2025-06-23T04:16:03.990929+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-22T10:54:13.183530+00:00",
-          "url": "https://d2c3i67kiiy8pl.cloudfront.net"
+          "updated_at": "2025-06-22T14:50:09.996716+00:00",
+          "url": "https://d3dgw7fldzcuyi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
