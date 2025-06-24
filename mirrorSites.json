@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-23T05:52:03.611763+00:00",
+          "created_at": "2025-06-24T13:54:04.541655+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-23T04:48:14.886479+00:00",
-          "url": "https://d3ppyoifu15jq6.cloudfront.net"
+          "updated_at": "2025-06-24T05:27:07.084661+00:00",
+          "url": "https://d13phbb4tk62fk.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
