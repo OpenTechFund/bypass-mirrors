@@ -718,15 +718,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-23T04:48:07.846561+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-23T02:10:14.081217+00:00",
-          "url": "https://d2e0qbfwo2y9sb.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
