@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-23T04:56:04.209955+00:00",
+          "created_at": "2025-06-24T05:27:03.245203+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-23T02:50:04.330134+00:00",
-          "url": "https://d3qukda907dcm.cloudfront.net"
+          "updated_at": "2025-06-23T17:56:06.127367+00:00",
+          "url": "https://d1ovod62tprgx7.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -2105,11 +2105,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-06-23T04:48:07.864410+00:00",
+          "created_at": "2025-06-24T05:27:03.365308+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-23T02:50:07.473009+00:00",
-          "url": "https://d131tpvdjr1odb.cloudfront.net"
+          "updated_at": "2025-06-23T16:20:08.997830+00:00",
+          "url": "https://d1i0gglx9pevnc.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
