@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-23T17:18:04.001459+00:00",
+          "created_at": "2025-06-25T19:25:04.252254+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-23T15:38:12.695127+00:00",
-          "url": "https://dfjb2l8cx7gkm.cloudfront.net"
+          "updated_at": "2025-06-25T18:31:10.630311+00:00",
+          "url": "https://d1das85gc30v7n.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
@@ -2103,13 +2103,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-06-25T07:09:03.922715+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-24T22:52:07.737981+00:00",
-          "url": "https://d1ebg26afuetcg.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
