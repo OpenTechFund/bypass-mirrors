@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-25T11:39:02.909862+00:00",
+          "created_at": "2025-06-26T18:26:04.280941+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-25T11:37:10.690461+00:00",
-          "url": "https://dj7odn6p8cmrm.cloudfront.net"
+          "updated_at": "2025-06-25T23:03:09.969287+00:00",
+          "url": "https://d1b7osq5bhclcm.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
