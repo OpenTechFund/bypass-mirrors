@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-27T01:10:04.288964+00:00",
+          "created_at": "2025-06-27T22:42:04.613903+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-26T22:07:08.459665+00:00",
-          "url": "https://d2gzr74j8erwqa.cloudfront.net"
+          "updated_at": "2025-06-27T01:10:05.797791+00:00",
+          "url": "https://d2r70dcdsnmz5t.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-27T04:28:03.779869+00:00",
+          "created_at": "2025-06-27T22:42:04.734787+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-26T20:25:11.653353+00:00",
-          "url": "https://d1wth6tglxxyjs.cloudfront.net"
+          "updated_at": "2025-06-27T14:53:11.467943+00:00",
+          "url": "https://dqng5ht3tv8av.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
