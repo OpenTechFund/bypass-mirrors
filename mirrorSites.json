@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-27T08:43:04.839792+00:00",
+          "created_at": "2025-06-27T15:40:07.769713+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-26T19:05:10.519123+00:00",
-          "url": "https://d1i0s3tkq9uxka.cloudfront.net"
+          "updated_at": "2025-06-27T08:43:10.431697+00:00",
+          "url": "https://d2pa394v95lpvq.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-25T14:01:04.096242+00:00",
+          "created_at": "2025-06-27T15:44:04.240878+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-24T10:44:13.238561+00:00",
-          "url": "https://d1naszleyi0506.cloudfront.net"
+          "updated_at": "2025-06-26T14:24:11.245099+00:00",
+          "url": "https://d243ajqc40ld32.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-27T08:43:04.825599+00:00",
+          "created_at": "2025-06-27T15:40:07.745975+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-26T18:26:09.724881+00:00",
-          "url": "https://d1h49nzp8bc04d.cloudfront.net"
+          "updated_at": "2025-06-27T08:43:10.237260+00:00",
+          "url": "https://dmwip3ymjrdqy.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
