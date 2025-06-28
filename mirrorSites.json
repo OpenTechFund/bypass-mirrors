@@ -282,7 +282,15 @@
       "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-06-27T23:48:03.620682+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-06-27T23:36:10.113286+00:00",
+          "url": "https://ds313vf5bw91s.cloudfront.net"
+        }
+      ],
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
