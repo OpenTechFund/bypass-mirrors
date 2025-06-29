@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-28T18:01:03.466853+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-28T17:59:06.419536+00:00",
-          "url": "https://d1saj5m2nva7u0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -706,15 +698,7 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-28T14:42:03.545688+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-28T14:40:10.450775+00:00",
-          "url": "https://dqn0gz8v1r38j.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -732,11 +716,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-28T18:53:04.288213+00:00",
+          "created_at": "2025-06-29T09:32:03.162645+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-28T15:50:10.307049+00:00",
-          "url": "https://d1272ezg3dk8et.cloudfront.net"
+          "updated_at": "2025-06-28T18:53:10.293811+00:00",
+          "url": "https://d821n4n19pqzd.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
