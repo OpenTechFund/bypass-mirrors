@@ -1087,15 +1087,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-28T06:19:03.840890+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-28T06:17:07.574861+00:00",
-          "url": "https://d5rpwyuk0mnav.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2103,13 +2095,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-06-28T06:03:03.316731+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-28T06:01:08.689222+00:00",
-          "url": "https://d3ti2wx0x2hz09.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
