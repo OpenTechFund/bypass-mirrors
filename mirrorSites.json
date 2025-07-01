@@ -486,15 +486,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-30T00:58:05.059518+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-29T22:43:08.437205+00:00",
-          "url": "https://d3j84stun1q0pw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1071,15 +1063,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-06-30T02:10:03.591437+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-30T02:08:08.135339+00:00",
-          "url": "https://d1mochanzgb3fn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
