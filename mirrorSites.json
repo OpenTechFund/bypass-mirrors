@@ -2105,11 +2105,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-07-01T09:20:04.170516+00:00",
+          "created_at": "2025-07-01T12:20:07.727785+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T09:18:09.996512+00:00",
-          "url": "https://d27wbld62ufa3g.cloudfront.net"
+          "updated_at": "2025-07-01T09:20:08.876055+00:00",
+          "url": "https://dcbx73hiq2x4u.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T09:18:05.489565+00:00",
+          "created_at": "2025-07-01T12:20:07.598071+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T06:16:09.757340+00:00",
-          "url": "https://djwjcytkoh5rb.cloudfront.net"
+          "updated_at": "2025-07-01T09:26:25.072144+00:00",
+          "url": "https://d1r0xil2iu6q10.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
