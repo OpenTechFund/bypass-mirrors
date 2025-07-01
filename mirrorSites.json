@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-06-29T10:32:05.782936+00:00",
+          "created_at": "2025-07-01T10:56:03.777843+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-27T05:07:04.913070+00:00",
-          "url": "https://d1jnbtvzvyiy5l.cloudfront.net"
+          "updated_at": "2025-06-29T10:32:06.380423+00:00",
+          "url": "https://d3tw5mkz8009k.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -2635,6 +2635,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 14:46:50.987577+00:00",
           "url": "https://www.voaptui56ica5x6xyxrtp4uhtfxxbxxlxk4gyfqo4ctrw4bo53st2oad.onion"
+        },
+        {
+          "created_at": "2025-07-01T10:38:04.745215+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-01T10:38:04.745225+00:00",
+          "url": "https://d3q75x6j1pg24j.cloudfront.net"
         }
       ],
       "main_domain": "voaportugues.com"
