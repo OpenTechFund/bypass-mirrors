@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T12:52:03.804735+00:00",
+          "created_at": "2025-07-01T15:54:02.834851+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T11:16:06.035126+00:00",
-          "url": "https://d32p7i80ifaq4y.cloudfront.net"
+          "updated_at": "2025-07-01T14:18:07.021561+00:00",
+          "url": "https://d1tx1wox7qrl8a.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1287,11 +1287,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-29T13:25:04.129665+00:00",
+          "created_at": "2025-07-01T16:02:05.003500+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-28T23:51:13.791265+00:00",
-          "url": "https://dc19n3h7n16vr.cloudfront.net"
+          "updated_at": "2025-06-30T23:56:38.981513+00:00",
+          "url": "https://d1t27cgtg3a0b5.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
