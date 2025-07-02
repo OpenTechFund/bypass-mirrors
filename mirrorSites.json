@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T15:54:02.834851+00:00",
+          "created_at": "2025-07-02T04:22:03.209037+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T14:18:07.021561+00:00",
-          "url": "https://d1tx1wox7qrl8a.cloudfront.net"
+          "updated_at": "2025-07-01T18:24:06.496245+00:00",
+          "url": "https://d3bqfe1uq6actp.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T17:52:04.827821+00:00",
+          "created_at": "2025-07-02T04:22:03.351943+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T13:56:10.136078+00:00",
-          "url": "https://dvlpi7xy8xfk4.cloudfront.net"
+          "updated_at": "2025-07-01T17:52:10.769859+00:00",
+          "url": "https://d310hf9ymvh254.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T15:14:03.747681+00:00",
+          "created_at": "2025-07-02T04:22:03.317174+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T13:16:07.191161+00:00",
-          "url": "https://d30t93sfum4dv2.cloudfront.net"
+          "updated_at": "2025-07-01T16:18:07.566833+00:00",
+          "url": "https://d3avfq87mozyqf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-06-29T23:09:04.324652+00:00",
+          "created_at": "2025-07-02T04:18:04.517225+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-29T21:35:09.059115+00:00",
-          "url": "https://d1j4vnod6bpel5.cloudfront.net"
+          "updated_at": "2025-07-01T21:54:09.871671+00:00",
+          "url": "https://d1jx18xbexfqzr.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
@@ -2103,13 +2103,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-07-01T15:24:03.925473+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-01T15:22:08.668298+00:00",
-          "url": "https://d1sr5q1k86oat9.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
