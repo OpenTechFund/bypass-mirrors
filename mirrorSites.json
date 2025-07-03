@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-06-30T21:42:35.336404+00:00",
+          "created_at": "2025-07-03T02:16:02.824217+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-28T19:37:08.345871+00:00",
-          "url": "https://d2dqxztnxcds7k.cloudfront.net"
+          "updated_at": "2025-07-02T23:28:05.838268+00:00",
+          "url": "https://d3qcq11w4dchod.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T16:50:03.740870+00:00",
+          "created_at": "2025-07-03T02:10:03.080623+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T15:54:09.109770+00:00",
-          "url": "https://dx9espdhi5wcx.cloudfront.net"
+          "updated_at": "2025-07-02T03:42:10.439375+00:00",
+          "url": "https://d8q2fw9vosz1m.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-01T18:56:06.016220+00:00",
+          "created_at": "2025-07-03T02:10:03.068171+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T16:02:14.230084+00:00",
-          "url": "https://d2jives7g4a97j.cloudfront.net"
+          "updated_at": "2025-07-02T04:22:09.680899+00:00",
+          "url": "https://d1rl9kixxnyl9p.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
