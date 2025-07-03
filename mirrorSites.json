@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-02T04:22:03.351943+00:00",
+          "created_at": "2025-07-03T08:14:05.254683+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-01T17:52:10.769859+00:00",
-          "url": "https://d310hf9ymvh254.cloudfront.net"
+          "updated_at": "2025-07-02T04:22:09.551699+00:00",
+          "url": "https://d1l8lgcwr9xsw9.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
