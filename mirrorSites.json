@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-03T15:10:04.084222+00:00",
+          "created_at": "2025-07-03T18:12:03.808805+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-03T12:14:10.561573+00:00",
-          "url": "https://d2k4wj29ds9ik4.cloudfront.net"
+          "updated_at": "2025-07-03T15:18:10.041728+00:00",
+          "url": "https://dqzkfq11roqhv.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
