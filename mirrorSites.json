@@ -1215,11 +1215,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-07-03T06:20:03.541029+00:00",
+          "created_at": "2025-07-05T07:20:04.162073+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-03T00:54:06.160380+00:00",
-          "url": "https://d2b602tafo77up.cloudfront.net"
+          "updated_at": "2025-07-05T01:48:07.914837+00:00",
+          "url": "https://dcc3brq2rnvsz.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
