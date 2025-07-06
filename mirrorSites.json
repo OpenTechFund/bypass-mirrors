@@ -494,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-06T04:34:03.856822+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-05T18:32:08.933139+00:00",
+          "url": "https://dfw4gqdx5m7aj.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
