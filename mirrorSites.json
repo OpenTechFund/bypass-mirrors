@@ -2730,6 +2730,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:42:07.381020+00:00",
           "url": "https://www.voatibe2tapf3u43p7vxtsdvtyhnsunhaf6azd4rua6i2ifqfsfpttad.onion"
+        },
+        {
+          "created_at": "2025-07-06T13:04:04.596484+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-06T12:48:07.138015+00:00",
+          "url": "https://d3rfxg4oyz3xr5.cloudfront.net"
         }
       ],
       "main_domain": "voatibetan.com"
