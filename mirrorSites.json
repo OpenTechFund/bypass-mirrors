@@ -494,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-07T19:12:03.411797+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-06T17:32:11.244525+00:00",
+          "url": "https://d1qy4v0eahyt2i.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -1071,7 +1079,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-07T19:12:03.371410+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-07T16:26:06.823485+00:00",
+          "url": "https://d2obsne8e5k3o0.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -2174,6 +2190,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:02:10.828755+00:00",
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
+        },
+        {
+          "created_at": "2025-07-07T19:12:03.254068+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-07T06:02:07.705877+00:00",
+          "url": "https://d2khm8apn3hzn4.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
