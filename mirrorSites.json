@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-07T03:32:03.385579+00:00",
+          "created_at": "2025-07-08T05:06:05.224813+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-06T21:12:08.552865+00:00",
-          "url": "https://d49m7qym1jqi3.cloudfront.net"
+          "updated_at": "2025-07-07T21:58:08.067730+00:00",
+          "url": "https://d1ac33jgnz7tfe.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1297,15 +1297,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-08T02:12:06.910299+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-06T18:28:06.788850+00:00",
-          "url": "https://d2oa9wt1xnivdx.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
