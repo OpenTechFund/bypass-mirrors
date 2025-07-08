@@ -670,25 +670,17 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-07T22:00:03.568393+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-07T21:58:09.313969+00:00",
-          "url": "https://d10qo88jw51og9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-07T23:02:04.196003+00:00",
+          "created_at": "2025-07-08T15:26:03.574364+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-07T21:58:12.124258+00:00",
-          "url": "https://d2rlx7if0t53bs.cloudfront.net"
+          "updated_at": "2025-07-08T13:50:11.108958+00:00",
+          "url": "https://d3tq41y4moplyz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
