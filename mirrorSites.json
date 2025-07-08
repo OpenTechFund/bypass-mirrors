@@ -1297,15 +1297,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-06T16:06:02.892303+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-06T09:02:06.952113+00:00",
-          "url": "https://dkc7na04m8ycm.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
