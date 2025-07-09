@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-08T17:18:03.980134+00:00",
+          "created_at": "2025-07-09T07:26:05.841048+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-08T05:06:08.193477+00:00",
-          "url": "https://d14sgm0ugc6bmj.cloudfront.net"
+          "updated_at": "2025-07-08T17:18:07.192872+00:00",
+          "url": "https://d21bodh08p3vtz.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-08T12:00:03.551475+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-08T11:58:14.432390+00:00",
-          "url": "https://d214gkh48jy9dq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -670,15 +662,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-08T15:28:04.414565+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-08T15:26:07.455889+00:00",
-          "url": "https://d12loi4c0pt4k5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -732,11 +716,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-07T23:02:04.210697+00:00",
+          "created_at": "2025-07-09T07:26:05.913441+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-07T19:58:12.466673+00:00",
-          "url": "https://dkwazi8a74g2w.cloudfront.net"
+          "updated_at": "2025-07-08T18:28:11.202706+00:00",
+          "url": "https://d2v2ubac63fc81.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1884,11 +1868,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-08T20:12:03.597196+00:00",
+          "created_at": "2025-07-09T07:26:05.892537+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-08T11:10:10.542081+00:00",
-          "url": "https://d32ua6sn1ky6rx.cloudfront.net"
+          "updated_at": "2025-07-08T21:22:10.919310+00:00",
+          "url": "https://d25v543di92y19.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
