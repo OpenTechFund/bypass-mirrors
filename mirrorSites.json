@@ -525,7 +525,15 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-09T07:28:03.812923+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-09T07:26:07.506324+00:00",
+          "url": "https://d1u85mj49zdal2.cloudfront.net"
+        }
+      ],
       "main_domain": "kloop.kg"
     },
     {
@@ -662,7 +670,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-09T07:28:03.903909+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-09T07:26:09.902718+00:00",
+          "url": "https://d5ggwpjq1tcbb.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
