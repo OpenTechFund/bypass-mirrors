@@ -1081,11 +1081,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-09T08:54:03.921506+00:00",
+          "created_at": "2025-07-10T05:18:03.089515+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-09T07:42:08.409928+00:00",
-          "url": "https://d1ifo34iy850ku.cloudfront.net"
+          "updated_at": "2025-07-09T10:46:07.832423+00:00",
+          "url": "https://dtzu25jde9lua.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1291,11 +1291,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-09T08:54:03.906800+00:00",
+          "created_at": "2025-07-10T05:18:03.070232+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-09T07:42:08.255876+00:00",
-          "url": "https://dyflrp9h5cklu.cloudfront.net"
+          "updated_at": "2025-07-10T02:38:08.112765+00:00",
+          "url": "https://d2lbfa76ed92rd.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
