@@ -1120,11 +1120,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-08T00:06:03.469963+00:00",
+          "created_at": "2025-07-10T01:12:03.394573+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-06T10:46:08.630774+00:00",
-          "url": "https://d3k9hejts2g5s7.cloudfront.net"
+          "updated_at": "2025-07-08T14:18:09.439527+00:00",
+          "url": "https://d3gsk9si6vekwx.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
