@@ -1884,11 +1884,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-09T07:26:05.892537+00:00",
+          "created_at": "2025-07-10T00:56:03.557737+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-08T21:22:10.919310+00:00",
-          "url": "https://d25v543di92y19.cloudfront.net"
+          "updated_at": "2025-07-09T07:26:11.710896+00:00",
+          "url": "https://d2d7i9ndpamjlc.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
