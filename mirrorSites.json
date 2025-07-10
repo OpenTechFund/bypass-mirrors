@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-08T12:54:05.594311+00:00",
+          "created_at": "2025-07-10T16:58:04.729415+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-08T04:46:09.499563+00:00",
-          "url": "https://d7sp6szgfu2oe.cloudfront.net"
+          "updated_at": "2025-07-10T07:42:12.940995+00:00",
+          "url": "https://dd6mxsga8sfjh.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
