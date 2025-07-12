@@ -1097,11 +1097,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-10T01:12:03.394573+00:00",
+          "created_at": "2025-07-12T02:49:02.876907+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-08T14:18:09.439527+00:00",
-          "url": "https://d3gsk9si6vekwx.cloudfront.net"
+          "updated_at": "2025-07-10T15:24:08.824607+00:00",
+          "url": "https://d2x5qruropfua1.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -2080,6 +2080,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-07-12T02:39:03.665005+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-11T12:25:11.847283+00:00",
+          "url": "https://dyq12d3mmjzpf.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
