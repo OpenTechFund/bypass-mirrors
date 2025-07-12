@@ -382,15 +382,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-11T11:05:05.092186+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-10T21:58:08.899076+00:00",
-          "url": "https://d3taq7qc8dbjco.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -615,11 +607,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-07-09T21:52:04.378775+00:00",
+          "created_at": "2025-07-12T00:05:04.516170+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-07T18:48:03.342713+00:00",
-          "url": "https://d1egf46tnj52ga.cloudfront.net"
+          "updated_at": "2025-07-09T21:52:04.886308+00:00",
+          "url": "https://d25uqrbnbrhiwc.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
