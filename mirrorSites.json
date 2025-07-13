@@ -349,13 +349,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:11:17.310518+00:00",
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-07-11T16:03:03.073663+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-11T15:47:03.685095+00:00",
-          "url": "https://dfie1fg8hdmj9.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
