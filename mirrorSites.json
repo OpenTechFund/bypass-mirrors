@@ -294,15 +294,7 @@
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-10T20:20:04.267087+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-10T16:30:09.064486+00:00",
-          "url": "https://d3shkpdld90k0i.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "dwvod-rwrtr.akamaized.net"
     },
     {
