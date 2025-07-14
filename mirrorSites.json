@@ -967,15 +967,7 @@
       "main_domain": "stage.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-12T02:49:02.876907+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-10T15:24:08.824607+00:00",
-          "url": "https://d2x5qruropfua1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "static.dw.com"
     },
     {
