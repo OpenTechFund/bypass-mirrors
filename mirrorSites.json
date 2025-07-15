@@ -665,13 +665,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:14:58.556663+00:00",
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-07-13T10:21:03.846389+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-11T14:25:12.394290+00:00",
-          "url": "https://d38dgkvw7da27c.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
