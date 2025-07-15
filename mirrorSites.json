@@ -686,15 +686,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-13T09:55:03.519835+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-11T10:01:10.371319+00:00",
-          "url": "https://d3jajpzyr0iorh.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
