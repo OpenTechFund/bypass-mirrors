@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-18T14:49:04.420152+00:00",
+          "created_at": "2025-07-20T15:21:03.445455+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-17T06:43:08.551718+00:00",
-          "url": "https://d31y66yejs9xnc.cloudfront.net"
+          "updated_at": "2025-07-19T08:56:08.390634+00:00",
+          "url": "https://d4ufhdjyqcda1.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
