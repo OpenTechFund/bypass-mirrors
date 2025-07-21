@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-07-19T11:48:03.371742+00:00",
+          "created_at": "2025-07-21T14:24:03.033183+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-17T13:19:05.246197+00:00",
-          "url": "https://d3jld8oydsbayt.cloudfront.net"
+          "updated_at": "2025-07-19T16:19:05.405421+00:00",
+          "url": "https://d1oxrs6ehv537x.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-19T10:56:02.636878+00:00",
+          "created_at": "2025-07-21T14:22:02.833799+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-19T07:46:08.239333+00:00",
-          "url": "https://d51wqm34j65x0.cloudfront.net"
+          "updated_at": "2025-07-21T10:08:07.132730+00:00",
+          "url": "https://d3c57zsnuoyo5v.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
