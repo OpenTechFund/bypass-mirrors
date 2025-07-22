@@ -422,11 +422,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2025-07-20T14:21:03.646924+00:00",
+          "created_at": "2025-07-22T17:06:05.715942+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-20T01:08:10.650233+00:00",
-          "url": "https://d1ndjmpdtlvsyl.cloudfront.net"
+          "updated_at": "2025-07-22T02:56:06.356218+00:00",
+          "url": "https://d14xe75dmcyyd7.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-20T13:51:05.586474+00:00",
+          "created_at": "2025-07-22T17:08:04.411497+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-19T08:48:08.287863+00:00",
-          "url": "https://d1cwl3jlkrd87k.cloudfront.net"
+          "updated_at": "2025-07-21T10:00:07.755889+00:00",
+          "url": "https://d39ll7yxcu2sih.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
