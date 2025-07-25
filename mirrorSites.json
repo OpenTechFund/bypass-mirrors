@@ -686,7 +686,15 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T21:39:03.943072+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T21:37:08.081887+00:00",
+          "url": "https://d3vznsmgzmkq3a.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -702,11 +710,27 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T21:45:04.539389+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T21:37:08.154462+00:00",
+          "url": "https://dle69ncutkky3.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T21:39:04.011513+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T21:37:10.170526+00:00",
+          "url": "https://d3oxhno2qrnt0a.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1850,7 +1874,15 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T21:47:03.766367+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T19:07:09.780306+00:00",
+          "url": "https://d2v6vk23s7rp9v.cloudfront.net"
+        }
+      ],
       "main_domain": "martinoticias.com"
     },
     {
