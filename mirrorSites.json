@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T22:01:04.351185+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T21:53:07.859806+00:00",
+          "url": "https://d1aw3jqq417gb8.cloudfront.net"
+        }
+      ],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -519,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-25T19:01:03.831510+00:00",
+          "created_at": "2025-07-25T22:19:03.749106+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-25T18:59:06.650670+00:00",
-          "url": "https://d31yfb4qb8r32n.cloudfront.net"
+          "updated_at": "2025-07-25T20:37:05.258899+00:00",
+          "url": "https://d1na6wwhtixjim.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -662,7 +670,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T21:47:03.716854+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T21:45:07.570206+00:00",
+          "url": "https://d22emwhhnqld0f.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -1071,7 +1087,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T22:01:04.337608+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T21:53:07.038799+00:00",
+          "url": "https://d3chrteso8evbz.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -2851,7 +2875,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-25T22:03:03.707889+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-25T22:01:08.920197+00:00",
+          "url": "https://d2ste3x3mpyobx.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
