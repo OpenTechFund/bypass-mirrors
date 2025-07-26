@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-26T08:43:04.167564+00:00",
+          "created_at": "2025-07-26T17:22:04.590433+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-26T04:05:09.750818+00:00",
-          "url": "https://d2r62m74wp8lc6.cloudfront.net"
+          "updated_at": "2025-07-26T08:43:09.134384+00:00",
+          "url": "https://d1dudy71o9ecla.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-24T15:21:04.035948+00:00",
+          "created_at": "2025-07-26T17:22:05.086802+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-23T12:39:08.042285+00:00",
-          "url": "https://d1k1zuxlqwuhfk.cloudfront.net"
+          "updated_at": "2025-07-25T18:21:09.214462+00:00",
+          "url": "https://dbp6z3rlcbnv5.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
