@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T05:26:03.617344+00:00",
+          "created_at": "2025-07-28T11:46:04.802666+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T03:18:07.155249+00:00",
-          "url": "https://ddcdy65ekg89v.cloudfront.net"
+          "updated_at": "2025-07-28T08:52:07.612746+00:00",
+          "url": "https://d2hr2f3zaa7evx.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-28T01:10:05.345142+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-27T23:34:13.971397+00:00",
-          "url": "https://d3cscuc4jsg1h8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -720,25 +712,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T08:44:03.931133+00:00",
+          "created_at": "2025-07-28T11:46:04.912082+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T04:48:06.839262+00:00",
-          "url": "https://d28c9v3qb04muw.cloudfront.net"
+          "updated_at": "2025-07-28T08:44:07.794062+00:00",
+          "url": "https://ds2omyh598j1e.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-28T07:10:03.747475+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-28T07:08:09.414363+00:00",
-          "url": "https://d3epl1xl0iid8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1087,15 +1071,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-28T03:18:03.141762+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-28T02:22:07.019414+00:00",
-          "url": "https://dmfjnbmlfvsa4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2875,15 +2851,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-28T02:24:04.812949+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-28T02:22:08.848010+00:00",
-          "url": "https://d2gm489rfpm2g4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
