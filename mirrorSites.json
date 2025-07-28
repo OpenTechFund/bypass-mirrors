@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T07:08:03.562026+00:00",
+          "created_at": "2025-07-28T10:12:03.349505+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T05:34:05.533621+00:00",
-          "url": "https://d1127db9pygw54.cloudfront.net"
+          "updated_at": "2025-07-28T08:36:05.152927+00:00",
+          "url": "https://d1ry65vh2qwijn.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -682,39 +682,23 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-27T23:12:03.761122+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-27T00:02:13.146286+00:00",
-          "url": "https://d31xbqnadiyeix.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T02:14:05.563982+00:00",
+          "created_at": "2025-07-28T10:12:03.464737+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T00:38:08.699472+00:00",
-          "url": "https://d3e7nfqi6swfzs.cloudfront.net"
+          "updated_at": "2025-07-28T09:26:08.016663+00:00",
+          "url": "https://d1yw2k0x0dfjn.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-28T00:40:05.138669+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-28T00:38:10.978042+00:00",
-          "url": "https://d2jj7g0ngkarum.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -2105,11 +2089,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-07-28T03:02:04.339661+00:00",
+          "created_at": "2025-07-28T10:12:03.487287+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-27T20:48:10.200204+00:00",
-          "url": "https://d3ajh2spn8hgq2.cloudfront.net"
+          "updated_at": "2025-07-28T09:26:08.830213+00:00",
+          "url": "https://damgmxv6ylnaf.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
