@@ -1227,11 +1227,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-26T22:50:08.741932+00:00",
+          "created_at": "2025-07-29T01:46:04.260066+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-25T17:01:09.795256+00:00",
-          "url": "https://d2qsd7i6iaabzb.cloudfront.net"
+          "updated_at": "2025-07-27T18:36:09.648243+00:00",
+          "url": "https://d2m746p6iu4b60.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-26T21:14:08.882274+00:00",
+          "created_at": "2025-07-29T01:44:04.441200+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-25T13:02:14.467336+00:00",
-          "url": "https://d3p8i5soelnfc7.cloudfront.net"
+          "updated_at": "2025-07-27T16:16:09.749883+00:00",
+          "url": "https://d37leqltptpyov.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
