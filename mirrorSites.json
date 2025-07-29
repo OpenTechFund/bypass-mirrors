@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T23:08:05.017582+00:00",
+          "created_at": "2025-07-29T23:52:03.946014+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T22:28:09.552799+00:00",
-          "url": "https://d28qs37d4k69fs.cloudfront.net"
+          "updated_at": "2025-07-29T06:26:12.161871+00:00",
+          "url": "https://dy5udrzwpm5w4.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-29T05:38:03.823086+00:00",
+          "created_at": "2025-07-29T23:52:03.894042+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T23:08:08.371994+00:00",
-          "url": "https://d1hdhwn7xow8vi.cloudfront.net"
+          "updated_at": "2025-07-29T05:38:07.024186+00:00",
+          "url": "https://dct9lcr9vnep5.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2877,11 +2877,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T23:10:03.655893+00:00",
+          "created_at": "2025-07-29T23:52:03.922107+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T23:08:10.801447+00:00",
-          "url": "https://d232l5uqg1ldf7.cloudfront.net"
+          "updated_at": "2025-07-29T05:38:09.259660+00:00",
+          "url": "https://d2zha0tinlkkwl.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
