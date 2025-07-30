@@ -674,15 +674,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-30T06:25:05.445553+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-29T23:04:10.438522+00:00",
-          "url": "https://d2lb10zv7b2p04.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1081,11 +1073,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-30T06:25:05.250819+00:00",
+          "created_at": "2025-07-30T09:28:04.072993+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-29T23:52:07.411821+00:00",
-          "url": "https://d20u5pkbu2o6ye.cloudfront.net"
+          "updated_at": "2025-07-30T06:25:08.946661+00:00",
+          "url": "https://d16jy7914if3hs.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2867,15 +2859,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-07-30T06:25:05.275406+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-07-29T23:52:09.845752+00:00",
-          "url": "https://dsmwtjyelv9b6.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
