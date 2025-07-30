@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-30T11:42:03.424800+00:00",
+          "created_at": "2025-07-30T23:37:05.007182+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-30T09:34:13.906915+00:00",
-          "url": "https://d7jc05s6oaqw7.cloudfront.net"
+          "updated_at": "2025-07-30T23:07:06.620998+00:00",
+          "url": "https://d3u4nti9jdjeon.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-28T20:44:06.679593+00:00",
+          "created_at": "2025-07-30T23:39:05.165255+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-27T19:38:10.654146+00:00",
-          "url": "https://d2palv5xcncqgh.cloudfront.net"
+          "updated_at": "2025-07-29T21:48:13.856269+00:00",
+          "url": "https://d2o6mssao1hrt.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
