@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-07-28T07:04:06.706175+00:00",
+          "created_at": "2025-07-30T09:48:03.090632+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T04:44:11.061215+00:00",
-          "url": "https://d3rtyx2g2ylifa.cloudfront.net"
+          "updated_at": "2025-07-30T08:29:05.771216+00:00",
+          "url": "https://dijjk3pmn3cwg.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -670,11 +670,27 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-30T09:22:04.024760+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-30T09:20:07.728905+00:00",
+          "url": "https://d31irm7al3zipx.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-30T09:30:04.106383+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-30T09:20:10.269654+00:00",
+          "url": "https://dfm8ayoo6yzct.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -2859,7 +2875,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-07-30T09:28:04.098617+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-07-30T09:20:09.653539+00:00",
+          "url": "https://dckx6hv93tbdi.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
