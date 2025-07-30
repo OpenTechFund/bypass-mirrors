@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-29T20:36:03.873470+00:00",
+          "created_at": "2025-07-30T07:13:04.051231+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-29T06:26:10.752717+00:00",
-          "url": "https://d3bulhlp6ztvqu.cloudfront.net"
+          "updated_at": "2025-07-30T06:25:10.078964+00:00",
+          "url": "https://d12jt1047nmkin.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-29T23:52:03.946014+00:00",
+          "created_at": "2025-07-30T07:13:04.081666+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-29T06:26:12.161871+00:00",
-          "url": "https://dy5udrzwpm5w4.cloudfront.net"
+          "updated_at": "2025-07-29T23:52:09.994479+00:00",
+          "url": "https://djnrytuixbkyu.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
