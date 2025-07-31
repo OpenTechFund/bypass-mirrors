@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-29T17:46:05.436824+00:00",
+          "created_at": "2025-07-31T21:31:03.432442+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-27T16:16:08.958069+00:00",
-          "url": "https://d2epeo9vh17r6u.cloudfront.net"
+          "updated_at": "2025-07-29T19:30:11.187065+00:00",
+          "url": "https://d291sz2f209gw.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
