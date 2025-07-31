@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-29T01:44:04.441200+00:00",
+          "created_at": "2025-07-31T06:30:03.658131+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-27T16:16:09.749883+00:00",
-          "url": "https://d37leqltptpyov.cloudfront.net"
+          "updated_at": "2025-07-29T17:36:11.098423+00:00",
+          "url": "https://d2gfjd5sg4g3e8.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
