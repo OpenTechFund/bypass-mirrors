@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-01T06:07:04.616873+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-01T03:37:10.134723+00:00",
-          "url": "https://drpau5gn4arrl.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -706,15 +698,7 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-01T08:30:03.319185+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-01T03:37:12.382497+00:00",
-          "url": "https://d3qsklbgtwjpqf.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -1089,11 +1073,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-01T10:44:03.849723+00:00",
+          "created_at": "2025-08-01T14:42:03.592025+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-01T06:07:08.100507+00:00",
-          "url": "https://d38f21rh0ufw43.cloudfront.net"
+          "updated_at": "2025-08-01T13:06:08.863204+00:00",
+          "url": "https://d2s1lmz8pdxuf3.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2105,11 +2089,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-08-01T10:36:04.964669+00:00",
+          "created_at": "2025-08-01T14:42:03.721971+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-01T08:30:08.422044+00:00",
-          "url": "https://d1tj907nagoiay.cloudfront.net"
+          "updated_at": "2025-08-01T13:22:09.059233+00:00",
+          "url": "https://d2nsojprp3f844.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2877,11 +2861,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-01T10:44:03.879239+00:00",
+          "created_at": "2025-08-01T14:42:03.622052+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-01T06:07:10.467322+00:00",
-          "url": "https://dc4k94zm7pipa.cloudfront.net"
+          "updated_at": "2025-08-01T13:06:11.416098+00:00",
+          "url": "https://d1cx6hqabmsdh8.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
