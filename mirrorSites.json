@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-31T02:01:03.635868+00:00",
+          "created_at": "2025-08-01T02:19:03.831844+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-31T00:49:08.477000+00:00",
-          "url": "https://d31suqh7zvnle.cloudfront.net"
+          "updated_at": "2025-07-31T12:38:08.361270+00:00",
+          "url": "https://d2elos0a1iqmbq.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-07-31T07:38:04.530242+00:00",
+          "created_at": "2025-08-01T02:27:03.988773+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-31T00:57:08.099352+00:00",
-          "url": "https://d1rkbaczbslggc.cloudfront.net"
+          "updated_at": "2025-07-31T16:48:07.260335+00:00",
+          "url": "https://dhjknf850k68t.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
