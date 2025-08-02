@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-01T12:18:08.721671+00:00",
+          "created_at": "2025-08-02T02:28:04.278709+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-01T11:08:08.931736+00:00",
-          "url": "https://d2cwmomve0r2vf.cloudfront.net"
+          "updated_at": "2025-08-01T23:20:08.026497+00:00",
+          "url": "https://d8ihv0wq914uv.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-07-30T23:51:03.722319+00:00",
+          "created_at": "2025-08-02T02:28:04.243696+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-07-28T22:00:05.334942+00:00",
-          "url": "https://d2d2bbt5v5hej4.cloudfront.net"
+          "updated_at": "2025-07-30T23:51:04.437501+00:00",
+          "url": "https://d3s6933e4mebbh.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1884,11 +1884,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-01T12:20:06.884869+00:00",
+          "created_at": "2025-08-02T02:28:04.335877+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-01T11:32:12.837490+00:00",
-          "url": "https://d2hbxxcegdbg6d.cloudfront.net"
+          "updated_at": "2025-08-01T13:06:11.344742+00:00",
+          "url": "https://dbuq2zmn0e924.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
