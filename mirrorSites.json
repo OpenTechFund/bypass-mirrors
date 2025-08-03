@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-03T09:00:04.602074+00:00",
+          "created_at": "2025-08-03T12:02:05.001821+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-02T07:08:08.330710+00:00",
-          "url": "https://d2nkvnyx3nwpw0.cloudfront.net"
+          "updated_at": "2025-08-03T09:24:08.135216+00:00",
+          "url": "https://d1sbl7s8abvl63.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -2464,6 +2464,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:27:59.099944+00:00",
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
+        },
+        {
+          "created_at": "2025-08-03T11:40:03.923923+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-03T11:38:09.338516+00:00",
+          "url": "https://d1dzrduxywmvzx.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
