@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-03T07:58:10.302240+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-03T07:56:16.014934+00:00",
-          "url": "https://d17lh10kaxvdu0.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -496,11 +488,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-03T12:26:03.750324+00:00",
+          "created_at": "2025-08-03T16:54:03.655253+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-03T07:56:18.560381+00:00",
-          "url": "https://d3owvnbumechiz.cloudfront.net"
+          "updated_at": "2025-08-03T12:26:10.182278+00:00",
+          "url": "https://d247buhrbeeghs.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1089,11 +1081,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-03T12:26:03.697127+00:00",
+          "created_at": "2025-08-03T16:54:03.608745+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-03T07:56:14.037910+00:00",
-          "url": "https://d14y8g0gwsdion.cloudfront.net"
+          "updated_at": "2025-08-03T12:26:07.591449+00:00",
+          "url": "https://d1teg6pyik5w5p.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2877,11 +2869,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-03T12:26:03.725891+00:00",
+          "created_at": "2025-08-03T16:54:03.637018+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-03T09:56:09.314732+00:00",
-          "url": "https://d1gcqpbgwz09v8.cloudfront.net"
+          "updated_at": "2025-08-03T12:26:10.026167+00:00",
+          "url": "https://d2ov7j7xk3qyxz.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
