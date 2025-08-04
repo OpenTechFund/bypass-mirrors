@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-04T02:29:05.502461+00:00",
+          "created_at": "2025-08-04T09:15:03.087255+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-03T16:54:07.055944+00:00",
-          "url": "https://d2qo3yx9957nab.cloudfront.net"
+          "updated_at": "2025-08-04T03:25:11.291971+00:00",
+          "url": "https://d2klww693jk8l8.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
