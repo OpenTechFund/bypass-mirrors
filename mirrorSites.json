@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-06T03:44:06.100104+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-05T21:00:09.758778+00:00",
-          "url": "https://d35a62xqnmueo4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -622,11 +614,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-08-04T05:59:04.002715+00:00",
+          "created_at": "2025-08-06T09:15:07.448111+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-02T02:28:04.738102+00:00",
-          "url": "https://d3lhqpe9ld85xv.cloudfront.net"
+          "updated_at": "2025-08-04T05:59:04.544572+00:00",
+          "url": "https://d21oj52vnrx3rf.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -684,11 +676,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-06T04:40:04.768771+00:00",
+          "created_at": "2025-08-06T09:15:07.689750+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-05T18:56:12.490262+00:00",
-          "url": "https://dfw91d1br0gtz.cloudfront.net"
+          "updated_at": "2025-08-06T04:40:11.792670+00:00",
+          "url": "https://dbrizq836nn6d.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1884,11 +1876,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-06T05:03:05.137249+00:00",
+          "created_at": "2025-08-06T09:15:07.657645+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-05T18:09:11.203705+00:00",
-          "url": "https://d31cav0df8wbih.cloudfront.net"
+          "updated_at": "2025-08-06T05:03:11.158057+00:00",
+          "url": "https://dd0rh9gsnucq1.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
