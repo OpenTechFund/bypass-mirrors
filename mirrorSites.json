@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-06T20:19:06.500684+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-06T09:23:11.439998+00:00",
-          "url": "https://d1afewpxoyvt2s.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -527,11 +519,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-06T09:17:05.392971+00:00",
+          "created_at": "2025-08-07T20:12:03.690456+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-06T09:15:11.742795+00:00",
-          "url": "https://d23wxzh570agkk.cloudfront.net"
+          "updated_at": "2025-08-06T09:17:08.331065+00:00",
+          "url": "https://d3pjwmcdadp0zs.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1884,11 +1876,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-07T17:10:03.864372+00:00",
+          "created_at": "2025-08-07T20:12:03.871820+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-06T21:39:11.068449+00:00",
-          "url": "https://d272yns09snr54.cloudfront.net"
+          "updated_at": "2025-08-07T17:10:10.047361+00:00",
+          "url": "https://dmlxj2dcgsbwg.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
