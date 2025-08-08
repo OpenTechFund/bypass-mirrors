@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-08T00:10:03.518383+00:00",
+          "created_at": "2025-08-08T09:34:04.195840+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-07T07:01:13.890482+00:00",
-          "url": "https://d1xxlg7r9gedu0.cloudfront.net"
+          "updated_at": "2025-08-08T00:10:08.728915+00:00",
+          "url": "https://d73y9xbvosskw.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -694,15 +694,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-07T07:03:06.190130+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-07T07:01:13.117402+00:00",
-          "url": "https://d3elronktvijot.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
@@ -732,11 +724,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-08T00:02:05.285192+00:00",
+          "created_at": "2025-08-08T09:34:04.413330+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-07T07:01:16.872216+00:00",
-          "url": "https://dvbwtbgq9om24.cloudfront.net"
+          "updated_at": "2025-08-08T00:40:26.266259+00:00",
+          "url": "https://d1kyocuklamchy.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2877,11 +2869,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-08T00:10:03.533328+00:00",
+          "created_at": "2025-08-08T09:34:04.210834+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-07T07:01:15.824285+00:00",
-          "url": "https://d3r6r5pmns3ab4.cloudfront.net"
+          "updated_at": "2025-08-08T00:10:10.109214+00:00",
+          "url": "https://d3b2ivch5htpcz.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
