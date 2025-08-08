@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-08T01:28:05.210871+00:00",
+          "created_at": "2025-08-08T23:26:03.858107+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-07T22:28:07.281675+00:00",
-          "url": "https://d51wxqbgtxck7.cloudfront.net"
+          "updated_at": "2025-08-08T22:47:20.763448+00:00",
+          "url": "https://d1ntuavqstk7vm.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1882,7 +1882,15 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-08-08T23:17:07.273889+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-08T22:03:10.390562+00:00",
+          "url": "https://d2bp0foz5j97tg.cloudfront.net"
+        }
+      ],
       "main_domain": "martinoticias.com"
     },
     {
