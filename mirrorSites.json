@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-08T11:12:05.563229+00:00",
+          "created_at": "2025-08-10T14:20:03.849661+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-07T10:09:14.545389+00:00",
-          "url": "https://d33e4hguy636mb.cloudfront.net"
+          "updated_at": "2025-08-09T12:35:10.650985+00:00",
+          "url": "https://d2k19vfpferetq.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
