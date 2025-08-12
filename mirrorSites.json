@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-11T21:18:04.047928+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-11T11:36:14.686803+00:00",
-          "url": "https://d2u21dg9ajcnh8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -672,25 +664,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-12T06:47:05.338205+00:00",
+          "created_at": "2025-08-12T11:45:04.879360+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-11T16:02:10.773886+00:00",
-          "url": "https://d3cr1sz33tdc4e.cloudfront.net"
+          "updated_at": "2025-08-12T06:47:09.616345+00:00",
+          "url": "https://d4k92rg2d8ed6.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-11T18:30:06.431989+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-11T06:22:15.202900+00:00",
-          "url": "https://d2lzj67fueamf7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
