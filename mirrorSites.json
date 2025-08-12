@@ -875,11 +875,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-10T05:40:03.742024+00:00",
+          "created_at": "2025-08-12T07:03:04.837452+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-09T08:38:11.350189+00:00",
-          "url": "https://d64c198ok4snn.cloudfront.net"
+          "updated_at": "2025-08-11T11:52:11.523349+00:00",
+          "url": "https://d5y0i81zruo1s.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-11T18:30:06.146144+00:00",
+          "created_at": "2025-08-12T07:03:04.935839+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-11T07:24:09.644311+00:00",
-          "url": "https://d2ws5qsivzeyx9.cloudfront.net"
+          "updated_at": "2025-08-11T18:30:15.571485+00:00",
+          "url": "https://d2dveyxrdpbazq.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
