@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-12T08:53:09.793657+00:00",
+          "created_at": "2025-08-12T19:20:03.619101+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-12T05:45:13.437660+00:00",
-          "url": "https://dksn5491pzsrx.cloudfront.net"
+          "updated_at": "2025-08-12T09:01:11.632659+00:00",
+          "url": "https://d2htdl1ml1eecq.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
