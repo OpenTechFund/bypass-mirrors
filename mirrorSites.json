@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-13T09:19:04.248837+00:00",
+          "created_at": "2025-08-13T22:01:05.592553+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-12T19:04:10.433805+00:00",
-          "url": "https://d1zucwnjmbha7r.cloudfront.net"
+          "updated_at": "2025-08-13T09:19:08.961143+00:00",
+          "url": "https://d2u21cyp36qvbw.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-13T13:15:03.947456+00:00",
+          "created_at": "2025-08-13T22:01:05.548003+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-13T02:23:18.655185+00:00",
-          "url": "https://d3e0ku3a11sy45.cloudfront.net"
+          "updated_at": "2025-08-13T13:15:08.641885+00:00",
+          "url": "https://davz7mqawd96c.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
