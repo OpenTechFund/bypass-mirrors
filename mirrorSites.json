@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-11T03:04:04.355296+00:00",
+          "created_at": "2025-08-13T07:51:04.654369+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-09T14:49:09.088679+00:00",
-          "url": "https://d36zsh9nsqvnbr.cloudfront.net"
+          "updated_at": "2025-08-11T16:08:09.442505+00:00",
+          "url": "https://d1irxibpfctyxl.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -824,11 +824,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-11T03:38:04.034802+00:00",
+          "created_at": "2025-08-13T07:59:04.670816+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-09T14:23:09.911149+00:00",
-          "url": "https://ddtbagbgy5nor.cloudfront.net"
+          "updated_at": "2025-08-11T18:44:20.402943+00:00",
+          "url": "https://dr30rzunyyui3.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
