@@ -2478,11 +2478,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2025-08-13T23:59:07.461103+00:00",
+          "created_at": "2025-08-14T16:02:06.982219+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-13T21:29:08.803051+00:00",
-          "url": "https://dprq94sq75nrw.cloudfront.net"
+          "updated_at": "2025-08-14T08:43:11.924877+00:00",
+          "url": "https://d2t7lwtk4dvqe0.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-14T12:54:04.051677+00:00",
+          "created_at": "2025-08-14T15:54:05.213253+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-13T22:01:13.223070+00:00",
-          "url": "https://d2279mck45gv9m.cloudfront.net"
+          "updated_at": "2025-08-14T15:24:10.176868+00:00",
+          "url": "https://d13zlmql7fdicm.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
