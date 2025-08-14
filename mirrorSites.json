@@ -875,11 +875,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-12T07:03:04.837452+00:00",
+          "created_at": "2025-08-14T09:45:03.723890+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-11T11:52:11.523349+00:00",
-          "url": "https://d5y0i81zruo1s.cloudfront.net"
+          "updated_at": "2025-08-13T14:13:14.138037+00:00",
+          "url": "https://d1q9bpnw1doy7d.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -1137,6 +1137,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-08-14T09:37:03.863988+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-14T06:45:13.721556+00:00",
+          "url": "https://d1q8b51wh48ew6.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
