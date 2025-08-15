@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-13T12:57:04.218486+00:00",
+          "created_at": "2025-08-15T16:58:02.923081+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-11T12:34:09.271590+00:00",
-          "url": "https://d3q24qcz8xw11v.cloudfront.net"
+          "updated_at": "2025-08-15T15:58:10.040925+00:00",
+          "url": "https://d2q5afocsojb7p.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
