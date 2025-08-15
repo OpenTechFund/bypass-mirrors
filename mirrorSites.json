@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-12T23:54:09.118005+00:00",
+          "created_at": "2025-08-15T00:47:03.300717+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-12T23:48:10.382947+00:00",
-          "url": "https://d1gcejl60yh10g.cloudfront.net"
+          "updated_at": "2025-08-12T23:54:21.082662+00:00",
+          "url": "https://d2lmb7lnlfo6jp.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-12T22:24:04.741457+00:00",
+          "created_at": "2025-08-15T00:57:06.631496+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-12T03:19:09.302381+00:00",
-          "url": "https://d1f0pcvcyx09gk.cloudfront.net"
+          "updated_at": "2025-08-14T09:39:09.164993+00:00",
+          "url": "https://d29tsimy5lgb4y.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
