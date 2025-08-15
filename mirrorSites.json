@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-14T21:53:04.936396+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-14T21:51:09.703369+00:00",
-          "url": "https://d76a5wn4w58uv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -527,11 +519,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-14T20:41:05.463443+00:00",
+          "created_at": "2025-08-15T15:04:03.927490+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-14T01:03:07.446639+00:00",
-          "url": "https://d2a2qerhsjwwcr.cloudfront.net"
+          "updated_at": "2025-08-15T05:52:06.612896+00:00",
+          "url": "https://d2o2vhyrdobtmf.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -720,11 +712,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-15T04:34:03.994219+00:00",
+          "created_at": "2025-08-15T15:04:04.073214+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-14T15:24:08.879557+00:00",
-          "url": "https://d1iazok1bn3j7u.cloudfront.net"
+          "updated_at": "2025-08-15T04:34:08.545930+00:00",
+          "url": "https://d33oan6ztmkrre.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
