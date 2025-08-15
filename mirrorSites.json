@@ -980,6 +980,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-08-15T10:44:03.152313+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-15T10:42:08.879043+00:00",
+          "url": "https://dngfw63ug6y97.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
