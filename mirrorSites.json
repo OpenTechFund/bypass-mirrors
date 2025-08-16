@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-15T15:14:04.637927+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-15T15:12:09.672573+00:00",
-          "url": "https://d2jw32mwv6kt0j.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -384,11 +376,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-15T19:24:03.824167+00:00",
+          "created_at": "2025-08-16T08:47:04.078761+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-15T18:22:07.973294+00:00",
-          "url": "https://d2ri38ntwi0qm4.cloudfront.net"
+          "updated_at": "2025-08-15T19:24:07.199004+00:00",
+          "url": "https://d1e46f52cnm135.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -684,11 +676,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-15T17:10:05.250828+00:00",
+          "created_at": "2025-08-16T08:47:04.241670+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-15T16:06:14.289073+00:00",
-          "url": "https://d16hxusp2ec7js.cloudfront.net"
+          "updated_at": "2025-08-16T06:15:12.639193+00:00",
+          "url": "https://d2n3lo99c5ru29.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -706,15 +698,7 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-15T19:26:03.619374+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-15T19:24:11.035070+00:00",
-          "url": "https://d263cjlye7zpjj.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -1087,15 +1071,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-15T17:20:04.838638+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-15T17:18:13.359488+00:00",
-          "url": "https://d3ge16mjgtcmtp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
