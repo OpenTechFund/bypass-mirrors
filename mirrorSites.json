@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-15T02:17:06.517945+00:00",
+          "created_at": "2025-08-17T04:52:03.129413+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-13T09:49:08.279057+00:00",
-          "url": "https://d3euac25rcu8c4.cloudfront.net"
+          "updated_at": "2025-08-15T11:02:08.846195+00:00",
+          "url": "https://d2pfubypnkotk7.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -672,25 +672,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-16T10:29:03.453121+00:00",
+          "created_at": "2025-08-17T04:56:06.158459+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-16T09:35:09.789238+00:00",
-          "url": "https://d3mrl1y5dbzu27.cloudfront.net"
+          "updated_at": "2025-08-16T12:36:10.305100+00:00",
+          "url": "https://d28p5buisln1y5.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-16T08:47:04.241670+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-16T06:15:12.639193+00:00",
-          "url": "https://d2n3lo99c5ru29.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1137,6 +1129,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-08-17T04:36:03.871088+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-17T04:34:09.352188+00:00",
+          "url": "https://djrv6inqttnhb.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1889,11 +1888,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-16T15:08:05.700316+00:00",
+          "created_at": "2025-08-17T04:56:06.313140+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-16T09:35:11.846253+00:00",
-          "url": "https://d1mst7y33ae6ik.cloudfront.net"
+          "updated_at": "2025-08-16T15:08:14.829885+00:00",
+          "url": "https://diqcw6g2agh61.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
