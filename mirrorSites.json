@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-17T06:10:03.328675+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-17T06:08:09.111287+00:00",
-          "url": "https://d2d3uuyd5mq491.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -1087,15 +1079,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-17T07:22:08.280281+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-17T07:20:20.923073+00:00",
-          "url": "https://duvci7agwwefq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2153,6 +2137,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-08-17T21:27:08.770751+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-17T21:25:19.945406+00:00",
+          "url": "https://d1iy9ibyxbvg63.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
