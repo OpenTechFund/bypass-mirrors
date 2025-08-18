@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-08-16T16:12:09.398062+00:00",
+          "created_at": "2025-08-18T20:56:03.082165+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-14T14:38:06.558511+00:00",
-          "url": "https://d1f5ken304ruuc.cloudfront.net"
+          "updated_at": "2025-08-16T16:12:10.726090+00:00",
+          "url": "https://d2g8yf93jgqvu8.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -682,7 +682,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-08-18T20:36:04.017822+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-18T20:34:11.592427+00:00",
+          "url": "https://dhhcvb0f7pzyg.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
