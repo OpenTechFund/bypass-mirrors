@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-17T02:03:05.887564+00:00",
+          "created_at": "2025-08-19T03:40:05.401778+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-16T00:42:09.243956+00:00",
-          "url": "https://dyr6gjeqdiik3.cloudfront.net"
+          "updated_at": "2025-08-18T04:52:11.152174+00:00",
+          "url": "https://d1sfc8elnizexu.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-18T20:42:05.255100+00:00",
+          "created_at": "2025-08-19T03:38:05.070832+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-17T22:45:09.306778+00:00",
-          "url": "https://d37rnbhmdhwcto.cloudfront.net"
+          "updated_at": "2025-08-18T20:42:09.290864+00:00",
+          "url": "https://d3pv3ni725uj67.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-18T09:26:06.994265+00:00",
+          "created_at": "2025-08-19T03:38:05.313631+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-18T09:24:13.051669+00:00",
-          "url": "https://dfuqw1l1xt9k6.cloudfront.net"
+          "updated_at": "2025-08-19T01:48:11.147957+00:00",
+          "url": "https://dbw2xti4uiejo.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
