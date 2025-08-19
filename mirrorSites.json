@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-18T22:42:04.252468+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-18T22:40:09.132026+00:00",
-          "url": "https://d34a5pu7txhc6i.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
