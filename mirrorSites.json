@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-19T09:09:04.548701+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-19T09:07:06.916469+00:00",
-          "url": "https://d5yu15jjl9mtd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -906,11 +898,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-18T01:53:05.341559+00:00",
+          "created_at": "2025-08-20T04:33:04.596249+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-16T10:21:12.935312+00:00",
-          "url": "https://doc01ecd2nwws.cloudfront.net"
+          "updated_at": "2025-08-18T16:31:17.226866+00:00",
+          "url": "https://d1vdkmll0lgrsj.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
