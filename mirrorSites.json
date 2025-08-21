@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-19T18:29:05.365615+00:00",
+          "created_at": "2025-08-21T22:17:04.607197+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-17T20:33:11.644379+00:00",
-          "url": "https://d2w3ldnmvarsm8.cloudfront.net"
+          "updated_at": "2025-08-19T21:58:11.038624+00:00",
+          "url": "https://d35u21wrmuytfj.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -982,11 +982,11 @@
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
         },
         {
-          "created_at": "2025-08-21T19:18:04.131427+00:00",
+          "created_at": "2025-08-21T22:19:09.004959+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-21T00:05:09.988728+00:00",
-          "url": "https://dvcjkimu0gki4.cloudfront.net"
+          "updated_at": "2025-08-21T21:25:12.910045+00:00",
+          "url": "https://d3qewhhziup1et.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-21T07:56:17.062608+00:00",
+          "created_at": "2025-08-21T22:11:05.069962+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-20T23:11:09.611241+00:00",
-          "url": "https://d2zo7k2atx5kr6.cloudfront.net"
+          "updated_at": "2025-08-21T07:56:25.409157+00:00",
+          "url": "https://d2xpbnweo9jfuh.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1463,11 +1463,11 @@
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
         },
         {
-          "created_at": "2025-08-21T19:18:03.703957+00:00",
+          "created_at": "2025-08-21T22:19:08.306944+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-20T23:57:13.346127+00:00",
-          "url": "https://d3sb9fvfcvyol8.cloudfront.net"
+          "updated_at": "2025-08-21T21:25:07.587082+00:00",
+          "url": "https://ds02ujxj24sz.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
