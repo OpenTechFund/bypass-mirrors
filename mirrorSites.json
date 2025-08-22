@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-08-20T00:32:04.041416+00:00",
+          "created_at": "2025-08-22T01:26:03.873129+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-18T08:52:06.992095+00:00",
-          "url": "https://d3l4771o565qdu.cloudfront.net"
+          "updated_at": "2025-08-20T11:02:06.398325+00:00",
+          "url": "https://d2obecxgzs10ps.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-19T20:09:04.281904+00:00",
+          "created_at": "2025-08-22T01:34:04.241076+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-17T17:05:06.724975+00:00",
-          "url": "https://d2ojjzqobpzy5h.cloudfront.net"
+          "updated_at": "2025-08-19T20:09:05.876036+00:00",
+          "url": "https://dgfw1lt4lgg7l.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
