@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-08-20T05:59:03.556995+00:00",
+          "created_at": "2025-08-22T09:59:04.043402+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-18T10:32:12.442231+00:00",
-          "url": "https://d3c5be907bi8s6.cloudfront.net"
+          "updated_at": "2025-08-20T14:20:08.401606+00:00",
+          "url": "https://d2o40zfm2mobzi.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
