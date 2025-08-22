@@ -2155,11 +2155,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-08-22T10:57:03.131871+00:00",
+          "created_at": "2025-08-22T21:14:04.753341+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-21T23:45:09.083744+00:00",
-          "url": "https://d2tqkfu3en6zk0.cloudfront.net"
+          "updated_at": "2025-08-22T10:57:07.075067+00:00",
+          "url": "https://d10g91tgex17xi.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
@@ -2478,11 +2478,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2025-08-19T08:59:12.099796+00:00",
+          "created_at": "2025-08-22T21:14:05.457572+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-19T04:18:12.043383+00:00",
-          "url": "https://d1wqptdf1r9rw.cloudfront.net"
+          "updated_at": "2025-08-21T11:18:20.080218+00:00",
+          "url": "https://d1il625k79krrw.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
