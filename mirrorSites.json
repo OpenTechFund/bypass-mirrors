@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-22T18:02:04.949187+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-22T15:01:07.382472+00:00",
-          "url": "https://d2pkyh0icszzvy.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -496,11 +488,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-23T00:07:08.008435+00:00",
+          "created_at": "2025-08-23T08:32:03.944500+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-22T18:10:12.572862+00:00",
-          "url": "https://d1l3cbpo8qnacf.cloudfront.net"
+          "updated_at": "2025-08-23T00:07:16.866697+00:00",
+          "url": "https://d1oixt3s5s5mos.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -525,15 +517,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-22T18:04:03.923219+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-22T18:02:06.617920+00:00",
-          "url": "https://d2p5vte2v11hxf.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -1089,11 +1073,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-23T00:07:07.931562+00:00",
+          "created_at": "2025-08-23T08:32:03.888338+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-22T18:10:10.517080+00:00",
-          "url": "https://d2czlk3sxjse8g.cloudfront.net"
+          "updated_at": "2025-08-23T00:07:13.435730+00:00",
+          "url": "https://d1qgqmmpbtmafw.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2889,11 +2873,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-23T00:07:07.976790+00:00",
+          "created_at": "2025-08-23T08:32:03.922709+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-22T18:10:12.432395+00:00",
-          "url": "https://d6bycp4wub7qp.cloudfront.net"
+          "updated_at": "2025-08-23T00:07:16.627496+00:00",
+          "url": "https://d3be0hmzqa7ryk.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
