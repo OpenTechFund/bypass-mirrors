@@ -980,6 +980,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-08-23T10:42:03.253067+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-23T10:40:10.988761+00:00",
+          "url": "https://d2hqdj6v19jl4w.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
@@ -1280,11 +1287,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-21T10:32:04.412994+00:00",
+          "created_at": "2025-08-23T10:50:04.911593+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-19T17:57:08.894601+00:00",
-          "url": "https://d2q9bu0ndykmgk.cloudfront.net"
+          "updated_at": "2025-08-21T20:11:11.263729+00:00",
+          "url": "https://d1gl3wtrcyl93h.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
