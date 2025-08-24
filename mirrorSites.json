@@ -842,15 +842,7 @@
       "main_domain": "radiodownloaddw-a.akamaihd.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-21T22:17:04.607197+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-19T21:58:11.038624+00:00",
-          "url": "https://d35u21wrmuytfj.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-audio-ns.akamaized.net"
     },
     {
