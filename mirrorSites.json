@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-23T14:18:03.538868+00:00",
+          "created_at": "2025-08-25T18:00:04.229680+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-21T17:04:10.468586+00:00",
-          "url": "https://dmbjrtv3yud5f.cloudfront.net"
+          "updated_at": "2025-08-23T19:38:10.827931+00:00",
+          "url": "https://d3s7jgrtsmsg93.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -980,13 +980,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2025-08-24T14:50:03.187497+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-24T11:46:09.082590+00:00",
-          "url": "https://d2zri2tul5xjr7.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
