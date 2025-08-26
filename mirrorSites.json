@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-23T23:30:04.274825+00:00",
+          "created_at": "2025-08-26T04:08:04.333787+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-23T18:34:07.806540+00:00",
-          "url": "https://d2v4b443dp26rs.cloudfront.net"
+          "updated_at": "2025-08-25T20:38:08.171086+00:00",
+          "url": "https://d1d5wvahgn935t.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-25T11:32:03.435651+00:00",
+          "created_at": "2025-08-26T04:12:14.016854+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-25T11:30:06.392937+00:00",
-          "url": "https://dmrhs5cjsqk4u.cloudfront.net"
+          "updated_at": "2025-08-25T11:32:06.398304+00:00",
+          "url": "https://d3jqauera5h4nl.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
