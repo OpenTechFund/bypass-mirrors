@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-25T12:18:04.093215+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-25T12:16:08.707863+00:00",
-          "url": "https://d1wwmqhdf31io6.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1589,11 +1581,11 @@
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-08-20T18:01:51.819574+00:00",
+          "created_at": "2025-08-26T10:32:11.337101+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-20T13:32:08.975511+00:00",
-          "url": "https://d3txtcr9rfnsto.cloudfront.net"
+          "updated_at": "2025-08-22T15:09:14.092922+00:00",
+          "url": "https://d2c26e4s24kctg.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
