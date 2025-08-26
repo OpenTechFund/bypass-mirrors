@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-08-24T16:32:05.178743+00:00",
+          "created_at": "2025-08-26T17:22:07.829063+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-24T13:02:08.732281+00:00",
-          "url": "https://d264a098qvwh6m.cloudfront.net"
+          "updated_at": "2025-08-26T14:16:08.868094+00:00",
+          "url": "https://d2wbsria6cjoe1.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -980,13 +980,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2025-08-25T18:12:05.835785+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-25T18:10:16.842371+00:00",
-          "url": "https://d7mhzx24hqu17.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
