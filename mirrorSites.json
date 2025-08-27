@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-26T12:24:03.741998+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-26T12:22:08.805670+00:00",
-          "url": "https://d27rdhha5jeked.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -2887,15 +2879,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-26T12:24:03.764455+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-26T12:22:09.715243+00:00",
-          "url": "https://d32i4nnqajpm6t.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
