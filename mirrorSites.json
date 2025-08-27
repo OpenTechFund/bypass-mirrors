@@ -1018,6 +1018,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:12:35.761521+00:00",
           "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
+        },
+        {
+          "created_at": "2025-08-27T12:10:03.875126+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-27T12:08:37.245770+00:00",
+          "url": "https://d1e0ydf38cwh3w.cloudfront.net"
         }
       ],
       "main_domain": "rus.azattyq.org"
@@ -1049,6 +1056,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:49.910947+00:00",
           "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+        },
+        {
+          "created_at": "2025-08-27T12:10:03.998557+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-27T12:08:37.787284+00:00",
+          "url": "https://dwyue3gmcrz95.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodi.org"
@@ -1949,6 +1963,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:18:32.735964+00:00",
           "url": "https://www.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
+        },
+        {
+          "created_at": "2025-08-27T12:10:04.245858+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-27T12:08:40.331151+00:00",
+          "url": "https://d2mzrtzdfs8k0s.cloudfront.net"
         }
       ],
       "main_domain": "ozodlik.org"
