@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-27T07:50:03.706659+00:00",
+          "created_at": "2025-08-27T18:04:03.967829+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-27T07:48:05.346032+00:00",
-          "url": "https://d3fv1nzjd5kzqa.cloudfront.net"
+          "updated_at": "2025-08-27T16:30:05.591961+00:00",
+          "url": "https://dwyoy4hi5ehyc.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-26T22:32:04.284048+00:00",
+          "created_at": "2025-08-27T18:06:04.426015+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-26T22:30:08.357659+00:00",
-          "url": "https://d1mwukf2py2nvn.cloudfront.net"
+          "updated_at": "2025-08-27T18:04:07.581012+00:00",
+          "url": "https://disu6q94r92ra.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-27T06:44:04.107928+00:00",
+          "created_at": "2025-08-27T18:04:04.308823+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-27T04:28:11.382091+00:00",
-          "url": "https://d368k7cj2hca9w.cloudfront.net"
+          "updated_at": "2025-08-27T16:28:10.739265+00:00",
+          "url": "https://d2rwypp923t3k7.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
