@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-08-26T17:22:07.829063+00:00",
+          "created_at": "2025-08-28T21:55:05.443463+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-26T14:16:08.868094+00:00",
-          "url": "https://d2wbsria6cjoe1.cloudfront.net"
+          "updated_at": "2025-08-28T16:13:08.823892+00:00",
+          "url": "https://d1ep5s8f2nb58z.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-08-26T15:42:09.915039+00:00",
+          "created_at": "2025-08-28T21:49:03.979722+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-24T21:18:09.282826+00:00",
-          "url": "https://d22jzn8xkqyyxq.cloudfront.net"
+          "updated_at": "2025-08-27T01:46:06.919590+00:00",
+          "url": "https://d1x1sa3dm2p41m.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
