@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-28T06:59:03.494009+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-28T06:57:07.548909+00:00",
-          "url": "https://d2wzwo9gjj18ic.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -494,15 +486,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-28T05:15:03.147176+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-28T05:13:10.222370+00:00",
-          "url": "https://dishiuk3xmwqn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -694,51 +678,19 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-27T16:30:04.172638+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:28:08.957741+00:00",
-          "url": "https://d3pfacfa58x1ja.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-27T16:30:04.276766+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:28:10.934537+00:00",
-          "url": "https://d1il119inckgq9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-27T16:30:04.200320+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:28:09.039628+00:00",
-          "url": "https://d19exyz5wluqgx.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-27T16:30:04.259958+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:28:10.850438+00:00",
-          "url": "https://d15v93p4x0hges.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1461,13 +1413,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2025-08-26T16:18:05.318679+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-26T15:14:07.033025+00:00",
-          "url": "https://d1rcuqh0fflftp.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
@@ -2115,13 +2060,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-08-27T16:30:04.218153+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:28:09.636034+00:00",
-          "url": "https://d2xsnsgtcrd96i.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2887,15 +2825,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-28T06:03:05.286462+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-28T06:01:16.545515+00:00",
-          "url": "https://d21i0xd9cmq95m.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
