@@ -682,15 +682,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-27T18:04:04.308823+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:28:10.739265+00:00",
-          "url": "https://d2rwypp923t3k7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1087,15 +1079,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-08-27T16:38:04.984741+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T16:36:10.942365+00:00",
-          "url": "https://dop7opj1g1rj4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2153,13 +2137,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-08-28T09:21:03.623535+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-28T09:19:07.549915+00:00",
-          "url": "https://d3q18jz2vms92p.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
