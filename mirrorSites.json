@@ -441,11 +441,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-08-26T22:32:03.794908+00:00",
+          "created_at": "2025-08-28T23:25:05.235925+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-26T04:52:09.035979+00:00",
-          "url": "https://d28nngzhpkzbv1.cloudfront.net"
+          "updated_at": "2025-08-28T05:01:07.728814+00:00",
+          "url": "https://d2nm13nai0c300.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-26T21:10:02.634500+00:00",
+          "created_at": "2025-08-28T23:35:03.134620+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-25T16:32:07.214071+00:00",
-          "url": "https://d3qspnmpjz7kdm.cloudfront.net"
+          "updated_at": "2025-08-27T19:10:12.103715+00:00",
+          "url": "https://d1t4rurjaxb3tc.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
