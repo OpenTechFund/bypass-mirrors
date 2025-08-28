@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2025-08-26T21:44:03.257478+00:00",
+          "created_at": "2025-08-28T22:49:04.820432+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-26T08:44:07.744456+00:00",
-          "url": "https://d13m9nhfdbwzsh.cloudfront.net"
+          "updated_at": "2025-08-28T10:57:06.819013+00:00",
+          "url": "https://d3ti29w034ksxh.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-28T11:41:08.370125+00:00",
+          "created_at": "2025-08-28T22:45:05.636895+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-28T11:39:14.382884+00:00",
-          "url": "https://d104vt4b20enw2.cloudfront.net"
+          "updated_at": "2025-08-28T11:41:18.971077+00:00",
+          "url": "https://d3dzg6inw1x573.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
