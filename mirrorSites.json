@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-27T18:04:03.967829+00:00",
+          "created_at": "2025-08-28T12:57:04.572282+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-27T16:30:05.591961+00:00",
-          "url": "https://dwyoy4hi5ehyc.cloudfront.net"
+          "updated_at": "2025-08-28T11:41:10.970686+00:00",
+          "url": "https://d3nydblu4nrs1.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -682,7 +682,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-08-28T12:29:05.689264+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-28T12:27:14.158277+00:00",
+          "url": "https://d1nxgyzut7ncxq.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -2145,6 +2153,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-08-28T12:29:05.212686+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-28T12:27:12.058048+00:00",
+          "url": "https://d2tecoymd36k8o.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
