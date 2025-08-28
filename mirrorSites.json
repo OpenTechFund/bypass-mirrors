@@ -2039,6 +2039,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:05:15.207741+00:00",
           "url": "https://www.marsho5jlvj4v5bv5zatvfzg6gd33hrykaejm2fpdxegxgqqazs76hqd.onion"
+        },
+        {
+          "created_at": "2025-08-28T17:01:03.529510+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-22T06:11:06.223492+00:00",
+          "url": "https://d35f270nfweznb.cloudfront.net"
         }
       ],
       "main_domain": "radiomarsho.com"
