@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-28T04:19:03.574717+00:00",
+          "created_at": "2025-08-30T06:29:01.813159+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-26T12:32:06.408400+00:00",
-          "url": "https://d3nbr1jixu44hv.cloudfront.net"
+          "updated_at": "2025-08-28T15:03:06.997157+00:00",
+          "url": "https://d218ohv2irlooy.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-08-30T06:15:02.757232+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-30T06:13:03.920393+00:00",
+          "url": "https://d244ckahi4c972.cloudfront.net"
+        }
+      ],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -486,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-08-30T06:15:02.771622+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-30T06:13:04.227681+00:00",
+          "url": "https://d3gslg3lp0h4ou.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -2871,7 +2887,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-08-30T06:15:02.763805+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-30T06:13:04.190658+00:00",
+          "url": "https://d331ugtmwv0ymb.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
