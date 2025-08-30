@@ -1137,13 +1137,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2025-08-30T05:41:02.608671+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-29T21:09:04.219534+00:00",
-          "url": "https://d3ev8pmdwjyjqt.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1461,6 +1454,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-08-30T17:50:02.515348+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-08-30T17:48:03.819281+00:00",
+          "url": "https://d2perjmr958img.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
