@@ -1056,13 +1056,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:49.910947+00:00",
           "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2025-08-27T12:10:03.998557+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-27T12:08:37.787284+00:00",
-          "url": "https://dwyue3gmcrz95.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodi.org"
@@ -1865,11 +1858,11 @@
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
         },
         {
-          "created_at": "2025-08-28T18:33:03.457918+00:00",
+          "created_at": "2025-09-01T14:36:01.772235+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-27T22:23:39.462490+00:00",
-          "url": "https://d2yb65voihkc9g.cloudfront.net"
+          "updated_at": "2025-08-31T13:24:03.113829+00:00",
+          "url": "https://d3s1ttu69glh62.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
