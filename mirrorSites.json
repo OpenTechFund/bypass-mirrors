@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T20:14:02.293661+00:00",
+          "created_at": "2025-09-01T23:18:02.101280+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T14:14:03.888418+00:00",
-          "url": "https://d15ohysc9mq735.cloudfront.net"
+          "updated_at": "2025-09-01T22:46:03.126513+00:00",
+          "url": "https://d1ahj7j7i02rqr.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T20:14:02.287112+00:00",
+          "created_at": "2025-09-01T23:18:02.093671+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T14:14:03.653018+00:00",
-          "url": "https://d22o32nithmyz9.cloudfront.net"
+          "updated_at": "2025-09-01T20:14:03.205243+00:00",
+          "url": "https://d45j7ut6fcgwy.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T01:26:03.575557+00:00",
+          "created_at": "2025-09-01T23:18:02.287855+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T00:06:04.608625+00:00",
-          "url": "https://d2324k4f0e0t31.cloudfront.net"
+          "updated_at": "2025-09-01T20:38:03.733220+00:00",
+          "url": "https://dbsz2kj43dlhp.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T20:14:02.299972+00:00",
+          "created_at": "2025-09-01T23:18:02.110763+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T14:14:04.155301+00:00",
-          "url": "https://d1jfc67ffv4c8e.cloudfront.net"
+          "updated_at": "2025-09-01T20:14:03.701627+00:00",
+          "url": "https://d319jah5mbl3w0.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
