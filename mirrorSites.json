@@ -1796,11 +1796,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-08-28T15:35:03.825126+00:00",
+          "created_at": "2025-09-01T13:10:02.503891+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-27T12:08:43.719232+00:00",
-          "url": "https://d13t2irm2hdj28.cloudfront.net"
+          "updated_at": "2025-08-30T17:16:05.538150+00:00",
+          "url": "https://d15yq5mt1m9uoa.cloudfront.net"
         }
       ],
       "main_domain": "groza.media"
@@ -1827,11 +1827,11 @@
           "url": "https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion"
         },
         {
-          "created_at": "2025-08-28T16:29:03.933916+00:00",
+          "created_at": "2025-09-01T13:10:02.380616+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-28T16:05:06.315358+00:00",
-          "url": "https://d121pkw8lig66p.cloudfront.net"
+          "updated_at": "2025-08-30T12:13:02.784974+00:00",
+          "url": "https://d3dmqkon7xh8m2.cloudfront.net"
         }
       ],
       "main_domain": "idelreal.org"
@@ -2212,11 +2212,11 @@
           "url": "https://www.sibrealr32niwsfksyycn6dyci3wnssnq5xhg3g7kpkddyrzfh2fd4qd.onion"
         },
         {
-          "created_at": "2025-08-27T12:08:34.867070+00:00",
+          "created_at": "2025-09-01T13:10:02.456268+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-25T00:04:09.719214+00:00",
-          "url": "https://d14m137ymm3ww1.cloudfront.net"
+          "updated_at": "2025-08-30T12:13:03.493942+00:00",
+          "url": "https://d2sbzs9u5th76y.cloudfront.net"
         }
       ],
       "main_domain": "sibreal.org"
