@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-01T09:25:03.237753+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-31T12:55:03.942205+00:00",
-          "url": "https://den00mg4blxzw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -1087,15 +1079,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-01T08:21:02.898108+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-31T21:28:02.803188+00:00",
-          "url": "https://d3d4mts67kylde.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2887,15 +2871,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-01T08:21:02.908395+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-08-31T15:16:04.385589+00:00",
-          "url": "https://d39zictumtnd7p.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
