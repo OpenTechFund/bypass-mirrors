@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T14:14:02.755239+00:00",
+          "created_at": "2025-09-01T20:14:02.293661+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T09:25:04.376242+00:00",
-          "url": "https://d3u2n3yek1lcyi.cloudfront.net"
+          "updated_at": "2025-09-01T14:14:03.888418+00:00",
+          "url": "https://d15ohysc9mq735.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-01T09:25:03.249889+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-01T08:21:04.309913+00:00",
-          "url": "https://dn5zcofdpeo8d.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1041,11 +1033,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T14:14:02.748668+00:00",
+          "created_at": "2025-09-01T20:14:02.287112+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T09:25:04.143489+00:00",
-          "url": "https://d2gkci0gd518ya.cloudfront.net"
+          "updated_at": "2025-09-01T14:14:03.653018+00:00",
+          "url": "https://d22o32nithmyz9.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2834,11 +2826,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-01T14:14:02.761357+00:00",
+          "created_at": "2025-09-01T20:14:02.299972+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-01T09:25:04.643373+00:00",
-          "url": "https://d3nemn9pjm8tlk.cloudfront.net"
+          "updated_at": "2025-09-01T14:14:04.155301+00:00",
+          "url": "https://d1jfc67ffv4c8e.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
