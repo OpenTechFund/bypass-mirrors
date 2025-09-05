@@ -925,11 +925,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-09-03T07:34:02.406622+00:00",
+          "created_at": "2025-09-05T09:26:02.242433+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-02T00:38:03.933582+00:00",
-          "url": "https://d19me3gfgc4s4l.cloudfront.net"
+          "updated_at": "2025-09-04T02:52:03.680894+00:00",
+          "url": "https://d2z3qpskkxwscp.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -2155,11 +2155,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-09-04T18:38:02.507568+00:00",
+          "created_at": "2025-09-05T09:26:02.405490+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-04T14:54:03.619621+00:00",
-          "url": "https://d1fp1mk06e6a3w.cloudfront.net"
+          "updated_at": "2025-09-05T03:18:03.885997+00:00",
+          "url": "https://d2cdq059p5awj7.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
