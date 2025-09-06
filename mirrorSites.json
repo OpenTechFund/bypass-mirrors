@@ -441,11 +441,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-09-04T06:32:02.131226+00:00",
+          "created_at": "2025-09-06T08:02:02.080339+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-03T18:24:03.866861+00:00",
-          "url": "https://d2b05jxlzubet1.cloudfront.net"
+          "updated_at": "2025-09-05T19:42:03.199527+00:00",
+          "url": "https://di8f25l9k6v0k.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-05T23:34:02.064769+00:00",
+          "created_at": "2025-09-06T08:06:02.122811+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-05T21:34:03.149411+00:00",
-          "url": "https://d23rlwgujn2q6f.cloudfront.net"
+          "updated_at": "2025-09-06T05:50:03.118854+00:00",
+          "url": "https://d2ndx4cznb9cxi.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-09-04T05:32:01.827810+00:00",
+          "created_at": "2025-09-06T08:04:02.066931+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-02T07:48:03.227127+00:00",
-          "url": "https://d1swgmhhq67wyg.cloudfront.net"
+          "updated_at": "2025-09-04T08:10:03.509566+00:00",
+          "url": "https://d1zzhcvm8w4z5u.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-06T01:42:02.705853+00:00",
+          "created_at": "2025-09-06T08:06:02.289300+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-05T21:34:03.714517+00:00",
-          "url": "https://ddobrt4z0lcl7.cloudfront.net"
+          "updated_at": "2025-09-06T03:18:03.100700+00:00",
+          "url": "https://d321oub0nwdmts.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
