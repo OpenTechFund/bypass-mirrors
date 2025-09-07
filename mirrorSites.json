@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-07T08:04:02.206151+00:00",
+          "created_at": "2025-09-07T23:40:02.336443+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-07T04:20:03.533439+00:00",
-          "url": "https://d3litwk8gqkiii.cloudfront.net"
+          "updated_at": "2025-09-07T15:48:02.848640+00:00",
+          "url": "https://d2khh4dcfhx7zw.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-07T18:44:02.266444+00:00",
+          "created_at": "2025-09-07T23:40:02.525291+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-06T23:24:04.168279+00:00",
-          "url": "https://dluwpn7cl0ef9.cloudfront.net"
+          "updated_at": "2025-09-07T18:44:03.620938+00:00",
+          "url": "https://d3svlbg9trabor.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
