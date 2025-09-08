@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-09-06T08:30:02.173918+00:00",
+          "created_at": "2025-09-08T09:38:01.743953+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-06T00:38:03.122690+00:00",
-          "url": "https://dhpyglvuoq34l.cloudfront.net"
+          "updated_at": "2025-09-08T01:38:02.602276+00:00",
+          "url": "https://d34gccjn1o38eo.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-08T02:20:02.133700+00:00",
+          "created_at": "2025-09-08T09:40:01.947827+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-07T19:24:03.776676+00:00",
-          "url": "https://dbs6xud8j3dq9.cloudfront.net"
+          "updated_at": "2025-09-08T06:28:02.788426+00:00",
+          "url": "https://d3q358qxmbc8m6.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
