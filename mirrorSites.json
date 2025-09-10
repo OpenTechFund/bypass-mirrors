@@ -196,13 +196,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:52:24.428630+00:00",
           "url": "https://burmese.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2025-02-28T07:48:05.563508+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-02-28T07:46:11.109667+00:00",
-          "url": "https://d2ftp12q6hmfvf.cloudfront.net"
         }
       ],
       "main_domain": "burmese.voanews.com"
@@ -696,11 +689,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-10T05:39:03.252971+00:00",
+          "created_at": "2025-09-10T09:47:03.321207+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-09T21:15:04.003797+00:00",
-          "url": "https://d2lmcxvuj6ilp4.cloudfront.net"
+          "updated_at": "2025-09-10T06:03:04.325261+00:00",
+          "url": "https://diuxbdr8dsrvf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
