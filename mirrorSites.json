@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-09T23:39:03.572855+00:00",
+          "created_at": "2025-09-10T06:51:04.038493+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-28T06:17:12.613869+00:00",
-          "url": "https://d1ukvcfftyy1ca.cloudfront.net"
+          "updated_at": "2025-09-09T23:39:04.514346+00:00",
+          "url": "https://d1m69ifyy1wi34.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-09T21:55:03.104308+00:00",
+          "created_at": "2025-09-10T06:51:04.068642+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-09T12:35:05.077768+00:00",
-          "url": "https://d1i0y45lgaedtq.cloudfront.net"
+          "updated_at": "2025-09-09T21:55:04.564611+00:00",
+          "url": "https://d3fj4sjerr4hxl.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
