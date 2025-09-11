@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-11T04:43:02.958899+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-11T03:47:03.937535+00:00",
-          "url": "https://d3qc76g01lpaim.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -382,15 +374,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-11T04:43:03.103648+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T16:35:04.045258+00:00",
-          "url": "https://d2e8v4mpgzrafx.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -494,15 +478,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-11T00:59:03.160031+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T14:59:04.949497+00:00",
-          "url": "https://d2ju0fns8r26a7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -670,15 +646,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-10T16:35:03.356509+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T14:43:04.517392+00:00",
-          "url": "https://d260kc6yn6wgxi.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -720,25 +688,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-10T23:47:02.915271+00:00",
+          "created_at": "2025-09-11T07:39:03.069861+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-10T17:55:05.165395+00:00",
-          "url": "https://d2h93jthy76wtg.cloudfront.net"
+          "updated_at": "2025-09-11T06:03:04.520668+00:00",
+          "url": "https://d2j9h2cnddujih.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-10T23:47:02.935364+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T19:39:04.305122+00:00",
-          "url": "https://d1zhpeelke5hm5.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -1896,11 +1856,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-11T00:27:03.093442+00:00",
+          "created_at": "2025-09-11T07:39:03.082790+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-10T20:11:04.289937+00:00",
-          "url": "https://d2t6ktdeqh3hst.cloudfront.net"
+          "updated_at": "2025-09-11T00:27:04.395448+00:00",
+          "url": "https://d1nb5k94d0py4m.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
@@ -2115,13 +2075,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-09-11T03:39:02.917276+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T17:55:05.393702+00:00",
-          "url": "https://d2coxcgzh25ca9.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2153,6 +2106,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-09-11T07:33:02.038373+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-11T07:31:03.935345+00:00",
+          "url": "https://d7swtpjwsrt9t.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
@@ -2880,15 +2840,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-11T03:47:02.799558+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T23:55:04.279590+00:00",
-          "url": "https://d1ujxai4jokxe9.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
