@@ -980,13 +980,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2025-09-10T18:37:02.582503+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-10T18:35:04.941789+00:00",
-          "url": "https://d3l9112tknrri8.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
@@ -1463,11 +1456,11 @@
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
         },
         {
-          "created_at": "2025-09-10T09:25:02.179694+00:00",
+          "created_at": "2025-09-11T16:03:01.995892+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-10T09:23:03.751566+00:00",
-          "url": "https://d3l0bymkvjjmo4.cloudfront.net"
+          "updated_at": "2025-09-10T09:25:02.783420+00:00",
+          "url": "https://dgzmvkblwluzm.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
