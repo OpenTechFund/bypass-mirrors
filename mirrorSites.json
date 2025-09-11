@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-10T16:35:03.381260+00:00",
+          "created_at": "2025-09-11T14:27:01.997549+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-10T14:43:05.095467+00:00",
-          "url": "https://dj4ay0hccder5.cloudfront.net"
+          "updated_at": "2025-09-11T07:41:03.603793+00:00",
+          "url": "https://d18rbpzxukyyvc.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1056,6 +1056,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:49.910947+00:00",
           "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+        },
+        {
+          "created_at": "2025-09-11T14:09:02.656033+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-11T14:07:03.250269+00:00",
+          "url": "https://dclj4pevmn15z.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodi.org"
@@ -1937,6 +1944,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:14.310216+00:00",
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+        },
+        {
+          "created_at": "2025-09-11T14:07:02.661406+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-11T14:07:02.661409+00:00",
+          "url": "https://d24t7l75w7z2bw.cloudfront.net"
         }
       ],
       "main_domain": "ozodi.org"
