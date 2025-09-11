@@ -1020,11 +1020,11 @@
           "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
         },
         {
-          "created_at": "2025-08-27T12:10:03.875126+00:00",
+          "created_at": "2025-09-11T14:07:02.633811+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-27T12:08:37.245770+00:00",
-          "url": "https://d1e0ydf38cwh3w.cloudfront.net"
+          "updated_at": "2025-09-11T12:45:02.835400+00:00",
+          "url": "https://d2qah3xzb2ftlb.cloudfront.net"
         }
       ],
       "main_domain": "rus.azattyq.org"
@@ -1056,13 +1056,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:49.910947+00:00",
           "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2025-09-01T14:40:01.774800+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-01T14:36:02.353278+00:00",
-          "url": "https://dud10igsx4kes.cloudfront.net"
         }
       ],
       "main_domain": "rus.ozodi.org"
@@ -1784,11 +1777,11 @@
           "url": "https://www.golosamr2fr3ojunabk2zaa2hyislbt2ht34vjhfsdwpg2dyg2xaybqd.onion"
         },
         {
-          "created_at": "2025-08-31T13:24:02.547619+00:00",
+          "created_at": "2025-09-11T14:07:02.862162+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-08-30T17:16:05.158581+00:00",
-          "url": "https://d2pwsb048u6u9.cloudfront.net"
+          "updated_at": "2025-09-11T12:43:04.094579+00:00",
+          "url": "https://d1m8jd8b14gjig.cloudfront.net"
         }
       ],
       "main_domain": "golosameriki.com"
@@ -1944,13 +1937,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:14.310216+00:00",
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2025-06-04T09:48:31.515964+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-03T15:16:10.460354+00:00",
-          "url": "https://d3aext9q81wd5y.cloudfront.net"
         }
       ],
       "main_domain": "ozodi.org"
