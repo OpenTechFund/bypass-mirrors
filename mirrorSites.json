@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-12T07:55:02.183153+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-11T10:43:03.920793+00:00",
-          "url": "https://dlwjp98r4wzux.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -694,27 +686,11 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-12T07:55:02.351958+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-11T15:07:03.034425+00:00",
-          "url": "https://dhxnphsd5tql6.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-12T11:23:02.055801+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-11T14:27:03.538307+00:00",
-          "url": "https://d9aih1txfn347.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -1894,15 +1870,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-12T09:55:02.767012+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-11T14:02:04.898317+00:00",
-          "url": "https://d8bp6l70hzd2l.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
