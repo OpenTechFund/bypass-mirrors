@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-12T23:47:02.361235+00:00",
+          "created_at": "2025-09-13T08:03:01.881849+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-12T08:35:03.899039+00:00",
-          "url": "https://di4g338u7mybj.cloudfront.net"
+          "updated_at": "2025-09-12T23:47:03.953879+00:00",
+          "url": "https://dudwoiter0rim.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1087,15 +1087,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-11T11:39:02.582828+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-11T10:43:04.341775+00:00",
-          "url": "https://d33lfsknhu4toa.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1139,11 +1131,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-09-12T20:43:02.671453+00:00",
+          "created_at": "2025-09-13T08:03:01.828959+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-12T11:07:03.062542+00:00",
-          "url": "https://d3an9k65mtrpzt.cloudfront.net"
+          "updated_at": "2025-09-12T23:23:03.512573+00:00",
+          "url": "https://dilcg25lmfpsu.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2889,11 +2881,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-12T09:23:02.500574+00:00",
+          "created_at": "2025-09-13T08:03:01.873947+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-12T08:03:03.702826+00:00",
-          "url": "https://d20fdx92kfxklw.cloudfront.net"
+          "updated_at": "2025-09-13T05:31:03.925917+00:00",
+          "url": "https://d3nib9snu3avwd.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
