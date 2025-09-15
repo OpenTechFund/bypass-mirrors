@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-15T10:35:02.921223+00:00",
+          "created_at": "2025-09-15T13:55:02.625874+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-15T06:59:03.140392+00:00",
-          "url": "https://d2jdf95nz7zre7.cloudfront.net"
+          "updated_at": "2025-09-15T10:35:03.904573+00:00",
+          "url": "https://dugqauekn0z0l.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -2476,6 +2476,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:27:59.099944+00:00",
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
+        },
+        {
+          "created_at": "2025-09-15T13:47:02.542494+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-15T05:07:04.097627+00:00",
+          "url": "https://d1fx6sxjx20qfx.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
