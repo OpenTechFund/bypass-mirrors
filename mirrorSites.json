@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-15T21:55:02.003471+00:00",
+          "created_at": "2025-09-16T12:43:01.845105+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-15T16:11:03.706103+00:00",
-          "url": "https://d1mnxdun4s4if4.cloudfront.net"
+          "updated_at": "2025-09-15T21:55:03.269304+00:00",
+          "url": "https://d20b99nco60skc.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-15T21:55:02.018223+00:00",
+          "created_at": "2025-09-16T12:43:01.858675+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-15T14:43:04.225240+00:00",
-          "url": "https://d33g3fmzgo1zm3.cloudfront.net"
+          "updated_at": "2025-09-16T07:30:04.319820+00:00",
+          "url": "https://d1jc7cmldz5ujr.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-15T21:55:02.194391+00:00",
+          "created_at": "2025-09-16T12:43:02.036294+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-15T16:11:04.252413+00:00",
-          "url": "https://d1lo3zkp4h1w22.cloudfront.net"
+          "updated_at": "2025-09-15T23:47:04.161857+00:00",
+          "url": "https://d3o9tmehtnkqnh.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-16T01:23:02.932298+00:00",
+          "created_at": "2025-09-16T12:43:02.029004+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-15T15:23:04.435602+00:00",
-          "url": "https://d2a6xv866zlq88.cloudfront.net"
+          "updated_at": "2025-09-16T05:47:04.268150+00:00",
+          "url": "https://d1zr4t7f6q4q68.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
