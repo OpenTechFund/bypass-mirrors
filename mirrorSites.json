@@ -2115,13 +2115,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-09-17T14:19:02.802773+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-17T06:43:03.589955+00:00",
-          "url": "https://d161pdxxb2ao60.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2155,11 +2148,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-09-17T14:11:02.752732+00:00",
+          "created_at": "2025-09-17T17:15:02.283174+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-17T03:15:03.834138+00:00",
-          "url": "https://dh9c8ccpdq3pk.cloudfront.net"
+          "updated_at": "2025-09-17T14:11:03.905372+00:00",
+          "url": "https://d2dkg99yoli2zl.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
