@@ -1139,11 +1139,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-09-18T10:35:02.513793+00:00",
+          "created_at": "2025-09-19T03:47:01.786478+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-18T02:43:03.419417+00:00",
-          "url": "https://d1fec39mqzghgy.cloudfront.net"
+          "updated_at": "2025-09-18T10:35:03.865911+00:00",
+          "url": "https://d1mtiomeicqxp7.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
