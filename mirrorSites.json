@@ -980,6 +980,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-09-20T18:14:02.446225+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-20T18:12:03.816004+00:00",
+          "url": "https://d3a2m324le3aks.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
@@ -1132,11 +1139,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-09-20T10:52:01.798479+00:00",
+          "created_at": "2025-09-20T18:20:02.207737+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T21:08:03.589503+00:00",
-          "url": "https://d2fawg4fby9218.cloudfront.net"
+          "updated_at": "2025-09-20T13:08:03.503753+00:00",
+          "url": "https://d3v78fxg9kwce4.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1454,6 +1461,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-09-20T18:14:02.349485+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-20T18:12:02.764916+00:00",
+          "url": "https://d1nt8gcsgmbfnw.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
