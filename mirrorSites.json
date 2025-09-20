@@ -706,15 +706,7 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-20T01:24:02.292937+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-19T20:12:03.853972+00:00",
-          "url": "https://d1v6n9c032toq8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -2155,11 +2147,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-09-20T04:12:02.777714+00:00",
+          "created_at": "2025-09-20T13:16:02.387609+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T19:32:03.276625+00:00",
-          "url": "https://do6sedz6xlr7c.cloudfront.net"
+          "updated_at": "2025-09-20T04:12:03.988402+00:00",
+          "url": "https://d66m26faossk5.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
