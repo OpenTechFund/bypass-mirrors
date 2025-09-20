@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-19T22:44:02.757387+00:00",
+          "created_at": "2025-09-20T06:04:02.140811+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T17:48:03.849104+00:00",
-          "url": "https://d1o0q2mrm0d1sd.cloudfront.net"
+          "updated_at": "2025-09-19T22:44:03.739145+00:00",
+          "url": "https://d31g5dyr35rijo.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-18T04:21:02.247697+00:00",
+          "created_at": "2025-09-20T06:02:01.794701+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-16T10:53:03.980506+00:00",
-          "url": "https://d2zpllbe2u1vhx.cloudfront.net"
+          "updated_at": "2025-09-18T12:37:03.349105+00:00",
+          "url": "https://d2g54aq685y49l.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-19T23:40:01.984505+00:00",
+          "created_at": "2025-09-20T06:04:02.163059+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T17:48:04.274781+00:00",
-          "url": "https://d2ug8vi4agn5s8.cloudfront.net"
+          "updated_at": "2025-09-19T23:40:03.350628+00:00",
+          "url": "https://d15mvwy9moero5.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
