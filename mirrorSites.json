@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-20T03:56:02.582413+00:00",
+          "created_at": "2025-09-20T19:40:02.597974+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T23:16:04.081528+00:00",
-          "url": "https://d38o3l6qgtljil.cloudfront.net"
+          "updated_at": "2025-09-20T04:20:03.937494+00:00",
+          "url": "https://d19yets128zf83.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
