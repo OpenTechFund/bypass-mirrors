@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-19T15:46:02.442738+00:00",
+          "created_at": "2025-09-21T17:42:01.922587+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T04:29:03.260198+00:00",
-          "url": "https://d240wdpok4aqb1.cloudfront.net"
+          "updated_at": "2025-09-21T06:10:03.969813+00:00",
+          "url": "https://d33dj7u2sm2emu.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
@@ -1461,6 +1461,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2025-09-21T17:26:02.644596+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-21T17:24:03.312914+00:00",
+          "url": "https://d2aabb9dm1uu19.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
