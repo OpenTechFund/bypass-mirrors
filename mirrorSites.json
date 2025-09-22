@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-22T04:20:02.790556+00:00",
+          "created_at": "2025-09-22T08:20:02.488947+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-21T19:16:03.387632+00:00",
-          "url": "https://d258k09abhnto4.cloudfront.net"
+          "updated_at": "2025-09-22T04:20:04.035512+00:00",
+          "url": "https://dydzaw8i2a78l.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-20T07:54:02.282633+00:00",
+          "created_at": "2025-09-22T08:26:02.480169+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-18T10:43:04.218379+00:00",
-          "url": "https://d1p5beqgzou092.cloudfront.net"
+          "updated_at": "2025-09-20T12:08:03.568901+00:00",
+          "url": "https://d2opjsy11k1aah.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
