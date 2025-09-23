@@ -494,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-09-23T02:52:02.158076+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-23T02:20:03.535183+00:00",
+          "url": "https://dw930ktbvhgqn.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -710,7 +718,15 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-09-23T02:52:02.274771+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-22T19:00:03.746401+00:00",
+          "url": "https://d8d20w2iik7zx.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -2871,7 +2887,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-09-23T02:52:02.089270+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-09-22T15:40:03.365814+00:00",
+          "url": "https://dna37n5wjb086.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
