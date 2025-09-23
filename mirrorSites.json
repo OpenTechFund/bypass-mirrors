@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-23T02:12:01.910172+00:00",
+          "created_at": "2025-09-23T07:55:02.587022+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-22T15:32:02.365833+00:00",
-          "url": "https://d1gq6q13phea33.cloudfront.net"
+          "updated_at": "2025-09-23T06:51:03.951075+00:00",
+          "url": "https://dxfhy0k5hwani.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
