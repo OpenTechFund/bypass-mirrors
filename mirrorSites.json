@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-09-21T05:08:02.661097+00:00",
+          "created_at": "2025-09-23T09:41:02.508500+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-19T00:55:02.549462+00:00",
-          "url": "https://d2sveuz6e6wqpm.cloudfront.net"
+          "updated_at": "2025-09-21T05:08:02.745505+00:00",
+          "url": "https://d1ajcztqy7u7bt.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
