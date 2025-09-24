@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-24T00:19:02.946135+00:00",
+          "created_at": "2025-09-24T05:07:02.797265+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-23T15:55:04.393099+00:00",
-          "url": "https://d3frbaursivsar.cloudfront.net"
+          "updated_at": "2025-09-24T00:19:03.965915+00:00",
+          "url": "https://drmn7yuokjmfm.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
