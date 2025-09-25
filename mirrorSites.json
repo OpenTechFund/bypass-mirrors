@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-24T14:03:03.370847+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-24T10:59:04.161953+00:00",
-          "url": "https://d15vcy6lzdnkbr.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -395,11 +387,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-09-23T03:14:01.918680+00:00",
+          "created_at": "2025-09-25T04:49:02.161051+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-21T21:00:02.711910+00:00",
-          "url": "https://d3mg79khasr0oj.cloudfront.net"
+          "updated_at": "2025-09-23T23:55:02.938655+00:00",
+          "url": "https://d183lcqp418snv.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -488,11 +480,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-24T20:43:03.622968+00:00",
+          "created_at": "2025-09-25T04:51:03.035084+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-24T09:31:04.133898+00:00",
-          "url": "https://d3dqg3qtpnh966.cloudfront.net"
+          "updated_at": "2025-09-25T02:51:04.278999+00:00",
+          "url": "https://d1hofjrg5i0n7f.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1047,15 +1039,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-24T20:43:03.556324+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-24T10:59:03.893318+00:00",
-          "url": "https://d2wk0jwta0m19j.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2847,15 +2831,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-24T11:55:03.095925+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-24T10:59:04.457853+00:00",
-          "url": "https://d2ep8ecfuzrq5q.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
