@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-28T03:56:02.299915+00:00",
+          "created_at": "2025-09-28T15:00:02.511085+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-28T01:56:03.474328+00:00",
-          "url": "https://d1w8efdr0u107x.cloudfront.net"
+          "updated_at": "2025-09-28T07:08:04.460864+00:00",
+          "url": "https://d1ypd796mbq2rx.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-28T03:24:02.113585+00:00",
+          "created_at": "2025-09-28T15:00:02.429552+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-28T01:56:02.408579+00:00",
-          "url": "https://d1ln07z169da82.cloudfront.net"
+          "updated_at": "2025-09-28T07:00:03.332097+00:00",
+          "url": "https://dvs0izn4l579m.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-28T08:52:02.158826+00:00",
+          "created_at": "2025-09-28T15:00:02.443193+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-28T03:24:03.125699+00:00",
-          "url": "https://d1e6dg3i171k3j.cloudfront.net"
+          "updated_at": "2025-09-28T08:52:03.164589+00:00",
+          "url": "https://d3e3krk5mldni2.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2820,11 +2820,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-09-08T12:29:02.293584+00:00",
+          "created_at": "2025-09-28T15:00:02.288363+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-05T16:14:02.439989+00:00",
-          "url": "https://d2jd75motb59ks.cloudfront.net"
+          "updated_at": "2025-09-25T17:15:03.780085+00:00",
+          "url": "https://d3txdubltm70a7.cloudfront.net"
         }
       ],
       "main_domain": "votvot.tv"
