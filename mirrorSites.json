@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-09-27T04:26:02.287147+00:00",
+          "created_at": "2025-09-29T08:50:01.824547+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-27T02:32:02.896308+00:00",
-          "url": "https://d1uolplitopoqb.cloudfront.net"
+          "updated_at": "2025-09-29T05:38:03.148061+00:00",
+          "url": "https://df18u63g9fcqg.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -1139,11 +1139,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-09-28T23:56:02.120322+00:00",
+          "created_at": "2025-09-29T08:52:01.869459+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-28T21:16:03.975299+00:00",
-          "url": "https://d2eiule9hrqs2s.cloudfront.net"
+          "updated_at": "2025-09-28T23:56:03.443359+00:00",
+          "url": "https://d11r67v2u8cilx.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
