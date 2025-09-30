@@ -382,15 +382,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-30T06:12:02.121275+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-29T16:28:03.187680+00:00",
-          "url": "https://d2yhikn3u8rv5q.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -682,15 +674,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-30T06:12:02.154931+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-29T15:56:04.112198+00:00",
-          "url": "https://d18gw63zt2bqiv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
@@ -1894,15 +1878,7 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-09-29T19:32:02.100175+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-09-29T16:28:03.898647+00:00",
-          "url": "https://d3ijn25o2fdqk7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "martinoticias.com"
     },
     {
@@ -2155,11 +2131,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-09-29T23:40:02.872190+00:00",
+          "created_at": "2025-09-30T09:48:02.848310+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-29T18:04:03.956966+00:00",
-          "url": "https://dex62sturhxnk.cloudfront.net"
+          "updated_at": "2025-09-30T06:12:03.305500+00:00",
+          "url": "https://d154kh5av03w6l.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
