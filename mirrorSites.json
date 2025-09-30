@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-09-28T23:38:02.037447+00:00",
+          "created_at": "2025-09-30T23:46:02.272212+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-27T13:32:02.938122+00:00",
-          "url": "https://de6wsgpp84ag2.cloudfront.net"
+          "updated_at": "2025-09-29T17:28:03.464293+00:00",
+          "url": "https://d34isjsx3apoh2.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-09-28T19:14:02.082835+00:00",
+          "created_at": "2025-09-30T23:48:02.184917+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-26T21:32:03.592588+00:00",
-          "url": "https://d2m4lx72dhg43.cloudfront.net"
+          "updated_at": "2025-09-29T00:22:03.717335+00:00",
+          "url": "https://d1lcokyao449mv.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
