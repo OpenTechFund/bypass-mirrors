@@ -718,15 +718,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-10-01T13:40:02.119214+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-10-01T10:04:03.477755+00:00",
-          "url": "https://d1klfk339j5qlu.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -2115,13 +2107,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2025-10-01T13:40:02.126859+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-10-01T08:04:03.311072+00:00",
-          "url": "https://d3es80us7x987i.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2155,11 +2140,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-10-01T17:32:02.859095+00:00",
+          "created_at": "2025-10-01T21:24:02.593008+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-01T08:04:03.261698+00:00",
-          "url": "https://d3pryjj07o0m5g.cloudfront.net"
+          "updated_at": "2025-10-01T17:32:04.161643+00:00",
+          "url": "https://d18rn3s5tep2n1.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
@@ -2478,11 +2463,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2025-09-30T20:04:02.797566+00:00",
+          "created_at": "2025-10-01T21:24:02.560151+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-29T21:32:03.806023+00:00",
-          "url": "https://d3w0rdam2hjy1e.cloudfront.net"
+          "updated_at": "2025-09-30T20:04:04.268079+00:00",
+          "url": "https://d3n11fgb6frgfg.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
