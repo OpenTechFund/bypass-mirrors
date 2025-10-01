@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-01T16:04:02.450707+00:00",
+          "created_at": "2025-10-01T21:40:02.483650+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-01T05:24:03.733982+00:00",
-          "url": "https://d3r45ypr33ewg0.cloudfront.net"
+          "updated_at": "2025-10-01T16:04:03.758578+00:00",
+          "url": "https://d1jf8t4gaw2j22.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -718,7 +718,15 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-10-01T21:32:02.636678+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-10-01T14:52:03.401781+00:00",
+          "url": "https://d1hi68qgu4oict.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
@@ -1081,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-01T14:52:02.205795+00:00",
+          "created_at": "2025-10-01T21:40:02.475555+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-01T05:24:03.451708+00:00",
-          "url": "https://d1aqitn9qbyq2a.cloudfront.net"
+          "updated_at": "2025-10-01T16:36:03.521599+00:00",
+          "url": "https://dy7z1t9xgpyof.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2107,6 +2115,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2025-10-01T21:32:02.644731+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-10-01T13:40:03.376671+00:00",
+          "url": "https://d33bl7ump55eu1.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
