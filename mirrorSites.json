@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-01T12:14:02.496953+00:00",
+          "created_at": "2025-10-03T13:35:02.266104+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-30T11:42:03.344598+00:00",
-          "url": "https://d11jhpfw4hz3xo.cloudfront.net"
+          "updated_at": "2025-10-02T15:01:03.390156+00:00",
+          "url": "https://d3e0eiea29z6xi.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
