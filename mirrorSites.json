@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-02T21:39:03.113630+00:00",
+          "created_at": "2025-10-03T05:07:03.485302+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-02T14:19:03.868405+00:00",
-          "url": "https://d12srpfxcv9onm.cloudfront.net"
+          "updated_at": "2025-10-02T21:39:04.151220+00:00",
+          "url": "https://d1wgg7uat04s51.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-02T21:39:03.138919+00:00",
+          "created_at": "2025-10-03T05:07:03.510191+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-02T14:19:04.453927+00:00",
-          "url": "https://d1e3a9njo2vtay.cloudfront.net"
+          "updated_at": "2025-10-02T21:39:04.731346+00:00",
+          "url": "https://d3rrhpev9pl8f6.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2117,11 +2117,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-10-02T21:39:03.121353+00:00",
+          "created_at": "2025-10-03T05:07:03.492730+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-02T12:43:04.599828+00:00",
-          "url": "https://d3c1uha7qflvxu.cloudfront.net"
+          "updated_at": "2025-10-02T21:39:04.334527+00:00",
+          "url": "https://d2z3pf24qo9mb5.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2155,11 +2155,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-10-03T00:51:02.631061+00:00",
+          "created_at": "2025-10-03T05:07:03.460072+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-02T13:15:04.840573+00:00",
-          "url": "https://d15e453ic5fq60.cloudfront.net"
+          "updated_at": "2025-10-03T00:51:03.815207+00:00",
+          "url": "https://d8k71h899gmf3.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
