@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-03T23:39:03.142059+00:00",
+          "created_at": "2025-10-04T12:11:03.647242+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-03T19:07:03.842879+00:00",
-          "url": "https://d3urzqpwff6fkb.cloudfront.net"
+          "updated_at": "2025-10-04T11:39:04.091129+00:00",
+          "url": "https://d15exv0k5zaspe.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-03T23:39:03.183225+00:00",
+          "created_at": "2025-10-04T12:11:03.682678+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-03T19:39:04.860909+00:00",
-          "url": "https://d1q4ag24uz8tzj.cloudfront.net"
+          "updated_at": "2025-10-03T23:39:04.828359+00:00",
+          "url": "https://d8ce2fh9zeoct.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
