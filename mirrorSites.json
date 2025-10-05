@@ -1482,11 +1482,11 @@
           "url": "https://www.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-09-28T15:32:02.504162+00:00",
+          "created_at": "2025-10-05T18:19:03.406528+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-09T20:19:03.868653+00:00",
-          "url": "https://d3g0kqnlc8cqyq.cloudfront.net"
+          "updated_at": "2025-09-28T15:32:03.815048+00:00",
+          "url": "https://d3bgmztmmzwsfe.cloudfront.net"
         }
       ],
       "main_domain": "azatliq.org"
@@ -2288,11 +2288,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-09-08T16:03:03.084279+00:00",
+          "created_at": "2025-10-05T18:19:03.379064+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-09-07T16:20:03.340545+00:00",
-          "url": "https://d2fzdlds3eyzv1.cloudfront.net"
+          "updated_at": "2025-10-04T13:31:03.557814+00:00",
+          "url": "https://d2fg6jf7mvkp0s.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
