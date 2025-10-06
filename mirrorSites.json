@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-06T14:19:03.311267+00:00",
+          "created_at": "2025-10-06T19:55:03.361056+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-06T01:47:03.733846+00:00",
-          "url": "https://d3k8moi0ki5app.cloudfront.net"
+          "updated_at": "2025-10-06T17:23:03.504762+00:00",
+          "url": "https://dft9x8q65zfdu.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-06T09:07:03.481867+00:00",
+          "created_at": "2025-10-06T19:55:03.573624+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-06T01:47:04.916338+00:00",
-          "url": "https://d3bup671l81u17.cloudfront.net"
+          "updated_at": "2025-10-06T09:07:05.227991+00:00",
+          "url": "https://d2g91fffr0xy07.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-06T07:23:03.348147+00:00",
+          "created_at": "2025-10-06T19:55:03.549231+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-06T01:47:04.334277+00:00",
-          "url": "https://d3rx6rksmkgoc7.cloudfront.net"
+          "updated_at": "2025-10-06T07:23:04.376634+00:00",
+          "url": "https://dxpt22mhp2ban.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-06T09:07:03.495290+00:00",
+          "created_at": "2025-10-06T19:55:03.586991+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-06T01:47:04.990914+00:00",
-          "url": "https://danfy2y221732.cloudfront.net"
+          "updated_at": "2025-10-06T17:23:04.784995+00:00",
+          "url": "https://d1wkbb6ddv3l2v.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
