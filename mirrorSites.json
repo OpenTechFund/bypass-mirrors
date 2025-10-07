@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-05T04:35:03.034441+00:00",
+          "created_at": "2025-10-07T06:11:03.572112+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-04T18:51:04.153784+00:00",
-          "url": "https://dtdaj08civhtb.cloudfront.net"
+          "updated_at": "2025-10-06T23:33:04.350360+00:00",
+          "url": "https://d2ga1af95jb7xq.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
