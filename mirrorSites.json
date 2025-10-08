@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-06T18:03:03.287967+00:00",
+          "created_at": "2025-10-08T20:59:02.886641+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-06T11:43:03.747054+00:00",
-          "url": "https://d3nqwklne7rxll.cloudfront.net"
+          "updated_at": "2025-10-08T14:39:03.920283+00:00",
+          "url": "https://d3fdah8gye896e.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -2155,11 +2155,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-10-08T04:19:02.877112+00:00",
+          "created_at": "2025-10-08T21:07:03.210403+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-08T01:39:04.645473+00:00",
-          "url": "https://diz05yw9krkfz.cloudfront.net"
+          "updated_at": "2025-10-08T19:15:04.259830+00:00",
+          "url": "https://d24v6c0sngbf4e.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
