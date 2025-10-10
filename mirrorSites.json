@@ -925,11 +925,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-10-08T20:37:02.352615+00:00",
+          "created_at": "2025-10-10T23:51:02.083748+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-07T22:13:03.832462+00:00",
-          "url": "https://d2rwu2nkuma2kt.cloudfront.net"
+          "updated_at": "2025-10-10T00:59:05.049685+00:00",
+          "url": "https://d1hhzi1b7ppgge.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
@@ -1137,6 +1137,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-10-10T23:41:02.092596+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-10-10T23:39:04.177664+00:00",
+          "url": "https://d9s0kuhp5m5ud.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
