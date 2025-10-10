@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-10T05:07:03.153157+00:00",
+          "created_at": "2025-10-10T20:43:03.182063+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-10T03:07:03.823084+00:00",
-          "url": "https://dfy41ud5n1nuq.cloudfront.net"
+          "updated_at": "2025-10-10T16:03:04.335095+00:00",
+          "url": "https://d1uwcppk6dthg7.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-10T06:19:03.596742+00:00",
+          "created_at": "2025-10-10T20:43:03.198144+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-10T03:07:04.420900+00:00",
-          "url": "https://dw66f8xld9vsl.cloudfront.net"
+          "updated_at": "2025-10-10T16:03:04.932107+00:00",
+          "url": "https://d1hyh1pl1243iu.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
