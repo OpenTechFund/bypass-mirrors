@@ -863,11 +863,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-10-14T07:31:03.605535+00:00",
+          "created_at": "2025-10-16T08:53:02.128507+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-12T14:23:04.347293+00:00",
-          "url": "https://d2jwhexzpbfvcg.cloudfront.net"
+          "updated_at": "2025-10-14T16:53:04.521205+00:00",
+          "url": "https://d13lz11z6624v.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-15T20:03:03.740621+00:00",
+          "created_at": "2025-10-16T08:51:03.141967+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-15T19:07:05.272263+00:00",
-          "url": "https://detf13c3r2n5q.cloudfront.net"
+          "updated_at": "2025-10-16T05:39:05.002117+00:00",
+          "url": "https://d1c1jg9b5fnjj3.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
