@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-15T12:43:03.153352+00:00",
+          "created_at": "2025-10-16T02:35:02.773296+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-15T11:39:04.039992+00:00",
-          "url": "https://d2g8jflqrxqvty.cloudfront.net"
+          "updated_at": "2025-10-15T20:19:04.932553+00:00",
+          "url": "https://d3ephjt3rj25xs.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
