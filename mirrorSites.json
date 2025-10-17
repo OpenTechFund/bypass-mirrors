@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-16T23:47:02.929709+00:00",
+          "created_at": "2025-10-17T06:59:03.202605+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-16T17:39:04.885272+00:00",
-          "url": "https://d2mfm10jldvhjv.cloudfront.net"
+          "updated_at": "2025-10-17T06:11:04.122012+00:00",
+          "url": "https://d3rv7jnups6w5l.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -2117,11 +2117,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-10-16T23:47:02.952926+00:00",
+          "created_at": "2025-10-17T06:59:03.223097+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-16T20:51:04.642210+00:00",
-          "url": "https://d2g8dv7w2vem2i.cloudfront.net"
+          "updated_at": "2025-10-17T03:55:05.212462+00:00",
+          "url": "https://d2a7bdhttfno83.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
