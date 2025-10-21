@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-21T15:39:03.279292+00:00",
+          "created_at": "2025-10-21T19:39:03.033504+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-21T12:35:04.469161+00:00",
-          "url": "https://ds5q3smvp0exh.cloudfront.net"
+          "updated_at": "2025-10-21T15:39:04.356771+00:00",
+          "url": "https://d25tnec2bg2kze.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-21T14:27:03.202736+00:00",
+          "created_at": "2025-10-21T19:39:03.200881+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-21T11:23:04.854812+00:00",
-          "url": "https://dq0gpinfvonox.cloudfront.net"
+          "updated_at": "2025-10-21T15:15:05.094261+00:00",
+          "url": "https://d3t67hzfvyp6pk.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
