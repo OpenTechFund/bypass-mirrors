@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-22T02:03:03.212305+00:00",
+          "created_at": "2025-10-22T20:35:02.958205+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-21T19:39:03.928978+00:00",
-          "url": "https://dfzz0rjco6d68.cloudfront.net"
+          "updated_at": "2025-10-22T08:59:04.361023+00:00",
+          "url": "https://d1vhr31p8j5eyf.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -2153,13 +2153,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2025-10-21T19:57:02.536179+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-10-21T19:55:04.216126+00:00",
-          "url": "https://dpf0nxgu0lpg.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
