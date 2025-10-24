@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-23T21:55:03.227474+00:00",
+          "created_at": "2025-10-24T05:23:03.295967+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-23T18:03:04.308292+00:00",
-          "url": "https://d1mwbxcropbmrv.cloudfront.net"
+          "updated_at": "2025-10-23T21:55:04.275701+00:00",
+          "url": "https://d3twfh6l9hd213.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
