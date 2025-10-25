@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-25T03:55:03.101214+00:00",
+          "created_at": "2025-10-25T12:59:03.066443+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-24T21:23:04.322559+00:00",
-          "url": "https://d1oxsleua7b12f.cloudfront.net"
+          "updated_at": "2025-10-25T09:07:04.343737+00:00",
+          "url": "https://d2g2q66silfy0q.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-24T23:31:03.177221+00:00",
+          "created_at": "2025-10-25T12:59:03.050695+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-24T21:23:04.009216+00:00",
-          "url": "https://d3iib8bi4hwy9x.cloudfront.net"
+          "updated_at": "2025-10-25T03:55:04.107964+00:00",
+          "url": "https://d30va0swztsvk3.cloudfront.net"
         }
       ],
       "main_domain": "agents.media"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-25T03:55:03.109820+00:00",
+          "created_at": "2025-10-25T12:59:03.074925+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-24T21:23:04.639425+00:00",
-          "url": "https://d2fdschkc1vnup.cloudfront.net"
+          "updated_at": "2025-10-25T03:55:04.739433+00:00",
+          "url": "https://dibyl0be2eqwu.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
