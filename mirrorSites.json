@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-24T23:55:03.406500+00:00",
+          "created_at": "2025-10-25T02:59:03.182203+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-24T02:43:04.024155+00:00",
-          "url": "https://d1yu7evoloaggi.cloudfront.net"
+          "updated_at": "2025-10-24T23:55:04.156770+00:00",
+          "url": "https://d2q70lljc43yuj.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
