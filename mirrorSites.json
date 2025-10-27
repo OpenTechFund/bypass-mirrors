@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T19:15:03.523665+00:00",
+          "created_at": "2025-10-27T22:19:03.056554+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T05:47:04.143092+00:00",
-          "url": "https://d19yij4kascq5h.cloudfront.net"
+          "updated_at": "2025-10-27T20:43:03.805281+00:00",
+          "url": "https://d1775qr5x4btgf.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2155,11 +2155,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-10-27T11:31:03.114950+00:00",
+          "created_at": "2025-10-27T22:11:03.386906+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T03:07:04.558752+00:00",
-          "url": "https://d2cagrxymbiu9l.cloudfront.net"
+          "updated_at": "2025-10-27T11:31:04.364842+00:00",
+          "url": "https://d1nupcggkkcd6g.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
