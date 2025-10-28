@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T22:19:03.056554+00:00",
+          "created_at": "2025-10-28T03:07:02.925166+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T20:43:03.805281+00:00",
-          "url": "https://d1775qr5x4btgf.cloudfront.net"
+          "updated_at": "2025-10-27T22:19:04.189157+00:00",
+          "url": "https://dw941wegn84d.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1896,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T21:07:03.020638+00:00",
+          "created_at": "2025-10-28T03:07:03.144049+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T19:07:05.030408+00:00",
-          "url": "https://d3b0pnpa5q1ir6.cloudfront.net"
+          "updated_at": "2025-10-27T23:39:05.078040+00:00",
+          "url": "https://d3p60mf18npz5w.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
