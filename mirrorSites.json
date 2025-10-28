@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T02:27:03.037109+00:00",
+          "created_at": "2025-10-28T07:55:03.019868+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T23:39:05.264337+00:00",
-          "url": "https://d1wsgv7qbk3obi.cloudfront.net"
+          "updated_at": "2025-10-28T06:35:04.681449+00:00",
+          "url": "https://d3kqwovhlbq6iu.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1137,13 +1137,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2025-10-27T22:05:02.485027+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-10-27T22:03:04.425310+00:00",
-          "url": "https://d2a8l0xy37u8nk.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2155,11 +2148,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-10-28T01:15:02.684466+00:00",
+          "created_at": "2025-10-28T07:47:03.205898+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T22:11:04.662332+00:00",
-          "url": "https://do82rz1dc3d87.cloudfront.net"
+          "updated_at": "2025-10-28T01:15:03.932978+00:00",
+          "url": "https://d18egoxzwose67.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
