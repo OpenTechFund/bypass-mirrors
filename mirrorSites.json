@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2025-10-26T11:05:02.499586+00:00",
+          "created_at": "2025-10-28T16:07:02.554440+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-25T11:29:03.222781+00:00",
-          "url": "https://d3rr7ltkd9cpxc.cloudfront.net"
+          "updated_at": "2025-10-27T12:33:03.394574+00:00",
+          "url": "https://d1k0lcb82tdz0y.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-26T13:49:02.222531+00:00",
+          "created_at": "2025-10-28T16:07:02.947645+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-24T11:59:03.296646+00:00",
-          "url": "https://d3od3bbza95scw.cloudfront.net"
+          "updated_at": "2025-10-26T13:49:02.582026+00:00",
+          "url": "https://d20ukql2gcbeby.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
