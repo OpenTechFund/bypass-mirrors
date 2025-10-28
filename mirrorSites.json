@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T23:47:03.692290+00:00",
+          "created_at": "2025-10-28T06:43:02.624879+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T20:43:04.470036+00:00",
-          "url": "https://d3r2cyb1e6b5js.cloudfront.net"
+          "updated_at": "2025-10-28T02:35:04.730805+00:00",
+          "url": "https://d24zpgfhhkjhcn.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T23:39:03.558801+00:00",
+          "created_at": "2025-10-28T06:35:02.935649+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T20:35:04.227415+00:00",
-          "url": "https://d1v0os7h36clut.cloudfront.net"
+          "updated_at": "2025-10-28T02:27:04.044013+00:00",
+          "url": "https://d2n433tntwbrz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1309,15 +1309,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-10-27T19:17:03.021237+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-10-27T19:15:04.531852+00:00",
-          "url": "https://d2w6mevlvw029p.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
