@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T16:59:03.542397+00:00",
+          "created_at": "2025-10-28T23:39:02.805968+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-28T02:51:04.218391+00:00",
-          "url": "https://d2zjcxej2jw9v9.cloudfront.net"
+          "updated_at": "2025-10-28T16:59:04.889506+00:00",
+          "url": "https://d188qchzvp8zmu.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -422,11 +422,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2025-10-26T23:03:02.848756+00:00",
+          "created_at": "2025-10-28T23:37:02.403025+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-26T06:51:04.535133+00:00",
-          "url": "https://d3p96s1w738u68.cloudfront.net"
+          "updated_at": "2025-10-28T09:15:04.355612+00:00",
+          "url": "https://dh2fwmkwv4qqx.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T06:43:02.624879+00:00",
+          "created_at": "2025-10-28T23:39:02.826522+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-28T02:35:04.730805+00:00",
-          "url": "https://d24zpgfhhkjhcn.cloudfront.net"
+          "updated_at": "2025-10-28T16:59:05.260466+00:00",
+          "url": "https://d3jn9t1s5sfqsa.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T08:03:02.830605+00:00",
+          "created_at": "2025-10-28T23:39:02.796026+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-28T03:07:03.968765+00:00",
-          "url": "https://d3lzu9fumwfg9w.cloudfront.net"
+          "updated_at": "2025-10-28T08:03:03.866445+00:00",
+          "url": "https://d171g51nyidq0c.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T02:51:02.875807+00:00",
+          "created_at": "2025-10-28T23:39:02.815409+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-28T02:35:04.683998+00:00",
-          "url": "https://dae8e5werkg7t.cloudfront.net"
+          "updated_at": "2025-10-28T16:59:05.213417+00:00",
+          "url": "https://d2fidug9doyx09.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
