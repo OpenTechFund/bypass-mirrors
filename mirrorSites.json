@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T02:51:02.867003+00:00",
+          "created_at": "2025-10-28T16:59:03.542397+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T23:47:05.045017+00:00",
-          "url": "https://d1macknuiblly1.cloudfront.net"
+          "updated_at": "2025-10-28T02:51:04.218391+00:00",
+          "url": "https://d2zjcxej2jw9v9.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
