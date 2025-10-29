@@ -1120,11 +1120,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T10:23:02.122259+00:00",
+          "created_at": "2025-10-29T11:30:02.289286+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-25T11:51:03.495055+00:00",
-          "url": "https://d3fjt3w8km4djl.cloudfront.net"
+          "updated_at": "2025-10-27T14:23:03.832232+00:00",
+          "url": "https://d27jri8gkf29a1.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -1287,11 +1287,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-27T08:53:03.136281+00:00",
+          "created_at": "2025-10-29T11:22:02.413856+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-26T12:25:04.603620+00:00",
-          "url": "https://dcdx96zif3yu4.cloudfront.net"
+          "updated_at": "2025-10-28T16:47:04.701501+00:00",
+          "url": "https://d31bfhbvp0p4b6.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
