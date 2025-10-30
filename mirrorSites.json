@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-28T00:51:03.462901+00:00",
+          "created_at": "2025-10-30T03:30:02.517761+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-26T12:05:03.778078+00:00",
-          "url": "https://d10ilj9ljdjjr3.cloudfront.net"
+          "updated_at": "2025-10-28T13:01:03.023910+00:00",
+          "url": "https://dxcx68aeq455.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -1309,7 +1309,15 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2025-10-30T03:26:02.398552+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-10-30T03:24:04.216320+00:00",
+          "url": "https://d3isn424foqccq.cloudfront.net"
+        }
+      ],
       "main_domain": "agents.media"
     },
     {
