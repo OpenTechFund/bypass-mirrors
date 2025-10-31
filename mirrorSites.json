@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-30T11:40:03.271798+00:00",
+          "created_at": "2025-10-31T06:28:03.109679+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-30T09:00:04.969599+00:00",
-          "url": "https://dpowki26tlqho.cloudfront.net"
+          "updated_at": "2025-10-31T00:38:04.565590+00:00",
+          "url": "https://di7mb1u0478gi.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-10-31T00:36:03.810650+00:00",
+          "created_at": "2025-10-31T06:28:03.118815+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-30T10:12:05.506577+00:00",
-          "url": "https://dmbofb1e4yc27.cloudfront.net"
+          "updated_at": "2025-10-31T00:36:05.464584+00:00",
+          "url": "https://dnok511jrotnf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1227,11 +1227,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-10-29T05:28:02.011393+00:00",
+          "created_at": "2025-10-31T06:26:01.882786+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-27T04:31:03.715531+00:00",
-          "url": "https://d2z860o00750rf.cloudfront.net"
+          "updated_at": "2025-10-29T06:40:03.240246+00:00",
+          "url": "https://d2fqdwsaxxibon.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -2117,11 +2117,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-10-31T01:08:03.566706+00:00",
+          "created_at": "2025-10-31T06:28:03.094487+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-10-30T12:12:04.422640+00:00",
-          "url": "https://dncc5q25n4ac.cloudfront.net"
+          "updated_at": "2025-10-31T01:08:04.870161+00:00",
+          "url": "https://db7kxbp2bctqz.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
