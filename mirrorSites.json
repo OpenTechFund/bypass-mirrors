@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-11-05T09:16:02.715137+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-11-05T05:16:03.524540+00:00",
-          "url": "https://d2smy2lfgwfhc7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -670,15 +662,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-11-05T09:16:02.872875+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-11-04T15:40:04.408380+00:00",
-          "url": "https://d1cbfa7633s6so.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -730,15 +714,7 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-11-05T09:16:02.977645+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-11-05T05:16:04.796317+00:00",
-          "url": "https://d1lkfguwi85jja.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -2148,11 +2124,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2025-11-05T08:28:03.670889+00:00",
+          "created_at": "2025-11-05T12:22:02.740831+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-04T15:32:04.253777+00:00",
-          "url": "https://d1w3e1h6vs2m4q.cloudfront.net"
+          "updated_at": "2025-11-05T09:16:04.180612+00:00",
+          "url": "https://djhyn7m1y4lt0.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
