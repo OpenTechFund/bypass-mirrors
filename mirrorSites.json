@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-03T06:02:02.602239+00:00",
+          "created_at": "2025-11-05T07:54:03.363915+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-01T20:12:05.163723+00:00",
-          "url": "https://duoq1tgg5r094.cloudfront.net"
+          "updated_at": "2025-11-04T00:18:04.274402+00:00",
+          "url": "https://d1s3ki0hdq749h.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
