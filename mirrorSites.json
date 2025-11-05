@@ -1137,6 +1137,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2025-11-05T07:34:02.613493+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-11-05T07:32:04.764236+00:00",
+          "url": "https://d35alecolljscy.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1889,11 +1896,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-04T15:40:03.409268+00:00",
+          "created_at": "2025-11-05T07:48:03.833800+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-04T05:40:04.808454+00:00",
-          "url": "https://dvzdtkyj1glsr.cloudfront.net"
+          "updated_at": "2025-11-05T04:52:04.781680+00:00",
+          "url": "https://d28bq07m9twpj1.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
@@ -2110,11 +2117,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-11-04T07:40:03.537551+00:00",
+          "created_at": "2025-11-05T07:48:03.824531+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-04T05:40:04.602586+00:00",
-          "url": "https://d3d7fz7a1xokpn.cloudfront.net"
+          "updated_at": "2025-11-04T14:20:04.151824+00:00",
+          "url": "https://d1iaxd7ivdlbh3.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
