@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-11-06T08:48:02.129085+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-11-06T08:46:02.807786+00:00",
-          "url": "https://d3gac98l1wueuy.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -732,11 +724,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-06T10:54:02.927606+00:00",
+          "created_at": "2025-11-07T12:30:02.806473+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-06T08:46:04.152447+00:00",
-          "url": "https://d1muu5p3q21lk.cloudfront.net"
+          "updated_at": "2025-11-06T10:54:04.565037+00:00",
+          "url": "https://d5exkk264fqun.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2153,6 +2145,13 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
+        },
+        {
+          "created_at": "2025-11-07T12:22:02.667071+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-11-06T17:10:03.680385+00:00",
+          "url": "https://d21dzmswp8xbdd.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
