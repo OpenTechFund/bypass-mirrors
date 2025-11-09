@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-08T23:10:03.140412+00:00",
+          "created_at": "2025-11-09T12:54:02.126324+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-08T10:30:04.219740+00:00",
-          "url": "https://d7xbgf50y7vjt.cloudfront.net"
+          "updated_at": "2025-11-09T11:10:04.287709+00:00",
+          "url": "https://d2i6pvqy31ph34.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -2117,11 +2117,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-11-08T23:10:03.065273+00:00",
+          "created_at": "2025-11-09T12:54:02.052981+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-08T10:30:03.823282+00:00",
-          "url": "https://d2blnqseg2l5oz.cloudfront.net"
+          "updated_at": "2025-11-09T06:30:03.824885+00:00",
+          "url": "https://d2x6szhv7b7gb8.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
