@@ -863,11 +863,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-11-08T06:40:02.349541+00:00",
+          "created_at": "2025-11-10T07:28:02.782881+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-06T21:52:03.981515+00:00",
-          "url": "https://d26j1e5z5bxhxw.cloudfront.net"
+          "updated_at": "2025-11-08T23:10:04.569777+00:00",
+          "url": "https://d3ht9b8q7zyvj7.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-09T13:34:02.061369+00:00",
+          "created_at": "2025-11-10T07:34:02.886357+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-09T12:54:03.713484+00:00",
-          "url": "https://d3mrcj1mlalqdz.cloudfront.net"
+          "updated_at": "2025-11-09T15:58:04.300071+00:00",
+          "url": "https://de1ngucs97fwl.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
