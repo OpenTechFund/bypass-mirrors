@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-10T13:10:02.327097+00:00",
+          "created_at": "2025-11-11T06:54:02.208355+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-10T08:46:04.089844+00:00",
-          "url": "https://d186xn13v3g1xw.cloudfront.net"
+          "updated_at": "2025-11-11T04:22:04.347449+00:00",
+          "url": "https://drcvbouu8wynx.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-10T11:26:02.727549+00:00",
+          "created_at": "2025-11-11T06:54:01.975552+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-10T07:34:04.574264+00:00",
-          "url": "https://d2lqpyj6ynwdhj.cloudfront.net"
+          "updated_at": "2025-11-10T11:26:04.455584+00:00",
+          "url": "https://dzxdn362akuym.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
