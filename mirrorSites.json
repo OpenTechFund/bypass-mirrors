@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-11-10T14:32:02.183566+00:00",
+          "created_at": "2025-11-12T16:35:02.406188+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-10T08:48:03.176290+00:00",
-          "url": "https://d31vdoxjmatlij.cloudfront.net"
+          "updated_at": "2025-11-12T11:53:03.236587+00:00",
+          "url": "https://d10p5v6gg2mypk.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-11T21:18:02.133006+00:00",
+          "created_at": "2025-11-12T16:37:03.313058+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-11T18:46:04.328330+00:00",
-          "url": "https://d2cfpeha1idjan.cloudfront.net"
+          "updated_at": "2025-11-12T06:46:03.988928+00:00",
+          "url": "https://d1ikcpd6rlv8pb.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
