@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-15T21:49:02.829952+00:00",
+          "created_at": "2025-11-16T21:49:03.038761+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-15T21:01:04.319301+00:00",
-          "url": "https://d1h1oettoi1jbx.cloudfront.net"
+          "updated_at": "2025-11-16T12:05:03.729435+00:00",
+          "url": "https://d2njgwehl4n5p2.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-16T09:25:03.780991+00:00",
+          "created_at": "2025-11-16T21:49:03.319159+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-15T19:25:05.216191+00:00",
-          "url": "https://d3l2n2h0r3487a.cloudfront.net"
+          "updated_at": "2025-11-16T10:21:05.638075+00:00",
+          "url": "https://d24bni183wfrs8.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
