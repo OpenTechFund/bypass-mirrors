@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-17T09:01:03.889231+00:00",
+          "created_at": "2025-11-17T17:57:03.708273+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-16T21:49:03.698839+00:00",
-          "url": "https://dna54m9jnfw5o.cloudfront.net"
+          "updated_at": "2025-11-17T09:01:04.583281+00:00",
+          "url": "https://d2omt3ke7ybo49.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-17T06:29:03.625035+00:00",
+          "created_at": "2025-11-17T17:57:03.968863+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-17T00:29:04.921242+00:00",
-          "url": "https://d2i7gykhgiw812.cloudfront.net"
+          "updated_at": "2025-11-17T11:25:05.357226+00:00",
+          "url": "https://d1pwkf56fbsxkj.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-17T05:49:03.037455+00:00",
+          "created_at": "2025-11-17T17:57:03.985637+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-16T21:49:05.147476+00:00",
-          "url": "https://dplxsn9qgfu0c.cloudfront.net"
+          "updated_at": "2025-11-17T06:29:05.586836+00:00",
+          "url": "https://d3a6ytscdgy14g.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
