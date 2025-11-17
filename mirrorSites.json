@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-15T15:29:02.791197+00:00",
+          "created_at": "2025-11-17T17:13:02.757389+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-14T10:23:03.891300+00:00",
-          "url": "https://d2ggmsv3mpurxq.cloudfront.net"
+          "updated_at": "2025-11-16T13:51:04.600678+00:00",
+          "url": "https://d3fbnywl18exqi.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-17T05:01:02.766632+00:00",
+          "created_at": "2025-11-17T17:09:03.397310+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-16T21:09:04.745368+00:00",
-          "url": "https://d3s6vdvwgf47v5.cloudfront.net"
+          "updated_at": "2025-11-17T05:01:04.605744+00:00",
+          "url": "https://d1vt5m87lzkflo.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
