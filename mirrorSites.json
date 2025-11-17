@@ -563,6 +563,13 @@
           "type": "eotk",
           "updated_at": "2023-04-22 14:20:27.420161+00:00",
           "url": "https://lao.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2025-11-17T05:01:02.802571+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-11-17T05:01:02.802574+00:00",
+          "url": "https://dqctwwvnshxfs.cloudfront.net"
         }
       ],
       "main_domain": "lao.voanews.com"
