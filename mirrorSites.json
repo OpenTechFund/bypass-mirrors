@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-20T23:57:03.476258+00:00",
+          "created_at": "2025-11-21T14:13:03.579077+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-20T14:21:03.417506+00:00",
-          "url": "https://d1tkrpw3yvcb2u.cloudfront.net"
+          "updated_at": "2025-11-21T11:17:03.332611+00:00",
+          "url": "https://dya8glqv8x35m.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -894,11 +894,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-11-19T11:31:02.690700+00:00",
+          "created_at": "2025-11-21T14:09:02.484595+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-18T15:11:03.675814+00:00",
-          "url": "https://ddpxzhua94cs2.cloudfront.net"
+          "updated_at": "2025-11-20T16:15:03.573221+00:00",
+          "url": "https://dwf7bb16mx6b0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
