@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-21T10:05:03.152423+00:00",
+          "created_at": "2025-11-23T15:23:02.312620+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-20T03:41:04.931925+00:00",
-          "url": "https://d3hs3ur7bdnw4q.cloudfront.net"
+          "updated_at": "2025-11-22T04:17:04.361128+00:00",
+          "url": "https://d13nrfl72wvp4q.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
@@ -1227,11 +1227,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-11-21T13:25:02.980049+00:00",
+          "created_at": "2025-11-23T15:19:02.455982+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-21T03:51:03.068995+00:00",
-          "url": "https://d3904gyfd014ie.cloudfront.net"
+          "updated_at": "2025-11-23T06:07:03.375713+00:00",
+          "url": "https://d1dmsw26qux3bz.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
