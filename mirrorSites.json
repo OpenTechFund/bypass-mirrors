@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-24T20:53:03.077716+00:00",
+          "created_at": "2025-11-25T16:13:03.796010+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-24T12:13:04.591362+00:00",
-          "url": "https://d1kk52r53f57oz.cloudfront.net"
+          "updated_at": "2025-11-25T04:45:04.466655+00:00",
+          "url": "https://dm3zy6t8g9ln7.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-25T04:45:02.975197+00:00",
+          "created_at": "2025-11-25T16:13:03.818085+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-24T13:01:05.131047+00:00",
-          "url": "https://d25x0smmkx94cr.cloudfront.net"
+          "updated_at": "2025-11-25T04:45:04.858204+00:00",
+          "url": "https://d7fewup0uun2a.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-25T05:33:03.156612+00:00",
+          "created_at": "2025-11-25T16:05:03.633951+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-24T14:37:04.258650+00:00",
-          "url": "https://d2nr0qnpc71spc.cloudfront.net"
+          "updated_at": "2025-11-25T05:33:03.817970+00:00",
+          "url": "https://d13h4l88bk7y6v.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-24T13:41:03.355198+00:00",
+          "created_at": "2025-11-25T16:13:03.785254+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-24T12:13:04.288771+00:00",
-          "url": "https://d1f7gnw7viqgdj.cloudfront.net"
+          "updated_at": "2025-11-25T04:45:04.161047+00:00",
+          "url": "https://dn226gvhkmgc1.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1227,11 +1227,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-11-23T15:19:02.455982+00:00",
+          "created_at": "2025-11-25T16:09:02.766331+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-23T06:07:03.375713+00:00",
-          "url": "https://d1dmsw26qux3bz.cloudfront.net"
+          "updated_at": "2025-11-25T08:57:03.218024+00:00",
+          "url": "https://d2nvqtkb0raosr.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-23T14:17:02.478247+00:00",
+          "created_at": "2025-11-25T16:13:03.908837+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-22T19:01:05.323881+00:00",
-          "url": "https://dvmw7vdboixrr.cloudfront.net"
+          "updated_at": "2025-11-24T19:39:03.896403+00:00",
+          "url": "https://dy6wp5hz3lnt2.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-24T17:49:03.414844+00:00",
+          "created_at": "2025-11-25T16:13:03.806017+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-24T09:49:05.491347+00:00",
-          "url": "https://d3ujwt3czdihjv.cloudfront.net"
+          "updated_at": "2025-11-24T17:49:05.275611+00:00",
+          "url": "https://d1gsmbv5kmqp24.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
