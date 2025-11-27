@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-25T00:49:02.168346+00:00",
+          "created_at": "2025-11-27T01:35:02.366541+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-24T21:33:05.028395+00:00",
-          "url": "https://dzw6dzy95hsrz.cloudfront.net"
+          "updated_at": "2025-11-26T22:23:04.540804+00:00",
+          "url": "https://dpb3ky0y9eqjv.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
@@ -1139,11 +1139,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-11-26T22:37:03.486136+00:00",
+          "created_at": "2025-11-27T01:41:03.148950+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-26T02:37:04.556775+00:00",
-          "url": "https://d1f95540xccyu8.cloudfront.net"
+          "updated_at": "2025-11-26T22:37:05.106315+00:00",
+          "url": "https://d1kxkpx1ib2mx1.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
