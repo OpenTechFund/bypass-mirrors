@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-27T18:05:03.016161+00:00",
+          "created_at": "2025-11-28T02:13:02.852732+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-27T04:45:04.896295+00:00",
-          "url": "https://d1muihjyu9lo0y.cloudfront.net"
+          "updated_at": "2025-11-27T18:05:04.877677+00:00",
+          "url": "https://d1evum3ic6mai2.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-27T04:47:02.336498+00:00",
+          "created_at": "2025-11-28T02:05:03.006975+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-27T04:45:05.023275+00:00",
-          "url": "https://d26cqyhqpgojfu.cloudfront.net"
+          "updated_at": "2025-11-28T01:11:04.028444+00:00",
+          "url": "https://d21mvtqjgiue4f.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
