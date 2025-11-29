@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-27T01:47:02.203140+00:00",
+          "created_at": "2025-11-29T02:57:01.793004+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-26T22:59:04.874416+00:00",
-          "url": "https://d3baj1p6ruzpg8.cloudfront.net"
+          "updated_at": "2025-11-29T00:55:04.661484+00:00",
+          "url": "https://d3fjq5h3wrgit3.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
