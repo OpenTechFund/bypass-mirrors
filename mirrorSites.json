@@ -2889,11 +2889,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-11-30T06:13:02.797657+00:00",
+          "created_at": "2025-11-30T21:09:03.462355+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-29T22:13:04.661885+00:00",
-          "url": "https://d3h8ek7gt4fh82.cloudfront.net"
+          "updated_at": "2025-11-30T08:13:05.283779+00:00",
+          "url": "https://d39fo20fkjg8qp.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
