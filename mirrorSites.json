@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-04T01:17:03.387611+00:00",
+          "created_at": "2025-12-04T19:09:03.414342+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-03T23:17:03.648586+00:00",
-          "url": "https://d39bvn5e2k56k8.cloudfront.net"
+          "updated_at": "2025-12-04T01:19:03.721460+00:00",
+          "url": "https://d1a5ybklt6qcwg.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1139,11 +1139,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2025-12-04T16:05:03.802146+00:00",
+          "created_at": "2025-12-04T19:09:03.377092+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-03T22:53:04.480439+00:00",
-          "url": "https://d2jrn5j4qyu2md.cloudfront.net"
+          "updated_at": "2025-12-04T18:45:04.641562+00:00",
+          "url": "https://d2lsk8335vclj1.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2117,11 +2117,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-12-03T23:17:03.208597+00:00",
+          "created_at": "2025-12-04T19:09:03.678015+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-03T22:29:04.343142+00:00",
-          "url": "https://dyr9hqsy66m2u.cloudfront.net"
+          "updated_at": "2025-12-04T10:53:05.037753+00:00",
+          "url": "https://d39r6vj3jvsfrs.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
