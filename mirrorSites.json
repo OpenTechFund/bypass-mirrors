@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-02T01:21:01.705120+00:00",
+          "created_at": "2025-12-04T07:45:02.013739+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-11-30T19:03:03.629405+00:00",
-          "url": "https://d2ad5r3hoghsw1.cloudfront.net"
+          "updated_at": "2025-12-02T19:25:04.087798+00:00",
+          "url": "https://d2w68crd871ld2.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-04T01:17:03.406191+00:00",
+          "created_at": "2025-12-04T07:41:02.715764+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-03T07:41:04.622767+00:00",
-          "url": "https://dc5mmtrbh31dv.cloudfront.net"
+          "updated_at": "2025-12-04T01:17:04.636779+00:00",
+          "url": "https://d14kxl82fmx1yv.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
