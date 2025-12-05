@@ -1385,6 +1385,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:46:41.373408+00:00",
           "url": "https://www.ovoziamsovb7h7pvjeyr632pjcb4xdx3ctkznm5w53teyp7wbatpvqid.onion"
+        },
+        {
+          "created_at": "2025-12-05T19:19:02.376941+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-12-05T15:49:04.854607+00:00",
+          "url": "https://dx2mlratjapa6.cloudfront.net"
         }
       ],
       "main_domain": "amerikaovozi.com"
@@ -1435,6 +1442,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:24:22.588353+00:00",
           "url": "https://www.azadlip7uny6g37ob7prppu5ypbvn6dewn6ttlcewxli3x2ajmsdsmid.onion"
+        },
+        {
+          "created_at": "2025-12-05T19:09:02.820986+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-12-05T19:01:04.081867+00:00",
+          "url": "https://dz378bte512uw.cloudfront.net"
         }
       ],
       "main_domain": "azadliq.org"
