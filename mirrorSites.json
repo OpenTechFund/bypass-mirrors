@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-12-03T22:53:02.722431+00:00",
+          "created_at": "2025-12-06T02:01:02.612441+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-03T04:53:03.787589+00:00",
-          "url": "https://d17r25bky52bwx.cloudfront.net"
+          "updated_at": "2025-12-05T08:33:03.705546+00:00",
+          "url": "https://d2rtnhlqe037sn.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -2269,11 +2269,11 @@
           "url": "https://www.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2025-06-23T19:04:03.601735+00:00",
+          "created_at": "2025-12-06T02:05:03.649186+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-06-23T17:18:05.977325+00:00",
-          "url": "https://d40yaen119de9.cloudfront.net"
+          "updated_at": "2025-12-06T01:01:04.412764+00:00",
+          "url": "https://d32qt3t8bhyc2b.cloudfront.net"
         }
       ],
       "main_domain": "svaboda.org"
