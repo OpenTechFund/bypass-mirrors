@@ -1120,11 +1120,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-10T16:53:02.470538+00:00",
+          "created_at": "2025-12-12T18:25:02.172005+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-09T04:05:05.053585+00:00",
-          "url": "https://dh8ez1ojseb6e.cloudfront.net"
+          "updated_at": "2025-12-11T05:09:05.470921+00:00",
+          "url": "https://d60kkps7mpyum.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-10T16:01:02.940951+00:00",
+          "created_at": "2025-12-12T18:23:02.626258+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-09T16:01:04.875306+00:00",
-          "url": "https://d19mttriccok5t.cloudfront.net"
+          "updated_at": "2025-12-11T16:51:04.997620+00:00",
+          "url": "https://dg4xxfqq37i49.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
