@@ -441,11 +441,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2025-12-10T11:09:03.639325+00:00",
+          "created_at": "2025-12-12T14:45:03.150039+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-09T13:47:03.914761+00:00",
-          "url": "https://d38avonp81fke2.cloudfront.net"
+          "updated_at": "2025-12-11T17:31:04.511136+00:00",
+          "url": "https://d9d54e26b195o.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
