@@ -460,13 +460,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:24:14.007851+00:00",
           "url": "https://ir.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2025-06-20T07:42:04.977145+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-20T05:28:06.621660+00:00",
-          "url": "https://d129qxkka8og2e.cloudfront.net"
         }
       ],
       "main_domain": "ir.voanews.com"
@@ -483,13 +476,6 @@
           "type": "eotk",
           "updated_at": "2023-04-22 13:58:21.775899+00:00",
           "url": "https://khmer.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2025-04-23T05:32:06.474721+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-23T05:32:06.474725+00:00",
-          "url": "https://dqp3wn583pfwr.cloudfront.net"
         }
       ],
       "main_domain": "khmer.voanews.com"
@@ -1107,13 +1093,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:50:20.091067+00:00",
           "url": "https://tigrigna.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2025-04-23T05:32:06.061326+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-23T05:32:06.061330+00:00",
-          "url": "https://d34ojetjayrhvx.cloudfront.net"
         }
       ],
       "main_domain": "tigrigna.voanews.com"
@@ -1539,13 +1518,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:28:56.963808+00:00",
           "url": "https://www.dengewigx3npuf2ygy7426qf2mjrqcoponqzavaeb5wfhaz6imwrcxqd.onion"
-        },
-        {
-          "created_at": "2025-12-06T02:53:03.191580+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-06T02:51:02.704653+00:00",
-          "url": "https://dpgsu74iiddac.cloudfront.net"
         }
       ],
       "main_domain": "dengeamerika.com"
@@ -1558,13 +1530,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:27:05.972337+00:00",
           "url": "https://www.dengirbfpbimmpbqzeo77ktghxv5vjjxkemt5ey46wknhpvnznx2k3qd.onion"
-        },
-        {
-          "created_at": "2025-06-26T08:08:03.341423+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-25T20:39:07.147971+00:00",
-          "url": "https://d2mx4t8wrhx169.cloudfront.net"
         }
       ],
       "main_domain": "dengiamerika.com"
@@ -2507,13 +2472,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:56:09.222327+00:00",
           "url": "https://www.nouveldrx4kwkw4be2yiur3jl2f6gpdkwb35q5fdvibvijg2sutkxuid.onion"
-        },
-        {
-          "created_at": "2025-04-23T05:32:05.923585+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-23T05:32:05.923588+00:00",
-          "url": "https://dk7ur86qvxl27.cloudfront.net"
         }
       ],
       "main_domain": "voanouvel.com"
