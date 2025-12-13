@@ -267,11 +267,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-11T11:33:03.231507+00:00",
+          "created_at": "2025-12-13T12:53:03.361544+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-11T05:25:05.453120+00:00",
-          "url": "https://d2lxoth3z4o1vt.cloudfront.net"
+          "updated_at": "2025-12-13T06:01:04.967041+00:00",
+          "url": "https://d241tjzf5lhs1q.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -2446,13 +2446,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:42:07.381020+00:00",
           "url": "https://www.voatibe2tapf3u43p7vxtsdvtyhnsunhaf6azd4rua6i2ifqfsfpttad.onion"
-        },
-        {
-          "created_at": "2025-12-06T23:17:03.183175+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-06T21:49:04.591822+00:00",
-          "url": "https://d31h8ch3vb2yf5.cloudfront.net"
         }
       ],
       "main_domain": "voatibetan.com"
