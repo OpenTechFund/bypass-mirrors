@@ -217,13 +217,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:14:27.108851+00:00",
           "url": "https://da.azadi3tvhzlsdyiwe52hdc5agawzb3d6c6k5mdf6s2itfpfuoo7v7dqd.onion"
-        },
-        {
-          "created_at": "2023-10-29T09:40:03.790210+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-29T06:50:15.891041+00:00",
-          "url": "https://d3810ab6smxd8e.cloudfront.net"
         }
       ],
       "main_domain": "da.azadiradio.com"
@@ -329,13 +322,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:21:24.643191+00:00",
           "url": "https://gandhara.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2023-10-28T17:30:03.106301+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-28T16:10:04.769556+00:00",
-          "url": "https://d2xj8cgc5n8iqz.cloudfront.net"
         }
       ],
       "main_domain": "gandhara.rferl.org"
@@ -673,13 +659,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:19:55.334419+00:00",
           "url": "https://pa.azadi3tvhzlsdyiwe52hdc5agawzb3d6c6k5mdf6s2itfpfuoo7v7dqd.onion"
-        },
-        {
-          "created_at": "2023-10-29T07:35:03.638897+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2023-10-28T13:45:04.485358+00:00",
-          "url": "https://d2t2q0hvi8jxw9.cloudfront.net"
         }
       ],
       "main_domain": "pa.azadiradio.com"
@@ -942,13 +921,6 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:34:48.510823+00:00",
           "url": "https://rus.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
-        },
-        {
-          "created_at": "2025-12-05T17:49:03.504251+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-05T15:59:03.210234+00:00",
-          "url": "https://dj1z9y62xs6va.cloudfront.net"
         }
       ],
       "main_domain": "rus.azatutyun.am"
@@ -1409,13 +1381,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:06:05.772710+00:00",
           "url": "https://www.azatutybvcszmqn6hytijtisakoqoupeblmf5zj5ksc5w7twzsb5k2qd.onion"
-        },
-        {
-          "created_at": "2025-12-05T19:09:02.984688+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-05T16:01:04.367068+00:00",
-          "url": "https://d1fu4ya5x22sy1.cloudfront.net"
         }
       ],
       "main_domain": "azatutyun.am"
@@ -2050,13 +2015,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:45:19.056357+00:00",
           "url": "https://www.slobodn2k7zvbkxz3k4f5uo4hbzofhznawg7houh4n6cy62drryxrvid.onion"
-        },
-        {
-          "created_at": "2025-04-20T07:22:04.870501+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-20T07:22:04.870511+00:00",
-          "url": "https://d1m45c4rwg4yvt.cloudfront.net"
         }
       ],
       "main_domain": "slobodnaevropa.org"
@@ -2107,13 +2065,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:55:45.657250+00:00",
           "url": "https://www.svobode7iefuvxtpfrg3clrkm7fn5ahksyiwp75bc55cxyp3ng2c3qad.onion"
-        },
-        {
-          "created_at": "2025-04-20T03:39:09.481058+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-20T03:39:09.481071+00:00",
-          "url": "https://d1pemsaohzux9r.cloudfront.net"
         }
       ],
       "main_domain": "svobodnaevropa.bg"
