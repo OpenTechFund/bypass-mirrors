@@ -450,11 +450,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-11T08:47:01.918018+00:00",
+          "created_at": "2025-12-13T11:19:02.805136+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-10T17:25:05.091759+00:00",
-          "url": "https://d2ieiynb48mpac.cloudfront.net"
+          "updated_at": "2025-12-12T18:19:04.551306+00:00",
+          "url": "https://d998zdcacrl4r.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
@@ -2470,13 +2470,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 14:28:35.248518+00:00",
           "url": "https://www.voaindou2k54buiv5yksvpjo3iahb3uwtjmpm4it6j2kdok4hncu2xyd.onion"
-        },
-        {
-          "created_at": "2025-04-27T21:29:08.046367+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-27T21:29:08.046371+00:00",
-          "url": "https://d372zcvhdccz3r.cloudfront.net"
         }
       ],
       "main_domain": "voaindonesia.com"
