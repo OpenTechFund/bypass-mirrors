@@ -723,11 +723,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-11T11:47:02.421197+00:00",
+          "created_at": "2025-12-13T14:53:02.679893+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-09T19:11:04.501664+00:00",
-          "url": "https://dnx282d9jm0sw.cloudfront.net"
+          "updated_at": "2025-12-11T20:13:05.453188+00:00",
+          "url": "https://d424xbh29pq2b.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
