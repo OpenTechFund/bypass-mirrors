@@ -923,13 +923,6 @@
           "type": "eotk",
           "updated_at": "2022-03-18 21:30:17.012796+00:00",
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
-        },
-        {
-          "created_at": "2025-12-05T17:33:03.488980+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-05T15:57:04.198055+00:00",
-          "url": "https://d1g7nueivmsqo8.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1267,15 +1260,7 @@
       "main_domain": "vpn-ru.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-03T17:35:02.001688+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-03T17:33:04.251139+00:00",
-          "url": "https://dqxkbl8z6x5q7.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
@@ -1343,13 +1328,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:46:41.373408+00:00",
           "url": "https://www.ovoziamsovb7h7pvjeyr632pjcb4xdx3ctkznm5w53teyp7wbatpvqid.onion"
-        },
-        {
-          "created_at": "2025-12-05T19:19:02.376941+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-05T15:49:04.854607+00:00",
-          "url": "https://dx2mlratjapa6.cloudfront.net"
         }
       ],
       "main_domain": "amerikaovozi.com"
