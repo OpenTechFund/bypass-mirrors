@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-13T12:53:03.361544+00:00",
+          "created_at": "2025-12-15T15:55:01.848339+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-13T06:01:04.967041+00:00",
-          "url": "https://d241tjzf5lhs1q.cloudfront.net"
+          "updated_at": "2025-12-15T06:13:04.741251+00:00",
+          "url": "https://d2krs5ix01vbpp.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-15T12:53:03.501128+00:00",
+          "created_at": "2025-12-15T15:57:03.158574+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-15T09:27:04.189809+00:00",
-          "url": "https://d391nhvvxeal5e.cloudfront.net"
+          "updated_at": "2025-12-15T12:53:04.448509+00:00",
+          "url": "https://d20wdplhxjqubx.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
