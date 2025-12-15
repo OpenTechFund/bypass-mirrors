@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-15T10:11:02.208852+00:00",
+          "created_at": "2025-12-15T15:17:03.062793+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-15T09:23:04.296277+00:00",
-          "url": "https://dk5yphgwcm9qd.cloudfront.net"
+          "updated_at": "2025-12-15T12:29:04.723684+00:00",
+          "url": "https://d2ow2qma71vxis.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
