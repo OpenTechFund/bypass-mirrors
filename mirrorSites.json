@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-15T13:33:03.787664+00:00",
+          "created_at": "2025-12-16T04:13:03.368512+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-15T12:17:04.022350+00:00",
-          "url": "https://d3kggayepaxm9d.cloudfront.net"
+          "updated_at": "2025-12-15T15:25:04.493510+00:00",
+          "url": "https://d1zytteh2go4ps.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-15T21:25:03.291300+00:00",
+          "created_at": "2025-12-16T04:05:03.551517+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-15T13:09:05.274675+00:00",
-          "url": "https://d3efgwq8ja03a0.cloudfront.net"
+          "updated_at": "2025-12-15T23:25:04.943741+00:00",
+          "url": "https://d3kgdk820n5nh3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-15T13:35:02.331293+00:00",
+          "created_at": "2025-12-16T04:13:03.074885+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-15T13:33:06.127872+00:00",
-          "url": "https://d123x4eoba1oek.cloudfront.net"
+          "updated_at": "2025-12-15T13:35:04.917097+00:00",
+          "url": "https://d2n0m70mrs20bj.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
