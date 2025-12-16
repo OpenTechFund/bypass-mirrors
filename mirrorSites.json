@@ -403,11 +403,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-12-14T07:33:03.413939+00:00",
+          "created_at": "2025-12-16T10:49:02.516556+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-12T15:05:03.178968+00:00",
-          "url": "https://da40ckdbzz5r8.cloudfront.net"
+          "updated_at": "2025-12-14T17:51:02.977833+00:00",
+          "url": "https://dhzw5l0knf4t.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
