@@ -403,11 +403,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-12-18T11:43:02.330170+00:00",
+          "created_at": "2025-12-20T14:29:03.128681+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-16T21:29:03.296330+00:00",
-          "url": "https://d4xr8rhnc3x6t.cloudfront.net"
+          "updated_at": "2025-12-18T23:45:02.498657+00:00",
+          "url": "https://d2uovlb5l1yn0f.cloudfront.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -1020,11 +1020,11 @@
           "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
         },
         {
-          "created_at": "2025-12-05T17:25:03.370574+00:00",
+          "created_at": "2025-12-20T14:29:03.155576+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-05T15:49:03.738464+00:00",
-          "url": "https://d295dgwub3op30.cloudfront.net"
+          "updated_at": "2025-12-20T13:17:03.890769+00:00",
+          "url": "https://d2wkrixjpsfy4i.cloudfront.net"
         }
       ],
       "main_domain": "rus.azattyq.org"
