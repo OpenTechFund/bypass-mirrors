@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-17T22:29:02.531508+00:00",
+          "created_at": "2025-12-20T02:43:02.665336+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-16T00:25:05.027485+00:00",
-          "url": "https://d2cuz9nzpw81vz.cloudfront.net"
+          "updated_at": "2025-12-18T02:59:05.035887+00:00",
+          "url": "https://drv282d97o5fv.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -720,25 +720,17 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-19T07:25:03.519234+00:00",
+          "created_at": "2025-12-20T02:45:04.043225+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-18T23:09:05.269897+00:00",
-          "url": "https://d3gduuv010hdi5.cloudfront.net"
+          "updated_at": "2025-12-19T19:25:04.633187+00:00",
+          "url": "https://dlc8z7kegd0c2.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-19T08:29:03.802110+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-19T07:25:05.420311+00:00",
-          "url": "https://d16kqfnj76t1w.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
