@@ -1194,6 +1194,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 13:52:17.386490+00:00",
           "url": "https://ua.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
+        },
+        {
+          "created_at": "2025-12-20T13:17:03.050571+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-12-20T13:09:04.327427+00:00",
+          "url": "https://dgr4076xz7t.cloudfront.net"
         }
       ],
       "main_domain": "ua.krymr.com"
@@ -1868,6 +1875,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 12:37:32.913682+00:00",
           "url": "https://www.kavkazrtsgiv5be4orqcben4bbr2zfikcx2zb4uceuhbu6vhlxbnbjqd.onion"
+        },
+        {
+          "created_at": "2025-12-20T13:17:03.017935+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-12-20T13:09:04.172389+00:00",
+          "url": "https://d31fehec2hcobz.cloudfront.net"
         }
       ],
       "main_domain": "kavkazr.com"
@@ -1963,11 +1977,11 @@
           "url": "https://www.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
         },
         {
-          "created_at": "2025-12-05T18:31:01.986873+00:00",
+          "created_at": "2025-12-20T13:25:03.164108+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-05T15:51:03.648439+00:00",
-          "url": "https://d29wqjum645nqx.cloudfront.net"
+          "updated_at": "2025-12-20T13:09:04.584456+00:00",
+          "url": "https://d1o4z9f95ka7q6.cloudfront.net"
         }
       ],
       "main_domain": "ozodlik.org"
