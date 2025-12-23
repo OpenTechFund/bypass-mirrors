@@ -923,13 +923,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:16:08.751334+00:00",
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-12-21T02:43:02.082609+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-20T22:27:04.245333+00:00",
-          "url": "https://d10b6no23elwy0.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
