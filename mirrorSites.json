@@ -77,13 +77,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:12:38.853493+00:00",
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2025-12-21T14:23:02.364945+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-20T15:07:03.863776+00:00",
-          "url": "https://d1eg4gwqn81dvf.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
