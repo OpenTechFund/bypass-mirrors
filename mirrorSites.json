@@ -151,13 +151,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:43.894684+00:00",
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2025-12-22T06:45:03.521923+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-21T22:45:04.134233+00:00",
-          "url": "https://dk7f8oc0msj9g.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
