@@ -201,15 +201,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-22T06:45:03.707512+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-21T23:17:04.812131+00:00",
-          "url": "https://dy3s72d1qqj6c.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -471,15 +463,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-21T23:17:03.132835+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-21T16:29:04.911617+00:00",
-          "url": "https://d34wb15goibp5r.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1507,13 +1491,6 @@
           "type": "eotk",
           "updated_at": "2022-09-26 23:43:44.886427+00:00",
           "url": "https://www.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2025-11-27T04:45:02.773230+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-11-27T04:21:03.830224+00:00",
-          "url": "https://d3p3z90q4rofpb.cloudfront.net"
         }
       ],
       "main_domain": "currenttime.tv"
