@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2025-12-23T03:18:02.543127+00:00",
+          "created_at": "2025-12-25T03:52:02.403319+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-22T04:15:03.362304+00:00",
-          "url": "https://d1r4q4yrj2h1e2.cloudfront.net"
+          "updated_at": "2025-12-24T07:48:03.845480+00:00",
+          "url": "https://d3qb9frolquswy.cloudfront.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2025-12-22T22:42:03.266946+00:00",
+          "created_at": "2025-12-25T03:52:02.954710+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-20T20:11:03.187373+00:00",
-          "url": "https://d18s3r3qrpc33x.cloudfront.net"
+          "updated_at": "2025-12-22T22:42:03.340000+00:00",
+          "url": "https://dcqt783428v8h.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -894,11 +894,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-12-23T01:54:02.357960+00:00",
+          "created_at": "2025-12-25T03:54:02.470815+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-22T09:43:03.864542+00:00",
-          "url": "https://dwp8xj6vvwrmz.cloudfront.net"
+          "updated_at": "2025-12-24T12:02:03.852326+00:00",
+          "url": "https://d1j7a65xulpq3f.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
