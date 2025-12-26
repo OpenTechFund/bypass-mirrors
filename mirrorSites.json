@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-26T01:42:01.841211+00:00",
+          "created_at": "2025-12-26T14:54:01.770154+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-25T03:02:04.883851+00:00",
-          "url": "https://d34d4bqpt8yg03.cloudfront.net"
+          "updated_at": "2025-12-26T13:34:05.246776+00:00",
+          "url": "https://d3348b213sl3y1.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
