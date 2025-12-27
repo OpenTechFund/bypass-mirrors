@@ -925,11 +925,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-12-25T12:00:02.220730+00:00",
+          "created_at": "2025-12-27T13:18:02.161759+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-25T05:30:05.117895+00:00",
-          "url": "https://d4xv8txtk3tyx.cloudfront.net"
+          "updated_at": "2025-12-27T07:50:04.939862+00:00",
+          "url": "https://d21hcujaqzo76m.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
