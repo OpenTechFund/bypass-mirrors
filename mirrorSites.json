@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-26T23:36:02.400883+00:00",
+          "created_at": "2025-12-28T11:50:02.685118+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-26T23:34:04.352262+00:00",
-          "url": "https://d1yhnqm9wdw05p.cloudfront.net"
+          "updated_at": "2025-12-28T10:40:04.341945+00:00",
+          "url": "https://d2qdwqu1y2ipil.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -2899,15 +2899,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-27T15:58:02.929908+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-27T07:42:04.921041+00:00",
-          "url": "https://d12hz4aqn3u9fq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
