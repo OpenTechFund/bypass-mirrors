@@ -1275,11 +1275,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-27T08:34:02.325069+00:00",
+          "created_at": "2025-12-29T11:22:02.560844+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-26T11:54:04.597489+00:00",
-          "url": "https://d150fzye2xg7uf.cloudfront.net"
+          "updated_at": "2025-12-28T12:04:04.539506+00:00",
+          "url": "https://d105hydq9ss5ex.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -2488,6 +2488,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:27:59.099944+00:00",
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
+        },
+        {
+          "created_at": "2025-12-29T11:18:02.530546+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2025-12-29T08:14:04.743969+00:00",
+          "url": "https://d3798afa7yh8bd.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
