@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-28T20:04:01.811231+00:00",
+          "created_at": "2025-12-30T21:26:02.016196+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-26T18:20:05.094405+00:00",
-          "url": "https://d3h3pz3yye4gtl.cloudfront.net"
+          "updated_at": "2025-12-28T21:32:04.743858+00:00",
+          "url": "https://d3kohft9wj3cal.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -2129,11 +2129,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2025-12-29T07:20:02.736956+00:00",
+          "created_at": "2025-12-30T21:26:02.602878+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-29T07:18:04.390013+00:00",
-          "url": "https://d7im20drbrfcn.cloudfront.net"
+          "updated_at": "2025-12-30T13:18:04.122458+00:00",
+          "url": "https://d26jvum492iojb.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
