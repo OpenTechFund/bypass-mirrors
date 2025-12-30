@@ -1087,15 +1087,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-29T07:26:02.492713+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-29T04:22:04.268035+00:00",
-          "url": "https://d1cm7rlorrg91e.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1309,15 +1301,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-29T04:24:02.565514+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-29T04:22:05.285524+00:00",
-          "url": "https://d1r2n58hqwd8vd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -2901,11 +2885,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-29T08:46:02.793670+00:00",
+          "created_at": "2025-12-30T10:38:02.879520+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-29T07:26:04.631250+00:00",
-          "url": "https://d3ijz1le8a143j.cloudfront.net"
+          "updated_at": "2025-12-29T18:54:04.252925+00:00",
+          "url": "https://d2i1z32domyw6d.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
