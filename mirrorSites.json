@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-30T13:02:02.599802+00:00",
+          "created_at": "2025-12-31T11:33:03.747552+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-30T10:14:03.885592+00:00",
-          "url": "https://d3hen9ffzks6q9.cloudfront.net"
+          "updated_at": "2025-12-31T02:54:03.626959+00:00",
+          "url": "https://d3bgx5efhbihb3.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -672,35 +672,27 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-30T10:14:02.999976+00:00",
+          "created_at": "2025-12-31T11:33:03.759209+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-30T06:30:04.404292+00:00",
-          "url": "https://d3mtpdk19l4git.cloudfront.net"
+          "updated_at": "2025-12-30T16:54:03.929911+00:00",
+          "url": "https://d14zous217gaxn.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2025-12-30T10:14:03.049290+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-30T06:30:05.078858+00:00",
-          "url": "https://dxnc6j2ypbxjq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-30T23:18:03.010718+00:00",
+          "created_at": "2025-12-31T11:33:03.770841+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-30T13:02:03.826614+00:00",
-          "url": "https://d1gdmhwlfyr5i3.cloudfront.net"
+          "updated_at": "2025-12-30T23:18:04.254321+00:00",
+          "url": "https://d3jmxt4sae5jxz.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
