@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-31T19:41:03.252990+00:00",
+          "created_at": "2026-01-01T18:21:03.620305+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-31T11:49:05.251732+00:00",
-          "url": "https://d1l7eixi4txj7f.cloudfront.net"
+          "updated_at": "2026-01-01T15:57:05.556281+00:00",
+          "url": "https://d2lrouwb6xhcyq.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -980,13 +980,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2025-12-04T14:29:03.381216+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-04T11:25:05.699225+00:00",
-          "url": "https://d14v6v0ltyouq5.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
