@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-31T01:58:02.731464+00:00",
+          "created_at": "2026-01-02T04:57:03.232210+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-29T00:02:03.796772+00:00",
-          "url": "https://d1yyhd8rr58r6.cloudfront.net"
+          "updated_at": "2025-12-31T01:58:03.178256+00:00",
+          "url": "https://d1obs8fwm6a5ws.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2025-12-31T02:48:02.307558+00:00",
+          "created_at": "2026-01-02T04:55:02.671789+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-30T22:58:03.787668+00:00",
-          "url": "https://d3rwqk4855e5j.cloudfront.net"
+          "updated_at": "2026-01-02T00:29:04.202204+00:00",
+          "url": "https://d2nz64ghksunw.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
