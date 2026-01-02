@@ -1299,11 +1299,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2025-12-31T11:47:02.708597+00:00",
+          "created_at": "2026-01-02T16:01:02.748691+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-30T21:08:04.003440+00:00",
-          "url": "https://dw3v101l45svq.cloudfront.net"
+          "updated_at": "2026-01-01T22:15:04.225842+00:00",
+          "url": "https://d3lhrommnfpe74.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-01T02:55:02.622429+00:00",
+          "created_at": "2026-01-02T15:57:03.243389+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-01T02:53:06.226397+00:00",
-          "url": "https://d3s3zlvssnfeg8.cloudfront.net"
+          "updated_at": "2026-01-01T02:55:05.387761+00:00",
+          "url": "https://d30ri1v9vb2rwe.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
