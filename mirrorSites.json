@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-01-01T19:07:02.563457+00:00",
+          "created_at": "2026-01-03T21:39:01.994591+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-01T14:53:04.662369+00:00",
-          "url": "https://dbf45wspqwepa.cloudfront.net"
+          "updated_at": "2026-01-03T17:07:03.324556+00:00",
+          "url": "https://d3p8jz57m2rt9u.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
