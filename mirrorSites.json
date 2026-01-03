@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-01T18:07:02.489286+00:00",
+          "created_at": "2026-01-03T20:39:02.974751+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-01T15:43:03.989408+00:00",
-          "url": "https://d2emrjzoe4rthk.cloudfront.net"
+          "updated_at": "2026-01-03T17:47:03.493091+00:00",
+          "url": "https://d1w7k19c4zhnwp.cloudfront.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
@@ -863,11 +863,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-01T18:31:02.562616+00:00",
+          "created_at": "2026-01-03T20:41:02.950150+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-31T17:43:04.822575+00:00",
-          "url": "https://d6sih1aps0mlx.cloudfront.net"
+          "updated_at": "2026-01-02T20:31:04.690490+00:00",
+          "url": "https://djeyfp5cqewx9.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
