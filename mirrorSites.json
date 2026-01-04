@@ -1120,11 +1120,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-02T21:13:02.531795+00:00",
+          "created_at": "2026-01-04T22:41:01.759462+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-01T00:39:04.321161+00:00",
-          "url": "https://d1o2zv4neyw41y.cloudfront.net"
+          "updated_at": "2026-01-03T05:27:04.361247+00:00",
+          "url": "https://d3jyjtwftliyzd.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -2167,11 +2167,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-01-04T01:01:03.584715+00:00",
+          "created_at": "2026-01-04T22:37:03.228048+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-03T15:33:05.589571+00:00",
-          "url": "https://d16hwykakia652.cloudfront.net"
+          "updated_at": "2026-01-04T21:09:05.365662+00:00",
+          "url": "https://d10e6n5qzf3asp.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
