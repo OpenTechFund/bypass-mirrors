@@ -372,11 +372,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-01-02T05:33:04.150632+00:00",
+          "created_at": "2026-01-04T07:29:02.360253+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-31T20:33:03.706423+00:00",
-          "url": "https://d1m6d7wvj6473e.cloudfront.net"
+          "updated_at": "2026-01-02T23:43:03.547449+00:00",
+          "url": "https://d1576olm9u7lvk.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
