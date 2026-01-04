@@ -422,11 +422,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2026-01-02T03:19:02.600345+00:00",
+          "created_at": "2026-01-04T04:53:04.098971+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-01T10:55:04.396534+00:00",
-          "url": "https://dhw0ijne7e4x4.cloudfront.net"
+          "updated_at": "2026-01-03T15:25:05.514046+00:00",
+          "url": "https://d2pnpuo6kei3fy.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -2899,7 +2899,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-01-04T04:39:02.925013+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-04T04:37:06.021943+00:00",
+          "url": "https://d2is0qn2707ahr.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
