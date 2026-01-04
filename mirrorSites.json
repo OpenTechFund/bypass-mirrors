@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-03T08:53:03.288993+00:00",
+          "created_at": "2026-01-04T04:37:03.986196+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-03T00:05:05.006534+00:00",
-          "url": "https://d1dsh603cdt8wf.cloudfront.net"
+          "updated_at": "2026-01-03T21:09:04.784772+00:00",
+          "url": "https://d2n97pwdd7ldw1.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -2899,15 +2899,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-03T01:17:03.606785+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-02T19:57:05.578523+00:00",
-          "url": "https://dg5ewtojvzhb3.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
