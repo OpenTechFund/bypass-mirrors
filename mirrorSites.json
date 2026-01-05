@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-03T22:47:02.467183+00:00",
+          "created_at": "2026-01-05T13:01:03.664707+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-03T22:45:05.745720+00:00",
-          "url": "https://d2qs2pfrv4hh3z.cloudfront.net"
+          "updated_at": "2026-01-05T02:21:06.005288+00:00",
+          "url": "https://dg6awx8m9v0e9.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1087,15 +1087,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-03T21:11:02.102049+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-03T21:09:04.469918+00:00",
-          "url": "https://d18f7ron11wa46.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
