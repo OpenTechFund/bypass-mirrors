@@ -372,11 +372,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-01-04T07:29:02.360253+00:00",
+          "created_at": "2026-01-06T09:23:02.025424+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-02T23:43:03.547449+00:00",
-          "url": "https://d1576olm9u7lvk.cloudfront.net"
+          "updated_at": "2026-01-05T02:53:05.385163+00:00",
+          "url": "https://d2zgij443t69lf.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-04T07:35:02.482451+00:00",
+          "created_at": "2026-01-06T09:19:02.394994+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-03T08:45:05.164464+00:00",
-          "url": "https://dd45jx6lz4ddj.cloudfront.net"
+          "updated_at": "2026-01-05T08:59:04.639321+00:00",
+          "url": "https://d2zaenmppjeh5b.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
