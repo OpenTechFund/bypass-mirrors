@@ -980,6 +980,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2026-01-07T11:09:03.000844+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-07T10:53:06.299579+00:00",
+          "url": "https://d2m636o2djmq5o.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
@@ -2120,6 +2127,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-01-07T11:03:03.303772+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-07T11:01:05.893658+00:00",
+          "url": "https://d2asiryciez6ts.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
