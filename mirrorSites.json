@@ -730,7 +730,15 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-01-08T20:47:02.432337+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T20:45:05.333145+00:00",
+          "url": "https://d2id9ifitp6ei5.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -972,6 +980,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:17:22.667559+00:00",
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2026-01-08T20:55:02.077647+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T20:53:04.997417+00:00",
+          "url": "https://d27qhfc60t6rb4.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
@@ -1072,7 +1087,15 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-01-08T21:09:02.841079+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T20:45:04.367085+00:00",
+          "url": "https://dxulfdft8uqfw.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -1286,7 +1309,15 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-01-08T20:47:01.752290+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T20:45:05.402414+00:00",
+          "url": "https://d3nndzvzcb78hr.cloudfront.net"
+        }
+      ],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -1442,6 +1473,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
+        },
+        {
+          "created_at": "2026-01-08T20:55:01.862202+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T20:53:03.635304+00:00",
+          "url": "https://d2baz2wfo9tjpn.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
@@ -2089,6 +2127,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-01-08T20:47:02.333345+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T20:45:04.822987+00:00",
+          "url": "https://d2cakr76enj3ln.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
