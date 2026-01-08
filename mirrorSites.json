@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2026-01-06T08:13:03.745542+00:00",
+          "created_at": "2026-01-08T10:19:02.580046+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-05T19:23:03.221798+00:00",
-          "url": "https://d1z6wbv5htz0iw.cloudfront.net"
+          "updated_at": "2026-01-07T19:35:03.207784+00:00",
+          "url": "https://d31tphfvkl4b11.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-06T06:17:02.212569+00:00",
+          "created_at": "2026-01-08T10:23:02.480848+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-06T04:41:04.336442+00:00",
-          "url": "https://d256z4g7fx5d0u.cloudfront.net"
+          "updated_at": "2026-01-08T05:45:04.796832+00:00",
+          "url": "https://dx2nh1bgty7v.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -1309,7 +1309,15 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-01-08T10:07:02.431755+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-08T10:05:06.258528+00:00",
+          "url": "https://d2p4ace437whlb.cloudfront.net"
+        }
+      ],
       "main_domain": "vpn-ru.net"
     },
     {
