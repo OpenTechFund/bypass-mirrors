@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-10T17:25:02.720630+00:00",
+          "created_at": "2026-01-12T18:47:02.757845+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-10T12:41:03.471338+00:00",
-          "url": "https://d2a2d63n268p48.cloudfront.net"
+          "updated_at": "2026-01-12T14:53:04.648300+00:00",
+          "url": "https://d1tv1jhf183w3b.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -1311,11 +1311,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-11T01:11:01.687901+00:00",
+          "created_at": "2026-01-12T18:45:03.072649+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-11T01:09:06.122377+00:00",
-          "url": "https://d299wchp79k6ds.cloudfront.net"
+          "updated_at": "2026-01-12T17:19:04.747811+00:00",
+          "url": "https://d2ymb0spjzbcdg.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
