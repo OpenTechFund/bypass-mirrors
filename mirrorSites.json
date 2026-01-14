@@ -863,11 +863,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-12T04:53:03.308963+00:00",
+          "created_at": "2026-01-14T05:57:03.218320+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-11T08:37:05.427987+00:00",
-          "url": "https://d3u0xz8c69a867.cloudfront.net"
+          "updated_at": "2026-01-13T09:31:04.137345+00:00",
+          "url": "https://d1puin3q8i8qp3.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
@@ -1089,11 +1089,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-13T17:03:02.758084+00:00",
+          "created_at": "2026-01-14T05:51:02.874601+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-13T03:25:04.819221+00:00",
-          "url": "https://d18kzp92w4tvhv.cloudfront.net"
+          "updated_at": "2026-01-13T17:03:04.189753+00:00",
+          "url": "https://d2ob6nrgn13zh7.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
