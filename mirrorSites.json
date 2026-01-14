@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-13T06:23:02.585646+00:00",
+          "created_at": "2026-01-14T04:39:03.177691+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-13T02:21:04.727924+00:00",
-          "url": "https://d12pwvypysjkrg.cloudfront.net"
+          "updated_at": "2026-01-14T02:15:03.541629+00:00",
+          "url": "https://d1at5yh0awc3vt.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -1309,15 +1309,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-12T18:45:03.072649+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-12T17:19:04.747811+00:00",
-          "url": "https://d2ymb0spjzbcdg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
