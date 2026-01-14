@@ -422,11 +422,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2026-01-12T12:17:02.445067+00:00",
+          "created_at": "2026-01-14T14:35:02.911161+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-12T01:57:05.293097+00:00",
-          "url": "https://d31fkh1vfqro5y.cloudfront.net"
+          "updated_at": "2026-01-14T05:07:04.432661+00:00",
+          "url": "https://dchcmt2k4vmap.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
