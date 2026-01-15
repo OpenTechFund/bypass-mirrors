@@ -1120,11 +1120,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-13T06:25:01.952707+00:00",
+          "created_at": "2026-01-15T08:58:01.704764+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-11T11:05:04.264181+00:00",
-          "url": "https://d2lgmkpjacpvz5.cloudfront.net"
+          "updated_at": "2026-01-13T13:41:04.957296+00:00",
+          "url": "https://dlozlmiworers.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
