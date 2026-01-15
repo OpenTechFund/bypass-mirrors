@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-14T11:43:02.305415+00:00",
+          "created_at": "2026-01-15T18:54:03.323012+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-14T05:51:05.026450+00:00",
-          "url": "https://d2caytfce5g4en.cloudfront.net"
+          "updated_at": "2026-01-14T11:43:04.383588+00:00",
+          "url": "https://d35cxldn3q7pl1.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -982,11 +982,11 @@
           "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
         },
         {
-          "created_at": "2026-01-14T10:39:02.896849+00:00",
+          "created_at": "2026-01-15T18:54:03.178506+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-13T19:03:04.349832+00:00",
-          "url": "https://d1cn1t5e42h4t3.cloudfront.net"
+          "updated_at": "2026-01-15T05:58:05.328408+00:00",
+          "url": "https://dkkgkotvdtbag.cloudfront.net"
         }
       ],
       "main_domain": "rus.azathabar.com"
