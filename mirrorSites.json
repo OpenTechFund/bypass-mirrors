@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-14T20:59:02.100902+00:00",
+          "created_at": "2026-01-16T23:46:01.978549+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-14T16:29:03.270718+00:00",
-          "url": "https://d1z4ks8ra0xqde.cloudfront.net"
+          "updated_at": "2026-01-16T18:10:04.258816+00:00",
+          "url": "https://d23cy160v8qqy3.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-14T20:23:01.958191+00:00",
+          "created_at": "2026-01-16T23:52:02.062085+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-14T17:29:03.642691+00:00",
-          "url": "https://d27e273f4cydg5.cloudfront.net"
+          "updated_at": "2026-01-16T17:54:04.217697+00:00",
+          "url": "https://d1pjywl6gkoqtj.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
