@@ -1263,11 +1263,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-17T11:48:02.736937+00:00",
+          "created_at": "2026-01-19T12:32:02.790920+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-16T18:36:04.436542+00:00",
-          "url": "https://d2pf614sfi5vw5.cloudfront.net"
+          "updated_at": "2026-01-18T20:32:05.043676+00:00",
+          "url": "https://d26hgrkzx3yn1q.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
@@ -1475,11 +1475,11 @@
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
         },
         {
-          "created_at": "2026-01-17T15:18:02.843594+00:00",
+          "created_at": "2026-01-19T12:30:03.423598+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-17T03:58:04.755941+00:00",
-          "url": "https://d3i81x8zorzgqz.cloudfront.net"
+          "updated_at": "2026-01-19T00:06:04.290893+00:00",
+          "url": "https://d2dl56mr0z64lt.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
