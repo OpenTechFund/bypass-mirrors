@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-19T01:08:02.751219+00:00",
+          "created_at": "2026-01-21T01:26:02.725903+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-18T21:20:04.181968+00:00",
-          "url": "https://d3e2nyy2rl0dpt.cloudfront.net"
+          "updated_at": "2026-01-20T23:12:03.879261+00:00",
+          "url": "https://dypw48ui96m5v.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -2127,6 +2127,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-01-21T01:10:04.214186+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-21T01:02:06.045449+00:00",
+          "url": "https://d2fsaivv1a9x0a.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
