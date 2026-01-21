@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-19T07:58:03.114411+00:00",
+          "created_at": "2026-01-21T10:50:02.334445+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-18T20:52:03.974219+00:00",
-          "url": "https://dq44ax93n1b4a.cloudfront.net"
+          "updated_at": "2026-01-20T23:16:03.712326+00:00",
+          "url": "https://dptuvd4r14iik.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-19T08:00:02.131882+00:00",
+          "created_at": "2026-01-21T10:48:02.152500+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-18T00:44:03.980947+00:00",
-          "url": "https://dlrry3tpfxl9r.cloudfront.net"
+          "updated_at": "2026-01-20T03:02:05.269065+00:00",
+          "url": "https://d1xo0lwsn54e0g.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
