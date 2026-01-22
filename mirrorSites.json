@@ -1656,6 +1656,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:27:05.972337+00:00",
           "url": "https://www.dengirbfpbimmpbqzeo77ktghxv5vjjxkemt5ey46wknhpvnznx2k3qd.onion"
+        },
+        {
+          "created_at": "2026-01-22T19:16:02.376236+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-22T15:58:04.202189+00:00",
+          "url": "https://dz5lkiz514opc.cloudfront.net"
         }
       ],
       "main_domain": "dengiamerika.com"
