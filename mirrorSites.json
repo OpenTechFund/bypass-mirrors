@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-01-21T20:58:02.768860+00:00",
+          "created_at": "2026-01-23T21:40:02.641455+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-21T04:46:04.880494+00:00",
-          "url": "https://d29otioijgxe6y.cloudfront.net"
+          "updated_at": "2026-01-23T07:16:03.495580+00:00",
+          "url": "https://d2fsiq69d36mgz.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-23T13:02:04.279953+00:00",
+          "created_at": "2026-01-23T21:42:03.899003+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-22T13:42:05.061146+00:00",
-          "url": "https://d2neqrd2dlpy3z.cloudfront.net"
+          "updated_at": "2026-01-23T13:02:05.337451+00:00",
+          "url": "https://d31duvqwzogdc3.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-22T18:54:03.340055+00:00",
+          "created_at": "2026-01-23T21:42:03.911288+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-22T17:34:05.242271+00:00",
-          "url": "https://d3ncwdobsmsues.cloudfront.net"
+          "updated_at": "2026-01-23T07:10:04.640146+00:00",
+          "url": "https://d31q3u8iq94rw6.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-23T13:02:04.452750+00:00",
+          "created_at": "2026-01-23T21:42:04.032545+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-22T13:42:06.140755+00:00",
-          "url": "https://do62ibtn2wx69.cloudfront.net"
+          "updated_at": "2026-01-23T13:02:06.496843+00:00",
+          "url": "https://d2dhqhnuh43qom.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
