@@ -906,11 +906,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-22T07:12:02.429698+00:00",
+          "created_at": "2026-01-24T10:30:03.672844+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-22T02:56:04.735079+00:00",
-          "url": "https://dth82q3q9dvs9.cloudfront.net"
+          "updated_at": "2026-01-24T07:32:04.599012+00:00",
+          "url": "https://d8qcenmwbyfg5.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
