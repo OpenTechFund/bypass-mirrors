@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-23T21:42:03.899003+00:00",
+          "created_at": "2026-01-24T18:06:03.914641+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-23T13:02:05.337451+00:00",
-          "url": "https://d31duvqwzogdc3.cloudfront.net"
+          "updated_at": "2026-01-24T17:10:04.643646+00:00",
+          "url": "https://d261cs9l1prgx0.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-23T07:10:03.433533+00:00",
+          "created_at": "2026-01-24T18:06:04.016438+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-23T00:14:05.236012+00:00",
-          "url": "https://d3p9qh8z3ytv7t.cloudfront.net"
+          "updated_at": "2026-01-23T13:02:05.766530+00:00",
+          "url": "https://d3ltsp9l8t2u0d.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
