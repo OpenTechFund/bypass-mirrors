@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-25T04:38:03.559155+00:00",
+          "created_at": "2026-01-25T21:02:03.382366+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-24T19:58:05.407825+00:00",
-          "url": "https://d6b6za52mrc53.cloudfront.net"
+          "updated_at": "2026-01-25T04:38:05.506352+00:00",
+          "url": "https://d2h7hbump5mm6x.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1120,11 +1120,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-23T18:56:01.812418+00:00",
+          "created_at": "2026-01-25T21:02:02.625711+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-22T00:22:05.471908+00:00",
-          "url": "https://d2l14onf87961v.cloudfront.net"
+          "updated_at": "2026-01-24T03:32:04.228794+00:00",
+          "url": "https://du9zt1vw4ltwd.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -2901,11 +2901,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-25T11:18:03.743905+00:00",
+          "created_at": "2026-01-25T21:10:03.069579+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-24T19:10:05.826047+00:00",
-          "url": "https://d26503j39u4p8w.cloudfront.net"
+          "updated_at": "2026-01-25T14:14:05.664763+00:00",
+          "url": "https://d23u1iuw1a3619.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
