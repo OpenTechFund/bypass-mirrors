@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-01-24T16:44:02.365492+00:00",
+          "created_at": "2026-01-26T18:22:02.677388+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-24T15:46:03.448987+00:00",
-          "url": "https://d363c805iyz5p4.cloudfront.net"
+          "updated_at": "2026-01-26T18:00:04.097141+00:00",
+          "url": "https://ds1bp8o1jfsw2.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -2167,11 +2167,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-01-25T00:14:03.300453+00:00",
+          "created_at": "2026-01-26T18:30:03.686548+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-24T23:18:04.612948+00:00",
-          "url": "https://d3dtdu588ek77m.cloudfront.net"
+          "updated_at": "2026-01-25T06:54:05.500147+00:00",
+          "url": "https://d14d73ngf400nx.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
