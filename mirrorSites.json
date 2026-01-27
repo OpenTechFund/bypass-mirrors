@@ -1309,15 +1309,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-26T10:08:01.778023+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-26T10:06:05.446648+00:00",
-          "url": "https://dhyew0mon364z.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
