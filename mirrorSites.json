@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-29T09:10:03.236967+00:00",
+          "created_at": "2026-01-29T16:46:03.059229+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-28T06:54:05.383934+00:00",
-          "url": "https://d3op345s3nwbwk.cloudfront.net"
+          "updated_at": "2026-01-29T10:54:06.082069+00:00",
+          "url": "https://d23xni5mz60715.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
