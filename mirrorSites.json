@@ -1087,15 +1087,7 @@
       "main_domain": "rus.ozodlik.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-28T08:00:02.591555+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-28T07:58:04.872487+00:00",
-          "url": "https://d3qmrtvu0da10r.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
