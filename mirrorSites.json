@@ -1309,15 +1309,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-29T06:08:02.278569+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-29T06:06:06.101569+00:00",
-          "url": "https://d2fe86294596rt.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -2127,13 +2119,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2026-01-29T03:12:03.360393+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-29T03:10:05.755398+00:00",
-          "url": "https://d14kdv6lelbymf.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
