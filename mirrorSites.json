@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-31T04:00:02.815330+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-30T22:08:04.570849+00:00",
-          "url": "https://dx63v4n7gcshg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -684,11 +676,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-01T00:00:02.628314+00:00",
+          "created_at": "2026-02-01T23:20:03.101199+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-31T06:40:04.664597+00:00",
-          "url": "https://dxugmez07husv.cloudfront.net"
+          "updated_at": "2026-02-01T00:00:04.622468+00:00",
+          "url": "https://d92x9y7q3ibyk.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -2127,13 +2119,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2026-01-30T17:46:02.782519+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-30T17:44:04.280852+00:00",
-          "url": "https://ds0kezgpbs10u.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2899,15 +2884,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-01T12:00:02.283625+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-31T07:28:04.656167+00:00",
-          "url": "https://du9mdq7y7p3q6.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
