@@ -2119,6 +2119,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-02-01T23:22:03.107405+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-01T23:20:04.656115+00:00",
+          "url": "https://d13c99vonljfkt.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2884,7 +2891,15 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-02-01T23:28:02.811905+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-01T12:00:04.382847+00:00",
+          "url": "https://d3a1y5jw2pwrqz.cloudfront.net"
+        }
+      ],
       "main_domain": "zona.media"
     }
   ],
