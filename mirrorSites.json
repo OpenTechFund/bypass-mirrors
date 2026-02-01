@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-30T12:00:02.387596+00:00",
+          "created_at": "2026-02-01T03:44:02.438016+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-30T04:00:03.886967+00:00",
-          "url": "https://d3ti3klo4bgkqx.cloudfront.net"
+          "updated_at": "2026-01-30T16:56:03.532959+00:00",
+          "url": "https://d3utznvr9q7iya.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -441,11 +441,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2026-01-30T01:42:02.124563+00:00",
+          "created_at": "2026-02-01T03:44:02.095571+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-28T22:16:04.540907+00:00",
-          "url": "https://d35xxm5aacupqw.cloudfront.net"
+          "updated_at": "2026-01-31T02:38:04.117873+00:00",
+          "url": "https://d2hq9q2rqb0ef2.cloudfront.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
