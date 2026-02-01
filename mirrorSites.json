@@ -682,7 +682,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-02-01T00:00:02.628314+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-01-31T06:40:04.664597+00:00",
+          "url": "https://dxugmez07husv.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
