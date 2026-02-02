@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2026-01-31T02:30:02.199758+00:00",
+          "created_at": "2026-02-02T02:54:02.209904+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-30T21:32:03.501202+00:00",
-          "url": "https://d1rxacquwep5w4.cloudfront.net"
+          "updated_at": "2026-02-02T00:12:04.109319+00:00",
+          "url": "https://dfgfgzbwo3lmc.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -875,11 +875,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-31T01:00:02.097277+00:00",
+          "created_at": "2026-02-02T02:56:02.404331+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-30T16:46:04.506635+00:00",
-          "url": "https://d3ktlb0sfzssvt.cloudfront.net"
+          "updated_at": "2026-02-01T19:52:05.997583+00:00",
+          "url": "https://dun92snxeq4gn.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
