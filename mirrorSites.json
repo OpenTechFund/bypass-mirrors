@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-01-31T19:36:02.559358+00:00",
+          "created_at": "2026-02-02T09:44:02.975821+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-31T07:28:04.268747+00:00",
-          "url": "https://dhfbqe3gkb9vr.cloudfront.net"
+          "updated_at": "2026-01-31T19:38:03.966244+00:00",
+          "url": "https://d1n8c38jaq84a9.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -525,7 +525,15 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-02-02T09:38:02.979714+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-02T09:36:03.761140+00:00",
+          "url": "https://d38qojbp5h9z0m.cloudfront.net"
+        }
+      ],
       "main_domain": "kloop.kg"
     },
     {
@@ -674,7 +682,15 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-02-02T09:36:03.288397+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-01T23:22:05.097559+00:00",
+          "url": "https://d9nro0h1h29ff.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
