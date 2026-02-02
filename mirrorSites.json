@@ -422,11 +422,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2026-01-31T08:32:02.970453+00:00",
+          "created_at": "2026-02-02T09:00:02.944072+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-30T20:34:03.906408+00:00",
-          "url": "https://d1apki52wuu3uj.cloudfront.net"
+          "updated_at": "2026-02-01T22:20:04.608227+00:00",
+          "url": "https://dktmhud180uie.cloudfront.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
@@ -1309,15 +1309,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-01-31T06:42:01.992440+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-31T06:40:04.781777+00:00",
-          "url": "https://dn0xyaj9o8yh1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
