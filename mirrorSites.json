@@ -1263,11 +1263,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-01T01:42:02.858675+00:00",
+          "created_at": "2026-02-03T04:46:03.146140+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-31T11:42:04.967932+00:00",
-          "url": "https://ddczvm97dchp4.cloudfront.net"
+          "updated_at": "2026-02-02T13:28:05.040588+00:00",
+          "url": "https://d3lurg5hn9fufo.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
