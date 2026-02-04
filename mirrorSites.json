@@ -160,11 +160,11 @@
           "url": "https://branding.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-02-02T00:28:02.799084+00:00",
+          "created_at": "2026-02-04T01:48:02.140731+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-30T23:52:04.055826+00:00",
-          "url": "https://d7sqaxhsp8y9k.cloudfront.net"
+          "updated_at": "2026-02-02T01:00:03.306187+00:00",
+          "url": "https://dvjzbxb4cfvb6.cloudfront.net"
         }
       ],
       "main_domain": "branding.currenttime.tv"
@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-01T23:18:02.389557+00:00",
+          "created_at": "2026-02-04T01:46:01.852821+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-01T08:40:04.422084+00:00",
-          "url": "https://d11jm3eepz4uz1.cloudfront.net"
+          "updated_at": "2026-02-03T11:14:04.637496+00:00",
+          "url": "https://ddh17jem7pjjs.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -1137,6 +1137,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2026-02-04T01:44:02.196746+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-02T04:48:04.780652+00:00",
+          "url": "https://d21jshgu7cvf1f.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
