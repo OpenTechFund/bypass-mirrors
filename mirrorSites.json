@@ -2913,11 +2913,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-04T18:31:03.680827+00:00",
+          "created_at": "2026-02-04T21:59:03.370035+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-03T13:44:04.378270+00:00",
-          "url": "https://d39hwpmxi1a69c.cloudfront.net"
+          "updated_at": "2026-02-04T18:31:05.825741+00:00",
+          "url": "https://d180nu3qf9pz5u.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
