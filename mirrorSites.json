@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-02-02T11:26:02.284055+00:00",
+          "created_at": "2026-02-04T12:20:02.541540+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-01-31T09:22:04.293094+00:00",
-          "url": "https://d3vdv1ybfeauq5.cloudfront.net"
+          "updated_at": "2026-02-02T11:36:03.568962+00:00",
+          "url": "https://d1hziao0jqx16p.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -2490,11 +2490,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2026-02-03T00:24:03.215845+00:00",
+          "created_at": "2026-02-04T12:24:02.895815+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-02T21:28:04.498758+00:00",
-          "url": "https://d37wxzroxqbiys.cloudfront.net"
+          "updated_at": "2026-02-03T02:40:04.516772+00:00",
+          "url": "https://d30do45jq1pp5e.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
