@@ -1239,11 +1239,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-05T17:01:02.916970+00:00",
+          "created_at": "2026-02-07T19:17:02.564411+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-04T12:26:05.153736+00:00",
-          "url": "https://d23nf1zrey163d.cloudfront.net"
+          "updated_at": "2026-02-06T12:51:04.820324+00:00",
+          "url": "https://d1krbq4ciu8r2g.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
@@ -1251,11 +1251,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-05T17:15:02.952134+00:00",
+          "created_at": "2026-02-07T19:23:02.522617+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-05T08:59:05.690406+00:00",
-          "url": "https://d76cnxzzvwd3t.cloudfront.net"
+          "updated_at": "2026-02-07T13:47:04.267762+00:00",
+          "url": "https://d2nqea7sf5u1iq.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
