@@ -2139,6 +2139,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-02-10T01:13:02.462117+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-10T01:11:04.771069+00:00",
+          "url": "https://d2ntn0akh2dl9v.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2906,11 +2913,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-08T06:49:02.373982+00:00",
+          "created_at": "2026-02-10T01:19:02.821482+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-08T06:47:05.011555+00:00",
-          "url": "https://d1g38wtafjv6pt.cloudfront.net"
+          "updated_at": "2026-02-09T22:25:04.661333+00:00",
+          "url": "https://d2njax7krjhq0j.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
