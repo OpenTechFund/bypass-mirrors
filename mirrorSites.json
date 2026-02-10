@@ -975,63 +975,6 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2022-03-09 12:47:07.683382+00:00",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-10 14:17:22.667559+00:00",
-          "url": "https://rus.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2026-01-26T10:14:02.967549+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-01-26T03:02:05.825189+00:00",
-          "url": "https://d2ttdwdg4vzpfq.cloudfront.net"
-        }
-      ],
-      "main_domain": "rus.azathabar.com"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-09 12:47:07.678132+00:00",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-10 14:14:10.856314+00:00",
-          "url": "https://rus.azattykniqsficisrmyoqv3orh77t3qgj364y4tl6zrdjgjptzev2kyd.onion"
-        },
-        {
-          "created_at": "2025-06-04T09:48:31.479612+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-06-04T03:07:08.655972+00:00",
-          "url": "https://d29q4akbibnvw7.cloudfront.net"
-        }
-      ],
-      "main_domain": "rus.azattyk.org"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-09 12:47:07.675527+00:00",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-10 14:12:35.761521+00:00",
-          "url": "https://rus.azattyqqaoc2456fyhuro4umlv7rjboyqtfw4p5uvht26xqpm3xjppyd.onion"
-        },
-        {
-          "created_at": "2025-12-20T14:29:03.155576+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-20T13:17:03.890769+00:00",
-          "url": "https://d2wkrixjpsfy4i.cloudfront.net"
-        }
-      ],
-      "main_domain": "rus.azattyq.org"
-    },
-    {
-      "available_alternatives": [
-        {
           "created_at": "2022-03-09 12:47:07.667575+00:00",
           "proto": "tor",
           "type": "eotk",
@@ -1047,44 +990,6 @@
         }
       ],
       "main_domain": "rus.azatutyun.am"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-09 12:47:07.680778+00:00",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-10 14:15:49.910947+00:00",
-          "url": "https://rus.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2025-12-05T19:41:03.275571+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-05T18:55:02.836052+00:00",
-          "url": "https://d2y8zraks630nx.cloudfront.net"
-        }
-      ],
-      "main_domain": "rus.ozodi.org"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-09 12:47:07.686029+00:00",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-10 14:19:05.177710+00:00",
-          "url": "https://rus.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
-        },
-        {
-          "created_at": "2025-12-22T02:21:03.650782+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-21T23:17:04.521074+00:00",
-          "url": "https://dd7zwkil9tklw.cloudfront.net"
-        }
-      ],
-      "main_domain": "rus.ozodlik.org"
     },
     {
       "available_alternatives": [
@@ -2339,25 +2244,6 @@
         }
       ],
       "main_domain": "svobodnaevropa.bg"
-    },
-    {
-      "available_alternatives": [
-        {
-          "created_at": "2022-03-10 14:53:48.131812+00:00",
-          "proto": "tor",
-          "type": "eotk",
-          "updated_at": "2022-03-10 14:55:10.422554+00:00",
-          "url": "https://www.szabadaa4cnxxkikgr4hufwxlsqty36t24yaml4omuglt3e5nvdaj3qd.onion"
-        },
-        {
-          "created_at": "2025-04-19T22:42:04.285833+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-04-19T22:42:04.285843+00:00",
-          "url": "https://dkp39iwjshox7.cloudfront.net"
-        }
-      ],
-      "main_domain": "szabadeuropa.hu"
     },
     {
       "available_alternatives": [
