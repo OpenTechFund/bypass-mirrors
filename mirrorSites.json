@@ -382,7 +382,15 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-02-10T22:07:03.693722+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-10T20:55:04.489672+00:00",
+          "url": "https://d2ujefq1wp91e.cloudfront.net"
+        }
+      ],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -662,7 +670,15 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-02-10T22:31:03.794376+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-10T20:55:04.846888+00:00",
+          "url": "https://d2hgcoqpti28z3.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -1114,6 +1130,13 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:13:15.785309+00:00",
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2026-02-11T04:07:03.283953+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-10T22:29:03.996225+00:00",
+          "url": "https://d1h49mqimxeoqx.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1191,15 +1214,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-09T11:13:02.394227+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-09T11:11:05.978533+00:00",
-          "url": "https://d3vrb1e8w279ms.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -2776,11 +2791,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-10T18:15:03.668734+00:00",
+          "created_at": "2026-02-11T04:39:03.890594+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-10T01:19:05.139330+00:00",
-          "url": "https://d22a19nd21lqrh.cloudfront.net"
+          "updated_at": "2026-02-10T21:11:05.314027+00:00",
+          "url": "https://d8i5k8bzsr28j.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
