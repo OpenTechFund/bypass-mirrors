@@ -372,11 +372,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-02-10T17:21:02.749426+00:00",
+          "created_at": "2026-02-12T21:25:02.017819+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-10T04:37:04.232670+00:00",
-          "url": "https://d3iwsaxhuzmbnc.cloudfront.net"
+          "updated_at": "2026-02-12T06:27:03.382765+00:00",
+          "url": "https://d3lk26jl725q91.cloudfront.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-11T23:19:03.581301+00:00",
+          "created_at": "2026-02-12T21:19:03.172151+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-11T17:35:04.969331+00:00",
-          "url": "https://d2c4r52xitwp38.cloudfront.net"
+          "updated_at": "2026-02-11T23:19:05.502068+00:00",
+          "url": "https://d2egcashhovw6c.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
