@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-13T08:39:03.442027+00:00",
+          "created_at": "2026-02-13T11:43:02.937840+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-13T06:39:04.737898+00:00",
-          "url": "https://d2sjcl5jrd0i1z.cloudfront.net"
+          "updated_at": "2026-02-13T09:43:05.258377+00:00",
+          "url": "https://d3ahxyo92ii15c.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-13T08:31:03.685084+00:00",
+          "created_at": "2026-02-13T11:35:03.212154+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-13T06:31:04.529591+00:00",
-          "url": "https://d2rusf0clnkzk3.cloudfront.net"
+          "updated_at": "2026-02-13T09:35:05.057896+00:00",
+          "url": "https://d1kvbiaoy6nsyw.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -994,11 +994,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-13T08:39:03.365498+00:00",
+          "created_at": "2026-02-13T11:43:02.862310+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-12T14:31:04.833130+00:00",
-          "url": "https://d38s2dbgr9m0m2.cloudfront.net"
+          "updated_at": "2026-02-13T08:39:04.839842+00:00",
+          "url": "https://dcg538ovp9mue.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
