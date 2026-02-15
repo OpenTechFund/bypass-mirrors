@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-14T19:11:03.854415+00:00",
+          "created_at": "2026-02-15T13:35:03.879985+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-14T10:15:05.184725+00:00",
-          "url": "https://d32bznxlvtu04b.cloudfront.net"
+          "updated_at": "2026-02-15T06:47:04.743497+00:00",
+          "url": "https://dnbu8lxjeuryx.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -2388,11 +2388,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2026-02-15T10:31:03.021403+00:00",
+          "created_at": "2026-02-15T13:35:03.695039+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-14T01:03:05.374292+00:00",
-          "url": "https://d2kn4cc60lfn4s.cloudfront.net"
+          "updated_at": "2026-02-15T10:31:04.927391+00:00",
+          "url": "https://d2kwyio825xfxj.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
