@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2026-02-13T10:49:03.980022+00:00",
+          "created_at": "2026-02-15T12:37:03.125010+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-11T08:51:03.404536+00:00",
-          "url": "https://dfji8z1j05wos.cloudfront.net"
+          "updated_at": "2026-02-13T10:49:04.091301+00:00",
+          "url": "https://d3cdydugzj0qb0.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-14T21:05:02.735291+00:00",
+          "created_at": "2026-02-15T12:39:03.829619+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-14T21:03:05.290079+00:00",
-          "url": "https://d3nqidpbqh18rm.cloudfront.net"
+          "updated_at": "2026-02-15T11:45:04.787318+00:00",
+          "url": "https://d2ofjipf8nwm4f.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
