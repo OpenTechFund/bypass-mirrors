@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-13T08:41:02.660163+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-13T08:39:05.655134+00:00",
-          "url": "https://d3459hnlgf50ky.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -992,15 +984,7 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-13T11:43:02.862310+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-13T08:39:04.839842+00:00",
-          "url": "https://dcg538ovp9mue.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1214,15 +1198,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-13T08:39:03.012091+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-12T15:13:05.289688+00:00",
-          "url": "https://dran7i3tinj4v.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
