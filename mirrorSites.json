@@ -465,11 +465,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-16T11:59:02.658281+00:00",
+          "created_at": "2026-02-18T15:43:03.195711+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-15T23:29:04.932303+00:00",
-          "url": "https://d2bxl7qeb4rigp.cloudfront.net"
+          "updated_at": "2026-02-18T01:43:04.836523+00:00",
+          "url": "https://d39ijolup9e2n1.cloudfront.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
