@@ -2046,11 +2046,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2026-02-17T17:59:03.662079+00:00",
+          "created_at": "2026-02-18T07:43:03.369820+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-17T09:03:05.395521+00:00",
-          "url": "https://d3lcs1xmfpjpro.cloudfront.net"
+          "updated_at": "2026-02-17T17:59:05.186188+00:00",
+          "url": "https://d3or7ekwi36qp7.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2386,6 +2386,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:27:59.099944+00:00",
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
+        },
+        {
+          "created_at": "2026-02-18T07:29:02.491576+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-02-18T07:27:05.010085+00:00",
+          "url": "https://d1c86e8685p5kp.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
