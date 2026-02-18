@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-17T15:59:03.071532+00:00",
+          "created_at": "2026-02-18T10:15:03.567355+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-17T14:55:05.900392+00:00",
-          "url": "https://dh0i2sa7ymrmy.cloudfront.net"
+          "updated_at": "2026-02-17T17:59:05.513206+00:00",
+          "url": "https://d1ierhcc3m6fgd.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -2797,15 +2797,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-17T14:57:03.152384+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-17T14:55:05.838109+00:00",
-          "url": "https://d26qbjj022gcjv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
