@@ -1214,15 +1214,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-16T13:05:02.262750+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-16T13:03:05.941137+00:00",
-          "url": "https://d3ea6jhikt8nt6.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
