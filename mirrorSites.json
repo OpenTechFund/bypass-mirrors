@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2026-02-17T14:07:03.892688+00:00",
+          "created_at": "2026-02-19T17:07:03.488555+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-15T12:37:03.205152+00:00",
-          "url": "https://d1vfz2gkzqjyws.cloudfront.net"
+          "updated_at": "2026-02-17T14:07:03.981067+00:00",
+          "url": "https://dih2wdbe89vfy.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -994,11 +994,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-18T18:55:03.325274+00:00",
+          "created_at": "2026-02-19T17:11:03.912176+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-18T13:51:04.692431+00:00",
-          "url": "https://dnbkpc4uix847.cloudfront.net"
+          "updated_at": "2026-02-19T14:39:04.677976+00:00",
+          "url": "https://d1bnujlm08fftm.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1214,15 +1214,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-18T05:45:02.612531+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-18T05:43:06.119950+00:00",
-          "url": "https://d151ywts4ln0fv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
