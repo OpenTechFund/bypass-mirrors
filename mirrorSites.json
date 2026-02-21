@@ -994,11 +994,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-20T11:43:03.060362+00:00",
+          "created_at": "2026-02-21T04:07:03.676643+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-20T02:39:04.293769+00:00",
-          "url": "https://dklk58akb1ofj.cloudfront.net"
+          "updated_at": "2026-02-20T19:19:04.972528+00:00",
+          "url": "https://daet4akzov9n5.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2797,15 +2797,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-20T05:53:03.092855+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-20T05:51:05.937193+00:00",
-          "url": "https://d1ry0agz6aemjp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
