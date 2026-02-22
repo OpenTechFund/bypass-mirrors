@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-21T20:07:02.833220+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-20T23:03:05.804126+00:00",
-          "url": "https://d3ijw6vtjpfjyg.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -708,11 +700,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-21T21:27:02.576592+00:00",
+          "created_at": "2026-02-22T01:35:02.628877+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-20T22:39:05.790498+00:00",
-          "url": "https://d1yieetnydmc11.cloudfront.net"
+          "updated_at": "2026-02-21T21:27:04.716301+00:00",
+          "url": "https://d32ju0wmuou0nt.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -720,11 +712,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-21T19:59:03.782332+00:00",
+          "created_at": "2026-02-22T01:35:02.570351+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-21T01:19:04.688720+00:00",
-          "url": "https://d3eqp7jxhab6fl.cloudfront.net"
+          "updated_at": "2026-02-21T19:59:05.066909+00:00",
+          "url": "https://d2kjvkbdcf6fzm.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -732,11 +724,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-21T18:31:02.829020+00:00",
+          "created_at": "2026-02-22T01:35:02.615184+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-20T22:39:05.755049+00:00",
-          "url": "https://d3fvekqm2omx3x.cloudfront.net"
+          "updated_at": "2026-02-21T18:31:04.925671+00:00",
+          "url": "https://dmjw6wo6f9vw0.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
