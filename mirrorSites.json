@@ -382,15 +382,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-02-21T22:47:02.820352+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-21T06:23:04.313734+00:00",
-          "url": "https://d1nn1el2fifyov.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
@@ -2044,13 +2036,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
-        },
-        {
-          "created_at": "2026-02-21T19:59:03.799075+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-02-21T07:35:05.350373+00:00",
-          "url": "https://d106bdfzvb8kb2.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
