@@ -2799,11 +2799,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-22T10:07:02.577976+00:00",
+          "created_at": "2026-02-23T12:07:02.611093+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-22T09:05:04.450567+00:00",
-          "url": "https://d1e8llo5g3lgqu.cloudfront.net"
+          "updated_at": "2026-02-23T09:45:05.377674+00:00",
+          "url": "https://dy9d4k6q6yopg.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
