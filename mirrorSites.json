@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-24T19:11:02.565202+00:00",
+          "created_at": "2026-02-25T07:35:02.439099+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-23T23:27:04.100477+00:00",
-          "url": "https://d34p04sru5sysu.cloudfront.net"
+          "updated_at": "2026-02-24T21:43:04.874156+00:00",
+          "url": "https://dammt1sg7lmuw.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -1216,11 +1216,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-23T14:49:01.785518+00:00",
+          "created_at": "2026-02-25T07:35:02.040171+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-23T14:47:04.667664+00:00",
-          "url": "https://d3qak7qxnc3o0x.cloudfront.net"
+          "updated_at": "2026-02-23T14:49:04.710312+00:00",
+          "url": "https://ds8v68dmy533q.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
