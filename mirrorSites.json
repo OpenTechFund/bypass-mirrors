@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-02-23T08:59:02.732073+00:00",
+          "created_at": "2026-02-25T11:41:02.181778+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-21T09:31:03.512720+00:00",
-          "url": "https://d3iqknlx3gzq1f.cloudfront.net"
+          "updated_at": "2026-02-23T12:55:03.944074+00:00",
+          "url": "https://d3qjznjc5dw2wx.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -1044,11 +1044,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2026-02-24T15:11:02.582649+00:00",
+          "created_at": "2026-02-25T11:43:02.221712+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-24T05:27:04.877875+00:00",
-          "url": "https://d2s7zapmzh4csd.cloudfront.net"
+          "updated_at": "2026-02-24T15:11:04.544059+00:00",
+          "url": "https://d1qebzahc5mpdm.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
