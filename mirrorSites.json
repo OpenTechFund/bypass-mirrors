@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-24T22:13:01.770011+00:00",
+          "created_at": "2026-02-26T22:46:01.699578+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-23T01:33:04.343203+00:00",
-          "url": "https://d26p9pi4wxaw6s.cloudfront.net"
+          "updated_at": "2026-02-25T05:25:04.952056+00:00",
+          "url": "https://dy3nw2t48mpmi.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
@@ -1044,11 +1044,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2026-02-26T06:24:03.028798+00:00",
+          "created_at": "2026-02-26T22:48:02.814873+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-25T20:23:04.063897+00:00",
-          "url": "https://d2cwcce9kouz44.cloudfront.net"
+          "updated_at": "2026-02-26T21:20:05.481347+00:00",
+          "url": "https://d1abjtj7ugr2f6.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
