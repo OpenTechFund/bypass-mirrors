@@ -1180,11 +1180,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-24T01:15:02.802089+00:00",
+          "created_at": "2026-02-26T01:56:02.609395+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-23T05:15:04.317027+00:00",
-          "url": "https://d302n8euth4pj8.cloudfront.net"
+          "updated_at": "2026-02-25T10:07:05.233474+00:00",
+          "url": "https://d3m37330m8yqv3.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -2799,11 +2799,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-25T22:56:03.691172+00:00",
+          "created_at": "2026-02-26T02:00:03.316132+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-24T20:15:04.935731+00:00",
-          "url": "https://d3to3mlalmuzn.cloudfront.net"
+          "updated_at": "2026-02-26T01:44:05.575240+00:00",
+          "url": "https://d2bs7vnwbjyigc.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
