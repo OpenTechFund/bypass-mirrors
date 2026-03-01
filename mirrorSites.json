@@ -1216,11 +1216,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-28T13:29:02.861676+00:00",
+          "created_at": "2026-03-01T14:17:02.593074+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-28T00:33:06.345551+00:00",
-          "url": "https://d1s0r4o7murvg6.cloudfront.net"
+          "updated_at": "2026-02-28T13:29:06.089584+00:00",
+          "url": "https://d26fw9d1hupmv2.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
