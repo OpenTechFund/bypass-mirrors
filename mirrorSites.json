@@ -1180,11 +1180,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-02-28T03:29:03.882081+00:00",
+          "created_at": "2026-03-02T06:43:03.045594+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-27T13:06:04.848149+00:00",
-          "url": "https://doqbo5k7loj4y.cloudfront.net"
+          "updated_at": "2026-03-01T14:57:05.645442+00:00",
+          "url": "https://d3jnf3s0k367t7.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
