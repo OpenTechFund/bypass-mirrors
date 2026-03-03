@@ -656,11 +656,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-02T04:59:02.827477+00:00",
+          "created_at": "2026-03-03T04:57:03.144591+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-02T04:57:05.209591+00:00",
-          "url": "https://d1kl8zss93xif2.cloudfront.net"
+          "updated_at": "2026-03-03T04:35:04.787647+00:00",
+          "url": "https://dnyi8n4ru7im5.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -692,11 +692,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-02T10:09:03.925234+00:00",
+          "created_at": "2026-03-03T04:57:03.222423+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-02T06:09:06.256228+00:00",
-          "url": "https://d1dfq6rn7ax2pr.cloudfront.net"
+          "updated_at": "2026-03-03T04:33:06.669601+00:00",
+          "url": "https://dhud1ib9ogea1.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
