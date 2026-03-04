@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:07:02.953221+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:04.646591+00:00",
+          "url": "https://d1luoi6d25pjxc.cloudfront.net"
+        }
+      ],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -486,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:07:02.980785+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:05.103160+00:00",
+          "url": "https://dqc5172hc9mkw.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -666,15 +682,39 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:07:03.326479+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:05.228275+00:00",
+          "url": "https://du53fmpnl29yl.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:07:03.272990+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:04.507350+00:00",
+          "url": "https://d1wgm31bctjz7d.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:13:03.326436+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:05.306083+00:00",
+          "url": "https://d28pg6v9rhmotu.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
@@ -690,7 +730,15 @@
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:09:03.309146+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:05.276550+00:00",
+          "url": "https://d2ivwvft9o273e.cloudfront.net"
+        }
+      ],
       "main_domain": "ocb-video-ns.akamaized.net"
     },
     {
@@ -944,7 +992,15 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:07:02.938547+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:04.333513+00:00",
+          "url": "https://d1p8jwd70q1my1.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
@@ -1158,7 +1214,15 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-04T11:07:02.521710+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:05.344960+00:00",
+          "url": "https://dvvadhhaxq9ch.cloudfront.net"
+        }
+      ],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -1980,6 +2044,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-03-04T11:07:03.297988+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-04T11:05:04.772768+00:00",
+          "url": "https://d373imyv1nsr2j.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
