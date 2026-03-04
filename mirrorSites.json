@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-03T04:57:03.222423+00:00",
+          "created_at": "2026-03-04T05:05:03.596742+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-03T04:33:06.669601+00:00",
-          "url": "https://dhud1ib9ogea1.cloudfront.net"
+          "updated_at": "2026-03-03T04:59:04.858813+00:00",
+          "url": "https://dhpfihdxuywjx.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -994,11 +994,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-03T07:45:03.426793+00:00",
+          "created_at": "2026-03-04T05:13:03.240370+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-03T04:57:04.407973+00:00",
-          "url": "https://d2u5i5ukg14ow9.cloudfront.net"
+          "updated_at": "2026-03-03T07:45:04.949589+00:00",
+          "url": "https://d15ckul0e80ak8.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
