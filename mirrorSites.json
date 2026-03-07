@@ -1192,11 +1192,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-05T02:03:02.520178+00:00",
+          "created_at": "2026-03-07T05:31:02.544464+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-03T22:03:05.383965+00:00",
-          "url": "https://dryfpujedno2v.cloudfront.net"
+          "updated_at": "2026-03-05T23:45:04.820744+00:00",
+          "url": "https://d1jq42qq26sznw.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
