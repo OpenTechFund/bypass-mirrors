@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-08T06:41:02.730190+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-07T22:09:04.518590+00:00",
-          "url": "https://d2q2gz4bbjrkgm.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -708,11 +700,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-08T11:29:03.288212+00:00",
+          "created_at": "2026-03-08T20:41:03.194818+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-07T19:37:04.771126+00:00",
-          "url": "https://du3npoi26thl2.cloudfront.net"
+          "updated_at": "2026-03-08T11:29:05.420518+00:00",
+          "url": "https://d31ucejgf1dap1.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -1378,13 +1370,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:16:42.850047+00:00",
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
-        },
-        {
-          "created_at": "2026-03-07T11:55:02.464756+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-07T11:53:03.611367+00:00",
-          "url": "https://d3lu8dowxvq39z.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
