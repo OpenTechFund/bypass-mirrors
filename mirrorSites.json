@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-05T07:05:02.339025+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-05T02:51:03.321401+00:00",
-          "url": "https://d2sfckr3p623o1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
