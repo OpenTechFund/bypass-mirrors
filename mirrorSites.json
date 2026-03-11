@@ -1025,11 +1025,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-08T22:57:01.855261+00:00",
+          "created_at": "2026-03-11T01:23:01.851658+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-07T04:31:04.221093+00:00",
-          "url": "https://d1ydi421fyrm8i.cloudfront.net"
+          "updated_at": "2026-03-09T07:09:04.903342+00:00",
+          "url": "https://d8v4dmnoj6lsm.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
