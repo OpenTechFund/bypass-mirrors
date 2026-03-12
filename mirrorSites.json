@@ -875,11 +875,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-10T01:45:02.587483+00:00",
+          "created_at": "2026-03-12T03:55:02.376522+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-09T10:01:05.136077+00:00",
-          "url": "https://d2uhgmr5ovywrv.cloudfront.net"
+          "updated_at": "2026-03-11T14:23:04.851900+00:00",
+          "url": "https://d2f9ovvn5lcb20.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
