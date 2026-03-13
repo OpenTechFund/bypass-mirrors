@@ -832,11 +832,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-11T14:43:02.072287+00:00",
+          "created_at": "2026-03-13T15:27:02.492848+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-09T22:59:05.066991+00:00",
-          "url": "https://d1ygaew6e7ned7.cloudfront.net"
+          "updated_at": "2026-03-12T02:51:04.247300+00:00",
+          "url": "https://d2nrev35hzgnvx.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
@@ -1156,11 +1156,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-11T12:45:02.344022+00:00",
+          "created_at": "2026-03-13T15:27:03.130540+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-11T05:33:04.560763+00:00",
-          "url": "https://dtf0xfpmggxrv.cloudfront.net"
+          "updated_at": "2026-03-13T09:05:05.130513+00:00",
+          "url": "https://dzo7t5fzerwf2.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
