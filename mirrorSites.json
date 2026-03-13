@@ -994,11 +994,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-12T22:49:02.126909+00:00",
+          "created_at": "2026-03-13T01:53:02.764453+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-12T06:17:04.813179+00:00",
-          "url": "https://d9iuj4rku059z.cloudfront.net"
+          "updated_at": "2026-03-12T22:49:03.579145+00:00",
+          "url": "https://d1z5bpcgi903jn.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
