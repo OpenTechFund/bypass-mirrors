@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-12T03:19:01.900038+00:00",
+          "created_at": "2026-03-14T07:46:02.168448+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-10T06:05:05.062672+00:00",
-          "url": "https://d35lp0mzrvqcxq.cloudfront.net"
+          "updated_at": "2026-03-12T07:13:04.666906+00:00",
+          "url": "https://d1vht4cml9iwrd.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -694,15 +694,7 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-13T03:05:03.369061+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-13T02:57:04.783433+00:00",
-          "url": "https://d1w3fsoo0v6z50.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
