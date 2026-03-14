@@ -260,11 +260,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-03-12T18:57:01.989284+00:00",
+          "created_at": "2026-03-14T20:20:02.343348+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-12T13:35:04.056950+00:00",
-          "url": "https://d1jlxijhv9ewlj.cloudfront.net"
+          "updated_at": "2026-03-14T16:46:03.864733+00:00",
+          "url": "https://d1vjp69x7sftda.cloudfront.net"
         }
       ],
       "main_domain": "docs.rferl.org"
