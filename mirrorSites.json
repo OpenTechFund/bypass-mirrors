@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-16T17:07:02.749700+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-16T14:19:05.408860+00:00",
-          "url": "https://d1ocjokqelw61s.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -992,15 +984,7 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-16T18:27:02.955857+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-16T10:19:03.810525+00:00",
-          "url": "https://d3i4bqq1ypfdsq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1042,6 +1026,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2026-03-17T06:45:02.886112+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-17T06:43:04.916815+00:00",
+          "url": "https://d1gcvax80z40kf.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -1207,15 +1198,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-16T22:51:02.960531+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-16T19:47:04.992177+00:00",
-          "url": "https://d29iwwx7satmfy.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -2792,11 +2775,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-16T17:07:02.732406+00:00",
+          "created_at": "2026-03-17T06:51:03.066485+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-16T14:21:05.314828+00:00",
-          "url": "https://d1upc8b4kv3nb4.cloudfront.net"
+          "updated_at": "2026-03-16T17:07:04.960507+00:00",
+          "url": "https://dddwt5w2wv4gp.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
