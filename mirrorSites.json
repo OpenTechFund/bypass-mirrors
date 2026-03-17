@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-16T11:23:02.518140+00:00",
+          "created_at": "2026-03-17T06:59:03.102983+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-16T10:19:04.147288+00:00",
-          "url": "https://d21h19s4p2c3sy.cloudfront.net"
+          "updated_at": "2026-03-17T06:43:04.856121+00:00",
+          "url": "https://dsopwybx2oiu9.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -517,15 +517,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-10T17:23:02.280122+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-10T17:21:03.167149+00:00",
-          "url": "https://d3b1hed8y1ghih.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -2364,11 +2356,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2026-03-16T15:15:02.429973+00:00",
+          "created_at": "2026-03-17T06:59:03.248244+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-16T12:11:04.810199+00:00",
-          "url": "https://d3pkpww085p6m6.cloudfront.net"
+          "updated_at": "2026-03-16T15:15:04.410037+00:00",
+          "url": "https://d1um61bl5yguqt.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
