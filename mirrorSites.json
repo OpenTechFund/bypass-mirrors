@@ -1192,11 +1192,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-17T16:55:02.629863+00:00",
+          "created_at": "2026-03-19T18:21:02.765066+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-16T06:41:05.006383+00:00",
-          "url": "https://d28b3aiwt07d1e.cloudfront.net"
+          "updated_at": "2026-03-18T07:07:05.082939+00:00",
+          "url": "https://d32sb84ubru4at.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
