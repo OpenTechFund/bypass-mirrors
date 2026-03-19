@@ -208,7 +208,15 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-19T09:15:02.320876+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-19T00:43:04.295039+00:00",
+          "url": "https://d2k3vvm3q6hf6e.cloudfront.net"
+        }
+      ],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -486,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-19T09:15:02.348296+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-19T01:55:05.116863+00:00",
+          "url": "https://dytc40ox4lcz7.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -976,7 +992,15 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-03-19T09:15:02.306116+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-03-19T08:19:03.595197+00:00",
+          "url": "https://duqao4i3rai8h.cloudfront.net"
+        }
+      ],
       "main_domain": "semnasem.org"
     },
     {
