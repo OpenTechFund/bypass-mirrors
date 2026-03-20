@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-20T03:30:03.561103+00:00",
+          "created_at": "2026-03-20T21:46:03.665625+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-19T20:11:05.397846+00:00",
-          "url": "https://d1lrqey20adj3z.cloudfront.net"
+          "updated_at": "2026-03-20T03:30:05.723080+00:00",
+          "url": "https://d1r2t5zfk94vs3.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-20T11:06:03.206648+00:00",
+          "created_at": "2026-03-20T21:46:03.622957+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-19T12:51:03.867065+00:00",
-          "url": "https://d3ialo1i3l7ut5.cloudfront.net"
+          "updated_at": "2026-03-20T12:18:04.785145+00:00",
+          "url": "https://d1s4hyoa3j98zy.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -994,11 +994,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-20T04:58:03.551471+00:00",
+          "created_at": "2026-03-20T21:46:03.267444+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-19T21:31:03.718014+00:00",
-          "url": "https://d3pp921sl8v4wd.cloudfront.net"
+          "updated_at": "2026-03-20T06:02:05.235303+00:00",
+          "url": "https://d26fsmuudmw1g0.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -2046,11 +2046,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2026-03-20T11:06:03.221372+00:00",
+          "created_at": "2026-03-20T21:46:03.637414+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-19T12:51:04.130343+00:00",
-          "url": "https://d2mzkmqlqau08t.cloudfront.net"
+          "updated_at": "2026-03-20T11:06:04.926222+00:00",
+          "url": "https://d1zg4fwz58athz.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
