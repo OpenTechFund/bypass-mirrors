@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-21T09:46:03.257836+00:00",
+          "created_at": "2026-03-21T17:06:03.940475+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-20T21:46:04.554651+00:00",
-          "url": "https://d2yfu8a1amrqe.cloudfront.net"
+          "updated_at": "2026-03-21T09:46:04.223224+00:00",
+          "url": "https://dwq8w93g0bekf.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-19T09:49:02.460034+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-19T09:47:03.371528+00:00",
-          "url": "https://d2r37eo507p7iw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
