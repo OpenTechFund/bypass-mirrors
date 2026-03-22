@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-03-20T12:32:02.348588+00:00",
+          "created_at": "2026-03-22T15:50:02.388643+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-19T03:25:04.332775+00:00",
-          "url": "https://dh38nxdedf03b.cloudfront.net"
+          "updated_at": "2026-03-21T04:30:03.362829+00:00",
+          "url": "https://d10wdr27hh21g7.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
