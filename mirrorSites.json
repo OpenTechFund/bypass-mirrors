@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-22T15:08:02.304082+00:00",
+          "created_at": "2026-03-23T17:14:03.118379+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-22T15:06:05.322334+00:00",
-          "url": "https://dj1an8z2lmm9n.cloudfront.net"
+          "updated_at": "2026-03-23T16:18:05.123521+00:00",
+          "url": "https://d3bj21qhva7wj2.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-23T14:02:03.792064+00:00",
+          "created_at": "2026-03-23T17:06:03.525983+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-22T18:50:05.495383+00:00",
-          "url": "https://d253au4qqtt1y6.cloudfront.net"
+          "updated_at": "2026-03-23T14:02:05.961572+00:00",
+          "url": "https://d29lc9asjhehb.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-23T07:38:03.330873+00:00",
+          "created_at": "2026-03-23T17:06:03.507491+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-22T17:38:06.173129+00:00",
-          "url": "https://dz2iwakhhoiir.cloudfront.net"
+          "updated_at": "2026-03-23T07:38:05.470130+00:00",
+          "url": "https://doks24xtx6mac.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
