@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-21T04:10:04.186279+00:00",
+          "created_at": "2026-03-23T06:06:03.341435+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-19T00:47:03.458631+00:00",
-          "url": "https://d39kalpg32kkax.cloudfront.net"
+          "updated_at": "2026-03-21T04:10:04.700437+00:00",
+          "url": "https://d3zqztye4w6iw.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1044,11 +1044,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2026-03-21T20:04:02.520011+00:00",
+          "created_at": "2026-03-23T06:10:03.396125+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-21T20:02:06.354075+00:00",
-          "url": "https://d3owh1ckyf3w2h.cloudfront.net"
+          "updated_at": "2026-03-23T05:14:05.179391+00:00",
+          "url": "https://d1o2trzza3f6qf.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
