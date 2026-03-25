@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-03-23T18:24:02.400385+00:00",
+          "created_at": "2026-03-25T20:24:02.409488+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-23T08:12:03.637634+00:00",
-          "url": "https://d1fd5w952z77fx.cloudfront.net"
+          "updated_at": "2026-03-25T10:50:04.406407+00:00",
+          "url": "https://d3tgk8i429oyzn.cloudfront.net"
         }
       ],
       "main_domain": "audio.rferl.org"
@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-23T18:52:02.256543+00:00",
+          "created_at": "2026-03-25T20:20:02.153943+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-22T04:24:04.565106+00:00",
-          "url": "https://d2mgyphn3fqpgt.cloudfront.net"
+          "updated_at": "2026-03-24T06:10:04.700437+00:00",
+          "url": "https://d1r40mp1vr1b82.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
@@ -2388,11 +2388,11 @@
           "url": "https://www.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion"
         },
         {
-          "created_at": "2026-03-23T21:38:03.149756+00:00",
+          "created_at": "2026-03-25T20:26:03.455325+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-23T12:58:05.290696+00:00",
-          "url": "https://d1n0or28gl7ucp.cloudfront.net"
+          "updated_at": "2026-03-24T05:54:05.077108+00:00",
+          "url": "https://dtoa8p2lf0jn.cloudfront.net"
         }
       ],
       "main_domain": "voachinese.com"
