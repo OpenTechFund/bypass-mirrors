@@ -1144,11 +1144,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-23T21:54:03.248321+00:00",
+          "created_at": "2026-03-26T00:54:02.800672+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-22T15:16:04.860192+00:00",
-          "url": "https://d1b26d3a7iewc7.cloudfront.net"
+          "updated_at": "2026-03-24T17:46:05.939401+00:00",
+          "url": "https://d2l40urzl29fjs.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
