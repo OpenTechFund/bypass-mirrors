@@ -670,15 +670,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-30T00:18:04.197549+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-29T15:06:05.345377+00:00",
-          "url": "https://d1radqwodyzqov.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
@@ -694,49 +686,25 @@
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-30T01:06:04.263170+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-29T16:58:04.776803+00:00",
-          "url": "https://d2r1are20uhglp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-29T19:06:04.152249+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-29T16:58:05.636920+00:00",
-          "url": "https://d3tgm5awojmo4h.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-30T00:18:04.221683+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-29T16:02:05.694362+00:00",
-          "url": "https://d2ycpitqd49t5u.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-30T02:50:04.389939+00:00",
+          "created_at": "2026-03-30T11:08:02.817317+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-30T01:06:06.485221+00:00",
-          "url": "https://d2yksi4r7fbulp.cloudfront.net"
+          "updated_at": "2026-03-30T02:50:06.602668+00:00",
+          "url": "https://dt1rs40tsaomy.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
