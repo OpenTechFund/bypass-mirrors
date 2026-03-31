@@ -670,15 +670,7 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-30T11:10:02.734370+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-30T11:08:04.132034+00:00",
-          "url": "https://d1jifrutvg0zub.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
