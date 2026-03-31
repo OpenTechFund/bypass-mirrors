@@ -475,10 +475,6 @@
       "main_domain": "ichef.bbci.co.uk"
     },
     {
-      "available_alternatives": [],
-      "main_domain": "id.guardianproject.info"
-    },
-    {
       "available_alternatives": [
         {
           "created_at": "2022-03-09 12:47:07.625104+00:00",
@@ -696,6 +692,10 @@
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
+    },
+    {
+      "available_alternatives": [],
+      "main_domain": "ocb.bypasscensorship.org"
     },
     {
       "available_alternatives": [
