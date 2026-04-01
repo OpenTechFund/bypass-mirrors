@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T10:42:03.379158+00:00",
+          "created_at": "2026-04-01T13:46:03.124453+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-31T20:26:05.285379+00:00",
-          "url": "https://drm8sfuibkxw9.cloudfront.net"
+          "updated_at": "2026-04-01T10:42:05.707884+00:00",
+          "url": "https://di9rlrr1xjpgp.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T09:06:02.879933+00:00",
+          "created_at": "2026-04-01T13:46:03.059041+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-01T00:42:03.829730+00:00",
-          "url": "https://d96daw1ymncuy.cloudfront.net"
+          "updated_at": "2026-04-01T09:06:03.845917+00:00",
+          "url": "https://d2gtyy374wcq20.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -670,25 +670,17 @@
       "main_domain": "moldova.europalibera.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-31T17:24:02.915714+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-31T17:22:04.991276+00:00",
-          "url": "https://de4bpze8ayry4.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T04:26:04.119038+00:00",
+          "created_at": "2026-04-01T13:46:03.495689+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-31T19:22:06.418730+00:00",
-          "url": "https://d17l86x9ijmy8i.cloudfront.net"
+          "updated_at": "2026-04-01T12:58:06.443458+00:00",
+          "url": "https://d20ph38jls0ob.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -718,37 +710,21 @@
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-31T16:18:03.510817+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-31T15:14:06.308690+00:00",
-          "url": "https://d2ahz60kk4awn.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-03-31T16:20:02.693284+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-03-31T16:18:04.794314+00:00",
-          "url": "https://d1bhrfm52ymal2.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T05:38:03.490292+00:00",
+          "created_at": "2026-04-01T13:46:03.511160+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-31T20:18:05.519543+00:00",
-          "url": "https://d2z6yf3th8ve2r.cloudfront.net"
+          "updated_at": "2026-04-01T05:38:05.654482+00:00",
+          "url": "https://d24ocu1z8r6p4n.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2811,11 +2787,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T10:42:03.358943+00:00",
+          "created_at": "2026-04-01T13:46:03.106381+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-31T13:24:04.994321+00:00",
-          "url": "https://d1hott59vypxjv.cloudfront.net"
+          "updated_at": "2026-04-01T10:42:05.639808+00:00",
+          "url": "https://d64ui6n27y7n.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
