@@ -887,11 +887,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-31T02:54:02.155397+00:00",
+          "created_at": "2026-04-02T06:14:02.668737+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-30T20:40:05.348156+00:00",
-          "url": "https://d2wzfaxsjfnasb.cloudfront.net"
+          "updated_at": "2026-04-01T21:34:05.352694+00:00",
+          "url": "https://dx2e0fur1uc4w.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
@@ -2096,11 +2096,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-04-01T07:38:03.736079+00:00",
+          "created_at": "2026-04-02T06:18:03.766040+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-01T06:26:05.151352+00:00",
-          "url": "https://d1ykgyexnlzwj2.cloudfront.net"
+          "updated_at": "2026-04-01T16:50:05.428890+00:00",
+          "url": "https://d2eo9uz1wls5lz.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
