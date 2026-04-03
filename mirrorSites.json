@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-31T14:38:03.321263+00:00",
+          "created_at": "2026-04-03T18:20:02.650718+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-31T14:36:05.749653+00:00",
-          "url": "https://d9kgdj53qcf4.cloudfront.net"
+          "updated_at": "2026-04-03T17:24:05.717452+00:00",
+          "url": "https://d1poletgcrcie0.cloudfront.net"
         }
       ],
       "main_domain": "ocb.bypasscensorship.org"
@@ -1168,11 +1168,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T16:08:02.933839+00:00",
+          "created_at": "2026-04-03T18:18:02.971134+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-01T04:30:05.486654+00:00",
-          "url": "https://dl1ffp3csmz8j.cloudfront.net"
+          "updated_at": "2026-04-03T06:24:04.785841+00:00",
+          "url": "https://d2et92bfri8bou.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
