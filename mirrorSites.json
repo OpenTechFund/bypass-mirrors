@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T19:08:01.879948+00:00",
+          "created_at": "2026-04-03T22:46:01.755040+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-31T02:20:05.235816+00:00",
-          "url": "https://d4ovp6zc29tmj.cloudfront.net"
+          "updated_at": "2026-04-02T04:20:04.503681+00:00",
+          "url": "https://d2oamja41csltw.cloudfront.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
