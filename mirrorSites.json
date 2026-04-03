@@ -1037,11 +1037,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-01T03:16:02.323699+00:00",
+          "created_at": "2026-04-03T05:14:02.363766+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-30T12:38:04.977430+00:00",
-          "url": "https://dzpqmn6rglg29.cloudfront.net"
+          "updated_at": "2026-04-01T15:56:04.885074+00:00",
+          "url": "https://dekqcn2jpfwg7.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -1056,11 +1056,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2026-04-01T20:28:02.430368+00:00",
+          "created_at": "2026-04-03T05:08:02.194021+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-01T20:26:05.174060+00:00",
-          "url": "https://d1333yscweb3rh.cloudfront.net"
+          "updated_at": "2026-04-03T05:06:04.798475+00:00",
+          "url": "https://d161ykzo8lh3dj.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
