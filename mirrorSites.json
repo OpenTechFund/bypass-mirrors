@@ -918,11 +918,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-03T19:18:02.270054+00:00",
+          "created_at": "2026-04-05T20:52:02.956011+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-01T23:28:04.797555+00:00",
-          "url": "https://d23k4dz8amm6bl.cloudfront.net"
+          "updated_at": "2026-04-04T01:56:05.776436+00:00",
+          "url": "https://d3k0uafhe9fbti.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
