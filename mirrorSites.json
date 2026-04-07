@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-06T08:34:03.478378+00:00",
+          "created_at": "2026-04-07T09:22:03.618723+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-06T06:42:06.254450+00:00",
-          "url": "https://d2li5q3h42pabl.cloudfront.net"
+          "updated_at": "2026-04-06T20:50:05.793833+00:00",
+          "url": "https://dwco6059zf7bd.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -1226,15 +1226,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-05T23:40:02.143023+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-05T23:38:06.550904+00:00",
-          "url": "https://d2o7i3ms2jk7uv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
