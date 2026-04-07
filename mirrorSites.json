@@ -1006,11 +1006,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-06T08:34:03.438351+00:00",
+          "created_at": "2026-04-07T08:10:03.214145+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-05T23:38:05.426009+00:00",
-          "url": "https://d188dqjpb6wtmu.cloudfront.net"
+          "updated_at": "2026-04-06T08:34:04.995649+00:00",
+          "url": "https://d1t9ws4zl66k5x.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1037,11 +1037,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-05T05:56:01.905749+00:00",
+          "created_at": "2026-04-07T08:12:02.316765+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-03T16:50:05.855633+00:00",
-          "url": "https://d3plea893lbdth.cloudfront.net"
+          "updated_at": "2026-04-05T19:54:05.971782+00:00",
+          "url": "https://d3j0rfm12e5fr4.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
