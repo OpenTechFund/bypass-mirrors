@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-06T19:30:03.779037+00:00",
+          "created_at": "2026-04-07T10:42:03.506178+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-06T07:30:05.383864+00:00",
-          "url": "https://d2ej5a1o0rz60c.cloudfront.net"
+          "updated_at": "2026-04-06T19:30:05.181331+00:00",
+          "url": "https://d2h5hu1z0dbt33.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
