@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-07T15:30:03.418495+00:00",
+          "created_at": "2026-04-08T04:34:03.757169+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-07T03:14:05.440969+00:00",
-          "url": "https://d3ovj3dm0qzn3c.cloudfront.net"
+          "updated_at": "2026-04-07T15:30:04.883653+00:00",
+          "url": "https://dk8ft7fh6z2b0.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -1837,11 +1837,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-03-30T14:28:02.698199+00:00",
+          "created_at": "2026-04-08T04:34:03.788705+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-03-30T12:52:05.274609+00:00",
-          "url": "https://d14xrgsmkc09mk.cloudfront.net"
+          "updated_at": "2026-04-08T04:10:05.203846+00:00",
+          "url": "https://dcb7r52czqgd2.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
