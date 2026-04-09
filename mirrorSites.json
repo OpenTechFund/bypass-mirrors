@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-07T09:22:03.618723+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-06T20:50:05.793833+00:00",
-          "url": "https://dwco6059zf7bd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -525,15 +517,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-08T02:28:02.841648+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-08T02:26:04.636402+00:00",
-          "url": "https://ds5y9vsbv54hc.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -1006,11 +990,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-08T08:10:03.791964+00:00",
+          "created_at": "2026-04-09T10:34:04.186357+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-08T02:42:05.501811+00:00",
-          "url": "https://d38p7m2he2mlmk.cloudfront.net"
+          "updated_at": "2026-04-09T00:26:04.688063+00:00",
+          "url": "https://d3pu7dx6thbfvu.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
