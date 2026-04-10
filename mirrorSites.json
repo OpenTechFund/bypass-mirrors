@@ -1006,11 +1006,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-10T04:42:03.116565+00:00",
+          "created_at": "2026-04-10T15:14:03.802798+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-09T18:02:05.012864+00:00",
-          "url": "https://d1f6ghnywetq01.cloudfront.net"
+          "updated_at": "2026-04-10T06:26:05.402198+00:00",
+          "url": "https://d8w5cpluuyx0c.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
