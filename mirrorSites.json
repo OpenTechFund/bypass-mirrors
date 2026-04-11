@@ -494,7 +494,15 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-04-11T15:16:02.488145+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-04-11T15:14:05.917752+00:00",
+          "url": "https://d1wtobgm5dt1nr.cloudfront.net"
+        }
+      ],
       "main_domain": "istories.media"
     },
     {
@@ -519,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-11T12:18:03.401179+00:00",
+          "created_at": "2026-04-11T15:22:03.168126+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-10T07:00:03.889432+00:00",
-          "url": "https://d1wcwjg9zfgod0.cloudfront.net"
+          "updated_at": "2026-04-11T12:18:04.355732+00:00",
+          "url": "https://d27xjp5mgx5dgc.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
@@ -1384,11 +1392,11 @@
           "url": "https://www.azathabawufh72p32pkatgc7mamx5cjmulx7qnxxo42dvmib2wsndrqd.onion"
         },
         {
-          "created_at": "2026-04-11T12:26:03.367747+00:00",
+          "created_at": "2026-04-11T15:30:03.086559+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-10T10:10:04.456517+00:00",
-          "url": "https://d2dc6h1v2sqeed.cloudfront.net"
+          "updated_at": "2026-04-11T12:26:04.652868+00:00",
+          "url": "https://d2jaizpacoqhci.cloudfront.net"
         }
       ],
       "main_domain": "azathabar.com"
