@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-10T16:20:03.071709+00:00",
+          "created_at": "2026-04-12T05:54:03.808101+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-10T16:18:06.404285+00:00",
-          "url": "https://d39evugsql4tcq.cloudfront.net"
+          "updated_at": "2026-04-11T22:12:04.974491+00:00",
+          "url": "https://d3s0wzf6r4akrd.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -1006,11 +1006,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-11T09:30:04.092996+00:00",
+          "created_at": "2026-04-12T05:54:03.792539+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-11T07:06:04.910519+00:00",
-          "url": "https://d23bjkwmshjdfg.cloudfront.net"
+          "updated_at": "2026-04-11T20:34:04.852668+00:00",
+          "url": "https://d1x4rdvlx218i1.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1226,15 +1226,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-10T08:04:02.729001+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-10T08:02:06.837150+00:00",
-          "url": "https://d1m8tdfo2rowxi.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
@@ -2811,11 +2803,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-11T11:06:03.467839+00:00",
+          "created_at": "2026-04-12T05:54:03.822909+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-11T04:26:06.332847+00:00",
-          "url": "https://d3qgk54p9374fs.cloudfront.net"
+          "updated_at": "2026-04-11T19:22:06.054328+00:00",
+          "url": "https://dq5bwlc9ji8p5.cloudfront.net"
         }
       ],
       "main_domain": "zona.media"
