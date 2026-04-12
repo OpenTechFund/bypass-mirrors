@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-10T07:28:02.709323+00:00",
+          "created_at": "2026-04-12T08:46:01.996498+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-09T10:40:05.103032+00:00",
-          "url": "https://d377gl03s9o067.cloudfront.net"
+          "updated_at": "2026-04-11T13:50:04.408924+00:00",
+          "url": "https://dgww25qcn5y68.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-04-10T06:20:02.590731+00:00",
+          "created_at": "2026-04-12T08:48:02.254557+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-08T08:20:04.509328+00:00",
-          "url": "https://dkpx82uvw0dvc.cloudfront.net"
+          "updated_at": "2026-04-10T10:40:04.298901+00:00",
+          "url": "https://d4a5a12w6lxy2.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
