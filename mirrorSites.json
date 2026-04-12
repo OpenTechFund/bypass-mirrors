@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-11T15:16:02.488145+00:00",
+          "created_at": "2026-04-12T10:50:03.849594+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-11T15:14:05.917752+00:00",
-          "url": "https://d1wtobgm5dt1nr.cloudfront.net"
+          "updated_at": "2026-04-12T09:54:05.860447+00:00",
+          "url": "https://dvl1nva9p58kq.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -527,11 +527,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-12T07:54:03.058746+00:00",
+          "created_at": "2026-04-12T10:58:03.675050+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-11T15:22:04.147040+00:00",
-          "url": "https://d1j5blyaaawafp.cloudfront.net"
+          "updated_at": "2026-04-12T09:38:04.338512+00:00",
+          "url": "https://d2zwffcebavtqm.cloudfront.net"
         }
       ],
       "main_domain": "kloop.kg"
