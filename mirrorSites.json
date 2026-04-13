@@ -546,11 +546,11 @@
           "url": "https://ktat.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2026-02-23T04:39:02.847752+00:00",
+          "created_at": "2026-04-13T07:22:03.335029+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-02-22T01:03:03.464484+00:00",
-          "url": "https://d2wmyk4i66aagc.cloudfront.net"
+          "updated_at": "2026-04-12T22:58:05.641129+00:00",
+          "url": "https://d1i89egdzsc6qf.cloudfront.net"
         }
       ],
       "main_domain": "ktat.krymr.com"
