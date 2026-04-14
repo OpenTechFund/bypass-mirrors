@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-04-12T08:48:02.254557+00:00",
+          "created_at": "2026-04-14T12:50:03.295035+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-10T10:40:04.298901+00:00",
-          "url": "https://d4a5a12w6lxy2.cloudfront.net"
+          "updated_at": "2026-04-12T12:12:03.811508+00:00",
+          "url": "https://d2lxfu6famav7x.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -2096,11 +2096,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-04-13T17:14:04.080440+00:00",
+          "created_at": "2026-04-14T12:50:03.820273+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-13T15:54:05.359832+00:00",
-          "url": "https://d8a508jxyc7nd.cloudfront.net"
+          "updated_at": "2026-04-14T11:46:05.256863+00:00",
+          "url": "https://d3vatz733gpdcy.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
