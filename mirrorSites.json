@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-14T13:14:04.727023+00:00",
+          "created_at": "2026-04-14T21:46:04.203385+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-14T06:34:06.263675+00:00",
-          "url": "https://d3cfsrfowj24h4.cloudfront.net"
+          "updated_at": "2026-04-14T20:42:06.818092+00:00",
+          "url": "https://d2z2iaj81hrndw.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -2058,11 +2058,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2026-04-14T09:38:04.068985+00:00",
+          "created_at": "2026-04-14T21:46:04.087665+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-14T06:34:05.773781+00:00",
-          "url": "https://d2ixajp39hvbtd.cloudfront.net"
+          "updated_at": "2026-04-14T09:38:05.738111+00:00",
+          "url": "https://d1zcn9kfkyloo3.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
