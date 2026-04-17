@@ -2096,11 +2096,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-04-16T19:56:04.188478+00:00",
+          "created_at": "2026-04-17T05:08:04.160817+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-16T08:36:05.069879+00:00",
-          "url": "https://d3fdyl5fad3s6h.cloudfront.net"
+          "updated_at": "2026-04-16T19:56:05.914249+00:00",
+          "url": "https://d1miyhn6y234fu.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
