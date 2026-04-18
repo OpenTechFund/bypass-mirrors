@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-18T05:24:03.392669+00:00",
+          "created_at": "2026-04-18T16:04:03.598715+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-17T16:12:05.975046+00:00",
-          "url": "https://dcasdyknbrkz2.cloudfront.net"
+          "updated_at": "2026-04-18T05:24:05.771637+00:00",
+          "url": "https://d3pv8bfkuvyd69.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-04-16T15:16:03.263084+00:00",
+          "created_at": "2026-04-18T16:00:02.631243+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-14T14:38:03.660390+00:00",
-          "url": "https://d1ddfwhi2mosuh.cloudfront.net"
+          "updated_at": "2026-04-16T20:32:04.344517+00:00",
+          "url": "https://d3b6fxndke0408.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
