@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-17T01:40:03.182619+00:00",
+          "created_at": "2026-04-19T06:18:02.410664+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-16T19:38:05.322658+00:00",
-          "url": "https://d2ajinfy2ecahq.cloudfront.net"
+          "updated_at": "2026-04-18T23:36:04.938482+00:00",
+          "url": "https://d1azky6xy4j9dj.cloudfront.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-18T21:08:03.963540+00:00",
+          "created_at": "2026-04-19T06:12:04.331959+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-18T07:40:05.419795+00:00",
-          "url": "https://dj4kbcpd8ji1v.cloudfront.net"
+          "updated_at": "2026-04-18T21:08:05.359264+00:00",
+          "url": "https://d3s780q79vvphh.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
