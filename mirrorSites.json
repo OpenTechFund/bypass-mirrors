@@ -603,11 +603,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-04-18T16:00:02.631243+00:00",
+          "created_at": "2026-04-20T20:14:02.256425+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-16T20:32:04.344517+00:00",
-          "url": "https://d3b6fxndke0408.cloudfront.net"
+          "updated_at": "2026-04-18T22:22:04.659320+00:00",
+          "url": "https://d3ivqm4u5xkcni.cloudfront.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
@@ -1837,11 +1837,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:52:05.358068+00:00",
+          "created_at": "2026-04-20T20:12:03.408122+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T00:44:05.803754+00:00",
-          "url": "https://dmk5ua4i0yx6s.cloudfront.net"
+          "updated_at": "2026-04-20T19:08:05.239128+00:00",
+          "url": "https://d31xs5aebfzcz5.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
