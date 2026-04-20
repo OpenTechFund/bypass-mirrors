@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:52:04.841700+00:00",
+          "created_at": "2026-04-20T05:56:03.331386+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T00:44:05.401160+00:00",
-          "url": "https://d131nf7gli8ijv.cloudfront.net"
+          "updated_at": "2026-04-20T03:48:06.558474+00:00",
+          "url": "https://d3qmt0xkqxxuot.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:52:05.204449+00:00",
+          "created_at": "2026-04-20T05:56:03.750134+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-19T18:36:04.990597+00:00",
-          "url": "https://d7t3h738yeok2.cloudfront.net"
+          "updated_at": "2026-04-20T02:52:06.350956+00:00",
+          "url": "https://d15hzt73c368q6.cloudfront.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
@@ -696,11 +696,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:52:05.415435+00:00",
+          "created_at": "2026-04-20T05:56:03.957790+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-10T06:52:05.665738+00:00",
-          "url": "https://d2v8mlqa7qhhd8.cloudfront.net"
+          "updated_at": "2026-04-20T03:08:06.703752+00:00",
+          "url": "https://d1j3538ui8raeb.cloudfront.net"
         }
       ],
       "main_domain": "ocb.bypasscensorship.org"
@@ -1006,11 +1006,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:52:04.814744+00:00",
+          "created_at": "2026-04-20T05:56:03.315505+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T00:44:05.050655+00:00",
-          "url": "https://d34raagovijg1h.cloudfront.net"
+          "updated_at": "2026-04-20T03:48:06.192799+00:00",
+          "url": "https://d18spfpew0bcwj.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
