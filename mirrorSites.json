@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:54:03.399663+00:00",
+          "created_at": "2026-04-21T11:00:03.997879+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T02:52:07.666360+00:00",
-          "url": "https://dwdyvkyvz8kmx.cloudfront.net"
+          "updated_at": "2026-04-21T09:40:05.830340+00:00",
+          "url": "https://d1uszpf07e8ewl.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -744,11 +744,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T02:54:03.381913+00:00",
+          "created_at": "2026-04-21T11:00:03.980350+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T02:52:07.613236+00:00",
-          "url": "https://dk27mi20jxn15.cloudfront.net"
+          "updated_at": "2026-04-20T02:54:05.598479+00:00",
+          "url": "https://dcryrpykerwpo.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
