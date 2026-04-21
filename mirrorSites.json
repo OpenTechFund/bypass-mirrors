@@ -744,11 +744,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-21T11:00:03.980350+00:00",
+          "created_at": "2026-04-21T14:04:04.442283+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T02:54:05.598479+00:00",
-          "url": "https://dcryrpykerwpo.cloudfront.net"
+          "updated_at": "2026-04-21T11:00:06.107102+00:00",
+          "url": "https://d11crrjupi7eso.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
