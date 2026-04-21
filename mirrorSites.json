@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T19:24:03.378012+00:00",
+          "created_at": "2026-04-21T17:48:03.394112+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-20T04:44:04.848501+00:00",
-          "url": "https://d2dgn4lld5prtv.cloudfront.net"
+          "updated_at": "2026-04-21T11:00:05.292317+00:00",
+          "url": "https://d2j2iwylkd0sho.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
