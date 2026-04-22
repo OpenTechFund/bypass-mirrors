@@ -1216,11 +1216,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-20T07:10:02.851412+00:00",
+          "created_at": "2026-04-22T08:36:03.652915+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-19T11:50:04.271437+00:00",
-          "url": "https://d1z6ndesa9dviw.cloudfront.net"
+          "updated_at": "2026-04-21T15:42:05.100775+00:00",
+          "url": "https://d2xkj1ruqbu1i7.cloudfront.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
