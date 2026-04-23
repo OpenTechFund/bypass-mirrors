@@ -1056,11 +1056,11 @@
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
         },
         {
-          "created_at": "2026-04-22T07:48:03.156117+00:00",
+          "created_at": "2026-04-23T03:56:03.177247+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-22T05:24:05.724330+00:00",
-          "url": "https://d3slq7qtcgppe5.cloudfront.net"
+          "updated_at": "2026-04-22T07:48:05.267109+00:00",
+          "url": "https://d1pf35u0pjvmxt.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
