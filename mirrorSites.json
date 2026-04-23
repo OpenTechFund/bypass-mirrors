@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-21T15:36:03.767864+00:00",
+          "created_at": "2026-04-23T16:46:03.644642+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-19T09:54:03.702784+00:00",
-          "url": "https://d1et3jqhadjn4h.cloudfront.net"
+          "updated_at": "2026-04-21T15:36:04.276852+00:00",
+          "url": "https://d2dv6uat625i7l.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -856,11 +856,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-21T15:30:02.804801+00:00",
+          "created_at": "2026-04-23T16:48:03.075423+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-21T01:52:04.975419+00:00",
-          "url": "https://d16d0fxbg27dsx.cloudfront.net"
+          "updated_at": "2026-04-23T02:44:06.221285+00:00",
+          "url": "https://d15nkr1c938dn7.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
