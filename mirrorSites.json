@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-25T18:18:02.765642+00:00",
+          "created_at": "2026-04-27T22:36:03.382419+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-23T16:46:04.124335+00:00",
-          "url": "https://d3m7pkazuqv7qq.cloudfront.net"
+          "updated_at": "2026-04-25T18:18:03.251609+00:00",
+          "url": "https://d253uradmfddbn.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
