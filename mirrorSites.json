@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-28T07:26:02.912517+00:00",
+          "created_at": "2026-04-28T15:50:02.618201+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-27T16:22:04.650400+00:00",
-          "url": "https://d1iqjmla54xjl9.cloudfront.net"
+          "updated_at": "2026-04-28T07:26:05.022090+00:00",
+          "url": "https://d3brf3du9s3dpn.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -2094,13 +2094,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2026-04-27T10:06:02.553190+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-27T06:06:04.399955+00:00",
-          "url": "https://d25sltqcxffjd7.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
