@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2026-04-26T05:36:03.019828+00:00",
+          "created_at": "2026-04-28T07:00:03.358387+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-24T02:10:03.822553+00:00",
-          "url": "https://d2yzt0ipb97vrl.cloudfront.net"
+          "updated_at": "2026-04-26T05:36:03.120631+00:00",
+          "url": "https://d21qzaus0szb2k.cloudfront.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1144,11 +1144,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-04-26T04:02:02.902223+00:00",
+          "created_at": "2026-04-28T06:56:02.449750+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-25T16:18:04.237538+00:00",
-          "url": "https://d121wos9skgyrm.cloudfront.net"
+          "updated_at": "2026-04-27T17:20:04.179888+00:00",
+          "url": "https://d270cxn17ci4z0.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
