@@ -496,11 +496,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-29T06:02:03.077473+00:00",
+          "created_at": "2026-04-30T18:54:02.438518+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-28T16:06:05.297576+00:00",
-          "url": "https://d1vts61abxu1qk.cloudfront.net"
+          "updated_at": "2026-04-29T23:58:05.277470+00:00",
+          "url": "https://d2cjfcqki6p95k.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -525,15 +525,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-27T14:46:02.173388+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-26T20:38:03.474568+00:00",
-          "url": "https://drxl07lwz4dih.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -2809,15 +2801,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-28T21:50:02.902298+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-28T16:14:05.413759+00:00",
-          "url": "https://d325rv1e3ocuwp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
