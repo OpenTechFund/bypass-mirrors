@@ -1228,11 +1228,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-30T17:26:02.686733+00:00",
+          "created_at": "2026-05-01T23:10:02.704259+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-30T03:02:06.210677+00:00",
-          "url": "https://d7erup47oaoda.cloudfront.net"
+          "updated_at": "2026-04-30T17:26:06.346251+00:00",
+          "url": "https://d23q1ro95n4zwa.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
