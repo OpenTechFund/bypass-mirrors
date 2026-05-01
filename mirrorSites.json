@@ -856,11 +856,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-04-29T20:28:02.762331+00:00",
+          "created_at": "2026-05-01T22:46:03.141428+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-29T12:32:05.570450+00:00",
-          "url": "https://d1f8o2wwppnzhj.cloudfront.net"
+          "updated_at": "2026-05-01T14:34:05.127730+00:00",
+          "url": "https://djfrepwb9q256.cloudfront.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
