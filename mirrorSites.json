@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-04-30T18:06:02.259773+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-30T17:08:05.272988+00:00",
-          "url": "https://dhh54hespmwgw.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -1226,15 +1218,7 @@
       "main_domain": "voa-video.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-01T23:10:02.704259+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-04-30T17:26:06.346251+00:00",
-          "url": "https://d23q1ro95n4zwa.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "vpn-ru.net"
     },
     {
