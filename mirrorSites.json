@@ -494,15 +494,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-02T23:26:03.038724+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-02T20:22:05.390550+00:00",
-          "url": "https://d1oarlu6vqv439.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -525,15 +517,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-02T20:16:02.353659+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-02T20:14:03.432329+00:00",
-          "url": "https://dfe1lf6c12dnd.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -975,11 +959,11 @@
           "url": "https://ru.krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion"
         },
         {
-          "created_at": "2026-04-16T19:16:03.159796+00:00",
+          "created_at": "2026-05-04T22:46:02.184581+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-04-16T05:56:04.218207+00:00",
-          "url": "https://d1nm9his2drspj.cloudfront.net"
+          "updated_at": "2026-05-04T20:14:04.152738+00:00",
+          "url": "https://d1gydayz2w70yv.cloudfront.net"
         }
       ],
       "main_domain": "ru.krymr.com"
@@ -1004,15 +988,7 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-02T20:22:02.388597+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-02T19:34:04.222876+00:00",
-          "url": "https://d162osg5atoa01.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -2809,15 +2785,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-02T20:22:02.416014+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-02T19:34:05.102896+00:00",
-          "url": "https://dqsluqffh39fr.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
