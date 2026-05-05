@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-04T22:38:02.944193+00:00",
+          "created_at": "2026-05-05T01:42:03.517223+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-02T23:18:05.001106+00:00",
-          "url": "https://d1dd6qghsw9wg3.cloudfront.net"
+          "updated_at": "2026-05-04T23:10:04.549093+00:00",
+          "url": "https://dfdtxwfw3vx6n.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -744,11 +744,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-04T22:38:03.119884+00:00",
+          "created_at": "2026-05-05T01:42:03.698545+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-03T06:06:05.557554+00:00",
-          "url": "https://d2nfn4cigimvtb.cloudfront.net"
+          "updated_at": "2026-05-04T23:10:05.612559+00:00",
+          "url": "https://d2yhg8l5u59rik.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -2058,11 +2058,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2026-05-04T22:38:03.071488+00:00",
+          "created_at": "2026-05-05T01:42:03.651039+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-02T23:18:05.413426+00:00",
-          "url": "https://dktg3q7jovqf1.cloudfront.net"
+          "updated_at": "2026-05-04T23:10:04.914628+00:00",
+          "url": "https://d3zebl1smp2yt.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
