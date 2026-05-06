@@ -1192,11 +1192,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-04T06:26:02.549608+00:00",
+          "created_at": "2026-05-06T09:16:03.034754+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-03T11:52:05.432745+00:00",
-          "url": "https://dgyb9jqn80117.cloudfront.net"
+          "updated_at": "2026-05-05T13:26:05.237149+00:00",
+          "url": "https://d2ouv9bc8bz3fm.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
