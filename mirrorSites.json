@@ -1204,11 +1204,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-06T19:26:03.078825+00:00",
+          "created_at": "2026-05-08T21:07:03.295876+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-05T15:22:05.876297+00:00",
-          "url": "https://d3p5d2222q3tad.cloudfront.net"
+          "updated_at": "2026-05-07T17:49:05.813702+00:00",
+          "url": "https://d1ppwcs3kd00iq.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
