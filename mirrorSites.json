@@ -1037,11 +1037,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-06T15:06:02.306431+00:00",
+          "created_at": "2026-05-08T18:01:01.705704+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-05T06:20:05.657392+00:00",
-          "url": "https://d1yj7ogl91g2zb.cloudfront.net"
+          "updated_at": "2026-05-07T09:22:05.009767+00:00",
+          "url": "https://d3p1ag2dqhjn89.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
