@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-06T13:02:02.948256+00:00",
+          "created_at": "2026-05-08T16:41:03.520908+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-04T10:22:04.282887+00:00",
-          "url": "https://d3vgx52van7c1o.cloudfront.net"
+          "updated_at": "2026-05-06T13:02:03.497553+00:00",
+          "url": "https://de6blnwg47gxm.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-06T14:34:03.306740+00:00",
+          "created_at": "2026-05-08T16:41:03.476208+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-06T07:24:05.202521+00:00",
-          "url": "https://drphg2czkivmf.cloudfront.net"
+          "updated_at": "2026-05-06T19:50:05.764867+00:00",
+          "url": "https://dqrqx9cpq9w2i.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
