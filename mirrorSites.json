@@ -1054,6 +1054,13 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
+        },
+        {
+          "created_at": "2026-05-09T02:31:02.926233+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-09T02:29:05.803974+00:00",
+          "url": "https://d1amhrg3dgozzo.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2087,13 +2094,6 @@
           "type": "eotk",
           "updated_at": "2023-03-05 11:19:44.554435+00:00",
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
-        },
-        {
-          "created_at": "2026-05-06T23:34:03.007268+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-06T17:58:04.750861+00:00",
-          "url": "https://d3763md1q71wx0.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
