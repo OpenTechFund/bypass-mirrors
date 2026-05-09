@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-07T01:26:03.125201+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-06T23:56:04.907957+00:00",
-          "url": "https://dughd64b76lgv.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -494,15 +486,7 @@
       "main_domain": "ir.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-07T01:28:03.226894+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-07T01:26:05.957327+00:00",
-          "url": "https://d3s4t8p2goauyp.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "istories.media"
     },
     {
@@ -1228,11 +1212,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-07T18:29:02.793366+00:00",
+          "created_at": "2026-05-09T03:01:03.468473+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-07T09:02:05.422748+00:00",
-          "url": "https://d8c5dypxv6er5.cloudfront.net"
+          "updated_at": "2026-05-08T06:45:07.387390+00:00",
+          "url": "https://d2d75k6gfqink3.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
@@ -2809,15 +2793,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-07T01:28:03.206047+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-07T01:26:05.875393+00:00",
-          "url": "https://d3oz0l9t7uyex8.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
