@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-09T03:03:03.188390+00:00",
+          "created_at": "2026-05-11T06:13:03.668451+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-09T03:01:06.080859+00:00",
-          "url": "https://dlqnfvuc05cel.cloudfront.net"
+          "updated_at": "2026-05-11T05:51:05.030553+00:00",
+          "url": "https://d3j9l023jvm1k1.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -1006,11 +1006,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-09T03:57:03.129332+00:00",
+          "created_at": "2026-05-11T06:13:03.579649+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-09T03:03:04.868369+00:00",
-          "url": "https://d2hqskg4yf84w0.cloudfront.net"
+          "updated_at": "2026-05-11T05:49:05.456292+00:00",
+          "url": "https://d7qees6gy4e5m.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1228,11 +1228,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-10T03:41:02.832162+00:00",
+          "created_at": "2026-05-11T06:13:03.054524+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-09T13:49:06.144920+00:00",
-          "url": "https://dmsr1cbputdrk.cloudfront.net"
+          "updated_at": "2026-05-11T01:57:06.784583+00:00",
+          "url": "https://dzuydhhnzc7s1.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
@@ -2802,15 +2802,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-09T03:03:03.278092+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-09T03:01:06.556488+00:00",
-          "url": "https://d3fnziqj8b5gct.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
