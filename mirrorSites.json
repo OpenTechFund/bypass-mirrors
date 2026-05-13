@@ -208,15 +208,7 @@
       "main_domain": "burmese.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-11T06:13:03.668451+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-11T05:51:05.030553+00:00",
-          "url": "https://d3j9l023jvm1k1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "cdn.prod.website-files.com"
     },
     {
@@ -496,11 +488,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-11T08:53:03.481613+00:00",
+          "created_at": "2026-05-13T07:49:04.179092+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-11T05:49:06.438676+00:00",
-          "url": "https://dlz9lwaxp84sd.cloudfront.net"
+          "updated_at": "2026-05-11T08:53:06.354207+00:00",
+          "url": "https://d1bi6xs29jbuma.cloudfront.net"
         }
       ],
       "main_domain": "istories.media"
@@ -525,15 +517,7 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-11T05:27:02.542394+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-11T05:25:04.455509+00:00",
-          "url": "https://d1m7e9bdalc9p1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "kloop.kg"
     },
     {
@@ -672,11 +656,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-11T08:05:04.695378+00:00",
+          "created_at": "2026-05-13T07:49:04.433238+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-11T05:25:05.450500+00:00",
-          "url": "https://d3rbk7r7kfriax.cloudfront.net"
+          "updated_at": "2026-05-13T07:27:05.118836+00:00",
+          "url": "https://d2uykzskj6zu8w.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -732,11 +716,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-11T06:05:04.125991+00:00",
+          "created_at": "2026-05-13T07:49:04.546375+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-11T05:23:04.717970+00:00",
-          "url": "https://d36b5ur8vlo6e8.cloudfront.net"
+          "updated_at": "2026-05-11T08:29:06.028879+00:00",
+          "url": "https://dtj53wmfxu219.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
@@ -744,11 +728,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-11T05:57:04.220089+00:00",
+          "created_at": "2026-05-13T07:49:04.605860+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-11T05:05:05.592923+00:00",
-          "url": "https://dnse6uruw8vt1.cloudfront.net"
+          "updated_at": "2026-05-11T08:05:07.522146+00:00",
+          "url": "https://d355lpwg6ywlee.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1004,15 +988,7 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-11T06:13:03.579649+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-11T05:49:05.456292+00:00",
-          "url": "https://d7qees6gy4e5m.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1054,13 +1030,6 @@
           "type": "eotk",
           "updated_at": "2023-12-13 16:45:57.345794+00:00",
           "url": "https://tags.azatli7ifydxlltreov6fyvzwuflgggwdgry2cnxllzs7xpoh7qjmmid.onion"
-        },
-        {
-          "created_at": "2026-05-11T07:33:04.480361+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-11T04:45:05.512803+00:00",
-          "url": "https://dkqyy96olxmpp.cloudfront.net"
         }
       ],
       "main_domain": "tags.azatliq.org"
@@ -2809,15 +2778,7 @@
       "main_domain": "zeriamerikes.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-11T06:15:02.846095+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-11T06:13:06.380521+00:00",
-          "url": "https://d51ha1eh1n3vq.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "zona.media"
     }
   ],
