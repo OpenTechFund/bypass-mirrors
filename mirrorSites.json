@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-15T08:51:03.151860+00:00",
+          "created_at": "2026-05-15T11:57:03.745506+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-13T08:53:05.508431+00:00",
-          "url": "https://d69v496sk3r5u.cloudfront.net"
+          "updated_at": "2026-05-15T09:57:05.517940+00:00",
+          "url": "https://d1h53isp22vf32.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-13T10:45:02.727640+00:00",
+          "created_at": "2026-05-15T11:57:03.069788+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-11T11:49:06.453594+00:00",
-          "url": "https://del4zzl2kgrj9.cloudfront.net"
+          "updated_at": "2026-05-13T13:17:05.293046+00:00",
+          "url": "https://dqkc5mblluggl.cloudfront.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
