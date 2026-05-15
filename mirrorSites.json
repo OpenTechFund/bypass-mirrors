@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-13T07:49:04.433238+00:00",
+          "created_at": "2026-05-15T09:25:04.554024+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-13T07:27:05.118836+00:00",
-          "url": "https://d2uykzskj6zu8w.cloudfront.net"
+          "updated_at": "2026-05-13T10:29:05.346731+00:00",
+          "url": "https://d3m5n7koin4hlj.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
