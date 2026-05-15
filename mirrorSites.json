@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-13T09:01:03.827079+00:00",
+          "created_at": "2026-05-15T10:01:02.637539+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-13T07:09:06.382424+00:00",
-          "url": "https://duixy5vyznfbv.cloudfront.net"
+          "updated_at": "2026-05-15T09:23:05.188480+00:00",
+          "url": "https://d1utfx1abi5vsf.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -1228,11 +1228,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-13T21:25:03.193286+00:00",
+          "created_at": "2026-05-15T09:57:02.608150+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-13T07:17:06.954211+00:00",
-          "url": "https://d3t6zvwzeucen3.cloudfront.net"
+          "updated_at": "2026-05-15T09:17:07.172292+00:00",
+          "url": "https://d2x0bqyp0fx4v0.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
