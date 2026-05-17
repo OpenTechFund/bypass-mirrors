@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-15T11:57:03.745506+00:00",
+          "created_at": "2026-05-17T14:21:03.993712+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-15T09:57:05.517940+00:00",
-          "url": "https://d1h53isp22vf32.cloudfront.net"
+          "updated_at": "2026-05-17T14:15:05.265141+00:00",
+          "url": "https://d239epqsjni9p5.cloudfront.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
@@ -525,7 +525,15 @@
       "main_domain": "khmer.voanews.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-05-17T14:15:02.892828+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T14:13:05.479252+00:00",
+          "url": "https://d2xqvy3ojoxg7v.cloudfront.net"
+        }
+      ],
       "main_domain": "kloop.kg"
     },
     {
@@ -676,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-17T11:15:02.846755+00:00",
+          "created_at": "2026-05-17T14:21:04.430974+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-15T11:25:06.762535+00:00",
-          "url": "https://dj8za7ikusq1q.cloudfront.net"
+          "updated_at": "2026-05-17T13:49:06.697153+00:00",
+          "url": "https://d1xuw0botdqfvj.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -996,15 +1004,7 @@
       "main_domain": "rus.azatutyun.am"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-15T10:31:02.433209+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-15T10:29:05.285129+00:00",
-          "url": "https://d1da44vsa0oys2.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "semnasem.org"
     },
     {
@@ -1220,11 +1220,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-15T09:57:02.608150+00:00",
+          "created_at": "2026-05-17T14:21:03.376019+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-15T09:17:07.172292+00:00",
-          "url": "https://d2x0bqyp0fx4v0.cloudfront.net"
+          "updated_at": "2026-05-17T13:57:07.121256+00:00",
+          "url": "https://d3kb2ryz5z7ata.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
@@ -2048,6 +2048,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 13:03:19.622210+00:00",
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
+        },
+        {
+          "created_at": "2026-05-17T14:15:03.405451+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T14:13:06.873654+00:00",
+          "url": "https://d1tqdps463afh2.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
