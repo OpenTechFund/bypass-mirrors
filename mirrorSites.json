@@ -1144,11 +1144,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-05-15T03:33:03.478033+00:00",
+          "created_at": "2026-05-17T06:57:02.165077+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-14T18:17:04.631928+00:00",
-          "url": "https://d2r10guo1akxfd.cloudfront.net"
+          "updated_at": "2026-05-16T20:47:03.879269+00:00",
+          "url": "https://d1tv4vdvvq5r9z.cloudfront.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
@@ -1204,11 +1204,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-15T05:39:02.781721+00:00",
+          "created_at": "2026-05-17T06:59:02.746771+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-13T20:55:06.056443+00:00",
-          "url": "https://d3tlpevesvgdmj.cloudfront.net"
+          "updated_at": "2026-05-15T21:25:06.652495+00:00",
+          "url": "https://dn9rty1enzj0z.cloudfront.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
