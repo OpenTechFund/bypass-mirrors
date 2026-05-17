@@ -1547,6 +1547,13 @@
           "type": "eotk",
           "updated_at": "2023-12-01 15:25:12.706523+00:00",
           "url": "https://www.darivoaw7yax3xqupowgqshowtkunw3xhwtwz7pxhwdtlur47jzawzad.onion"
+        },
+        {
+          "created_at": "2026-05-17T17:59:02.795005+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T17:09:05.058421+00:00",
+          "url": "https://d18u9gj6sdh6vg.cloudfront.net"
         }
       ],
       "main_domain": "darivoa.com"
@@ -2374,11 +2381,11 @@
           "url": "https://www.voacantcyyw6rfky52ziiahprgocf4gbzcgkjn3v7vqixqsca5fcncid.onion"
         },
         {
-          "created_at": "2026-05-17T15:01:04.275539+00:00",
+          "created_at": "2026-05-17T18:05:04.172978+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-29T14:46:04.121862+00:00",
-          "url": "https://d30s2ozc385dt9.cloudfront.net"
+          "updated_at": "2026-05-17T16:21:07.096191+00:00",
+          "url": "https://d1ehnk1a5k2ey8.cloudfront.net"
         }
       ],
       "main_domain": "voacantonese.com"
@@ -2659,11 +2666,11 @@
           "url": "https://www.voatibe2tapf3u43p7vxtsdvtyhnsunhaf6azd4rua6i2ifqfsfpttad.onion"
         },
         {
-          "created_at": "2026-05-17T15:01:04.189953+00:00",
+          "created_at": "2026-05-17T18:05:04.085770+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-29T13:10:03.631847+00:00",
-          "url": "https://d2gj16nohk09cg.cloudfront.net"
+          "updated_at": "2026-05-17T17:41:05.212675+00:00",
+          "url": "https://doxgj2zj6lqyr.cloudfront.net"
         }
       ],
       "main_domain": "voatibetan.com"
