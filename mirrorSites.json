@@ -351,6 +351,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:21:24.643191+00:00",
           "url": "https://gandhara.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2026-05-17T18:23:02.568780+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T18:21:05.733104+00:00",
+          "url": "https://d2b7mpdb7bqyyd.cloudfront.net"
         }
       ],
       "main_domain": "gandhara.rferl.org"
@@ -899,11 +906,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-05-15T16:15:02.487679+00:00",
+          "created_at": "2026-05-17T18:39:02.626282+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-14T00:05:05.552579+00:00",
-          "url": "https://d9490a8sia92m.cloudfront.net"
+          "updated_at": "2026-05-16T02:37:06.201986+00:00",
+          "url": "https://d2lp1rqxxt23l5.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
@@ -2165,11 +2172,11 @@
           "url": "https://www.slobodywx62cpvxsuzcmekn3ymr2ykaq6j6mrkggtgdx7puneojmqaid.onion"
         },
         {
-          "created_at": "2025-12-13T12:13:03.741906+00:00",
+          "created_at": "2026-05-17T18:37:03.193916+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2025-12-13T12:13:03.741910+00:00",
-          "url": "https://d38ci5f9oeju3g.cloudfront.net"
+          "updated_at": "2026-05-17T16:53:04.957891+00:00",
+          "url": "https://drzg87xpbd2sx.cloudfront.net"
         }
       ],
       "main_domain": "slobodnaevropa.mk"
