@@ -563,6 +563,13 @@
           "type": "eotk",
           "updated_at": "2023-04-22 14:20:27.420161+00:00",
           "url": "https://lao.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2026-05-17T20:31:03.246333+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T20:31:03.246337+00:00",
+          "url": "https://d1d84szt5ixf62.cloudfront.net"
         }
       ],
       "main_domain": "lao.voanews.com"
@@ -2543,6 +2550,13 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:56:09.222327+00:00",
           "url": "https://www.nouveldrx4kwkw4be2yiur3jl2f6gpdkwb35q5fdvibvijg2sutkxuid.onion"
+        },
+        {
+          "created_at": "2026-05-17T20:29:04.310269+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T20:29:04.310273+00:00",
+          "url": "https://d1xndcu8s7opc.cloudfront.net"
         }
       ],
       "main_domain": "voanouvel.com"
