@@ -887,11 +887,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-16T05:59:02.194093+00:00",
+          "created_at": "2026-05-18T08:31:02.805560+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-15T12:27:05.861859+00:00",
-          "url": "https://d3clgod25ttel9.cloudfront.net"
+          "updated_at": "2026-05-17T14:41:06.223192+00:00",
+          "url": "https://d2khkd0s5ft14u.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
