@@ -196,13 +196,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:52:24.428630+00:00",
           "url": "https://burmese.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2025-12-13T09:51:02.519278+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-13T09:51:02.519284+00:00",
-          "url": "https://d3gudymcw365zg.cloudfront.net"
         }
       ],
       "main_domain": "burmese.voanews.com"
@@ -744,11 +737,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-19T14:25:03.211827+00:00",
+          "created_at": "2026-05-19T19:43:04.312608+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T15:33:07.551444+00:00",
-          "url": "https://d1s3h9opgu1d22.cloudfront.net"
+          "updated_at": "2026-05-19T18:15:06.903000+00:00",
+          "url": "https://dwc8v2thhz011.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1006,11 +999,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-17T14:23:03.035643+00:00",
+          "created_at": "2026-05-19T19:51:03.702663+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T14:21:05.832807+00:00",
-          "url": "https://djhff7ujdbkcr.cloudfront.net"
+          "updated_at": "2026-05-19T18:49:04.697607+00:00",
+          "url": "https://d8oktpn48gj0i.cloudfront.net"
         }
       ],
       "main_domain": "semnasem.org"
@@ -1238,15 +1231,7 @@
       "main_domain": "vpn-ru.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-17T15:19:03.057182+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-17T15:17:06.269942+00:00",
-          "url": "https://dw053qmtjw2ut.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
@@ -1316,11 +1301,11 @@
           "url": "https://www.ovoziamsovb7h7pvjeyr632pjcb4xdx3ctkznm5w53teyp7wbatpvqid.onion"
         },
         {
-          "created_at": "2026-05-17T17:05:02.655067+00:00",
+          "created_at": "2026-05-19T19:51:03.849061+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T17:03:05.049010+00:00",
-          "url": "https://d2zh58r6k3bdzj.cloudfront.net"
+          "updated_at": "2026-05-19T18:55:06.234991+00:00",
+          "url": "https://d24st9jqbpxsc6.cloudfront.net"
         }
       ],
       "main_domain": "amerikaovozi.com"
@@ -2058,11 +2043,11 @@
           "url": "https://www.marti4lvds5k32mucpbucyuzdbnr5sfr4uwtv26hvv3p3bo6izxmfwad.onion"
         },
         {
-          "created_at": "2026-05-17T14:15:03.405451+00:00",
+          "created_at": "2026-05-19T19:43:04.259598+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T14:13:06.873654+00:00",
-          "url": "https://d1tqdps463afh2.cloudfront.net"
+          "updated_at": "2026-05-19T19:05:05.280887+00:00",
+          "url": "https://d6qw93p6rehfn.cloudfront.net"
         }
       ],
       "main_domain": "radiotelevisionmarti.com"
@@ -2115,11 +2100,11 @@
           "url": "https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-05-17T15:19:02.740620+00:00",
+          "created_at": "2026-05-19T19:51:03.303508+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T15:17:05.829957+00:00",
-          "url": "https://ddeaglpdbdng4.cloudfront.net"
+          "updated_at": "2026-05-19T18:47:06.041724+00:00",
+          "url": "https://d2d3u6qsdp93kf.cloudfront.net"
         }
       ],
       "main_domain": "rferl.org"
@@ -2265,13 +2250,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:45:41.501864+00:00",
           "url": "https://www.urduvo6lm7jua2ewtpps7qwocv4yampizls4vmb4jqjlnyqxx5euddad.onion"
-        },
-        {
-          "created_at": "2026-05-18T07:41:03.663799+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-17T20:33:06.243050+00:00",
-          "url": "https://d15hbmbzmkrbj1.cloudfront.net"
         }
       ],
       "main_domain": "urduvoa.com"
