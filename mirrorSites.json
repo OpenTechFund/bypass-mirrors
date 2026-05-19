@@ -937,11 +937,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-05-17T17:53:02.653616+00:00",
+          "created_at": "2026-05-19T21:39:02.197950+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-16T20:45:07.170494+00:00",
-          "url": "https://d3nexm311ch0ux.cloudfront.net"
+          "updated_at": "2026-05-19T00:57:05.359793+00:00",
+          "url": "https://d8nldt6ug5o95.cloudfront.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
