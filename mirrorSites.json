@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-17T14:21:04.430974+00:00",
+          "created_at": "2026-05-19T17:07:03.730682+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T13:49:06.697153+00:00",
-          "url": "https://d1xuw0botdqfvj.cloudfront.net"
+          "updated_at": "2026-05-19T14:57:05.964996+00:00",
+          "url": "https://d18eo4bsi50bw2.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
@@ -1168,11 +1168,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-17T16:03:03.593164+00:00",
+          "created_at": "2026-05-19T17:09:03.687678+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T12:01:05.453182+00:00",
-          "url": "https://d3fvio2nozrfv8.cloudfront.net"
+          "updated_at": "2026-05-19T15:13:05.747875+00:00",
+          "url": "https://d1tipq350v0cm9.cloudfront.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
