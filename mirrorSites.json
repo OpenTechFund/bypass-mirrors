@@ -1515,6 +1515,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:28:56.963808+00:00",
           "url": "https://www.dengewigx3npuf2ygy7426qf2mjrqcoponqzavaeb5wfhaz6imwrcxqd.onion"
+        },
+        {
+          "created_at": "2026-05-19T18:49:02.790743+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-17T17:49:04.781576+00:00",
+          "url": "https://d35ov1v09i7fso.cloudfront.net"
         }
       ],
       "main_domain": "dengeamerika.com"
@@ -1840,11 +1847,11 @@
           "url": "https://www.ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion"
         },
         {
-          "created_at": "2026-05-17T15:17:04.170573+00:00",
+          "created_at": "2026-05-19T18:55:03.417184+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T13:25:05.454741+00:00",
-          "url": "https://d319thybct34yg.cloudfront.net"
+          "updated_at": "2026-05-19T17:35:05.606288+00:00",
+          "url": "https://d23y204yhtginn.cloudfront.net"
         }
       ],
       "main_domain": "ozodlik.org"
@@ -2596,13 +2603,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:47:03.616623+00:00",
           "url": "https://www.voatien4apzqfopuuwwp3qu4otta5ble36gfif34hyyugnsk7e2niaqd.onion"
-        },
-        {
-          "created_at": "2025-12-13T12:13:04.180069+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2025-12-13T12:13:04.180070+00:00",
-          "url": "https://d2x7akd4y52ann.cloudfront.net"
         }
       ],
       "main_domain": "voatiengviet.com"
