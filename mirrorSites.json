@@ -1228,11 +1228,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-19T18:23:03.347665+00:00",
+          "created_at": "2026-05-19T21:27:03.657510+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T16:21:07.674323+00:00",
-          "url": "https://djxbtgj23p7gt.cloudfront.net"
+          "updated_at": "2026-05-19T18:23:07.284906+00:00",
+          "url": "https://d3erh0s4druhkf.cloudfront.net"
         }
       ],
       "main_domain": "vpn-ru.net"
@@ -2248,11 +2248,11 @@
           "url": "https://www.svobode7iefuvxtpfrg3clrkm7fn5ahksyiwp75bc55cxyp3ng2c3qad.onion"
         },
         {
-          "created_at": "2026-05-17T17:17:03.704230+00:00",
+          "created_at": "2026-05-19T21:29:03.063539+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T17:17:03.704235+00:00",
-          "url": "https://d1zitpjfmdv4o7.cloudfront.net"
+          "updated_at": "2026-05-19T21:27:06.366065+00:00",
+          "url": "https://d2l5ei4y28w5k1.cloudfront.net"
         }
       ],
       "main_domain": "svobodnaevropa.bg"
