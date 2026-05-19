@@ -482,6 +482,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:24:14.007851+00:00",
           "url": "https://ir.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
+        },
+        {
+          "created_at": "2026-05-19T20:17:03.174102+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-19T19:45:04.082618+00:00",
+          "url": "https://diqix2ilqyhif.cloudfront.net"
         }
       ],
       "main_domain": "ir.voanews.com"
@@ -1578,6 +1585,13 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:27:05.972337+00:00",
           "url": "https://www.dengirbfpbimmpbqzeo77ktghxv5vjjxkemt5ey46wknhpvnznx2k3qd.onion"
+        },
+        {
+          "created_at": "2026-05-19T20:17:03.183472+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-05-19T18:47:05.800939+00:00",
+          "url": "https://d2fch9xdif2j9j.cloudfront.net"
         }
       ],
       "main_domain": "dengiamerika.com"
