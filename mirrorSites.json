@@ -29,11 +29,11 @@
           "url": "https://archive.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
         },
         {
-          "created_at": "2026-05-18T02:55:02.131854+00:00",
+          "created_at": "2026-05-20T04:37:02.924568+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-16T06:39:03.970328+00:00",
-          "url": "https://d2x0j8qzerhzv2.cloudfront.net"
+          "updated_at": "2026-05-18T09:09:06.086082+00:00",
+          "url": "https://d2f1wrdfspozww.cloudfront.net"
         }
       ],
       "main_domain": "archive.svaboda.org"
@@ -179,11 +179,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-05-18T00:53:04.354584+00:00",
+          "created_at": "2026-05-20T04:43:02.922299+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-16T21:41:04.934898+00:00",
-          "url": "https://d3h29e4la4a5h8.cloudfront.net"
+          "updated_at": "2026-05-18T22:31:05.719153+00:00",
+          "url": "https://d3w12jf2ous964.cloudfront.net"
         }
       ],
       "main_domain": "branding.rferl.org"
