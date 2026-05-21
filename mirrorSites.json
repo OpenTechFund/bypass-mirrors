@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-19T07:21:03.402472+00:00",
+          "created_at": "2026-05-21T09:29:03.564517+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T03:27:03.963227+00:00",
-          "url": "https://d9z7ojbz3i9xe.cloudfront.net"
+          "updated_at": "2026-05-19T07:21:04.051042+00:00",
+          "url": "https://d2itlbhigocdbz.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1037,11 +1037,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-19T05:07:01.730809+00:00",
+          "created_at": "2026-05-21T09:35:03.489589+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-17T19:51:05.833379+00:00",
-          "url": "https://d3g28czoovsr3r.cloudfront.net"
+          "updated_at": "2026-05-20T01:45:05.282251+00:00",
+          "url": "https://d2b4rohuea3alc.cloudfront.net"
         }
       ],
       "main_domain": "static.dw.com"
