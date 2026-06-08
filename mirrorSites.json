@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-08T12:42:03.358350+00:00",
+          "created_at": "2026-06-08T15:46:04.045063+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-08T12:10:05.594501+00:00",
-          "url": "https://dsm9ajicif8hc.cloudfront.net"
+          "updated_at": "2026-06-08T14:26:06.387739+00:00",
+          "url": "https://drid16j5lq8nb.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
