@@ -319,7 +319,7 @@
           "proto": "https",
           "type": "mirror",
           "updated_at": "2026-06-08T09:44:49.370995+00:00",
-          "url": "https://currezdufsorekbci.azureedge.net"
+          "url": "https://currezdufsorekbci-b6b3h8d7bbg0gsgj.z02.azurefd.net"
         }
       ],
       "main_domain": "en.currenttime.tv"
@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-07T23:06:03.452474+00:00",
+          "created_at": "2026-06-08T13:06:03.383207+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-06T18:42:04.261488+00:00",
-          "url": "https://d29k99olhmsske.cloudfront.net"
+          "updated_at": "2026-06-08T11:54:04.513726+00:00",
+          "url": "https://d2lb0oa5ehxd7z.cloudfront.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
