@@ -672,11 +672,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-07T19:56:02.922826+00:00",
+          "created_at": "2026-06-08T13:14:03.445209+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-06T18:56:04.244152+00:00",
-          "url": "https://dovv7t6qg3afk.cloudfront.net"
+          "updated_at": "2026-06-08T11:14:04.369849+00:00",
+          "url": "https://d3sxjmcwz8a4gx.cloudfront.net"
         }
       ],
       "main_domain": "ocb-audio.martinoticias.com"
@@ -2227,13 +2227,6 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:32.883525+00:00",
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2026-06-01T21:14:02.526902+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-27T16:14:04.332846+00:00",
-          "url": "https://d1n75m2p9446ak.cloudfront.net"
         }
       ],
       "main_domain": "svoboda.org"
