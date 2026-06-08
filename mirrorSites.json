@@ -1238,15 +1238,7 @@
       "main_domain": "vpn-ru.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-05-19T19:51:03.620717+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-19T19:19:05.482070+00:00",
-          "url": "https://d2x14qyxi9nag1.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
