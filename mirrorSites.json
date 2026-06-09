@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-07T05:20:03.031678+00:00",
+          "created_at": "2026-06-09T06:26:03.010089+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-05T03:34:03.785491+00:00",
-          "url": "https://d3bvzjpd1ngng1.cloudfront.net"
+          "updated_at": "2026-06-07T05:20:03.570397+00:00",
+          "url": "https://d3svvbxs8gzxlu.cloudfront.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -1238,15 +1238,7 @@
       "main_domain": "vpn-ru.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-08T14:28:03.080701+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-08T14:26:05.187316+00:00",
-          "url": "https://d2u3dww7kc78ds.cloudfront.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "agents.media"
     },
     {
