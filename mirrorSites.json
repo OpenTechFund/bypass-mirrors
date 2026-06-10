@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-08T18:50:03.791702+00:00",
+          "created_at": "2026-06-10T21:18:03.569996+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-08T18:44:05.769773+00:00",
-          "url": "https://akamaxyreztaihbyh.global.ssl.fastly.net"
+          "updated_at": "2026-06-09T12:34:05.826116+00:00",
+          "url": "https://akamafazkcxpzthnf.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
