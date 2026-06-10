@@ -372,11 +372,11 @@
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
         },
         {
-          "created_at": "2026-06-08T18:00:02.550852+00:00",
+          "created_at": "2026-06-10T18:10:03.058462+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-07T21:00:04.181307+00:00",
-          "url": "https://ds45ozzlhkv4.cloudfront.net"
+          "updated_at": "2026-06-10T00:30:04.038854+00:00",
+          "url": "https://currekxzphofgovcs.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
