@@ -684,11 +684,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-09T09:06:03.703040+00:00",
+          "created_at": "2026-06-11T10:36:03.135222+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-09T02:02:05.553295+00:00",
-          "url": "https://akamawrfccnuprift.global.ssl.fastly.net"
+          "updated_at": "2026-06-11T05:40:05.621120+00:00",
+          "url": "https://akamawbmptnedklie.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
