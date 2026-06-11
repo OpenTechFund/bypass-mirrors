@@ -284,11 +284,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-08T18:16:02.195152+00:00",
+          "created_at": "2026-06-10T23:52:01.914987+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-08T10:10:06.299025+00:00",
-          "url": "https://d3umqdbnyl5153.cloudfront.net"
+          "updated_at": "2026-06-10T11:54:05.977203+00:00",
+          "url": "https://akamalouqfaygsncn.global.ssl.fastly.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-08T20:02:03.974184+00:00",
+          "created_at": "2026-06-10T23:52:03.000736+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-08T19:42:05.108351+00:00",
-          "url": "https://martitxjbuamopmzj.global.ssl.fastly.net"
+          "updated_at": "2026-06-10T23:14:04.500316+00:00",
+          "url": "https://martiklfoeyuoyqxx.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
