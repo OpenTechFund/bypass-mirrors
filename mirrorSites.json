@@ -744,11 +744,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-09T00:58:03.911056+00:00",
+          "created_at": "2026-06-11T04:48:02.973028+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-08T23:06:06.208087+00:00",
-          "url": "https://akamaatecyjsdrccv.global.ssl.fastly.net"
+          "updated_at": "2026-06-11T01:12:05.830504+00:00",
+          "url": "https://akamaszzlmmoyenvu.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
@@ -1180,11 +1180,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-09T04:00:03.241929+00:00",
+          "created_at": "2026-06-11T04:38:02.861877+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-08T20:02:06.553623+00:00",
-          "url": "https://akamauznhrqtzyfjt.global.ssl.fastly.net"
+          "updated_at": "2026-06-10T23:22:05.520575+00:00",
+          "url": "https://akamarhpnajrvvplx.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
