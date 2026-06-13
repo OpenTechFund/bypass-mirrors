@@ -1136,11 +1136,11 @@
           "url": "https://videoreview.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-06-11T18:38:03.006640+00:00",
+          "created_at": "2026-06-13T20:12:02.258156+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-11T03:14:04.871929+00:00",
-          "url": "https://rferllnnznovhvxzs.global.ssl.fastly.net"
+          "updated_at": "2026-06-13T06:32:04.774709+00:00",
+          "url": "https://rferloqgoccjawybg.global.ssl.fastly.net"
         }
       ],
       "main_domain": "videoreview.rferl.org"
