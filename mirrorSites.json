@@ -1184,11 +1184,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-11T17:10:03.297346+00:00",
+          "created_at": "2026-06-13T19:38:02.779658+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-10T06:06:05.333399+00:00",
-          "url": "https://voanehnnslilnswvb.global.ssl.fastly.net"
+          "updated_at": "2026-06-12T09:12:05.994775+00:00",
+          "url": "https://voanezjhnhngchvcj.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
