@@ -1193,11 +1193,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-11T19:12:03.397471+00:00",
+          "created_at": "2026-06-14T02:02:02.865228+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-11T00:20:05.264325+00:00",
-          "url": "https://voanebmnzfoykhyty.global.ssl.fastly.net"
+          "updated_at": "2026-06-13T01:22:05.807768+00:00",
+          "url": "https://voanevdlaodavygnm.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
@@ -1814,11 +1814,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-13T23:02:03.845475+00:00",
+          "created_at": "2026-06-14T02:06:03.385186+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-13T21:50:06.848772+00:00",
-          "url": "https://d1n357uto7aslb.cloudfront.net"
+          "updated_at": "2026-06-14T00:54:05.988663+00:00",
+          "url": "https://dnelafg1l61te.cloudfront.net"
         }
       ],
       "main_domain": "martinoticias.com"
