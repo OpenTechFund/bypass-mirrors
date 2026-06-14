@@ -862,15 +862,7 @@
       "main_domain": "rfe-audio.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-12T12:36:02.575059+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-11T21:58:06.076858+00:00",
-          "url": "https://akamanydmekefzxuq.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
     },
     {
