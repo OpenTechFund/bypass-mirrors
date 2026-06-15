@@ -212,15 +212,7 @@
       "main_domain": "cdn.prod.website-files.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-13T09:20:03.167194+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-11T08:00:04.310891+00:00",
-          "url": "https://kaltuiyxejocnifcw.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "corp.kaltura.com"
     },
     {
