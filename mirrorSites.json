@@ -916,15 +916,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-14T00:02:03.230705+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-12T15:38:06.405126+00:00",
-          "url": "https://akamarlclysotitxp.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
