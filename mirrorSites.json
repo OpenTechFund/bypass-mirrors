@@ -46,13 +46,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:05.427493+00:00",
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
-        },
-        {
-          "created_at": "2026-06-13T08:24:02.091526+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-12T13:02:04.959063+00:00",
-          "url": "https://svobodvgjgxstrudk.global.ssl.fastly.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
@@ -888,15 +881,7 @@
       "main_domain": "stage.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-13T13:04:02.690939+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-12T04:22:05.839775+00:00",
-          "url": "https://dwpanqhapuukme.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "static.dw.com"
     },
     {
@@ -1926,11 +1911,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-06-14T05:28:03.617815+00:00",
+          "created_at": "2026-06-15T14:22:03.350991+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-14T05:26:06.708606+00:00",
-          "url": "https://d1uok7bv4lstlc.cloudfront.net"
+          "updated_at": "2026-06-15T01:36:05.594504+00:00",
+          "url": "https://d18ppqbsgikj00.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
