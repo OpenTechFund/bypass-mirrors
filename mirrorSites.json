@@ -652,15 +652,7 @@
       "main_domain": "ocb.bypasscensorship.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-13T00:30:03.592190+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-12T23:44:05.116068+00:00",
-          "url": "https://martiivpyilligbxa.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
