@@ -1192,11 +1192,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-13T19:38:02.779658+00:00",
+          "created_at": "2026-06-18T23:38:02.975569+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-12T09:12:05.994775+00:00",
-          "url": "https://voanezjhnhngchvcj.global.ssl.fastly.net"
+          "updated_at": "2026-06-14T09:16:06.250912+00:00",
+          "url": "https://voanevqifrwevjhhd.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
@@ -1204,11 +1204,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-13T22:32:03.385665+00:00",
+          "created_at": "2026-06-18T23:34:03.495077+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-12T16:30:06.056554+00:00",
-          "url": "https://akamatgymlzfpykvf.global.ssl.fastly.net"
+          "updated_at": "2026-06-14T18:48:06.250116+00:00",
+          "url": "https://akamaecrdmrwdmzor.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
