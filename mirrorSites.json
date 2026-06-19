@@ -210,11 +210,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-13T20:38:03.266985+00:00",
+          "created_at": "2026-06-19T00:24:02.918112+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-12T01:22:04.855690+00:00",
-          "url": "https://websikswgxxiwtrbu.global.ssl.fastly.net"
+          "updated_at": "2026-06-14T05:04:05.821704+00:00",
+          "url": "https://websiyypekpbsqtrg.global.ssl.fastly.net"
         }
       ],
       "main_domain": "cdn.prod.website-files.com"
