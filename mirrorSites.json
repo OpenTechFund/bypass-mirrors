@@ -296,11 +296,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-14T16:34:01.767114+00:00",
+          "created_at": "2026-06-19T21:40:02.095571+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-14T06:48:05.398636+00:00",
-          "url": "https://akamaxabrmehjzwww.global.ssl.fastly.net"
+          "updated_at": "2026-06-19T08:08:06.432505+00:00",
+          "url": "https://akamavsatrsmbmxuk.global.ssl.fastly.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
