@@ -674,15 +674,7 @@
       "main_domain": "ocb-audio.martinoticias.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-15T15:26:03.411463+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-15T10:10:06.047839+00:00",
-          "url": "https://akamarrogmgdnngbg.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-audio-ns.akamaized.net"
     },
     {
