@@ -1811,7 +1811,15 @@
       "main_domain": "maghrebvoices.com"
     },
     {
-      "available_alternatives": [],
+      "available_alternatives": [
+        {
+          "created_at": "2026-06-21T09:50:03.469402+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-06-21T09:42:06.221574+00:00",
+          "url": "https://d1dzns0uo0w07u.cloudfront.net"
+        }
+      ],
       "main_domain": "martinoticias.com"
     },
     {
