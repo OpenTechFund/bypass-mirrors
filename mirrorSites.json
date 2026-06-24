@@ -906,11 +906,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-06-19T08:28:03.139540+00:00",
+          "created_at": "2026-06-24T14:34:02.944759+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-14T12:36:04.680078+00:00",
-          "url": "https://rferlsqbqvhhrzhwm.global.ssl.fastly.net"
+          "updated_at": "2026-06-19T16:04:04.841692+00:00",
+          "url": "https://rferleozyduoioogd.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
