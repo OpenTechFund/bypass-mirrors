@@ -1165,11 +1165,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-18T23:34:03.495077+00:00",
+          "created_at": "2026-06-24T01:50:04.152131+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-14T18:48:06.250116+00:00",
-          "url": "https://akamaecrdmrwdmzor.global.ssl.fastly.net"
+          "updated_at": "2026-06-19T19:58:08.749553+00:00",
+          "url": "https://akamacsgcdtooikvf.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-ns.akamaized.net"
