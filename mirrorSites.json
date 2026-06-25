@@ -1029,11 +1029,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-20T15:44:02.408276+00:00",
+          "created_at": "2026-06-25T16:52:02.316845+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-19T09:34:06.134730+00:00",
-          "url": "https://dwdugjkjjdtcii.global.ssl.fastly.net"
+          "updated_at": "2026-06-24T11:34:05.417011+00:00",
+          "url": "https://dwejklkeninyyr.global.ssl.fastly.net"
         }
       ],
       "main_domain": "static.dw.com"
@@ -1172,11 +1172,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-20T14:18:03.095712+00:00",
+          "created_at": "2026-06-25T16:52:03.328263+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-20T04:22:07.664639+00:00",
-          "url": "https://akamasrziaviuwodp.global.ssl.fastly.net"
+          "updated_at": "2026-06-25T06:00:06.050669+00:00",
+          "url": "https://akamaigfwwoyyzjss.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
