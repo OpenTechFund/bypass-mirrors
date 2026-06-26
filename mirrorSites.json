@@ -918,11 +918,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-21T00:14:03.304556+00:00",
+          "created_at": "2026-06-26T02:46:02.519726+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-19T19:38:05.829458+00:00",
-          "url": "https://akamapsauvixfwout.global.ssl.fastly.net"
+          "updated_at": "2026-06-24T22:08:05.698000+00:00",
+          "url": "https://akamaqnerijmepnpq.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
