@@ -79,11 +79,11 @@
           "url": "https://audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-06-24T06:31:02.241868+00:00",
+          "created_at": "2026-06-29T10:58:02.574079+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-20T10:24:05.002244+00:00",
-          "url": "https://rferlgbkkwlarupzl.global.ssl.fastly.net"
+          "updated_at": "2026-06-25T10:50:04.330783+00:00",
+          "url": "https://rferlnvrttfodwlnz.global.ssl.fastly.net"
         }
       ],
       "main_domain": "audio.rferl.org"
