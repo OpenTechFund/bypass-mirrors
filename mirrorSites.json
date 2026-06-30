@@ -289,11 +289,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-24T23:08:02.093309+00:00",
+          "created_at": "2026-06-30T00:38:01.728218+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-24T11:54:05.474572+00:00",
-          "url": "https://akamaeskuvkmjhffi.global.ssl.fastly.net"
+          "updated_at": "2026-06-29T14:44:05.205680+00:00",
+          "url": "https://akamafkyjygmioxhc.global.ssl.fastly.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
