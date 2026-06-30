@@ -260,15 +260,7 @@
       "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-25T15:34:01.935648+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-24T20:02:06.231539+00:00",
-          "url": "https://akamakkmvmepaxwha.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
@@ -1117,15 +1109,7 @@
       "main_domain": "voa-audio.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-25T16:52:03.328263+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-25T06:00:06.050669+00:00",
-          "url": "https://akamaigfwwoyyzjss.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-hls-ns.akamaized.net"
     },
     {
