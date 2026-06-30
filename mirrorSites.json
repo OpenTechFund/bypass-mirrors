@@ -58,15 +58,7 @@
       "main_domain": "archive.svoboda.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-25T03:48:02.541720+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-25T02:32:04.993581+00:00",
-          "url": "https://websiznrkndsroequ.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "assets-global.website-files.com"
     },
     {
