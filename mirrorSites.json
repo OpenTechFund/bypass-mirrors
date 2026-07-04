@@ -519,13 +519,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 15:14:37.729513+00:00",
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2026-06-29T15:46:02.505283+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-25T01:06:04.809234+00:00",
-          "url": "https://rferlmsnmbpezakpx.global.ssl.fastly.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
