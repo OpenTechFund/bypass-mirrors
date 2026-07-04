@@ -1086,15 +1086,7 @@
       "main_domain": "voa-video-hls.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-29T05:06:03.188205+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-24T22:14:05.764618+00:00",
-          "url": "https://akamavseslmhirmgs.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-ns.akamaized.net"
     },
     {
