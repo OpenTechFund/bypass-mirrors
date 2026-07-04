@@ -1051,15 +1051,7 @@
       "main_domain": "voa-audio-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-06-29T05:44:03.269875+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-28T22:00:05.333590+00:00",
-          "url": "https://voanersckcvsbdedf.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-audio.voanews.eu"
     },
     {
