@@ -720,11 +720,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-06-30T10:40:03.806881+00:00",
+          "created_at": "2026-07-05T12:36:03.705030+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-30T08:22:05.724238+00:00",
-          "url": "https://akamawygjwuxysnug.global.ssl.fastly.net"
+          "updated_at": "2026-07-05T11:30:06.173036+00:00",
+          "url": "https://akamaptygwwzchqvy.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
@@ -2096,11 +2096,11 @@
           "url": "https://www.rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion"
         },
         {
-          "created_at": "2026-07-04T03:18:03.361184+00:00",
+          "created_at": "2026-07-05T12:38:03.457837+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-04T03:16:05.448625+00:00",
-          "url": "https://d1wzezyer1xs14.cloudfront.net"
+          "updated_at": "2026-07-05T12:36:05.653731+00:00",
+          "url": "https://d5w4qisgmqvop.cloudfront.net"
         }
       ],
       "main_domain": "rfa.org"
