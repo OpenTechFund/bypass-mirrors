@@ -875,11 +875,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-07-04T19:54:02.810196+00:00",
+          "created_at": "2026-07-09T22:30:02.376340+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-06-30T22:12:06.642069+00:00",
-          "url": "https://rferlwmdglfvmfvxx.global.ssl.fastly.net"
+          "updated_at": "2026-07-06T02:02:05.590057+00:00",
+          "url": "https://rferlvibwuhvuiqfl.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
