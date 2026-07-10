@@ -732,11 +732,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-05T11:58:03.488213+00:00",
+          "created_at": "2026-07-10T14:12:03.801049+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-05T11:18:05.181183+00:00",
-          "url": "https://martiocdumyisypjt.global.ssl.fastly.net"
+          "updated_at": "2026-07-10T14:10:05.656041+00:00",
+          "url": "https://martisrsfffnbcsfx.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video.martinoticias.com"
