@@ -1037,11 +1037,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-05T21:56:02.269964+00:00",
+          "created_at": "2026-07-11T01:00:02.560788+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-04T16:06:05.709098+00:00",
-          "url": "https://dwhcvocjkqxzdt.global.ssl.fastly.net"
+          "updated_at": "2026-07-09T19:36:05.621799+00:00",
+          "url": "https://dweffpkxxmvyek.global.ssl.fastly.net"
         }
       ],
       "main_domain": "static.dw.com"
