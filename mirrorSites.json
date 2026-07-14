@@ -842,13 +842,6 @@
           "type": "eotk",
           "updated_at": "2024-08-13 11:14:58.556663+00:00",
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
-        },
-        {
-          "created_at": "2026-07-09T22:30:02.376340+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-06T02:02:05.590057+00:00",
-          "url": "https://rferlvibwuhvuiqfl.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
