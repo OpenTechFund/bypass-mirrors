@@ -1153,11 +1153,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-09T11:02:02.674983+00:00",
+          "created_at": "2026-07-14T14:26:03.048394+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-04T20:10:05.871515+00:00",
-          "url": "https://voanepwxitygskdth.global.ssl.fastly.net"
+          "updated_at": "2026-07-09T20:36:05.882105+00:00",
+          "url": "https://voanewtkwpqmlsqmt.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
