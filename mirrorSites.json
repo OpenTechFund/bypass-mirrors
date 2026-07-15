@@ -344,15 +344,7 @@
       "main_domain": "gdb.currenttime.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-07-10T17:14:03.367894+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-10T17:06:04.820394+00:00",
-          "url": "https://martikvzhkdyeercg.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "gdb.martinoticias.com"
     },
     {
