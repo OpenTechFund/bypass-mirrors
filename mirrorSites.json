@@ -868,11 +868,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-07-10T00:54:02.772760+00:00",
+          "created_at": "2026-07-15T03:58:02.886295+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-04T23:54:04.756444+00:00",
-          "url": "https://rferllohwmtxjmssd.global.ssl.fastly.net"
+          "updated_at": "2026-07-10T02:58:05.446611+00:00",
+          "url": "https://rferlkgpyvpsjyqpn.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
