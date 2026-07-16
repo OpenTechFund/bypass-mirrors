@@ -747,15 +747,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-07-11T08:30:02.520857+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-10T04:52:05.712354+00:00",
-          "url": "https://akamautyttrcodarl.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
