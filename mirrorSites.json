@@ -881,15 +881,7 @@
       "main_domain": "stage.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-07-11T01:00:02.560788+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-09T19:36:05.621799+00:00",
-          "url": "https://dweffpkxxmvyek.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "static.dw.com"
     },
     {
