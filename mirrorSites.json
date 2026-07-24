@@ -1192,11 +1192,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-19T17:00:03.117119+00:00",
+          "created_at": "2026-07-24T18:36:02.565491+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-14T20:54:05.638859+00:00",
-          "url": "https://voanezogxxxiyarub.global.ssl.fastly.net"
+          "updated_at": "2026-07-20T00:44:05.969932+00:00",
+          "url": "https://voanesefqpfrxawfr.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls.voanews.eu"
