@@ -708,11 +708,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-20T17:08:03.674085+00:00",
+          "created_at": "2026-07-25T18:04:03.275767+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-16T07:02:05.452198+00:00",
-          "url": "https://martiryrvgcvshjro.global.ssl.fastly.net"
+          "updated_at": "2026-07-21T13:06:05.235426+00:00",
+          "url": "https://martidkydxhsufley.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
