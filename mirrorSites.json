@@ -403,11 +403,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-07-24T10:00:02.185336+00:00",
+          "created_at": "2026-07-29T11:16:02.717670+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-19T15:18:03.344744+00:00",
-          "url": "https://rferlfwgwnotndhvm.global.ssl.fastly.net"
+          "updated_at": "2026-07-24T17:04:03.818521+00:00",
+          "url": "https://rferlqtlesmrjoajn.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
@@ -1156,11 +1156,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-24T09:14:03.024403+00:00",
+          "created_at": "2026-07-29T11:18:03.556168+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-20T21:40:06.155345+00:00",
-          "url": "https://akamayyawlhkpgois.global.ssl.fastly.net"
+          "updated_at": "2026-07-25T22:52:05.793013+00:00",
+          "url": "https://akamaqyswpahakgst.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
