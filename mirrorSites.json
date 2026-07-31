@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-07-26T08:50:03.151836+00:00",
+          "created_at": "2026-07-31T13:08:03.118381+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-07-21T06:08:03.879412+00:00",
-          "url": "https://kaltuzevpijmcajvz.global.ssl.fastly.net"
+          "updated_at": "2026-07-26T08:50:03.868670+00:00",
+          "url": "https://kaltumlaccnabebpg.global.ssl.fastly.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
