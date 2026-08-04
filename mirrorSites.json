@@ -636,15 +636,7 @@
       "main_domain": "ocb.bypasscensorship.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-07-30T19:40:03.469793+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-26T15:26:05.008810+00:00",
-          "url": "https://martinonijnrotoee.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
