@@ -732,15 +732,7 @@
       "main_domain": "rfe-video-hls.rferl.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-07-31T17:28:02.421435+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-30T13:30:06.055577+00:00",
-          "url": "https://akamarebpuncevqge.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "rfe-video-ns.akamaized.net"
     },
     {
