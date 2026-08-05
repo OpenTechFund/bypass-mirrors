@@ -339,13 +339,6 @@
           "type": "eotk",
           "updated_at": "2022-05-25 14:44:57.781103+00:00",
           "url": "https://gdb.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion"
-        },
-        {
-          "created_at": "2026-07-31T02:10:02.297302+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-30T05:36:04.494875+00:00",
-          "url": "https://curreucbjzapaeddp.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.currenttime.tv"
@@ -644,15 +637,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-07-31T02:02:03.053850+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-07-30T20:06:05.310372+00:00",
-          "url": "https://martidwjwebpopdtc.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
