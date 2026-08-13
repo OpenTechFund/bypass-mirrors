@@ -622,11 +622,11 @@
           "url": "https://media.voltron.alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion"
         },
         {
-          "created_at": "2026-08-08T20:10:02.892252+00:00",
+          "created_at": "2026-08-13T21:36:03.789843+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-03T17:22:03.338945+00:00",
-          "url": "https://alhurcezsqokiuxdo.global.ssl.fastly.net"
+          "updated_at": "2026-08-08T20:10:03.074530+00:00",
+          "url": "https://alhurukzycrjdcsqw.global.ssl.fastly.net"
         }
       ],
       "main_domain": "media.voltron.alhurra.com"
@@ -1168,11 +1168,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-08T18:38:03.480969+00:00",
+          "created_at": "2026-08-13T21:34:03.673591+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-08T15:44:05.424003+00:00",
-          "url": "https://voanehchtndjqyodb.global.ssl.fastly.net"
+          "updated_at": "2026-08-13T16:12:06.158895+00:00",
+          "url": "https://voanegilihntgxxot.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
