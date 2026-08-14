@@ -453,11 +453,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-09T09:54:02.085300+00:00",
+          "created_at": "2026-08-14T13:20:02.296105+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-09T07:10:05.775072+00:00",
-          "url": "https://dwdrcwmmkamcnm.global.ssl.fastly.net"
+          "updated_at": "2026-08-14T07:32:05.308042+00:00",
+          "url": "https://dwlcezqbqrdzpy.global.ssl.fastly.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
