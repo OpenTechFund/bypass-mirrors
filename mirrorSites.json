@@ -1132,11 +1132,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-13T20:22:03.799746+00:00",
+          "created_at": "2026-08-18T22:36:03.394208+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-10T05:00:06.288943+00:00",
-          "url": "https://akamavfcubwfxavvn.global.ssl.fastly.net"
+          "updated_at": "2026-08-15T06:30:06.484122+00:00",
+          "url": "https://akamaxobdzcytykgk.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-audio-ns.akamaized.net"
