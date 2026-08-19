@@ -587,11 +587,11 @@
           "url": "https://libertynet.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-08-14T08:58:02.912494+00:00",
+          "created_at": "2026-08-19T11:00:03.007299+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-09T23:44:04.962580+00:00",
-          "url": "https://rferlfszesmqxyksa.global.ssl.fastly.net"
+          "updated_at": "2026-08-15T01:16:04.946641+00:00",
+          "url": "https://rferlwltktlnvnspi.global.ssl.fastly.net"
         }
       ],
       "main_domain": "libertynet.rferl.org"
