@@ -279,15 +279,7 @@
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-08-14T19:46:02.513128+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-08-14T11:22:05.784751+00:00",
-          "url": "https://akamadcwinwqwdyxj.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "dwvod-rwrtr.akamaized.net"
     },
     {
