@@ -636,15 +636,7 @@
       "main_domain": "ocb.bypasscensorship.org"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-08-14T22:42:03.157033+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-08-10T16:44:05.437163+00:00",
-          "url": "https://marticpqqzcmrkmoq.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video-hls.martinoticias.org"
     },
     {
