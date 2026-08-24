@@ -1216,11 +1216,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-19T18:00:02.721906+00:00",
+          "created_at": "2026-08-24T20:36:02.751163+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-15T10:26:05.392859+00:00",
-          "url": "https://voanexmieghdmbaud.global.ssl.fastly.net"
+          "updated_at": "2026-08-20T12:36:05.335076+00:00",
+          "url": "https://voanepoycnorxrubl.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video.voanews.eu"
