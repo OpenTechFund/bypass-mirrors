@@ -1172,11 +1172,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-20T22:10:03.023418+00:00",
+          "created_at": "2026-08-25T23:50:02.721042+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-20T11:10:05.589715+00:00",
-          "url": "https://akamaiichfdvntlzd.global.ssl.fastly.net"
+          "updated_at": "2026-08-25T12:28:05.037192+00:00",
+          "url": "https://akamalndkxoxddnue.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-video-hls-ns.akamaized.net"
