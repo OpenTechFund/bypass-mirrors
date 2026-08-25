@@ -1029,11 +1029,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-20T15:44:01.799260+00:00",
+          "created_at": "2026-08-25T19:18:01.958179+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-19T16:22:06.015244+00:00",
-          "url": "https://dwrbohlicxidtm.global.ssl.fastly.net"
+          "updated_at": "2026-08-24T17:52:05.679585+00:00",
+          "url": "https://dwavwggrpndzcl.global.ssl.fastly.net"
         }
       ],
       "main_domain": "static.dw.com"
