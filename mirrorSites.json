@@ -436,15 +436,7 @@
       "main_domain": "gdb.votvot.tv"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-08-24T21:04:02.068767+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-08-24T09:44:04.673098+00:00",
-          "url": "https://dwflnwesgqogkc.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "hlsvod.dw.com"
     },
     {
