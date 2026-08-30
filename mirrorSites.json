@@ -261,15 +261,7 @@
       "main_domain": "dwo-jar-kmf-883.s3.amazonaws.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-08-25T20:38:02.202763+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-08-25T08:08:05.485209+00:00",
-          "url": "https://akamatfkshrxxfxcq.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "dwvod-pckgr.akamaized.net"
     },
     {
