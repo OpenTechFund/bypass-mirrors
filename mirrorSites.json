@@ -60,11 +60,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-25T05:14:03.114580+00:00",
+          "created_at": "2026-08-30T07:22:02.941935+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-25T04:38:04.563702+00:00",
-          "url": "https://websibxvtekkokwuw.global.ssl.fastly.net"
+          "updated_at": "2026-08-25T05:14:04.651823+00:00",
+          "url": "https://websismcmovfakytk.global.ssl.fastly.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
