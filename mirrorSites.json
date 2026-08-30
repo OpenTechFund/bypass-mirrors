@@ -638,15 +638,7 @@
       "main_domain": "ocb-video-hls-ns.akamaized.net"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-08-25T15:58:03.616812+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-08-25T13:48:04.519249+00:00",
-          "url": "https://martinjazzgtagnhs.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "ocb-video.martinoticias.com"
     },
     {
