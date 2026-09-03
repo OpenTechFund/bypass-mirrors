@@ -1168,11 +1168,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-29T06:20:02.741835+00:00",
+          "created_at": "2026-09-03T08:02:03.167294+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-28T23:00:05.647214+00:00",
-          "url": "https://voanesugiswuidmcy.global.ssl.fastly.net"
+          "updated_at": "2026-09-03T00:34:05.681102+00:00",
+          "url": "https://voaneeiroogouwdev.global.ssl.fastly.net"
         }
       ],
       "main_domain": "voa-audio.voanews.eu"
