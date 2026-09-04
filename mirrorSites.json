@@ -422,11 +422,11 @@
           "url": "https://gdb.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
         },
         {
-          "created_at": "2026-08-30T07:44:03.148386+00:00",
+          "created_at": "2026-09-04T09:34:02.786719+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-29T22:56:04.333225+00:00",
-          "url": "https://voanehoweeyvvhmqy.global.ssl.fastly.net"
+          "updated_at": "2026-09-04T00:16:04.556532+00:00",
+          "url": "https://voaneyndvwztmsyzn.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.voanews.com"
