@@ -222,11 +222,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-31T05:30:03.594031+00:00",
+          "created_at": "2026-09-05T07:30:03.048847+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-26T02:16:04.078393+00:00",
-          "url": "https://kaltuaqfwvliuobof.global.ssl.fastly.net"
+          "updated_at": "2026-08-31T05:30:04.087199+00:00",
+          "url": "https://kalturwbxppjpzuto.global.ssl.fastly.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
@@ -744,11 +744,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-08-31T06:40:03.605910+00:00",
+          "created_at": "2026-09-05T07:26:02.872596+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-08-31T00:18:05.579301+00:00",
-          "url": "https://akamasvaeurchzhip.global.ssl.fastly.net"
+          "updated_at": "2026-09-05T01:40:05.858250+00:00",
+          "url": "https://akamaccslvoaffhdk.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
