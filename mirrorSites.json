@@ -384,11 +384,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-09-05T03:08:02.909875+00:00",
+          "created_at": "2026-09-10T05:06:03.639733+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-04T23:08:04.099264+00:00",
-          "url": "https://martioudxkdlkjrhs.global.ssl.fastly.net"
+          "updated_at": "2026-09-10T02:02:04.179917+00:00",
+          "url": "https://martimjayathvhhvj.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
