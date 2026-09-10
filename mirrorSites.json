@@ -744,11 +744,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-09-05T07:26:02.872596+00:00",
+          "created_at": "2026-09-10T08:40:03.764546+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-05T01:40:05.858250+00:00",
-          "url": "https://akamaccslvoaffhdk.global.ssl.fastly.net"
+          "updated_at": "2026-09-10T04:52:05.887965+00:00",
+          "url": "https://akamanclboabxjqhn.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-ns.akamaized.net"
