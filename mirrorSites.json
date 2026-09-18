@@ -403,11 +403,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-09-13T12:24:02.187965+00:00",
+          "created_at": "2026-09-18T17:00:02.630295+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-08T12:20:03.150421+00:00",
-          "url": "https://rferlynfseeqrmlgu-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-09-18T13:32:03.235944+00:00",
+          "url": "https://rferlauqudzhjpxcw.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
