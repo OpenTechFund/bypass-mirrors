@@ -1885,6 +1885,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:14.310216+00:00",
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
+        },
+        {
+          "created_at": "2026-09-19T13:11:02.328578+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-09-19T13:09:20.520407+00:00",
+          "url": "https://ozodipjxuvoihhkun-afhha7dnf4g5cvck.z02.azurefd.net"
         }
       ],
       "main_domain": "ozodi.org"
