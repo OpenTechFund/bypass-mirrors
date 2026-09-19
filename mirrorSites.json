@@ -844,11 +844,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-09-14T00:24:01.639258+00:00",
+          "created_at": "2026-09-19T03:26:01.908535+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-09T06:26:05.653626+00:00",
-          "url": "https://akamaynctxesiknxg.global.ssl.fastly.net"
+          "updated_at": "2026-09-14T07:56:05.271577+00:00",
+          "url": "https://akamabjnnwfqufled.global.ssl.fastly.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
