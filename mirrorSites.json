@@ -1885,13 +1885,6 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:15:14.310216+00:00",
           "url": "https://www.ozodi2hi3mzwzrdx2x6mobi2lel6sisajmjcpcbokxb3aflirifprryd.onion"
-        },
-        {
-          "created_at": "2026-06-17T08:43:01.991805+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-16T14:36:46.424446+00:00",
-          "url": "https://ozodicyuzvmuugdzx-h2cacyb2dhcyf5cp.z02.azurefd.net"
         }
       ],
       "main_domain": "ozodi.org"
@@ -2208,13 +2201,6 @@
           "type": "eotk",
           "updated_at": "2026-08-24 09:19:15.870422+00:00",
           "url": "https://www.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion"
-        },
-        {
-          "created_at": "2026-06-16T18:50:02.461165+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-06-16T14:37:48.028141+00:00",
-          "url": "https://svabocxqzxskjknto-bvdzaea8guf9ehhn.z02.azurefd.net"
         }
       ],
       "main_domain": "svaboda.org"
@@ -2229,11 +2215,11 @@
           "url": "https://www.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2026-09-17T17:00:02.764558+00:00",
+          "created_at": "2026-09-19T12:51:37.279015+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-10T18:14:05.598180+00:00",
-          "url": "https://svobofuihucurjupq-efe5dwemadc3had5.z02.azurefd.net"
+          "updated_at": "2026-09-17T17:00:05.192566+00:00",
+          "url": "https://svobohajkikjjdjzn-b0a2hkghcpcqeka9.z02.azurefd.net"
         }
       ],
       "main_domain": "svoboda.org"
