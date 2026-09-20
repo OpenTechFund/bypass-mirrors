@@ -441,11 +441,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2026-09-15T07:54:03.030370+00:00",
+          "created_at": "2026-09-20T08:23:02.724431+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-14T05:12:05.248024+00:00",
-          "url": "https://votvofgbdacfpyhku.global.ssl.fastly.net"
+          "updated_at": "2026-09-19T07:46:04.391330+00:00",
+          "url": "https://votvopqfouswplwso.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
