@@ -48,11 +48,11 @@
           "url": "https://archive.svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion"
         },
         {
-          "created_at": "2026-09-15T11:08:02.613141+00:00",
+          "created_at": "2026-09-20T13:07:02.685586+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-14T03:30:04.730642+00:00",
-          "url": "https://svobofbimkqvfpkch.global.ssl.fastly.net"
+          "updated_at": "2026-09-19T04:34:04.294723+00:00",
+          "url": "https://svobodlridiegbtpw.global.ssl.fastly.net"
         }
       ],
       "main_domain": "archive.svoboda.org"
