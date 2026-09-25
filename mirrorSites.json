@@ -8,13 +8,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:42:33.219009+00:00",
           "url": "https://amharic.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2026-05-19T18:41:02.660906+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-19T18:39:04.256320+00:00",
-          "url": "https://d1r7q8eoq7vpim.cloudfront.net"
         }
       ],
       "main_domain": "amharic.voanews.com"
@@ -1092,13 +1085,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 13:50:20.091067+00:00",
           "url": "https://tigrigna.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion"
-        },
-        {
-          "created_at": "2026-05-19T18:39:03.719266+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-19T18:39:03.719269+00:00",
-          "url": "https://d2yv1wowo3a93j.cloudfront.net"
         }
       ],
       "main_domain": "tigrigna.voanews.com"
@@ -1178,15 +1164,7 @@
       "main_domain": "voa-audio.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-09-20T11:55:02.961440+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-09-20T03:07:06.267467+00:00",
-          "url": "https://akamaskoidhrprjez.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-hls-ns.akamaized.net"
     },
     {
@@ -1202,15 +1180,7 @@
       "main_domain": "voa-video-hls.voanews.eu"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-09-24T01:43:03.112560+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-09-19T21:23:05.487092+00:00",
-          "url": "https://akamarwvhaomldalt.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "voa-video-ns.akamaized.net"
     },
     {
@@ -2067,13 +2037,6 @@
           "type": "eotk",
           "updated_at": "2022-05-11 14:08:55.194058+00:00",
           "url": "https://www.yacudlnjh27tffhknjsexhuapman3hhmndk4n7o4jsz6c3k676l5n3qd.onion"
-        },
-        {
-          "created_at": "2026-05-19T18:47:04.619897+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-19T18:47:04.619898+00:00",
-          "url": "https://dgyrln189fqs2.cloudfront.net"
         }
       ],
       "main_domain": "radiyoyacuvoa.com"
@@ -2257,13 +2220,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 15:45:41.501864+00:00",
           "url": "https://www.urduvo6lm7jua2ewtpps7qwocv4yampizls4vmb4jqjlnyqxx5euddad.onion"
-        },
-        {
-          "created_at": "2026-05-19T19:43:04.048431+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-19T19:11:06.843400+00:00",
-          "url": "https://d1fovwa9fbaatc.cloudfront.net"
         }
       ],
       "main_domain": "urduvoa.com"
@@ -2447,13 +2403,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 14:28:35.248518+00:00",
           "url": "https://www.voaindou2k54buiv5yksvpjo3iahb3uwtjmpm4it6j2kdok4hncu2xyd.onion"
-        },
-        {
-          "created_at": "2026-05-19T18:39:03.788942+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-19T18:39:03.788944+00:00",
-          "url": "https://dh5fnvx2czqms.cloudfront.net"
         }
       ],
       "main_domain": "voaindonesia.com"
@@ -2542,13 +2491,6 @@
           "type": "eotk",
           "updated_at": "2022-05-03 12:56:09.222327+00:00",
           "url": "https://www.nouveldrx4kwkw4be2yiur3jl2f6gpdkwb35q5fdvibvijg2sutkxuid.onion"
-        },
-        {
-          "created_at": "2026-05-17T20:29:04.310269+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-05-17T20:29:04.310273+00:00",
-          "url": "https://d1xndcu8s7opc.cloudfront.net"
         }
       ],
       "main_domain": "voanouvel.com"
