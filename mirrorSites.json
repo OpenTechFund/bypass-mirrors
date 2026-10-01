@@ -1078,6 +1078,13 @@
           "type": "eotk",
           "updated_at": "2026-10-01 09:46:23.932944+00:00",
           "url": "https://test-rtl.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
+        },
+        {
+          "created_at": "2026-10-01T09:48:03.001050+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-10-01T09:48:03.001056+00:00",
+          "url": "https://d1z2xgq6956j34.cloudfront.net"
         }
       ],
       "main_domain": "test-rtl.rferl.org"
