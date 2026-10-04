@@ -289,11 +289,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-09-29T10:54:02.027588+00:00",
+          "created_at": "2026-10-04T15:44:01.679749+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-29T09:52:04.898148+00:00",
-          "url": "https://akamavulbqfddbstj.global.ssl.fastly.net"
+          "updated_at": "2026-10-04T12:46:05.132255+00:00",
+          "url": "https://akamaovusowrhbjed.global.ssl.fastly.net"
         }
       ],
       "main_domain": "dwvod-rwrtr.akamaized.net"
@@ -830,11 +830,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-09-29T13:52:02.666656+00:00",
+          "created_at": "2026-10-04T15:46:01.693495+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-24T16:21:05.348891+00:00",
-          "url": "https://akamazrmdfvmurufi.global.ssl.fastly.net"
+          "updated_at": "2026-09-29T19:18:04.941856+00:00",
+          "url": "https://akamarnwxhifwbskq.global.ssl.fastly.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
