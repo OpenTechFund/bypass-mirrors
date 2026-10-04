@@ -172,11 +172,11 @@
           "url": "https://branding.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-09-29T17:20:02.722371+00:00",
+          "created_at": "2026-10-04T18:46:02.793339+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-25T03:15:04.130733+00:00",
-          "url": "https://rferlpltmdtmadjdk.global.ssl.fastly.net"
+          "updated_at": "2026-09-30T06:36:04.668895+00:00",
+          "url": "https://rferlsoubewowosba-qwfm6ov4uq-ey.a.run.app"
         }
       ],
       "main_domain": "branding.rferl.org"
@@ -892,11 +892,11 @@
           "url": "https://rfe-video-hls.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-09-29T17:24:02.883481+00:00",
+          "created_at": "2026-10-04T18:44:02.752112+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-29T15:46:04.569689+00:00",
-          "url": "https://rferlgaadejhxeixo-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-09-29T17:24:05.101012+00:00",
+          "url": "https://rferlgfbovetmkmwk-qwfm6ov4uq-ey.a.run.app"
         }
       ],
       "main_domain": "rfe-video-hls.rferl.org"
