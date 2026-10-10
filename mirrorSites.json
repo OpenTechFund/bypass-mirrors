@@ -861,11 +861,11 @@
           "url": "https://rfe-audio.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-10-04T23:08:02.763891+00:00",
+          "created_at": "2026-10-10T03:40:02.403162+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-09-30T19:26:05.291789+00:00",
-          "url": "https://rferlgielgrduxgwc-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-10-05T20:34:05.276303+00:00",
+          "url": "https://rferlpyhccpxtnayo.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-audio.rferl.org"
