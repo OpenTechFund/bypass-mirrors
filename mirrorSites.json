@@ -1677,15 +1677,7 @@
       "main_domain": "golosameriki.com"
     },
     {
-      "available_alternatives": [
-        {
-          "created_at": "2026-09-30T11:08:03.149040+00:00",
-          "proto": "https",
-          "type": "mirror",
-          "updated_at": "2026-09-29T10:08:05.196840+00:00",
-          "url": "https://grozaetwduezqtgwj.global.ssl.fastly.net"
-        }
-      ],
+      "available_alternatives": [],
       "main_domain": "groza.media"
     },
     {
