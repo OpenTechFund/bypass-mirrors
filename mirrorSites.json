@@ -482,11 +482,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-05-19T18:49:02.733847+00:00",
+          "created_at": "2026-10-15T04:51:02.602409+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-05-19T18:47:07.610151+00:00",
-          "url": "https://d17mylof63clo.cloudfront.net"
+          "updated_at": "2026-09-19T16:13:04.988006+00:00",
+          "url": "https://istorepgkauaesnif.global.ssl.fastly.net"
         }
       ],
       "main_domain": "istories.media"
