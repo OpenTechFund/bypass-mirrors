@@ -670,11 +670,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-11T08:22:03.099724+00:00",
+          "created_at": "2026-10-16T11:49:02.641325+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-10T19:58:05.751050+00:00",
-          "url": "https://akamahscwzlvanzng.global.ssl.fastly.net"
+          "updated_at": "2026-10-15T23:59:05.557797+00:00",
+          "url": "https://akamarkpzltwqsywm.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-audio-ns.akamaized.net"
