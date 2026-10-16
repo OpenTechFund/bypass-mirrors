@@ -1679,11 +1679,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-10T23:02:02.779709+00:00",
+          "created_at": "2026-10-16T04:57:03.228165+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-10T10:20:05.706696+00:00",
-          "url": "https://grozaprgurqkqkqam.global.ssl.fastly.net"
+          "updated_at": "2026-10-16T00:01:05.549453+00:00",
+          "url": "https://grozavddxxveggrvs.global.ssl.fastly.net"
         }
       ],
       "main_domain": "groza.media"
