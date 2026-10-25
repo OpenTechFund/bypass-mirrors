@@ -1558,6 +1558,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:09:15.371408+00:00",
           "url": "https://www.ekhokav6me4twrbhnvnco45h44xla6v4ex7t7btdr645x7lxojpvf5ad.onion"
+        },
+        {
+          "created_at": "2026-10-25T08:43:02.251269+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-10-25T08:43:02.251273+00:00",
+          "url": "https://ekhokijplryamlrga-frg4fkaadydqb6be.z02.azurefd.net"
         }
       ],
       "main_domain": "ekhokavkaza.com"
