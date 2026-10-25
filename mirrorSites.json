@@ -451,11 +451,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-20T03:59:02.019171+00:00",
+          "created_at": "2026-10-25T06:51:02.820205+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-19T17:37:04.760069+00:00",
-          "url": "https://bbcijglsybjaxuki.global.ssl.fastly.net"
+          "updated_at": "2026-10-24T20:37:05.691458+00:00",
+          "url": "https://bbcifhvudjacbdhz.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ichef.bbci.co.uk"
