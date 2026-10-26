@@ -377,11 +377,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-20T21:59:02.734700+00:00",
+          "created_at": "2026-10-26T00:25:03.372043+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-20T20:19:04.827969+00:00",
-          "url": "https://martitofpfbmegoaz.global.ssl.fastly.net"
+          "updated_at": "2026-10-25T23:11:04.448630+00:00",
+          "url": "https://martibbfivpdpyzfp.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.martinoticias.com"
