@@ -1370,6 +1370,13 @@
           "type": "eotk",
           "updated_at": "2022-03-10 14:13:31.502648+00:00",
           "url": "https://www.azattykniqsficisrmyoqv3orh77t3qgj364y4tl6zrdjgjptzev2kyd.onion"
+        },
+        {
+          "created_at": "2026-10-29T14:05:02.307567+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-08-24T09:18:03.708500+00:00",
+          "url": "https://azattaoltfjeqqyil-dtgacxacd8bmfad5.z02.azurefd.net"
         }
       ],
       "main_domain": "azattyk.org"
