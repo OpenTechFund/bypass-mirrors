@@ -53,11 +53,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-25T05:07:03.073316+00:00",
+          "created_at": "2026-10-30T07:11:02.673406+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-20T12:07:04.050825+00:00",
-          "url": "https://websirjhlvvntfimt.global.ssl.fastly.net"
+          "updated_at": "2026-10-25T15:11:04.801151+00:00",
+          "url": "https://websizjepkuldpbsa.global.ssl.fastly.net"
         }
       ],
       "main_domain": "assets-global.website-files.com"
