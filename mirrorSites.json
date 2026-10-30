@@ -830,11 +830,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-25T01:05:02.400786+00:00",
+          "created_at": "2026-10-30T04:19:02.324361+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-20T03:41:04.967655+00:00",
-          "url": "https://akamaeeshmmldrehu.global.ssl.fastly.net"
+          "updated_at": "2026-10-25T05:07:05.497166+00:00",
+          "url": "https://akamaycfqxrfojtch.global.ssl.fastly.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
