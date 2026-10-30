@@ -873,11 +873,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-25T14:29:02.845403+00:00",
+          "created_at": "2026-10-30T16:55:02.817850+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-24T17:21:05.128272+00:00",
-          "url": "https://akamawagxdcphcopv-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-10-29T18:43:05.707997+00:00",
+          "url": "https://akamartwtlblpdqpj.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-hls-ns.akamaized.net"
