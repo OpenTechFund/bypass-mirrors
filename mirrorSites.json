@@ -706,11 +706,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-25T15:21:03.495820+00:00",
+          "created_at": "2026-10-30T18:59:03.641342+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-25T10:35:05.936809+00:00",
-          "url": "https://akamalltpoxthhnhi.global.ssl.fastly.net"
+          "updated_at": "2026-10-30T18:43:06.071409+00:00",
+          "url": "https://akamaqufrtozgklrq.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
