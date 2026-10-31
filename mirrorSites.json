@@ -904,11 +904,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-26T13:37:02.984798+00:00",
+          "created_at": "2026-10-31T15:55:02.704215+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-25T11:43:05.115102+00:00",
-          "url": "https://akamapfltjajwgjzx-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-10-30T15:27:05.625016+00:00",
+          "url": "https://akamabnbjayfidthb.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
