@@ -427,11 +427,11 @@
           "url": "https://gdb.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2026-10-26T00:15:02.928793+00:00",
+          "created_at": "2026-10-31T03:21:02.955952+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-24T23:01:04.594110+00:00",
-          "url": "https://votvokwxaeygkfocj-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-10-30T02:17:04.704709+00:00",
+          "url": "https://votvogdmsoafztlsi.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.votvot.tv"
