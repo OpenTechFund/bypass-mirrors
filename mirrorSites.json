@@ -842,11 +842,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-10-30T18:51:03.151564+00:00",
+          "created_at": "2026-11-04T21:05:02.888711+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-10-30T04:39:05.651182+00:00",
-          "url": "https://akamanvnnoaegtjos.global.ssl.fastly.net"
+          "updated_at": "2026-11-04T06:09:05.271339+00:00",
+          "url": "https://akamapnxhlfpfiikv.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
