@@ -277,11 +277,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-05T07:41:02.585637+00:00",
+          "created_at": "2026-11-10T09:33:02.277934+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-04T16:55:05.729764+00:00",
-          "url": "https://akamazbdvxpnodnys.global.ssl.fastly.net"
+          "updated_at": "2026-11-09T19:47:05.530693+00:00",
+          "url": "https://akamayggaarqdpfyr.global.ssl.fastly.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
