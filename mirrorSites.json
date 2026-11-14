@@ -927,11 +927,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-11-09T04:39:02.293614+00:00",
+          "created_at": "2026-11-14T09:37:02.858891+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-05T10:31:05.476170+00:00",
-          "url": "https://rferloikxgzoimwto.global.ssl.fastly.net"
+          "updated_at": "2026-11-10T11:43:05.776310+00:00",
+          "url": "https://rferlavlgysmkwykm.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
