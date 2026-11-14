@@ -439,11 +439,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-08T23:47:02.620568+00:00",
+          "created_at": "2026-11-14T03:19:01.872769+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-04T12:43:05.461156+00:00",
-          "url": "https://dwasuvmzwdrxyq.global.ssl.fastly.net"
+          "updated_at": "2026-11-09T14:59:04.676640+00:00",
+          "url": "https://dwoxgtepdbcyyj.global.ssl.fastly.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
