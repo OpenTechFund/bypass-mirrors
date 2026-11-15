@@ -908,11 +908,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-10T19:23:02.891884+00:00",
+          "created_at": "2026-11-15T22:11:02.829381+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-09T18:43:05.403969+00:00",
-          "url": "https://akamauvwieovrgrok.global.ssl.fastly.net"
+          "updated_at": "2026-11-14T22:47:05.629515+00:00",
+          "url": "https://akamauutlyiljylaq.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
