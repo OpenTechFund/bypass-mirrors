@@ -396,11 +396,11 @@
           "url": "https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-11-13T17:33:02.938687+00:00",
+          "created_at": "2026-11-18T18:45:02.688927+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-13T11:43:04.680596+00:00",
-          "url": "https://rferlrtrexukwsvab-qwfm6ov4uq-ey.a.run.app"
+          "updated_at": "2026-11-18T14:43:04.653114+00:00",
+          "url": "https://rferldxdtshgpsmad.global.ssl.fastly.net"
         }
       ],
       "main_domain": "gdb.rferl.org"
