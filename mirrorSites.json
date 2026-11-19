@@ -439,11 +439,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-14T03:19:01.872769+00:00",
+          "created_at": "2026-11-19T04:11:02.323385+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-09T14:59:04.676640+00:00",
-          "url": "https://dwoxgtepdbcyyj.global.ssl.fastly.net"
+          "updated_at": "2026-11-14T17:27:04.825828+00:00",
+          "url": "https://dwovjjhcccdusn.global.ssl.fastly.net"
         }
       ],
       "main_domain": "hlsvod.dw.com"
@@ -2657,11 +2657,11 @@
           "url": "https://www.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion"
         },
         {
-          "created_at": "2026-11-19T01:15:01.797697+00:00",
+          "created_at": "2026-11-19T04:15:02.586837+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-19T01:13:03.363128+00:00",
-          "url": "https://votvopacvxcobmitb.global.ssl.fastly.net"
+          "updated_at": "2026-11-19T01:15:03.451433+00:00",
+          "url": "https://votvohmartjydoaos.global.ssl.fastly.net"
         }
       ],
       "main_domain": "votvot.tv"
