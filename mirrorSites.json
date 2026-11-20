@@ -912,11 +912,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-15T22:11:02.829381+00:00",
+          "created_at": "2026-11-20T23:45:02.444722+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-14T22:47:05.629515+00:00",
-          "url": "https://akamauutlyiljylaq.global.ssl.fastly.net"
+          "updated_at": "2026-11-20T03:03:05.863899+00:00",
+          "url": "https://akamaaqyozflmfsuj.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-video-ns.akamaized.net"
