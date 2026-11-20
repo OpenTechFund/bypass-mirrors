@@ -215,11 +215,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-15T21:53:03.206471+00:00",
+          "created_at": "2026-11-20T22:31:03.660280+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-10T18:01:03.943768+00:00",
-          "url": "https://kaltujgrsupwfhmiu.global.ssl.fastly.net"
+          "updated_at": "2026-11-15T21:53:04.116435+00:00",
+          "url": "https://kaltufpzdrnohmqcc.global.ssl.fastly.net"
         }
       ],
       "main_domain": "corp.kaltura.com"
