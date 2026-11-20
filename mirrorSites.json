@@ -710,11 +710,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-15T02:33:03.089368+00:00",
+          "created_at": "2026-11-20T04:09:03.628415+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-14T23:45:05.859027+00:00",
-          "url": "https://akamagswzpwmqnfvm.global.ssl.fastly.net"
+          "updated_at": "2026-11-20T01:21:05.553972+00:00",
+          "url": "https://akamaxbeescsdaizs.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls-ns.akamaized.net"
