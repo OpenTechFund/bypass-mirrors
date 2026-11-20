@@ -1031,11 +1031,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-15T08:21:02.161369+00:00",
+          "created_at": "2026-11-20T09:31:01.817020+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-14T06:41:05.850149+00:00",
-          "url": "https://dwxmjpfkqqxcwo.global.ssl.fastly.net"
+          "updated_at": "2026-11-19T10:35:04.847396+00:00",
+          "url": "https://dwdrdsylcdpfgj.global.ssl.fastly.net"
         }
       ],
       "main_domain": "static.dw.com"
