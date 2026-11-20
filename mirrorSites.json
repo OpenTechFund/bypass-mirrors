@@ -698,11 +698,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-15T00:15:03.409985+00:00",
+          "created_at": "2026-11-20T06:19:03.005557+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-14T21:41:04.592750+00:00",
-          "url": "https://martifymiqpqatleg.global.ssl.fastly.net"
+          "updated_at": "2026-11-20T05:51:04.590189+00:00",
+          "url": "https://martiuwsvdunhtmyx.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
@@ -850,11 +850,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-15T02:21:02.465465+00:00",
+          "created_at": "2026-11-20T06:11:02.689670+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-14T11:21:05.890713+00:00",
-          "url": "https://akamakenldannjikr.global.ssl.fastly.net"
+          "updated_at": "2026-11-19T16:05:05.233126+00:00",
+          "url": "https://akamabmpyfsntxnkr.global.ssl.fastly.net"
         }
       ],
       "main_domain": "rfe-audio-ns.akamaized.net"
