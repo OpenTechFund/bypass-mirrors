@@ -2068,6 +2068,13 @@
           "type": "eotk",
           "updated_at": "2022-09-13 17:53:43.166717+00:00",
           "url": "https://www.severr375roaznysslbu4joiu2snztzwucsm46gghi34xglhh5w4cmyd.onion"
+        },
+        {
+          "created_at": "2026-11-21T00:15:02.167412+00:00",
+          "proto": "https",
+          "type": "mirror",
+          "updated_at": "2026-08-24T09:18:03.683638+00:00",
+          "url": "https://severbvuaawsiyhmf-cpaddxdnbkfhcyfb.z02.azurefd.net"
         }
       ],
       "main_domain": "severreal.org"
