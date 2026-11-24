@@ -931,11 +931,11 @@
           "url": "https://rfe-video.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-11-19T11:43:02.628854+00:00",
+          "created_at": "2026-11-24T15:03:02.556547+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-15T12:27:05.447754+00:00",
-          "url": "https://rferllnkggqxnzqwx.global.ssl.fastly.net"
+          "updated_at": "2026-11-20T15:11:05.353650+00:00",
+          "url": "https://rferlvhrhttxzhgaf-qwfm6ov4uq-ey.a.run.app"
         }
       ],
       "main_domain": "rfe-video.rferl.org"
