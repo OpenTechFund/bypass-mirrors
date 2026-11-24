@@ -838,11 +838,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-19T14:03:02.500207+00:00",
+          "created_at": "2026-11-24T16:29:02.268522+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-14T12:53:05.115954+00:00",
-          "url": "https://akamayqxlucqivkjy.global.ssl.fastly.net"
+          "updated_at": "2026-11-24T16:25:05.393004+00:00",
+          "url": "https://akamaoxjyevrlobqz.global.ssl.fastly.net"
         }
       ],
       "main_domain": "radiodownloaddw-a.akamaihd.net"
