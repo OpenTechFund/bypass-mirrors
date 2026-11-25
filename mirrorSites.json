@@ -253,11 +253,11 @@
           "url": "https://docs.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion"
         },
         {
-          "created_at": "2026-11-20T11:15:02.416577+00:00",
+          "created_at": "2026-11-25T13:07:02.208755+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-20T04:23:04.906664+00:00",
-          "url": "https://rferlzlldthpuhxfg.global.ssl.fastly.net"
+          "updated_at": "2026-11-25T07:07:04.849811+00:00",
+          "url": "https://rferlqrvmtqlyyebs.global.ssl.fastly.net"
         }
       ],
       "main_domain": "docs.rferl.org"
