@@ -698,11 +698,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-20T06:19:03.005557+00:00",
+          "created_at": "2026-11-25T07:23:03.594982+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-20T05:51:04.590189+00:00",
-          "url": "https://martiuwsvdunhtmyx.global.ssl.fastly.net"
+          "updated_at": "2026-11-25T06:13:05.117171+00:00",
+          "url": "https://martitvswepcsxnhz.global.ssl.fastly.net"
         }
       ],
       "main_domain": "ocb-video-hls.martinoticias.org"
