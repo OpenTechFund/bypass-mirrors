@@ -277,11 +277,11 @@
     {
       "available_alternatives": [
         {
-          "created_at": "2026-11-20T16:17:02.323187+00:00",
+          "created_at": "2026-11-25T20:45:02.653504+00:00",
           "proto": "https",
           "type": "mirror",
-          "updated_at": "2026-11-19T23:49:06.157963+00:00",
-          "url": "https://akamatbadluwyrzbl.global.ssl.fastly.net"
+          "updated_at": "2026-11-25T01:17:05.852904+00:00",
+          "url": "https://akamakiwugppmdfdi.global.ssl.fastly.net"
         }
       ],
       "main_domain": "dwvod-pckgr.akamaized.net"
